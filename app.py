@@ -20,9 +20,10 @@ def home(ip=None):
 @app.route("/api", methods=['GET'])
 def api():
     """Return a message from query."""
-    text = request.args.get('query', '')
-    
-    return json.dumps({'answer': handle_query(text)})
+    text = request.args.get('question', '')
+    print text
+
+    return json.dumps({'answer': text})
 
 
 def handle_query(text):

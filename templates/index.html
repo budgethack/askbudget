@@ -2,11 +2,39 @@
 {% block title %}Home{% endblock %}
 {% block content %}
     <!Home content goes here!>
-        {% if city %}    
-            <h4>Your postcode: {{ postcode }}</h4>
-            <h4>Your city: {{ city }}</h4>
-        {% else %}
+    <div>
+        <form>
+            <input type="text" name="question" id="question" placeholder="Whats up...">
+            <h2 id="answer"></h2>
+        </form>    
+    </div>    
+        
+    {% if city %}    
+        <h4>Your postcode: {{ postcode }}</h4>
+        <h4>Your city: {{ city }}</h4>
+    {% else %}
             
-        {% endif %}
-       
+    {% endif %}
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+    <script>
+            $("#question").keydown(function(event){
+                if(event.keyCode == 13) {
+                    event.preventDefault();
+                
+                    var question = $("#question");
+                    console.log(question)
+                
+                $.ajax({
+                    dataType: "json",
+                    url: "api",
+                    data: question,
+                    success: function(result){
+                        console.log(result);
+                        $("#answer").html("Answer:" + result.answer);
+                }});
+                }
+            });
+    </script>
+
 {% endblock %}
