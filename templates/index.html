@@ -1,0 +1,12 @@
+{% extends "layout.html" %}
+{% block title %}Home{% endblock %}
+{% block content %}
+    <!Home content goes here!>
+        {% if city %}    
+            <h4>Your postcode: {{ postcode }}</h4>
+            <h4>Your city: {{ city }}</h4>
+        {% else %}
+            
+        {% endif %}
+       
+{% endblock %}
