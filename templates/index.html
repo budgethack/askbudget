@@ -8,7 +8,12 @@
             <h2 id="answer"></h2>
         </form>    
     </div>    
-        
+    <ul>
+        {% for question in prev_question %}
+        <li>{{ question[0] }}</li>
+        {% endfor %}
+    </ul>
+
     {% if city %}    
         <h4>Your postcode: {{ postcode }}</h4>
         <h4>Your city: {{ city }}</h4>

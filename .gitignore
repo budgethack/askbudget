@@ -1,3 +1,5 @@
+*.pyc
 .env
 private.py
 private.pyc
+askbudget_db
