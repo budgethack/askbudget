@@ -1,45 +1,56 @@
-{% extends "layout.html" %}
-{% block title %}Home{% endblock %}
-{% block content %}
-    <!Home content goes here!>
-    <div>
-        <form>
-            <input type="text" name="question" id="question" placeholder="Whats up...">
-            <h2 id="answer"></h2>
-        </form>    
-    </div>    
-    <ul>
-        {% for question in prev_question %}
-        <li>{{ question[0] }}</li>
-        {% endfor %}
-    </ul>
-
-    {% if city %}    
-        <h4>Your postcode: {{ postcode }}</h4>
-        <h4>Your city: {{ city }}</h4>
-    {% else %}
-            
-    {% endif %}
-
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
-    <script>
-            $("#question").keydown(function(event){
-                if(event.keyCode == 13) {
-                    event.preventDefault();
-                
-                    var question = $("#question");
-                    console.log(question)
-                
-                $.ajax({
-                    dataType: "json",
-                    url: "api",
-                    data: question,
-                    success: function(result){
-                        console.log(result);
-                        $("#answer").html("Answer:" + result.answer);
-                }});
-                }
-            });
-    </script>
-
-{% endblock %}
+<!doctype html>
+<html lang="en">
+<head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="description" content="Ask Budget">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        
+        <!-- load bootstrap via CDN -->
+        <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" />
+        
+        <!-- load angular via CDN -->
+        <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.2/angular.min.js"></script>
+        
+        <!-- load local js -->
+        <script src="/static/js/app.js"></script>
+    
+    </head>
+    <body>
+    {% raw %}
+    <div ng-app="search">
+    <!-- Header -->
+    <header>
+        <nav class="navbar navbar-default">
+	    <div class="container">
+		<div class="navbar-header">
+	            <a class="navbar-brand" href="/">Ask-Budget</a>
+		</div>
+	    </div>
+	</nav>
+    </header>
+    <!-- Body -->
+        <div class="container">
+            <div ng-controller="queryListCtrl">            
+                <div class="row">
+                    <div class="col-md-8 col-md-offset-2">
+                        <form ng-submit="submit()">
+                            <input type="text" ng-model="question" name="text" placeholder="Whats up..."/>
+                        </form>
+                    </div>
+                </div>  
+                <div class="row">
+                    <table class="table" id="searchTextResults">
+                      <tr><th>Answer</th><th>Date</th></tr>
+                      <tr ng-repeat="answer in answers |question">
+                        <td>{{answer.post}}</td>
+                        <td>{{answer.datetime}}</td>
+                      </tr>
+                    </table>
+                </div>
+            </div>            
+	</div>
+    </div>
+    {% endraw %}
+</body>
+</html>
