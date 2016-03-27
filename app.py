@@ -31,6 +31,8 @@ def home():
 @app.route("/api/question", methods=['GET'])
 def question():
     text = request.args.get('question', '')
+    
+
     print "text: " + text
 
     return json.dumps({'answer': text})
