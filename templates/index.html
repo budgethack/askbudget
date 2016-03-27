@@ -29,19 +29,31 @@
         <!-- Body -->
         <div id="question_container">
             <form ng-submit="submit()">
-                <input type="text" ng-model="question" name="text" placeholder="Whats up..." id="question_input"/>
+                <input type="text" ng-model="question" name="text" placeholder="I WANT TO KNOW ABOUT ....." id="question_input"/>
                 <input type="image"  src="/static/img/SearchButton.png" width="25px" id="question_img"/>
             </form>
-        </div>  
-    
-        <div id="answer_container">
-            <p>{{ answers }}</p>
         </div>
 
-        <div id="previous_question_container" data-ng-init="init()">
-            <ul>asd: {{ prev_question }}</ul>
+        
+        <div ng-show="top_mention_count" id="answer_container">
+            <h1>HERE'S SOME INFO</h1>
+            <h3>{{ top_mention_count }} MENTIONS</h3>
+            <ul ng-repeat="data in top_mentions_doc" id="mention_list">
+                <li><a href="{{ data.link }}">{{ data.text }}</a></li>
+            </ul>
+            
+            <h3>RELEVANT THINGS</h3>
+            <ul ng-repeat="data in related_keywords" id="related_keyword_list">
+                <li>{{ data.text }}</li>
+            </ul>
+
+            <h3>RELATED SPEND</h3>
+            <ul ng-repeat="data in related_spends" id="related_spend_list">
+                <li><a href="{{ data.link }}">{{ data.text }}</a></li>
+            </ul>
+
         </div>
-    
+
     </div>
 {% endraw %}
 </body>
