@@ -23,25 +23,16 @@ def teardown_request(excpection):
 
 
 @app.route("/")
-def home(ip=None):
-    ip_lookup = pyipinfodb.IPInfo(private.IP_INFO_TOKEN)
-    response = ip_lookup.get_city()
-    postcode = response['zipCode']
-    city = response['cityName']
-    
-    prev_question = g.db.execute("SELECT question FROM question").fetchall()
+def home():
 
-    return render_template('index.html', postcode=postcode, city=city, prev_question=prev_question)
+    return render_template('index.html')
 
 
-@app.route("/api", methods=['GET'])
-def api():
-    """Return a message from query."""
+@app.route("/api/question", methods=['GET'])
+def question():
     text = request.args.get('question', '')
-    
-    g.db.execute("INSERT INTO question (question) VALUES (?)", [text]);
-    g.db.commit()
-    
+    print "text: " + text
+
     return json.dumps({'answer': text})
 
 
