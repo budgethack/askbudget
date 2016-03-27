@@ -42,7 +42,50 @@ DOCS = [
 
 if __name__ == '__main__':
     es = Elasticsearch()
-    es.indices.delete('budgethack')
+    es.indices.create('budgethack', body={
+        'mappings': {
+            'doc': {
+                'properties': {
+                    'concepts': {
+                        'properties': {
+                            'text': {
+                                'type': 'string',
+                                'index': 'not_analyzed'
+                            }
+                        }
+                    },
+                    'keywords': {
+                        'properties': {
+                            'text': {
+                                'type': 'string',
+                                'index': 'not_analyzed'
+                            }
+                        }
+                    },
+                    'taxonomy': {
+                        'properties': {
+                            'text': {
+                                'type': 'string',
+                                'index': 'not_analyzed'
+                            }
+                        }
+                    },
+                    'entities': {
+                        'properties': {
+                            'text': {
+                                'type': 'string',
+                                'index': 'not_analyzed'
+                            },
+                            'type': {
+                                'type': 'string',
+                                'index': 'not_analyzed'
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    })
 
     document_conversion = DocumentConversionV1(
         username=private.DOC_CONVERSION_USERNAME,
@@ -62,6 +105,6 @@ if __name__ == '__main__':
                 text = answer['content'][0]['text'].replace(u'\xa0', u' ')
                 section_type = answer['type']
                 es.index(body=dict(
-                    doc_url=doc.url,
+                    doc_url=doc.url, doc_name=doc.name,
                     title=title, text=text, section_type=section_type),
-                    index='budgethack', doc_type=doc.name)
+                    index='budgethack', doc_type='doc')
