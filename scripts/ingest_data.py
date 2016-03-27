@@ -14,11 +14,11 @@ DATASET_DIR = 'datasets'
 
 DOCS = [
     BudgetDocument(
-        name='BudgetOverview',
+        name='Budget Overview',
         path='datasets/2015-16/BudgetOverview.pdf',
         url='http://www.dtf.vic.gov.au/files/7e68011b-a770-4d23-bf61-a48200c2de10/BudgetOverview.pdf'),  # noqa
     BudgetDocument(
-        name="TreasurersSpeech",
+        name="Treasurer's Speech",
         path='datasets/2015-16/BP1-2015-16.pdf',
         url='http://www.dtf.vic.gov.au/files/a1ddaa97-9692-426c-aff6-a48200c2d9d9/BP1-2015-16.pdf'),  # noqa
     BudgetDocument(
@@ -46,6 +46,10 @@ if __name__ == '__main__':
         'mappings': {
             'doc': {
                 'properties': {
+                    'doc_name': {
+                        'type': 'string',
+                        'index': 'not_analyzed'
+                    },
                     'concepts': {
                         'properties': {
                             'text': {
