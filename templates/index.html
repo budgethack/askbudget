@@ -17,36 +17,32 @@
 </head>
 
 <body>
-{% raw %}
-<div ng-app="search">
-    
+    {% raw %}
+    <div ng-app="search">
         <div ng-controller="queryListCtrl">            
-    <!-- Header -->
-    <header>
-        <nav class="navbar navbar-default" id="nav">
-            
-        </nav>
-    </header>
+        <!-- Header -->
+        <header>
+            <nav class="navbar navbar-default" id="nav">
+            </nav>
+        </header>
    
-    <!-- Body -->
-    <div id="question_container">
+        <!-- Body -->
+        <div id="question_container">
             <form ng-submit="submit()">
-                    <input type="text" ng-model="question" name="text" placeholder="Whats up..." id="question_input"/>
-                    <input type="image"  src="/static/img/SearchButton.png" width="25px" id="question_img"/>
+                <input type="text" ng-model="question" name="text" placeholder="Whats up..." id="question_input"/>
+                <input type="image"  src="/static/img/SearchButton.png" width="25px" id="question_img"/>
             </form>
-    </div>  
+        </div>  
     
-    <div id="answer_container">
-        <table class="table" id="searchTextResults">
-                <p></p>
-                <ul>
-                    <li>{{ answers }}</li>
-                </ul>
-        </table>
-    </div>
-    
-</div>
-{% endraw %}
+        <div id="answer_container">
+            <p>{{ answers }}</p>
+        </div>
 
+        <div id="previous_question_container" data-ng-init="init()">
+            <ul>asd: {{ prev_question }}</ul>
+        </div>
+    
+    </div>
+{% endraw %}
 </body>
 </html>

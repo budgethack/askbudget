@@ -28,20 +28,29 @@ def home():
     return render_template('index.html')
 
 
-@app.route("/api/question", methods=['GET'])
-def question():
+@app.route("/api/post_question", methods=['POST'])
+def post_question():
     text = request.args.get('question', '')
     
+    answer = handle_question(text)
+    
+    print answer
 
-    print "text: " + text
-
-    return json.dumps({'answer': text})
+    return json.dumps({'answer': answer})
 
 
-def handle_query(text):
-    answer = text
+def handle_question(text):
+    answer = "Health budget answer."
 
     return answer
+
+
+@app.route("/api/get_question", methods=['POST'])
+def get_question():
+    #prev_question = g.dv.execute("SELECT question FROM question").fetchall()
+    prev_question = "hello"
+
+    return json.dumps({'prev_question': prev_question})
 
 
 if __name__ == "__main__":
