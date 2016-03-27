@@ -46,6 +46,7 @@ def handle_question(text):
     top_link = "top link"
     rel_text = "related text"
     rel_link = "related link"
+    related_keyword_text = "related_keyword_text"
 
     answer = {
             "top_mentions":{
@@ -53,25 +54,17 @@ def handle_question(text):
                 "documents":[{
                     "text": top_text,
                     "link": top_link
-                },
-                {
-                    "text": "top text 2",
-                    "link": "top link 2"
                 }]
             },
             "related_spend":{
                 "documents":[{
                     "text": rel_text,
                     "link": rel_link,
-                },
-                {
-                    "text": "text",
-                    "link": "link"
                 }]
             },
             "related_keyword":{
                 "keyword": [{
-                    "text": "related keyword!"
+                    "text": related_keyword_text,
                 }]
             }
         }
