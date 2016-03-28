@@ -1,28 +1,19 @@
 (function(angular) {
 angular.module('search', [])
     .controller('queryListCtrl', ['$scope','$filter', '$http', function($scope, $filter, $http) {
-        
         $scope.question = '';
+        $scope.top_mentions;
+        $scope.related_things;
      
         $scope.submit = function() {
             $http.post( 
-                'api/post_question',
-                { data: {"question":$scope.question }}
+                'api/post_question', {
+                  'question': $scope.question
+                }
             ).then(function successCallback(response) {
                 /* top mentions */
-                $scope.top_mention_count = response.data.answer.top_mentions.count;
-                
-                $scope.top_mentions_doc = response.data.answer.top_mentions.documents;
-                
-                /* related spend */
-                $scope.related_spends = response.data.answer.related_spend.documents;
-                console.log("spend: " + $scope.related_spends);
-
-                /* related_keywords */
-                $scope.related_keywords = response.data.answer.related_keyword.keyword;
-                
-            }, function errorCallback(response) {
-            
+                $scope.top_mentions = response.data.answer.top_mentions;
+                $scope.related_things = response.data.answer.related_things;
             });
         };
 

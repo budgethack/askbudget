@@ -16,47 +16,44 @@
         <script src="/static/js/app.js"></script>    
 </head>
 
-<body>
-    {% raw %}
-    <div ng-app="search">
-        <div ng-controller="queryListCtrl">            
-        <!-- Header -->
-        <header>
-            <nav class="navbar navbar-default" id="nav">
-            </nav>
-        </header>
-   
-        <!-- Body -->
-        <div id="question_container">
-            <form ng-submit="submit()">
-                <input type="text" ng-model="question" name="text" placeholder="I WANT TO KNOW ABOUT ....." id="question_input"/>
-                <input type="image"  src="/static/img/SearchButton.png" width="25px" id="question_img"/>
-            </form>
-        </div>
+<body ng-app="search">
+  {% raw %}
+  <div ng-controller="queryListCtrl">            
+    <!-- Header -->
+    <header>
+        <nav class="navbar navbar-default" id="nav">
+        </nav>
+    </header>
 
-        
-        <div ng-show="top_mention_count" id="answer_container">
-            <h1>HERE'S SOME INFO</h1>
-            <h3>{{ top_mention_count }} MENTIONS</h3>
-            <ul ng-repeat="data in top_mentions_doc" id="mention_list">
-                <li><a href="{{ data.link }}">{{ data.text }}</a></li>
-            </ul>
-            
-            <h3>RELEVANT THINGS</h3>
-            <ul ng-repeat="data in related_keywords" id="related_keyword_list">
-                <li>{{ data.text }}</li>
-            </ul>
-
-            <h3>RELATED SPEND</h3>
-            <ul ng-repeat="data in related_spends" id="related_spend_list">
-                <li><a href="{{ data.link }}">{{ data.text }}</a></li>
-            </ul>
-            
-            <h3>SENTIMENT METRE</h3>
-
-        </div>
-
+    <!-- Body -->
+    <div id="question_container">
+        <form ng-submit="submit()">
+            <input type="text" ng-model="question" name="text" placeholder="I WANT TO KNOW ABOUT ....." id="question_input"/>
+            <input type="image"  src="/static/img/SearchButton.png" width="25px" id="question_img"/>
+        </form>
     </div>
+
+    <div id="answer_container">
+      <div ng-show="top_mentions">
+        <h3>Search term appears {{ top_mentions.count }} times in the budget.</h3>
+
+        <ul ng-repeat="doc in top_mentions.docs">
+          <li>{{ doc.name }} ({{ doc.count }} times)</li>
+        </ul>
+
+      </div>
+
+      <div ng-show="related_things">
+        <h3>Related keywords.</h3>
+
+        <ul ng-repeat="keyword in related_things.keywords">
+          <li>{{ keyword.name }} ({{ keyword.count }} times)</li>
+        </ul>
+
+      </div>
+    </div>
+
+  </div>
 {% endraw %}
 </body>
 </html>
