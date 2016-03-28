@@ -1,5 +1,7 @@
 from elasticsearch import Elasticsearch
 
+import private
+
 
 def handle_text(text):
     query = {
@@ -25,7 +27,7 @@ def handle_text(text):
             }
         }
     }
-    es = Elasticsearch()
+    es = Elasticsearch([private.ELASTICSEARCH_HOST])
     result = es.search(body=query, index='budgethack')
 
     output = {}
