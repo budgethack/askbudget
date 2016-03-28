@@ -1,0 +1,339 @@
+{
+    "source_document_id": "", 
+    "media_type_detected": "application/pdf", 
+    "timestamp": "2016-03-28T07:43:41.709Z", 
+    "warnings": [], 
+    "answer_units": [
+        {
+            "direction": "ltr", 
+            "title": "no-title", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "</head>"
+                }
+            ], 
+            "parent_id": "", 
+            "type": "body", 
+            "id": "fe6db319-1f89-4ccd-8122-a3e78da10240"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "For Families", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h1", 
+            "id": "e64c6a78-0f80-4f75-9e73-fb74ebe4219a"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Victorian Budget 15 I16", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Melbourne's suburbs are among the fastest growing in Australia, but hospitals, schools, roads and public transport in these suburban areas are struggling to keep up with the growth. We're building more projects and providing more services for families in growing areas, because they are the basic building blocks of our society, keeping families together and communities healthy. The Andrews Labor Government will rebuild and upgrade school buildings across the state and build new local schools and classrooms for kids in growing suburbs. Hospitals will be built and upgraded to reduce pressure on health services and emergency departments in the outer suburbs of Melbourne. We're getting on with the projects we need - transforming our public transport system and reducing congestion on busy local roads so people in the outer suburbs can get home safer and sooner. Interface Councils, serving and representing outer suburban areas, have identified the infrastructure projects their communities needed to sustain the growth of their local populations. The Budget provides $50 million as an initial contribution towards an Interface Councils Infrastructure Fund to help councils in growing outer suburban areas get proposed local projects off the ground."
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h1", 
+            "id": "b6fb8e41-dfb9-4f73-9ee8-dc1fba1d8078"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "School upgrades", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Children need to learn in classrooms that are safe, modern and comfortable, but too many school buildings in Victoria have passed their use by date, and they're holding our kids back. The Budget provides $207 million to renovate, refurbish and rebuild 46 schools in the suburbs. 19 other schools are funded for maintenance and planning projects. A further $10 million will provide works and equipment to support students with disabilities."
+                }
+            ], 
+            "parent_id": "7eddd816-3212-48aa-ac24-c36734909bdc", 
+            "type": "h3", 
+            "id": "37e31194-38bd-4572-8a64-de4ccc2a2b36"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Education", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "School upgrades Maintenance and planning New schools School projects PORT PHILLIP \uf034 Albany Rise Primary School \uf034 Amsleigh Park Primary School \uf034 Bayside College \uf034 Beaumaris High School \uf034 Bentleigh Secondary College \uf034 Berwick Fields Primary School \uf034 Bimbadeen Heights Primary School \uf034 Boronia Heights Primary School \uf034 Brunswick Secondary College \uf034 Carlton Primary School \uf034 Chandler Park Primary School \uf034 Cheltenham Secondary College \uf034 Clifton Hill Primary School \uf034 Cranbourne Secondary College \uf034 Dandenong High School \uf034 Elwood College \uf034 Emerald Secondary College \uf034 Essendon East Keilor District College \uf034 Frankston Primary School \uf034 Glen Eira College \uf034 Glen Waverley Primary School \uf034 Greensborough Secondary College \uf034 Hampton Park Primary School \uf034 Highvale Secondary College \uf034 Jells Park Primary School \uf034 Keysborough Secondary College \uf034 Lyndale Secondary College \uf034 McKinnon Secondary College \uf034 Melba Secondary College \uf034 Mill Park Heights Primary School \uf034 Monbulk College \uf034 Monterey Secondary College \uf034 Montmorency Secondary College \uf034 Moorooduc Primary School \uf034 Mooroolbark East Primary School \uf034 Mordialloc College \uf034 Mornington Primary School \uf034 Mullauna Secondary College \uf034 Mullum Primary School \uf034 Noble Park Secondary College \uf034 Northcote High School \uf034 Norwood Secondary College \uf034 Parkdale Primary School \uf034 Parkhill Primary School \uf034 Patterson River Secondary College \uf034 Preston High School \uf034 Ringwood Secondary College \uf034 Sandringham College \uf034 Seaford Park Primary School \uf034 South Yarra Primary School \uf034 Springvale Rise Primary School \uf034 St Helena Secondary College \uf034 Stonnington Primary School \uf034 Strathmore Primary School \uf034 Sunbury College \uf034 Sunshine College \uf034 The Basin Primary School \uf034 Viewbank College \uf034 Wallan Secondary College \uf034 Wattle Park Primary School \uf034 Werribee Secondary College \uf034 Westbreen Primary School \uf034 William Ruthven Secondary College \uf034 Williamstown High School \uf034 Yarra Junction Primary School"
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h1", 
+            "id": "29cc82d2-9c03-4a88-883e-e7b6c294851f"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Education", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h1", 
+            "id": "0a0b8b8a-1053-4502-945e-676203d8a9d4"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "New schools", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Andrews Labor Government will support the delivery of eight new schools to ease pressure on classrooms in growing suburban areas and give local families a real choice: \uf034 Albert Park College - Year 9 campus \uf034 Craigieburn North West Primary School \uf034 Footscray Learning Precinct (Footscray City Primary School, Footscray City College) \uf034 Hazel Glen College completion \uf034 Mernda Central 7-12 \uf034 Richmond High School \uf034 South Melbourne Park Primary School \uf034 Tarneit P-9 College completion A further $40 million will purchase land for new schools in more of Melbourne's fast-growing suburbs."
+                }
+            ], 
+            "parent_id": "0a0b8b8a-1053-4502-945e-676203d8a9d4", 
+            "type": "h3", 
+            "id": "7ca44e8e-4cd6-4f7c-a29f-a67704db00a3"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Tech Schools", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Secondary students also deserve a head start on a hands-on vocation - a chance to build the foundations of their career early while maintaining their enrolment at their local secondary school. The Budget provides $12 million for Tech Schools across the state, which will be open to students from Years 7 to 12 who will learn skills alongside a comprehensive secondary education. $4 million is allocated to the Wantirna KIOSC. The funding means planning can commence for Tech Schools in the following growing local government areas: \uf034Monash \uf034Casey \uf034Wyndham \uf034Banyule \uf034Yarra Ranges \uf034Whittlesea."
+                }
+            ], 
+            "parent_id": "0a0b8b8a-1053-4502-945e-676203d8a9d4", 
+            "type": "h3", 
+            "id": "ad3719e4-76bd-432e-bb32-82f4bd042277"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Education", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h1", 
+            "id": "7d693eb9-6c2f-471c-b583-1cd08cc9c196"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "TAFE", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Andrews Labor Government will bring our TAFE system back from the brink, so all kids have the chance to get a job, start a career and have a decent life. The Budget invests $300 million to complete the $320 million TAFE Rescue Fund for campuses across the state to reopen closed buildings, upgrade workshops and classrooms and get institutes back in the black. All Victorian TAFEs are eligible for support under the TAFE Rescue Fund, including: \uf034 Bendigo Kangan Institute (Broadmeadows, Docklands, Essendon, Moonee Ponds, Richmond) \uf034 Box Hill Institute \uf034 Chisholm Institute \uf034 Holmesglen Institute \uf034 Melbourne Polytechnic \uf034 RMIT University \uf034 Swinburne University of Technology \uf034 Victoria University \uf034 William Angliss Institute The $50 million TAFE Back To Work Fund will help campuses meet the needs of local employers, creating new training courses to give local students the skills they need for the jobs they want. Local Learning and Employment Networks, providing jobs and skills advice to people across Victoria, will receive $32 million to work with at-risk youth and get them back on track. Nothing is more important to families than the health and wellbeing of their loved ones, but hospitals in growing suburban areas are under serious pressure. The Andrews Labor Government is investing $2.1 billion in our health system, so families in suburban areas can get the care and peace of mind they deserve. Hospitals across the state will be built from the ground up or upgraded with more beds, theatres and the most up-to-date equipment."
+                }
+            ], 
+            "parent_id": "7d693eb9-6c2f-471c-b583-1cd08cc9c196", 
+            "type": "h3", 
+            "id": "e4b72a6e-ae2b-47b7-ba12-025b29bf0c16"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Upgraded hospitals", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Angliss Hospital The Budget provides $20 million for an intensive care unit and a short stay unit at the Angliss Hospital in Melbourne's outer east, reducing the distance families have to travel for health care. Casey Hospital Casey Hospital, in Melbourne's south-east, will be able to treat 12,000 more patients, conduct 8000 more surgeries and support 500 more births every year, with a $106.3 million  expansion. Werribee Mercy Hospital The Budget provides $85 million to expand the Werribee Mercy Hospital, delivering six extra operating theatres and 64 new inpatient beds in this fast-growing area of Melbourne."
+                }
+            ], 
+            "parent_id": "7d693eb9-6c2f-471c-b583-1cd08cc9c196", 
+            "type": "h3", 
+            "id": "d506518d-2ccc-4725-bfee-54292716894b"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Health", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": " "
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h1", 
+            "id": "52919dad-9c78-47ca-9b9c-a52d03edf17b"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "New hospitals", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Western Women's and Children's Hospital The Budget invests $200 million in a dedicated Western Women's and Children's Hospital, with 237 beds, 39 special care nursery cots and four theatres for families across the west. By 2026, the number of births at Sunshine Hospital is expected to exceed 7000 per year. The fastest growing area of Australia needs more services so no young family is left behind. Victorian Heart Hospital The Victorian Heart Hospital - a plan for Australia's first specialist heart hospital - is one step closer, with $15 million to progress planning and development. It will be built at Monash University in Clayton, treating cardiac diseases from early childhood to later life, undertaking ground-breaking research and training the next generation of heart specialists."
+                }
+            ], 
+            "parent_id": "52919dad-9c78-47ca-9b9c-a52d03edf17b", 
+            "type": "h3", 
+            "id": "a0c0b6f7-2d42-4968-8380-298552727cd5"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Firefighters", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Andrews Labor Government is investing $78 million for emergency services, giving firefighters the resources they need to protect families in the outer suburbs. Run down and threadbare CFA stations and amenities will be upgraded, with $11 million to give firefighters a safe and comfortable place to meet and train and help their units grow. New stations will be built in Plenty and Edithvale, and toilets and bathroom facilities will be installed at up to 100 CFA stations. The Budget also funds a $9.6 million program at integrated CFA stations across the outer suburbs that dispatches firefighters at the same time as paramedics, increasing survival chances for heart attack patients. The Budget includes funding to commence the recruitment of 450 additional career firefighters. In addition, a two-year support service is being provided for firefighters suffering from post traumatic stress disorder."
+                }
+            ], 
+            "parent_id": "52919dad-9c78-47ca-9b9c-a52d03edf17b", 
+            "type": "h3", 
+            "id": "f363f1b4-f7d9-4fe9-8327-d312d0ba9077"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Police", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Labor Government will put hundreds more police on our streets, investing  $226 million to keep our community safe and give families peace of mind. The Budget invests $148.6 million to recruit 400 custody officers to guard prisoners at 20 police stations across Victoria, allowing 400 police officers to return to the front line. A permanent police presence is coming to Melbourne's growing north, with $15 million to build a new police station in Mernda. To keep our roads safe and reduce the danger and use of ice, the Budget invests $15 million to provide Victoria Police with new booze and drug buses to improve road safety. The Andrews Labor Government is getting on with the projects our state needs, so we can get people home to their families safer and sooner. Projects funded in the Budget will transform our public transport system, increase services in the outer suburbs and reduce congestion on the busy local roads we use every day."
+                }
+            ], 
+            "parent_id": "d231348d-f843-4339-8784-a5b139484ec1", 
+            "type": "h3", 
+            "id": "16a6a9be-4716-44a8-a07e-0dabc0546674"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Removing level crossings", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Andrews Labor Government is removing 50 of our most dangerous and congested level crossings to save time and save lives. The Budget commits $5-$6 billion, including $2-$2.4 billion over four years, to implement this commitment. Removing level crossings: \uf034 Reduces congestion. Level crossings make up almost half of the RACV's traffic hotspots in Melbourne. Boom gates can stay down for up to 80 minutes over the morning peak. \uf034 Means more trains can run on every line. At present, the addition of services on major train lines would cause traffic chaos on surrounding streets. \uf034 Helps reduce the road toll. There were over 240 crashes at level crossings over the decade to 2013. That's not good enough in the road safety capital. \uf034 Grows our economy. The projects will create 4500 jobs, save tradespeople money and time and help businesses transport goods more efficiently."
+                }
+            ], 
+            "parent_id": "d231348d-f843-4339-8784-a5b139484ec1", 
+            "type": "h3", 
+            "id": "e8910e4f-898f-4cba-ab60-ae11407cdba4"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Melbourne Metro", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Andrews Labor Government will transform our public transport system by building Melbourne Metro - the biggest overhaul to the train network since the construction of the City Loop. It's the foundation for the future of public transport in Victoria. It's also the first step to extending the train network into outer suburban areas. The Budget commits $9-$11 billion to deliver the Melbourne Metro Rail Project, including $1.5 billion over the next four years to complete the planning, design and early works of the project and to commence major construction by 2018."
+                }
+            ], 
+            "parent_id": "8b9a5ec6-8e61-4964-875c-6e57fec2ecaf", 
+            "type": "h3", 
+            "id": "a9fa8160-9bfd-4bb7-a9f4-b1d95d979480"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Cranbourne-Pakenham rail corridor upgrade", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Cranbourne-Pakenham rail corridor is Melbourne's busiest. The Labor Government will ensure this rail line is transformed by: \uf034 Removing every level crossing between Caulfield and Dandenong \uf034 Purchasing 37 new high-capacity trains for the rail corridor \uf034 Increasing passenger capacity on the line by 42 per cent MCG Dande Ch ap el St Or ro ng R d RICHMOND CBD SOUTH YARRA Richmond Southern Cross Flinders St North Melbourne South Kensington Footscray Rd Pu nt R d Ho dd le St King St Queensberry St Victoria St Grattan St St Kilda Rd Domain Rd Commercial Rd Toorak Rd Spencer St Swanston St La Tro be St Ci tyL ink Ro ya l P de ARDEN DOMAIN CBD SOUTH CBD NORTH PARKVILLE Proposed underground rail Proposed underground station Existing Rail Existing stations Roads Melbourne Metro Rail"
+                }
+            ], 
+            "parent_id": "8b9a5ec6-8e61-4964-875c-6e57fec2ecaf", 
+            "type": "h3", 
+            "id": "166f9c5a-158b-44a8-8755-7b4012e071e0"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Mernda Rail Link", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Budget provides $9 million to get started on the much needed Mernda Rail Link this year for locals who want to catch a train, fast tracking planning and commencing land acquisition."
+                }
+            ], 
+            "parent_id": "8b9a5ec6-8e61-4964-875c-6e57fec2ecaf", 
+            "type": "h3", 
+            "id": "3cc490e9-6ee5-4076-9bf8-973610003f5e"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Homesafe", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Budget provides $50 million for a one year trial of 24-hour public transport services on Friday and Saturday nights - on every train line and on selected tram lines - to help shift workers and late night revellers get back home safely."
+                }
+            ], 
+            "parent_id": "8b9a5ec6-8e61-4964-875c-6e57fec2ecaf", 
+            "type": "h3", 
+            "id": "69350c53-b411-433d-8013-01173c1edee0"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Busy roads", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Busy local and arterial roads in Melbourne's outer suburbs haven't kept up with growth. The Budget invests $574 million to build or upgrade roads. The Western Ring Road is at breaking point, causing delays, hassle and congestion for motorists in Melbourne's west. More lanes are needed to help families in this fast-growing area. The Budget provides $150 million to undertake the next stage of the M80 Upgrade, to widen the road and install traffic management equipment from Sunshine Avenue to the EJ Whitten Bridge and to install saftely barriers on this bridge. The Budget also provides $110 million to duplicate the Chandler Highway Bridge over the Yarra and $90 million to fix key congestion points around Melbourne."
+                }
+            ], 
+            "parent_id": "8b9a5ec6-8e61-4964-875c-6e57fec2ecaf", 
+            "type": "h3", 
+            "id": "9b1d26a9-6a8d-4041-a1f1-472ec418867d"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Transport", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h1", 
+            "id": "1f84babe-d6d8-48f8-9206-a43edab7f228"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "West Gate Distributor", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The West Gate Distributor will take 5000 trucks a day off the West Gate Bridge, helping families and businesses travelling from Melbourne's outer west. The new road will take trucks directly into the Port of Melbourne from the West Gate Freeway, bypassing the West Gate Bridge, CityLink and inner-suburban residential streets. The Budget invests $40 million in the first stage of the West Gate Distributor project."
+                }
+            ], 
+            "parent_id": "1f84babe-d6d8-48f8-9206-a43edab7f228", 
+            "type": "h3", 
+            "id": "b18649b4-5067-441d-bd81-b902f040bc36"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Fast-tracked projects", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Budget provides funding to fast track planning and development work for the following road projects in the outer suburbs, so work can start as soon as possible: \uf034 Duplicating the dangerous and congested Yan Yean Road in Plenty \uf034 Duplicating Thompsons Road in Melbourne's south-east \uf034 Upgrading Bolton Street in Eltham, in Melbourne's outer north"
+                }
+            ], 
+            "parent_id": "1f84babe-d6d8-48f8-9206-a43edab7f228", 
+            "type": "h3", 
+            "id": "58a60f54-f678-4f6f-ab47-8f2453627f74"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "More buses, more routes", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Budget also provides $100 million to improve bus services by introducing new and expanded routes, restoring services and fixing missing links in growth areas. The Andrews Labor Government is getting on with the projects our state needs, addressing the problems identified by the interface councils serving outer suburban areas. The Budget provides $50 million as an initial contribution to an Interface Councils Infrastructure Fund to help councils in growing outer suburban areas get local projects off the ground."
+                }
+            ], 
+            "parent_id": "1f84babe-d6d8-48f8-9206-a43edab7f228", 
+            "type": "h3", 
+            "id": "e6310433-b3e4-4f18-a26c-65d3c8ea0b03"
+        }
+    ], 
+    "metadata": [
+        {
+            "content": "2015-05-01", 
+            "name": "publicationdate"
+        }
+    ]
+}

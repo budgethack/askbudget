@@ -1,0 +1,261 @@
+{
+    "source_document_id": "", 
+    "media_type_detected": "application/pdf", 
+    "timestamp": "2016-03-28T07:43:17.198Z", 
+    "warnings": [], 
+    "answer_units": [
+        {
+            "direction": "ltr", 
+            "title": "no-title", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "</head>"
+                }
+            ], 
+            "parent_id": "", 
+            "type": "body", 
+            "id": "eda233c2-9919-446b-88f9-90f913aecb7f"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "For Families", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h1", 
+            "id": "759f1d15-2988-4d34-8ee3-68c3acda7050"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Removing our worst level crossings", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Andrews Labor Government will remove 50 of our most dangerous and congested level crossings, to help end the traffic nightmare on local roads and get more trains on every line. Removing level crossings: \uf034 Reduces congestion. Level crossings make up almost half of the RACV's top 10 traffic hotspots in Melbourne. Boom gates can stay down for up to 80 minutes over the morning peak. \uf034 Means more trains can run on every line. At present, the addition of services on major train lines would cause traffic chaos on surrounding streets. \uf034 Helps reduce the road toll. There were over 240 crashes at level crossings over the decade to 2013. That's not good enough in the road safety capital. \uf034 Grows our economy. The projects will create 4500 jobs, save tradespeople money and time and help businesses transport goods more efficiently."
+                }
+            ], 
+            "parent_id": "5ee1f06a-52cf-4389-a2aa-5d3d8f8d040d", 
+            "type": "h3", 
+            "id": "f42df242-8f21-4c2a-b5b2-d7d3036d22f3"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Transport", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Budget commits $5-$6 billion , including $2-$2.4 billion over four years, to implement the Labor Government's commitments to remove 50 of our most dangerous and congested level crossings over eight years. The Level Crossing Removal Authority will deliver the project, prioritising and coordinating each removal and identifying opportunities for 'value capture' development in surrounding areas. Removing all nine level crossings between Dandenong and Caulfield on Melbourne's busiest train line is our priority, and a further four level crossing removal projects are already out to market. The Labor Government will also improve safety at 52 high-risk country level crossings and 25 high-risk rail pedestrian crossings in the regions - because the road toll touches our whole state."
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h1", 
+            "id": "e626cd84-62f5-4689-b2b4-e0e462618cc8"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Removing our 50 worst level crossings", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h1", 
+            "id": "846ee88f-ca5b-4719-bfa0-1bd38e9116a3"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Transforming our public transport system", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Melbourne Metro The Andrews Labor Government will transform our public transport system by building Melbourne Metro - the biggest overhaul to the train network since the construction of the City Loop. The Melbourne Metro Rail Project will build two 9 kilometre underground rail tunnels through the heart of Melbourne, stretching from South Kensington to South Yarra. The project will: \uf034 Bring our sluggish and crowded system into the new era \uf034 Relieve train congestion inside the City Loop \uf034 Create space for more trains across the network \uf034 Serve 20,000 extra passengers during peak times every day It's the foundation for the future of public transport in Victoria, building an underground metro with services so frequent and reliable that timetables will become redundant. Five new stations at Arden, Parkville, CBD North, CBD South and Domain will be used by 380,000 passengers every weekday and will relieve pressure on nearby stations and busy tram routes. The Budget commits $9-$11 billion to deliver the Melbourne Metro Rail Project, including $1.5 billion over four years to complete the planning, design and early works of the project and to commence major construction by 2018."
+                }
+            ], 
+            "parent_id": "846ee88f-ca5b-4719-bfa0-1bd38e9116a3", 
+            "type": "h3", 
+            "id": "81144e11-2821-4a43-810b-f5d2af6e947e"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Transport", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Mernda, in Melbourne's outer north, is one of Australia's fastest growing areas. Families in Mernda deserve better public transport. The Budget provides $9 million to develop and plan the Mernda Rail Link this year, so public transport becomes a real option for local parents, kids and older residents. The Andrews Labor Government will make Frankston Station a safe and modern place of business and community life, with new employers and a permanent police presence at the revived transport hub. $13 million for the new Frankston Station precinct will progress the Young Street improvement works and develop a business case for the redevelopment."
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h1", 
+            "id": "2e4ac7c6-51e9-46ce-a54c-d2d0f7c5bb35"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "More trains, trams and jobs", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Andrews Labor Government will invest in new trains and trams to cater for more passengers, and support local jobs in construction and maintenance. Public transport patronage is growing and Victoria's train and tram fleet is ageing. New and refurbished rolling stock will make commuting safer, more comfortable and less crowded. The Budget provides more than $600 million to build 20 new E-Class trams, build 21 new VLocity train carriages and refurbish the Comeng train fleet and B-Class trams. This investment will directly support jobs in rolling stock manufacturing and maintenance, and boost the entire supply chain. The Labor Government will aim for 50 per cent local content in all new orders. The Budget also provides $100 million to improve bus services by introducing new and expanded routes, restoring cut services and fixing missing links in growth areas."
+                }
+            ], 
+            "parent_id": "2e4ac7c6-51e9-46ce-a54c-d2d0f7c5bb35", 
+            "type": "h3", 
+            "id": "5b6af213-9770-433b-9a57-70b22982f918"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Transport", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Cranbourne-Pakenham rail corridor upgrade The Labor Government will transform Melbourne's busiest train line, removing every level crossing between Caulfield and Dandenong, upgrading signalling and providing 37 new high-capacity trains to run more services. This will mean the entire line has no road rail crossings from Dandenong to Melbourne's CBD. These projects will boost passenger capacity on the Cranbourne-Pakenham line by up to 42 per cent, accommodating an extra 11,000 passengers in the morning peak. A public private partnership will deliver the 37 next-generation high-capacity trains and build a new depot and maintenance facility in Pakenham. Services that make sense Families in our growing suburbs need dedicated bus services with smarter routes that integrate with the rail network. This makes the public transport system more reliable, practical and easier to use. The Budget provides $15 million for better integration of the bus and rail network, so families in growing suburbs can have practical transport services that make their lives easier. The Budget also provides $5.6 million for a new bus interchange and $2.6 million for improved car parking at Huntingdale Station."
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h1", 
+            "id": "1b98ba3c-0c9a-40ee-91cd-7afe4b9be38e"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Less time on busy roads", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Families need roads that are safe and efficient, and the Andrews Labor Government is upgrading the congested roads that Victorians use to get to work, get back home and get around their community. CityLink-Tulla widening The Budget will provide $272.8 million towards a project to widen CityLink and the Tullamarine Freeway, speeding up travel times to and from the airport for businesses and families. The $1.3 billion project will widen CityLink and the Tullamarine Freeway from the Burnley Tunnel to the Melbourne Airport. A Freeway Management System will also be introduced along the corridor. Chandler Highway The Budget provides $110 million to duplicate the Chandler Highway Bridge over the Yarra River, easing congestion for the thousands of motorists who use it daily. In 2014, the bridge was rated Melbourne's number one congestion point in the RACV's Red Spot Survey. This upgrade will eliminate the bottleneck so that motorists in Melbourne's east and north can get to work and home sooner. Western Ring Road The Western Ring Road is at breaking point, causing delays, hassle and congestion for motorists in Melbourne's west. More lanes are needed to help families in this fast-growing area. The Budget provides $150 million to undertake the next stage of the M80 Upgrade, to widen the road and install traffic management equipment from Sunshine Avenue to the EJ Whitten Bridge."
+                }
+            ], 
+            "parent_id": "1b98ba3c-0c9a-40ee-91cd-7afe4b9be38e", 
+            "type": "h3", 
+            "id": "75a82219-1f1c-41ad-ae2b-9948c24733c1"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Transport", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "West Gate Distributor The Budget invests $40 million in the West Gate Distributor - widening Whitehall Street, upgrading the connection to Footscray Road and strengthening and widening the Shepherd Bridge over the Maribyrnong River. Regional and suburban roads More than anyone else, regional Victorian families and businesses rely on sealed, direct roads to get around their community and their state - and get home safely. The Budget invests $86.7 million to resurface unsafe, deteriorating road surfaces around the state, so families in regional Victoria can have peace of mind. Smarter roads and intersections $90 million will be invested in smaller initiatives that will make a big difference, including intelligent transport system technology and upgrades to congested chokepoints in suburban and regional areas. The Budget also invests $1.8 million towards streamlining and improving traffic flows on Hoddle Street, so motorists in Melbourne's north, south and east can get home from work sooner."
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h1", 
+            "id": "5daad218-a71b-4360-9ea0-c99d0b89667b"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Freight", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "At the moment, heavy vehicles are forced to take indirect and meandering routes through the country, because many of our state's bridges cannot bear heavy loads. The Budget provides $76 million for projects that strengthen bridges on key freight corridors so heavy vehicles can take more direct routes to our farms, towns and communities. The stronger bridges will allow heavier loads, increasing productivity, helping reduce supply chain costs and getting perishable stock to market faster. The Labor Government has already fast tracked $30 million to complete Stage 1 of the Murray Basin Rail Project. This project, costing $180-$220 million in total, will upgrade rail freight in northern Victoria so larger trains can carry more product."
+                }
+            ], 
+            "parent_id": "5daad218-a71b-4360-9ea0-c99d0b89667b", 
+            "type": "h3", 
+            "id": "7a893ea1-e3b9-432a-aeba-d28b688e8eee"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Road safety", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Andrews Labor Government will open the first dedicated road safety complex in the world: the Crash and Trauma Education Centre. The Budget provides $80 million to establish and operate the Centre, which will educate young drivers about the consequences of poor decisions on the road and help repeat driving offenders. The Centre will feature simulators, exhibitions and presentations from victims and emergency workers, so young drivers can get face-to-face with the aftermath of unsafe driving. Families rightly worry about kids on their P plates. That's why the Labor Government will make sure young drivers are equipped with the skills they need behind the wheel. The Budget invests $24.4 million for free defensive driving courses for Year 10 students, because young people need to know how to handle a vehicle in all conditions and situations. $16 million will also be provided to continue the L2P driver mentor program, so those who don't have access to a car can still get their licence if they need it for work. Victoria is the creative capital, home to arts, music, culture and sport, blockbuster major events, a pristine natural environment, and the most liveable and multicultural city in the world. This is what sets us apart and this is what makes us strong. We're the leading state for new visitors, new events and new families - and the Budget will keep Victoria number one. This is about the growth of our economy and the quality of our lives. They're the things that make our state worth living in and the next generation of families deserve to enjoy them."
+                }
+            ], 
+            "parent_id": "2e0f3988-6ee3-4b10-94f8-c3303af5c6a0", 
+            "type": "h3", 
+            "id": "d8933819-f087-4eae-8f9d-fd261f7c5cc8"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "More major events", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Victoria has the edge on major events. They put our state on the map. They create local jobs, grow our economy and give Victorian families something to do and something to see, together. There's a buzz in the air when a major event hits our streets. Whether you're watching from the stands or watching from your family room, the whole world is watching with you. The Andrews Labor Government will grow Victoria's visitor economy and make sure we never lose our edge on major events and tourism. The Budget invests an additional $80 million to sponsor major events across Victoria, attracting more visitors and growing our tourism industry. Some of our most celebrated and successful major events don't take place on a court or a pitch, but in a conference centre. Victoria has established itself as a home for business and industry tourism. The Budget invests funding to undertake the Stage 2 development of the Melbourne Exhibition and Convention Centre, to attract more events and visitors to Victoria."
+                }
+            ], 
+            "parent_id": "2e0f3988-6ee3-4b10-94f8-c3303af5c6a0", 
+            "type": "h3", 
+            "id": "421dd190-369a-4fc8-ac75-0a1a4068fdc9"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "The Creative Capital", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Victoria's arts, culture, screen, music and design sectors make up our creative industries. They support thousands of Victorian jobs and inject hundreds of millions into our economy every year. They're at the heart and soul of our state - part of our history and our future. Families can enjoy the work of our creative industries, not just in the city, but throughout their communities. The Andrews Labor Government wants to help our creative industries grow, to create more jobs, sustain more careers and bring more visitors, events and exhibitions to our state. The Budget provides more than $200 million to support Victorian arts, culture, film, television, music and design and give our creative industries a new life. This includes funding to: \uf034 Invest in the independent arts sector so more people can get involved \uf034 Support regional galleries and help bring the arts to new regional audiences \uf034 Continue the National Gallery's Summer Program for modern art and design \uf034 Start Music Works to boost Victorian contemporary music and support local jobs \uf034 Support the Victorian screen industry, including Film Victoria The Budget also provides $13.4 million to restore and refurbish the crumbling Palais Theatre - the spiritual home of Australian live music - so performances can continue."
+                }
+            ], 
+            "parent_id": "48a00842-98bb-404d-b9dd-260548f16481", 
+            "type": "h3", 
+            "id": "8136ffda-a560-4b48-9d19-ec4695fc542a"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "The Education State", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Education is Victoria's number one export. More than any other state, Victoria relies on the skills and ingenuity of students and workers to grow our economy. All skills start in the classroom, but to give students an extra boost, the Andrews Labor Government will bring the resources of the State Library of Victoria into the family home. The Budget provides $55.4 million towards an $83.1 million project to create a state library for our whole state. Other state-owned arts and cultural facilities will be supported with a further $38 million . The State Library redevelopment will increase public access by 40 per cent. Exhibition spaces, learning facilities and technology will be upgraded so lessons and workshops can be broadcast. All students deserve support, including those who come from overseas and contribute to our economy. The Budget provides $4 million for international student welfare grants."
+                }
+            ], 
+            "parent_id": "48e8eaa7-3dfb-4b73-85ed-d462f86639da", 
+            "type": "h3", 
+            "id": "62bf22fc-5c72-442d-aa8f-282a9877d464"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Sport", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Victoria is the sporting capital of the world. Every weekend, families across our state head to the footy, get on the pitch or help run community sports clubs - the soul of our suburbs and towns. At the ground The Andrews Labor Government will upgrade stadiums across our state, so they can host more events, make room for more spectators, and join the MCG in the league of great sporting arenas. The Budget will invest $70 million to build a new grandstand at Geelong's Simonds Stadium, improving facilities for spectators and increasing the ground's capacity to 36,000. Simonds Stadium's new grandstand will even include a rehabilitation facility to help people with a disability return to work. It will mean a new life for Australia's proudest regional stadium. The Budget will also provide $25 million to redevelop the historic Junction Oval in St Kilda to create the new home of Victorian cricket, for families and professional players alike. Cricket participation has grown more than 100 per cent since 2006, and 51,000 girls now play the sport. An additional first-class venue will enhance the state's ability to attract major events."
+                }
+            ], 
+            "parent_id": "48e8eaa7-3dfb-4b73-85ed-d462f86639da", 
+            "type": "h3", 
+            "id": "3127dd41-7396-42fb-81fd-3de6e51497c1"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Victoria number one", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Courtesy of the City of Greater Geelong In our communities Community sports clubs bring the family and the neighbourhood together. More and more people are training and playing every week - proud to wear the stripes and emblems of their local club. The Andrews Labor Government wants to encourage more men and women, boys and girls, to get active, get out on the pitch and get together in club rooms that are clean and comfortable. The Budget establishes a $100 million Community Sports Infrastructure Fund, helping local clubs upgrade tired grounds and build the facilities they need to grow their membership. $10 million from the Fund will be used to build decent, functional female change rooms at local grounds. No one should have to get changed in the car park. Everyone deserves equal facilities. Netball is one of Melbourne's fastest growing sports. The Budget will provide $9.6 million to build 64 new netball courts in inner-city areas. The Budget also provides $14.1 million to encourage more people to get outdoors, take up sport and maintain an active, healthy lifestyle."
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h1", 
+            "id": "9892009e-dd55-4d82-8a48-d0514adf4e74"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Multiculturalism", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "We live in the most diverse society on earth, and our differences unite us. We don't merely tolerate them, we celebrate them, because multiculturalism makes our state and our economy strong. The Andrews Labor Government wants all Victorians, no matter their background, to feel at home in our state - free to practice their faiths and maintain their traditions as a family and a community. The Budget provides record funding for multicultural initiatives: $37.9 million to build better understanding between communities and strengthen social cohesion and $11.1 million to support our state's cultural precincts and community infrastructure."
+                }
+            ], 
+            "parent_id": "9892009e-dd55-4d82-8a48-d0514adf4e74", 
+            "type": "h3", 
+            "id": "015f2385-9f28-417b-b871-7fb146f8ec8f"
+        }
+    ], 
+    "metadata": [
+        {
+            "content": "2015-05-01", 
+            "name": "publicationdate"
+        }
+    ]
+}

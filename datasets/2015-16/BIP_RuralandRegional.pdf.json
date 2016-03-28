@@ -1,0 +1,287 @@
+{
+    "source_document_id": "", 
+    "media_type_detected": "application/pdf", 
+    "timestamp": "2016-03-28T07:43:29.130Z", 
+    "warnings": [], 
+    "answer_units": [
+        {
+            "direction": "ltr", 
+            "title": "no-title", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "</head>"
+                }
+            ], 
+            "parent_id": "", 
+            "type": "body", 
+            "id": "bfc69b89-fbc3-4050-bd0d-20faf4d5d480"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "For Families", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h1", 
+            "id": "85a6ee69-f4ab-49ec-b417-10c1e5ede5e9"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Victorian Budget 15 I16", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Rural and Regional Budget Information Paper The Secretary Department of Treasury and Finance 1 Treasury Place Melbourne, Victoria, 3002 Australia Tel: +61 3 9651 5111 Fax: +61 3 9651 2062 Website: budget.vic.gov.au Authorised by the Victorian Government 1 Treasury Place, Melbourne, 3002 Printed by On Demand, Port Melbourne Printed on recycled paper This publication makes reference to the 2015-16 Budget paper set which includes: Budget Paper No. 1 - Treasurer's Speech Budget Paper No. 2 - Strategy and Outlook Budget Paper No. 3 - Service Delivery Budget Paper No. 4 - State Capital Program Budget Paper No. 5 - Statement of Finances (incorporating Quarterly Financial Report No. 3) ((c)) State of Victoria (Department of Treasury and Finance) 2015 You are free to re-use this work under a Creative Commons Attribution 4.0 licence, provided you credit the State of Victoria (Department of Treasury and Finance) as author, indicate if changes were made and comply with the other licence terms. The licence does not apply to any images, photographs or branding, including Government logos. Copyright queries may be directed to IPpolicy@dtf.vic.gov.au ISBN 978-1-922222-56-5 Published May 2015 $180-$220 million Bridge strengthening project Bridge strengthening project $10 million for expanded cardiovascular services $286 million for 21 new trains for the Geelong line $5 million upgrade Murray Basin Rail Project Glenelg Highway Frewstal Lamb and Sheep Processing Wedderburn Streetscaping Warrnambool Special Development School Ararat Arts Pretcinct National Centre for Farmer Health Ararat Freight & Logistic Study Barham-Koondrook Road Go Goldfields (Maryborough) Geelong Performing Arts Centre Simonds Stadium Bannockburn 7-12 Bendigo Aspire Project Bendigo Stadium Redevelopment Portarlington Safe Harbour Eureka Stadium Ballarat Station Redevelopment Wallan Town Centre Euroa Saleyards Hume Freeway Ballarat Base Hospital VLocity trains Grampians Peak Trail Nhill-Jeparit Road Stawell Underground Physics Laboratory $7.6 million for a new school $10.45 million for Tobruk Street Primary School, Commercial Road Primary School and Morwell Primary School $7.8 million investment $30 million for the Gippsland region to respond to the recommendations New schools Upgraded schools TAFE Emergency services Major regional investment Bridges Rail Health Hazelwood Mine Fire Inquiry Wangaratta Saleyards Sale Specialist School The Latrobe Valley Clinic Morwell Schools Regeneration Kurnai College School upgrades \uf034 Bacchus Marsh Secondary College \uf034 Ballarat Secondary College \uf034 Beaufort Secondary College \uf034 Bellarine Secondary College \uf034 Bendigo Senior Secondary College \uf034 Castlemaine Secondary College \uf034 Commercial Road Primary School \uf034 Daylesford Secondary College \uf034 Delacombe Primary School \uf034 Drysdale Primary School \uf034 Epsom Primary School \uf034 Geelong High School \uf034 Kalianna Special School (planning only) \uf034 Kurnai College \uf034 Kyneton Primary School \uf034 Kyneton Secondary School \uf034 Moriac Primary School \uf034 Morwell Primary School \uf034 New Gisborne Primary School \uf034 Northern Bay P-12 College \uf034 Phoenix P-12 Community College \uf034 Tobruk St Primary School \uf034 Wallan Secondary College \uf034 Warrnambool Special Development School \uf034 Whittington Primary School \uf034 Yarra Junction Primary School New schools \uf034 Bannockburn 7-12 \uf034 Sale Specialist School Emergency services \uf034 Buninyong CFA Station \uf034 Huntly Fire Station \uf034 Morwell Emergency Services Hub \uf034 Wendouree Ambulance Station TAFE Rescue Fund (eligible TAFEs) \uf034 Bendigo Kangan Institute \uf034 Federation Training \uf034 The Gordon \uf034 GOTAFE \uf034 South West Institute of TAFE \uf034 SuniTAFE \uf034 Wodonga Institute of TAFE Rail Freight \uf034 Murray Basin Rail Project Bridges \uf034 Barham-Koondrook Road \uf034 Glenelg Highway \uf034 Goulburn Valley Highway \uf034 Hume Freeway \uf034 Kyabram-Rochester Road \uf034 Loddon Valley Highway \uf034 McIvor Highway \uf034 Maryborough St Arnaud Road \uf034 Midland Highway \uf034 Mortlake-Ararat Road \uf034 Murray Valley Highway \uf034 Nhill-Jeparit Road \uf034 Portland-Casterton Road \uf034 Pyrenees Highway \uf034 Tyers Road \uf034 Western Highway Major investment \uf034 Ararat Arts Precinct \uf034 Ararat Freight & Logistic Study \uf034 Avalon Airport \uf034 Ballarat Station Redevelopment \uf034 Bendigo Aspire Project \uf034 Bendigo Stadium Redevelopment \uf034 Eureka Stadium \uf034 Euroa Saleyards \uf034 Frewstal Lamb and Sheep Processing \uf034 Geelong Performing Arts Centre \uf034 Gippsland Logistics Precinct \uf034 Go Goldfields (Maryborough) \uf034 Grampians Peak Trail \uf034 National Centre for Farmer Health \uf034 Leopold Hub \uf034 Manufacturing Hub, Geelong \uf034 Portarlington Safe Harbour \uf034 Simonds Stadium \uf034 Sovereign Hill by Night \uf034 Stawell Underground Physics Laboratory \uf034 The Latrobe Valley Clinic \uf034 Wallan Town Centre \uf034 Wangaratta Saleyards \uf034 Wedderburn Streetscaping Gippsland Logistics Precinct Victoria's rural communities and regional cities are essential to the State's prosperity and liveability. They are home to about one quarter of Victoria's population. Rural and regional Victoria generates around a quarter of the state's economic output. Key industries include health care and social assistance, retail trade, agriculture, forestry and fishing, manufacturing and construction. The Andrews Labor Government's investments will make regional Victoria more economically competitive and create new jobs. Regional Victoria can also seize new opportunities, such as new energy technology, food and fibre processing and tourism. For rural and regional Victoria to grow, the Labor Government will ensure that: \uf034 There is business confidence to invest in new jobs \uf034 Young people and workers can get the skills they need \uf034 Regional businesses have support to expand and innovate \uf034 Transport infrastructure connects regions to market places"
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h1", 
+            "id": "d2546940-29d0-46f9-95d8-bfc476b7f467"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Rural and regional Victoria", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h1", 
+            "id": "9d068181-66ad-4453-b615-049e056edbed"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Jobs", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Andrews Labor Government is investing in significant job creation and economic development in regional Victoria. The Regional Jobs and Infrastructure Fund will provide $500 million over four years to support economic growth in rural and regional Victoria. This will include: A $200 million Regional Jobs Fund to help regional businesses grow their  workforce, expand markets and create jobs of the future. Initiatives to be funded include: \uf034 Food Source Victoria \uf034 Victorian Defence Procurement Office \uf034 Frewstal Lamb and Sheep Processing \uf034 Wine Victoria strategies \uf034 Latrobe Valley clinic \uf034 Stawell Underground Physics Laboratory \uf034 Geelong Regional Innovation and Investment Fund \uf034 Victorian Automobile Chamber of Commerce LPG industry study \uf034 Horticultural Research Foundation \uf034 A manufacturing hub in Geelong A $250 million Regional Infrastructure Development Fund to invest in projects that support and grow industry in regional Victoria. Initiatives to be funded include: \uf034 Ballarat Station Redevelopment \uf034 Harcourt Mountain Bike Trail \uf034 Euroa Saleyards \uf034 Wangaratta Saleyards \uf034 Geelong Performing Arts Centre \uf034 Gippsland Logistics Precinct \uf034 Sovereign Hill by Night \uf034 Grampians Peak Trail \uf034 Eureka Stadium and other Ballarat sporting infrastructure \uf034 Bendigo Aspire Project \uf034 Ararat Arts Precinct Development \uf034 Wallan Town Centre \uf034 Wedderburn Streetscaping \uf034 Leopold Hub The Back to Work Act 2015 has already established a $100 million fund for payroll tax relief to companies who hire unemployed young people, the long term unemployed and retrenched workers. The Premier's Jobs and Investment Fund will provide $508 million over five years. This will draw on the expertise and insight of economic and industry leaders in providing independent, expert and strategic advice directly to Government on a range of issues to drive growth and jobs in Victoria. The Future Industries Fund, which includes the New Energy Jobs Fund, will also be established to provide $200 million over four years. Two of the six high growth sectors to be targeted from the Future Industries Fund - new energy technology, and food and fibre processing - have a natural home in rural and regional Victoria. Agriculture is the heart of our regions, with food and fibre contributing over $11 billion to our economy. The Andrews Labor Government is investing significantly in Victoria's agriculture industry to secure the livelihoods of farming families and get young people back on the land. The Budget includes: $30 million already fast tracked to complete Stage 1 of the $180-220 million Murray Basin Rail Project. $5.2 million to establish a dedicated unit to make sure that agricultural exports are at the forefront of Victoria's export strategy. $9.4 million to enhance Victoria's biosecurity, so that our farms are safer and more productive, and our produce can be sold all over the world. $1 million to support the management of foxes and the risks they pose to primary production and biodiversity. It also includes funding to establish a wine industry Ministerial Advisory Council, to ensure that this vital industry continues to grow. The Labor Government is also investing in the skills and wellbeing of the people who work on the land. The Budget includes: \uf034 $0.8 million to provide scholarships for young farmers to improve their understanding of their vocation and enhance the productivity of their businesses. \uf034 Funding for a ministerial advisory council on young farmers. \uf034 $1.5 million for the Rural Financial Counselling Service, to support farmers and their families when they fall on hard times. \uf034 $4 million to rebuild and save the National Centre for Farmer Health. \uf034 $45 million to protect our rivers and waterways, improve the health of agricultural land and help farmers manage water use more efficiently."
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h1", 
+            "id": "8d57ed2a-e88a-4a47-a8d5-64603c54909c"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Agriculture", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Andrews Labor Government is getting on with the projects rural and regional Victoria needs. This includes: $90 million for initiatives that will make a big difference, including intelligent transport system technology and upgrades to congested choke points in suburban and regional areas. $86.7 million to resurface unsafe, deteriorating road surfaces around the state, so families in regional Victoria can get around safely. To ensure that rural and regional areas are closely linked with key business centres and are able to compete economically, the Labor Government has committed: $286 million for 21 new VLocity train carriages on the Geelong train line. $76 million over three years to strengthen bridges on key freight routes across the state to reduce travel time for heavy vehicles, increasing productivity and helping to reduce supply chain costs. $50.5 million to improve safety at 52 regional level crossings, with $2 million fast tracked so that work can start as soon as possible. $30 million already fast tracked to complete Stage 1 of the Murray Basin Rail Project. This project, costing $180-$220 million in total, will upgrade rail freight in northern Victoria so larger trains can carry more product. $6.7 million to relieve congestion and improve safety on regional and outer suburban roads and allow freight to be moved more efficiently across the state. $2 million for the Bendigo Metro Rail - a dedicated commuter rail service stopping at Epsom, Eaglehawk, Kangaroo Flat and Bendigo. \u2003"
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h1", 
+            "id": "f60f75bf-6e02-4b7d-a909-7ca9ad8802e7"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Transport", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h1", 
+            "id": "df467884-46d3-4654-9454-477a963f3924"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Upgraded schools", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Children across the state need to learn in classrooms that are modern and comfortable, but too many school buildings in Victoria have passed their use-by date. The following schools in rural and regional Victoria will be renovated, refurbished or rebuilt: \uf034 Bacchus Marsh Secondary College \uf034 Ballarat Secondary College \uf034 Beaufort Secondary College \uf034 Bellarine Secondary College \uf034 Bendigo Senior Secondary College \uf034 Castlemaine Secondary College \uf034 Daylesford Secondary College \uf034 Delacombe Primary School \uf034 Drysdale Primary School \uf034 Epsom Primary School \uf034 Geelong High School \uf034 Kalianna Special School (planning only) \uf034 Kurnai College, Morwell \uf034 Kyneton Primary School \uf034 Kyneton Secondary School \uf034 Moriac Primary School \uf034 Morwell Schools Regeneration Project (Stage 1) - Tobruk Street Primary School, Commercial Road Primary School and Morwell Primary School \uf034 New Gisborne Primary School"
+                }
+            ], 
+            "parent_id": "df467884-46d3-4654-9454-477a963f3924", 
+            "type": "h3", 
+            "id": "59c1afcc-0c74-466e-b6b8-f038a6eaf804"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Education", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "\uf034 Northern Bay P-12 College, Corio \uf034 Phoenix P-12 Community College, Sebastopol \uf034 Saint Ignatius College, Geelong \uf034 St Patrick's Primary School Stawell \uf034 Warrnambool Special Developmental School \uf034 Whittington Primary School"
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h1", 
+            "id": "74678820-85f9-4e4b-8c48-2d36dd614374"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "New schools", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Labor Government will fund two new regional schools: \uf034 Sale Specialist School \uf034 Bannockburn 7-12"
+                }
+            ], 
+            "parent_id": "74678820-85f9-4e4b-8c48-2d36dd614374", 
+            "type": "h3", 
+            "id": "87e30ce6-a173-4889-b9b3-cd32d1de7d1f"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Tech Schools", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Andrews Labor Government is committing $12 million to undertake planning for the establishment of 10 new Tech Schools across the state. This will allow secondary students to get a head start on a hands-on vocation alongside a comprehensive secondary curriculum. Planning will commence for Tech Schools in: \uf034 Gippsland \uf034 Bendigo \uf034 Ballarat \uf034 Geelong"
+                }
+            ], 
+            "parent_id": "74678820-85f9-4e4b-8c48-2d36dd614374", 
+            "type": "h3", 
+            "id": "531c11bf-45f1-4156-9116-0a640df8d9e7"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "TAFE", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "TAFE cuts hurt regions the hardest. The Andrews Labor Government will bring our TAFE system back from the brink, so all kids will have the chance to get a job, start a career and have a decent life. $300 million will complete the $320 million TAFE Rescue Fund to reopen closed buildings, upgrade workshops and classrooms and get institutes across the state back in the black. All Victorian TAFEs are eligible for support under the TAFE Rescue Fund, including: \uf034 Bendigo Kangan Institute (in Bendigo and northern suburbs of Melbourne) \uf034 Federation Training \uf034 South West TAFE \uf034 SuniTAFE \uf034 The Gordon Institute \uf034 GOTAFE \uf034 Wodonga TAFE"
+                }
+            ], 
+            "parent_id": "74678820-85f9-4e4b-8c48-2d36dd614374", 
+            "type": "h3", 
+            "id": "2886d281-b8b9-4dd2-9d5b-dd041e424aee"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Education", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The 2015-16 Victorian Budget delivers an additional $2.1 billion for hospitals to treat more patients and build a reliable healthcare system for all Victorians. Key initiatives to support the health of rural and regional communities include: $40 million to upgrade ambulance stations, vehicles and equipment across the state. This will include a new ambulance station at Wendouree in Ballarat. $10 million to expand cardiovascular services at the Ballarat Base Hospital, so locals don't have to travel to Melbourne for urgent heart assessment and treatment. $4 million over four years to save and rebuild the National Centre for Farmer Health. $1 million for planning at Goulburn Valley Health."
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h1", 
+            "id": "80b67a93-a7c0-4bb0-9e50-09ef86f8241b"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Health", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Credit: Grindstone Creative"
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h1", 
+            "id": "409978ce-3fcc-4e98-9099-39c43dd180ba"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Ice Action Plan", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Andrews Labor Government has committed $45.5 million for the Ice Action Plan to tackle the profound and disproportionate impact that ice use is having on rural and regional communities. The Ice Action Plan includes: $18 million to expand and modernise rehabilitation services, particularly in regional and rural Victoria, so people can get the help they need sooner. $15 million to provide Victoria Police with new booze and drug buses to improve road safety. $4.6 million to help families identify and support those affected by ice. $4.5 million to help track down and close clandestine drug labs, reducing supply on the streets."
+                }
+            ], 
+            "parent_id": "409978ce-3fcc-4e98-9099-39c43dd180ba", 
+            "type": "h3", 
+            "id": "7bdf8e3a-49cb-41bc-85ff-713a4e9daffb"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Health", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h1", 
+            "id": "354d0a28-a185-4cea-8e51-7b66251329c8"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Police", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "All Victorians are entitled to feel safe and supported in their homes and local communities. The Budget invests $7.8 million over four years for 15 new sworn police officers in the Bellarine Peninsula and Geelong area. The Budget also invests $35.4 million to upgrade the outdated analogue communications network used across regional Victoria with a secure, encrypted system, so police can do their job safely and eavesdroppers can't pick up details of police operations."
+                }
+            ], 
+            "parent_id": "354d0a28-a185-4cea-8e51-7b66251329c8", 
+            "type": "h3", 
+            "id": "da361ba7-c5be-432f-bc9d-332fbb26d406"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Fire protection", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Budget includes funding to commence the recruitment of 450 additional career firefighters. The Andrews Labor Government is also giving our firefighters the resources they need to do their job and keep families safe, including: $50 million for planned burning on public land to minimise the risk of bushfires to communities. $44 million to purchase new Country Fire Authority vehicles, to build and upgrade fire stations and install toilet and washroom facilities. $9.6 million for provision of emergency medical response training and equipment at 33 integrated CFA stations. $3 million to establish a new Morwell emergency services hub."
+                }
+            ], 
+            "parent_id": "354d0a28-a185-4cea-8e51-7b66251329c8", 
+            "type": "h3", 
+            "id": "0925285e-0b35-4aea-93dc-b1b1cdf131f4"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Police and emergency services", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h1", 
+            "id": "b9b15236-cd59-408d-b6bb-f2b8d0b6984d"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "The Hazelwood coal mine fire", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Communities near coal mines must be confident of their health and safety. $30 million will be provided to implement all recommendations of the Hazelwood Coal Mine Fire Inquiry. Key initiatives include: \uf034 Reform of the regulation of Victoria's coal mines \uf034 A new CFA district (District 27) \uf034 A long term health study on the impact of emissions exposure from the coal mine fire \uf034 The development of a State Smoke Plan to manage public health if such an event ever happens again Safe, strong and thriving communities are the bedrock of regional Victoria, and the Andrews Labor Government will help cities and towns preserve their liveability. The Budget includes: $50 million for the Stronger Regional Communities plan, helping towns attract more families and young people to live and work in regional Victoria. $20 million to bring the arts to our regions, build partnerships with local councils, support regional galleries and performing arts centres and shine a spotlight on creative industries across Victoria. $80 million to bring more major events to our state and attract more interstate and international visitors to regional Victoria and Melbourne. $70 million to build a new grandstand at Geelong's Simonds Stadium, improving facilities and increasing the ground's capacity to 36,000 - a new life for Australia's proudest regional stadium. $11 million to upgrade dilapidated buildings, toilets, paths and roads and build new facilities in national and state parks across Victoria. $13.5 million to complete the Portarlington Safe Harbour project, giving the pier a new life as a hub for boating, recreation and the local aquaculture industry. $20 million for Target One Million to support recreational fishing."
+                }
+            ], 
+            "parent_id": "b9b15236-cd59-408d-b6bb-f2b8d0b6984d", 
+            "type": "h3", 
+            "id": "6afa5274-4b0e-462b-b62c-fac7298e0bc5"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Communities", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "If you would like to receive this publication in an accessible format please telephone 9651 0909 or email information@dtf.vic.gov.au. This document is also available in PDF and Word at budget.vic.gov.au. Victorian Budget 15 I 16 Rural and Regional Budget Information Paper budget.vic.gov.au"
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h1", 
+            "id": "1de1e16a-f271-4edf-a280-6c28eea975ab"
+        }
+    ], 
+    "metadata": [
+        {
+            "content": "2015-05-01", 
+            "name": "publicationdate"
+        }
+    ]
+}
