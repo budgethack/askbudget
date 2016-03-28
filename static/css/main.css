@@ -91,3 +91,11 @@ h3 {
     vertical-align: middle;
 }
 
+#answer_icon {
+    height: 80px;
+    width: 70px;
+    position: relative;
+    right: 40px;
+    bottom: 70px;
+}
+
