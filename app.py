@@ -1,10 +1,10 @@
 #!/usr/bin/python
 from flask import Flask, request, render_template, g
 import json
-import wit
-import pyipinfodb
-import private
-import sqlite3 
+import sqlite3
+
+import utils
+
 
 app = Flask(__name__)
 
@@ -24,60 +24,22 @@ def teardown_request(excpection):
 
 @app.route("/")
 def home():
-
     return render_template('index.html')
 
 
 @app.route("/api/post_question", methods=['POST'])
-def post_question():
-    text = request.args.get('question', '')
-    
-    answer = handle_question(text)
-    
-    print answer
-
+def create_question():
+    text = request.json.get('question', '')
+    answer = utils.handle_text(text)
     return json.dumps({'answer': answer})
 
 
-def handle_question(text):
-    
-    count = 10
-    top_text = "top text here"
-    top_link = "top link"
-    rel_text = "related text"
-    rel_link = "related link"
-    related_keyword_text = "related_keyword_text"
-
-    answer = {
-            "top_mentions":{
-                "count": count,
-                "documents":[{
-                    "text": top_text,
-                    "link": top_link
-                }]
-            },
-            "related_spend":{
-                "documents":[{
-                    "text": rel_text,
-                    "link": rel_link,
-                }]
-            },
-            "related_keyword":{
-                "keyword": [{
-                    "text": related_keyword_text,
-                }]
-            }
-        }
-
-    return answer
-
-
-@app.route("/api/get_question", methods=['POST'])
-def get_question():
-    prev_question = g.dv.execute("SELECT question FROM question").fetchall()
-    prev_question = "hello"
-
-    return json.dumps({'prev_question': prev_question})
+#@app.route("/api/question", methods=['GET'])
+#def get_questions():
+#    prev_question = g.dv.execute("SELECT question FROM question").fetchall()
+#    prev_question = "hello"
+#
+#    return json.dumps({'prev_question': prev_question})
 
 
 if __name__ == "__main__":

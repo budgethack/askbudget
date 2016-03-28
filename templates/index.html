@@ -8,55 +8,57 @@
         
         <!-- load bootstrap via CDN -->
         <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" />
-        <link rel="stylesheet" href="static/css/main.css" />
+        <link rel="stylesheet" href="/static/bower_components/jqcloud2/dist/jqcloud.min.css">
+
         <!-- load angular via CDN -->
+        <script src="/static/bower_components/jquery/dist/jquery.min.js"></script>
+        <script src="/static/bower_components/jqcloud2/dist/jqcloud.min.js"></script>
         <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.2/angular.min.js"></script>
+        <script src="/static/bower_components/angular-jqcloud/angular-jqcloud.js"></script>
         
         <!-- load local js -->
         <script src="/static/js/app.js"></script>    
+
+        <link rel="stylesheet" href="static/css/main.css" />
 </head>
 
-<body>
-    {% raw %}
-    <div ng-app="search">
-        <div ng-controller="queryListCtrl">            
-        <!-- Header -->
-        <header>
-            <nav class="navbar navbar-default" id="nav">
-            </nav>
-        </header>
-   
-        <!-- Body -->
-        <div id="question_container">
-            <form ng-submit="submit()">
-                <input type="text" ng-model="question" name="text" placeholder="I WANT TO KNOW ABOUT ....." id="question_input"/>
-                <input type="image"  src="/static/img/SearchButton.png" width="25px" id="question_img"/>
-            </form>
-        </div>
+<body ng-app="search">
+  {% raw %}
+  <div ng-controller="queryListCtrl">            
+    <!-- Header -->
+    <header>
+        <nav class="navbar navbar-default" id="nav">
+        </nav>
+    </header>
 
-        
-        <div class="container" ng-show="top_mention_count" id="answer_container">
-            <h1>HERE'S SOME INFO</h1>
-            <h3>{{ top_mention_count }} MENTIONS</h3>
-            <ul ng-repeat="data in top_mentions_doc" id="mention_list">
-                <li><a href="{{ data.link }}">{{ data.text }}</a></li>
-            </ul>
-            
-            <h3>RELEVANT THINGS</h3>
-            <ul ng-repeat="data in related_keywords" id="related_keyword_list">
-                <li>{{ data.text }}</li>
-            </ul>
+    <!-- Body -->
+    <div id="question_container">
+        <form ng-submit="submit()">
+            <input type="text" ng-model="question" name="text" placeholder="I WANT TO KNOW ABOUT ....." id="question_input"/>
+            <input type="image"  src="/static/img/SearchButton.png" width="25px" id="question_img"/>
+        </form>
+    </div>
 
-            <h3>RELATED SPEND</h3>
-            <ul ng-repeat="data in related_spends" id="related_spend_list">
-                <li><a href="{{ data.link }}">{{ data.text }}</a></li>
-            </ul>
-            
-            <h3>SENTIMENT METRE</h3>
+    <div id="answer_container">
+      <div ng-show="top_mentions">
+        <h3>Term appears {{ top_mentions.count }} times in the budget:</h3>
 
-        </div>
+        <ul ng-repeat="doc in top_mentions.docs">
+          <li>{{ doc.name }} ({{ doc.count }} times)</li>
+        </ul>
+
+      </div>
+
+      <div ng-show="related_things">
+        <h3>Related keywords.</h3>
+
+        <jqcloud words="related_things_words" autoResize="true" width="500" height="350"></jqcloud>
+
+      </div>
 
     </div>
+
+  </div>
 {% endraw %}
 </body>
 </html>
