@@ -20,6 +20,9 @@
         <script src="/static/js/app.js"></script>    
 
         <link rel="stylesheet" href="static/css/main.css" />
+        <!-- load fonts -->
+        <link href='https://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
+        <link href='https://fonts.googleapis.com/css?family=Raleway:900' rel='stylesheet' type='text/css'>
 </head>
 
 <body ng-app="search">
@@ -32,19 +35,21 @@
     </header>
 
     <!-- Body -->
-    <div id="question_container">
-        <form ng-submit="submit()">
-            <input type="text" ng-model="question" name="text" placeholder="I WANT TO KNOW ABOUT ....." id="question_input"/>
-            <input type="image"  src="/static/img/SearchButton.png" width="25px" id="question_img"/>
+    <div id="blue_box">
+      <div id="question_container">
+        <form id="form_container" ng-submit="submit()">
+          <input type="text" ng-model="question" name="text" placeholder="I WANT TO KNOW ABOUT ....." id="question_input"/>
+          <input type="image"  src="/static/img/SearchButton.png" width="25px" id="question_img"/>
         </form>
+      </div>
     </div>
-
+    
     <div id="answer_container">
       <div ng-show="top_mentions">
         <h3>Term appears {{ top_mentions.count }} times in the budget:</h3>
 
-        <ul ng-repeat="doc in top_mentions.docs">
-          <li>{{ doc.name }} ({{ doc.count }} times)</li>
+        <ul id="answer_list" ng-repeat="doc in top_mentions.docs">
+          <li><img id="list_img" src="../static/img/icon_doc_360.png"> {{ doc.name }} ({{ doc.count }} times)</li>
         </ul>
 
       </div>

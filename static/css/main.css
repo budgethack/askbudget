@@ -1,4 +1,5 @@
-* { margin: 0; padding: 0; }
+* { margin: 0; padding: 0; 
+    font-family: 'Raleway', sans-serif;}
 
 html {
     background: url(/static/img/BodyBg.png) no-repeat center center fixed; 
@@ -6,6 +7,11 @@ html {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+}
+
+h3 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 900;
 }
 
 #nav {
@@ -23,14 +29,23 @@ html {
     margin-top: 15px;
     text-align: left;
     font-color: black;
-    height: 20px;
+    height: 30px;
     background-color:;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 900;
+    letter-spacing: 2px;
+    outline:none;
+    border: none;
+    font-size: 24px;
+    vertical-align: middle;
+    
+
 }
 
 #question_container {
     background-color: white;
     position: absolute;
-    margin-top: 10px;
+    margin-top: 45px;
     left: 5%;
     width: 90%;
     z-index: 100; 
@@ -50,7 +65,7 @@ html {
     position: absolute;
     min-width: 300px;
     padding: 40px;
-    top: 220px;
+    top: 324px;
     left: 5%;
     width: 90%;
     z-index: 100; 
@@ -61,3 +76,23 @@ html {
     font-size: 20px;
     font-color: black;
 }
+
+#answer_list {
+    list-style-type: none;
+}
+
+#list_img {
+    height: 25px;
+    width: 25px;
+}
+
+#blue_box {
+    height: 140px;
+    background-color: #1BC0D9;
+}
+
+#form_container {
+    height: 50px;
+    vertical-align: middle;
+}
+
