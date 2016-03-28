@@ -1,6 +1,6 @@
 <!doctype html>
 <html lang="en">
-<head>
+<head>  
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="description" content="Ask Budget">
@@ -8,49 +8,55 @@
         
         <!-- load bootstrap via CDN -->
         <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" />
-        
+        <link rel="stylesheet" href="static/css/main.css" />
         <!-- load angular via CDN -->
         <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.2/angular.min.js"></script>
         
         <!-- load local js -->
-        <script src="/static/js/app.js"></script>
-    
-    </head>
-    <body>
+        <script src="/static/js/app.js"></script>    
+</head>
+
+<body>
     {% raw %}
     <div ng-app="search">
-    <!-- Header -->
-    <header>
-        <nav class="navbar navbar-default">
-	    <div class="container">
-		<div class="navbar-header">
-	            <a class="navbar-brand" href="/">Ask-Budget</a>
-		</div>
-	    </div>
-	</nav>
-    </header>
-    <!-- Body -->
-        <div class="container">
-            <div ng-controller="queryListCtrl">            
-                <div class="row">
-                    <div class="col-md-8 col-md-offset-2">
-                        <form ng-submit="submit()">
-                            <input type="text" ng-model="question" name="text" placeholder="Whats up..."/>
-                        </form>
-                    </div>
-                </div>  
-                <div class="row">
-                    <table class="table" id="searchTextResults">
-                      <tr><th>Answer</th><th>Date</th></tr>
-                      <tr ng-repeat="answer in answers |question">
-                        <td>{{answer.post}}</td>
-                        <td>{{answer.datetime}}</td>
-                      </tr>
-                    </table>
-                </div>
-            </div>            
-	</div>
+        <div ng-controller="queryListCtrl">            
+        <!-- Header -->
+        <header>
+            <nav class="navbar navbar-default" id="nav">
+            </nav>
+        </header>
+   
+        <!-- Body -->
+        <div id="question_container">
+            <form ng-submit="submit()">
+                <input type="text" ng-model="question" name="text" placeholder="I WANT TO KNOW ABOUT ....." id="question_input"/>
+                <input type="image"  src="/static/img/SearchButton.png" width="25px" id="question_img"/>
+            </form>
+        </div>
+
+        
+        <div ng-show="top_mention_count" id="answer_container">
+            <h1>HERE'S SOME INFO</h1>
+            <h3>{{ top_mention_count }} MENTIONS</h3>
+            <ul ng-repeat="data in top_mentions_doc" id="mention_list">
+                <li><a href="{{ data.link }}">{{ data.text }}</a></li>
+            </ul>
+            
+            <h3>RELEVANT THINGS</h3>
+            <ul ng-repeat="data in related_keywords" id="related_keyword_list">
+                <li>{{ data.text }}</li>
+            </ul>
+
+            <h3>RELATED SPEND</h3>
+            <ul ng-repeat="data in related_spends" id="related_spend_list">
+                <li><a href="{{ data.link }}">{{ data.text }}</a></li>
+            </ul>
+            
+            <h3>SENTIMENT METRE</h3>
+
+        </div>
+
     </div>
-    {% endraw %}
+{% endraw %}
 </body>
 </html>
