@@ -61,6 +61,16 @@
 
       </div>
 
+      <div ng-show="related_spend">
+        <h3>Related spend.</h3>
+
+        <ul ng-repeat="doc in related_spend.docs">
+          <li>{{ doc.text }}</li>
+        </ul>
+
+
+      </div>
+
     </div>
 
   </div>
