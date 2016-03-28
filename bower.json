@@ -1,0 +1,21 @@
+{
+  "name": "askbudget",
+  "homepage": "https://github.com/budgethack/askbudget",
+  "description": "Ask Budget frontend",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jqcloud2": "~2.0.1",
+    "jquery": "~2.2.2",
+    "angular-jqcloud": "~1.0.2"
+  }
+}
