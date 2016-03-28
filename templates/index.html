@@ -47,30 +47,25 @@
     <div id="answer_container">
       <img id="answer_icon" src="../static/img/icon_1024.png">
 
-      <div ng-show="top_mentions">
-        <h3>Term appears {{ top_mentions.count }} times in the budget:</h3>
-
-        <ul id="answer_list" ng-repeat="doc in top_mentions.docs">
-          <li><img id="list_img" src="../static/img/icon_doc_360.png"> {{ doc.name }} ({{ doc.count }} times)</li>
-        </ul>
-
-      </div>
-      
-      <div ng-show="related_things">
-        <h3>Related keywords.</h3>
-
-        <jqcloud words="related_things_words" autoResize="true" width="500" height="350"></jqcloud>
-
-      </div>
-
       <div ng-show="related_spend">
-        <h3>Related spend.</h3>
+        <h3>TLDR:</h3>
 
         <ul ng-repeat="doc in related_spend.docs">
           <li>{{ doc.text }}</li>
         </ul>
 
+      </div>
 
+      <hr> 
+
+      <div ng-show="top_mentions">
+        Mentioned <span ng-repeat="doc in top_mentions.docs"><strong>{{ doc.count}}</strong> {{doc.count != 1 ? 'times' : 'time' }} in <a ng-href="?doc_name={{ doc.name }}">{{ doc.name }}</a><span ng-show="!$last">, </span></span>.
+      </div>
+
+      <hr> 
+
+      <div ng-show="main_concepts">
+        See also: <span ng-repeat="doc in main_concepts.docs"><a ng-href="?concept={{ doc.text }}">{{ doc.text }}</a>, </span><span ng-repeat="keyword in related_things.keywords"><a ng-href="?keyword={{ keyword.name }}">{{ keyword.name }}</a><span ng-show="!$last">, </span></span></div>
       </div>
 
     </div>
