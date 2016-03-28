@@ -38,7 +38,7 @@ def handle_text(text):
 def parse_related_things(result):
     output = {}
     output['keywords'] = []
-    for keyword in result['aggregations']['entity_keywords']['buckets'][:8]:
+    for keyword in result['aggregations']['entity_keywords']['buckets']:
         output['keywords'].append({
             'name': keyword['key'],
             'count': keyword['doc_count']

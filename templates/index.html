@@ -8,12 +8,18 @@
         
         <!-- load bootstrap via CDN -->
         <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" />
-        <link rel="stylesheet" href="static/css/main.css" />
+        <link rel="stylesheet" href="/static/bower_components/jqcloud2/dist/jqcloud.min.css">
+
         <!-- load angular via CDN -->
+        <script src="/static/bower_components/jquery/dist/jquery.min.js"></script>
+        <script src="/static/bower_components/jqcloud2/dist/jqcloud.min.js"></script>
         <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.2/angular.min.js"></script>
+        <script src="/static/bower_components/angular-jqcloud/angular-jqcloud.js"></script>
         
         <!-- load local js -->
         <script src="/static/js/app.js"></script>    
+
+        <link rel="stylesheet" href="static/css/main.css" />
 </head>
 
 <body ng-app="search">
@@ -35,7 +41,7 @@
 
     <div id="answer_container">
       <div ng-show="top_mentions">
-        <h3>Search term appears {{ top_mentions.count }} times in the budget.</h3>
+        <h3>Term appears {{ top_mentions.count }} times in the budget:</h3>
 
         <ul ng-repeat="doc in top_mentions.docs">
           <li>{{ doc.name }} ({{ doc.count }} times)</li>
@@ -46,11 +52,10 @@
       <div ng-show="related_things">
         <h3>Related keywords.</h3>
 
-        <ul ng-repeat="keyword in related_things.keywords">
-          <li>{{ keyword.name }} ({{ keyword.count }} times)</li>
-        </ul>
+        <jqcloud words="related_things_words" autoResize="true" width="500" height="350"></jqcloud>
 
       </div>
+
     </div>
 
   </div>

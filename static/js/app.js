@@ -1,9 +1,10 @@
-(function(angular) {
-angular.module('search', [])
-    .controller('queryListCtrl', ['$scope','$filter', '$http', function($scope, $filter, $http) {
+var app = angular.module('search', ['angular-jqcloud']);
+
+app.controller('queryListCtrl', ['$scope','$filter', '$http', function($scope, $filter, $http) {
         $scope.question = '';
         $scope.top_mentions;
         $scope.related_things;
+        $scope.related_things_words = [];
      
         $scope.submit = function() {
             $http.post( 
@@ -14,6 +15,13 @@ angular.module('search', [])
                 /* top mentions */
                 $scope.top_mentions = response.data.answer.top_mentions;
                 $scope.related_things = response.data.answer.related_things;
+
+                words = [];
+                angular.forEach($scope.related_things.keywords, function(value, key) {
+                  words.push({"text": value.name, "weight": value.count * 10});
+                });
+                $scope.related_things_words = words;
+                console.log(words);
             });
         };
 
@@ -34,5 +42,4 @@ angular.module('search', [])
         */
 
 
-    }]);
-})(window.angular);
+}]);
