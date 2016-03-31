@@ -1,10 +1,6 @@
 * { margin: 0; padding: 0; 
     font-family: 'Raleway', sans-serif;}
 
-*:focus {
-    outline: none;
-}
-
 html {
     background: url(/static/img/BodyBg.png) no-repeat center center fixed; 
     -webkit-background-size: cover;
@@ -31,11 +27,17 @@ h3 {
     width: 80%;
     margin-left: 10%;
 <<<<<<< HEAD
+<<<<<<< HEAD
     margin-bottom: ;
     margin-top: 7px;
     text-align: left;
     font-color: black;
     height: 80%;
+=======
+    text-align: left;
+    font-color: black;
+    height: 50px;
+>>>>>>> 97c0ece392ca7f558f0261d890833e719accab3b
 =======
     text-align: left;
     font-color: black;
@@ -91,6 +93,13 @@ h3 {
     list-style-type: none;
 }
 
+<<<<<<< HEAD
+=======
+#answer_list {
+    list-style-type: none;
+}
+
+>>>>>>> 97c0ece392ca7f558f0261d890833e719accab3b
 #list_img {
     height: 25px;
     width: 25px;
