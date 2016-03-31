@@ -20,6 +20,9 @@
         <script src="/static/js/app.js"></script>    
 
         <link rel="stylesheet" href="static/css/main.css" />
+        <!-- load fonts -->
+        <link href='https://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
+        <link href='https://fonts.googleapis.com/css?family=Raleway:900' rel='stylesheet' type='text/css'>
 </head>
 
 <body ng-app="search">
@@ -32,38 +35,37 @@
     </header>
 
     <!-- Body -->
-    <div id="question_container">
-        <form ng-submit="submit()">
-            <input type="text" ng-model="question" name="text" placeholder="I WANT TO KNOW ABOUT ....." id="question_input"/>
-            <input type="image"  src="/static/img/SearchButton.png" width="25px" id="question_img"/>
+    <div id="blue_box">
+      <div id="question_container">
+        <form id="form_container" ng-submit="submit()">
+          <input type="text" ng-model="question" name="text" placeholder="I WANT TO KNOW ABOUT ....." id="question_input"/>
+          <input type="image"  src="/static/img/SearchButton.png" width="25px" id="question_img"/>
         </form>
+      </div>
     </div>
-
+    
     <div id="answer_container">
-      <div ng-show="top_mentions">
-        <h3>Term appears {{ top_mentions.count }} times in the budget:</h3>
-
-        <ul ng-repeat="doc in top_mentions.docs">
-          <li>{{ doc.name }} ({{ doc.count }} times)</li>
-        </ul>
-
-      </div>
-
-      <div ng-show="related_things">
-        <h3>Related keywords.</h3>
-
-        <jqcloud words="related_things_words" autoResize="true" width="500" height="350"></jqcloud>
-
-      </div>
+      <img id="answer_icon" src="../static/img/icon_1024.png">
 
       <div ng-show="related_spend">
-        <h3>Related spend.</h3>
+        <h3>TLDR:</h3>
 
         <ul ng-repeat="doc in related_spend.docs">
           <li>{{ doc.text }}</li>
         </ul>
 
+      </div>
 
+      <hr> 
+
+      <div ng-show="top_mentions">
+        Mentioned <span ng-repeat="doc in top_mentions.docs"><strong>{{ doc.count}}</strong> {{doc.count != 1 ? 'times' : 'time' }} in <a ng-href="?doc_name={{ doc.name }}">{{ doc.name }}</a><span ng-show="!$last">, </span></span>.
+      </div>
+
+      <hr> 
+
+      <div ng-show="main_concepts">
+        See also: <span ng-repeat="doc in main_concepts.docs"><a ng-href="?concept={{ doc.text }}">{{ doc.text }}</a>, </span><span ng-repeat="keyword in related_things.keywords"><a ng-href="?keyword={{ keyword.name }}">{{ keyword.name }}</a><span ng-show="!$last">, </span></span></div>
       </div>
 
     </div>

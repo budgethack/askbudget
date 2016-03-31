@@ -24,6 +24,11 @@ def handle_text(text):
                 'significant_terms': {
                     'field': "entities.text",
                 }
+            },
+            'main_concepts': {
+                'significant_terms': {
+                    'field': 'concepts.text'
+                }
             }
         }
     }
@@ -33,6 +38,8 @@ def handle_text(text):
     output = {}
     output['top_mentions'] = parse_top_mentions(result)
     output['related_things'] = parse_related_things(result)
+    output['related_spend'] = parse_related_spend(result)
+    output['main_concepts'] = parse_main_concepts(result)
     
     return output
 
@@ -62,19 +69,25 @@ def parse_top_mentions(result):
     return output
 
 
-#def find_related_spend(result):
-#    output['related_spend'] = {'mentions': []}
-#    for hit in result['hits']['hits']:
-#        for entity in hit['_source'].get('entities') or []:
-#            if (
-#                entity['type'] == 'Quantity' and
-#                entity['text'].startswith('$') and
-#                ('mill' in entity['text'] or 'bill' in entity['text'])
-#            ):
-#                appended = entity
-#                output['related_spend']['mentions'].append(appended)
-#
-#    output['related_spend']['mentions'] = (
-#        output['related_spend']['mentions'][:5])
-#
-#    return output
+def parse_related_spend(result):
+    output = {}
+
+    top_sentences = []
+    for result in result['hits']['hits']:
+        for sentence in result['_source']['sentences']:
+            if 'the budget' in sentence.lower() and '$' in sentence:
+                if sentence not in top_sentences:
+                    top_sentences.append({'text': sentence})
+
+    output['docs'] = top_sentences[:3]
+
+    return output
+
+
+def parse_main_concepts(result):
+    output = {'docs': []}
+
+    for agg in result['aggregations']['main_concepts']['buckets']:
+        output['docs'].append({'text': agg['key'], 'count': agg['doc_count']})
+
+    return output

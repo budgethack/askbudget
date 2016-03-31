@@ -4,6 +4,7 @@ app.controller('queryListCtrl', ['$scope','$filter', '$http', function($scope, $
         $scope.question = '';
         $scope.top_mentions;
         $scope.related_things;
+        $scope.main_concepts;
         $scope.related_things_words = [];
      
         $scope.submit = function() {
@@ -15,13 +16,9 @@ app.controller('queryListCtrl', ['$scope','$filter', '$http', function($scope, $
                 /* top mentions */
                 $scope.top_mentions = response.data.answer.top_mentions;
                 $scope.related_things = response.data.answer.related_things;
-                $scope.related_spend = {'docs': [{
-                  'text': '$100 million spent on trees',
-                }, {
-                  'text': '$20 million spent on flowers',
-                }, {
-                  'text': '$10 million spent on houses'
-                }]}
+                $scope.related_spend = response.data.answer.related_spend;
+                console.log(response.data.answer.main_concepts);
+                $scope.main_concepts = response.data.answer.main_concepts;
 
                 words = [];
                 angular.forEach($scope.related_things.keywords, function(value, key) {
