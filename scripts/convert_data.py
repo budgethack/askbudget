@@ -1,3 +1,5 @@
+import sys
+sys.path.append('..')
 import os
 import json
 
@@ -14,7 +16,7 @@ if __name__ == '__main__':
         version='2016-02-09')
 
     # Go through each Dataset and ingest into ElasticSearch
-    for doc in settings.DOCS:
+    for doc in settings.DOCS_2014_15:
         json_path = doc.path + '.json'
         if os.path.exists(json_path):
             print "{0} already exists. Skipping.".format(json_path)

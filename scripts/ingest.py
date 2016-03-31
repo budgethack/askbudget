@@ -1,3 +1,5 @@
+import sys
+sys.path.append('..')
 import os
 import json
 
@@ -62,7 +64,7 @@ if __name__ == '__main__':
     tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
 
     # Go through each Dataset and ingest into ElasticSearch
-    for doc in settings.DOCS:
+    for doc in settings.DOCS_2014_15:
         json_path = doc.path + '.json'
         if not os.path.exists(json_path):
             print "{0} is missing. Ensure you have run the ``convert_data.py`` script first"
