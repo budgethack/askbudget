@@ -27,6 +27,11 @@ def home():
     return render_template('index.html')
 
 
+@app.route("/project")
+def project():
+    return render_template('project.html')
+
+
 @app.route("/api/post_question", methods=['POST'])
 def create_question():
     text = request.json.get('question', '')
