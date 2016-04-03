@@ -1,39 +1,22 @@
 var app = angular.module('search', ['angular-jqcloud','googlechart']);
 
-app.controller('queryListCtrl', ['$scope','$filter', '$http', function($scope, $filter, $http) {
-        $scope.question = '';
-        $scope.top_mentions;
-        $scope.related_things;
-        $scope.main_concepts;
-        $scope.related_things_words = [];
-        
-        $scope.submit = function() {
-            $http.post( 
-                'api/post_question', {
-                  'question': $scope.question
-                }
-            ).then(function successCallback(response) {
-                /* top mentions */
-                $scope.top_mentions = response.data.answer.top_mentions;
-                $scope.related_things = response.data.answer.related_things;
-                $scope.related_spend = response.data.answer.related_spend;
-                console.log(response.data.answer.main_concepts);
-                $scope.main_concepts = response.data.answer.main_concepts;
+app.controller('queryListCtrl', ['$scope','$filter', '$http', '$location', function($scope, $filter, $http, $location) {
+        $scope.answer;
+        $scope.words = [];
 
-                words = [];
-                angular.forEach($scope.related_things.keywords, function(value, key) {
-                  words.push({"text": value.name, "weight": value.count * 10});
-                });
-                $scope.related_things_words = words;
-                console.log(words);
-                $scope.chart = false;
+        $scope.sendQuestion = function() {
+          console.log($scope.question);
+            $http.post('api/post_question', {
+              'question': $scope.question
+            }).then(function successCallback(response) {
+                $scope.answer = response.data.answer;
             });
         };
         
         /* Histrogram */
         var chart1 = {};
         chart1.type = "ColumnChart";
-        chart1.cssStyle = "height:900px; width:100%;";
+        chart1.cssStyle = "height:500px; width:100%;border:1px solid red";
         chart1.data = {"cols": [
             {id: "category", label: "Year", type: "string"},
             {id: "families", label: "Families", type: "number"},
@@ -73,7 +56,6 @@ app.controller('queryListCtrl', ['$scope','$filter', '$http', function($scope, $
                 {v: 6},
                 {v: 3},
                 {v: 3}
-
             ]},
             {c: [
                 {v: "2014"},
@@ -125,23 +107,18 @@ app.controller('queryListCtrl', ['$scope','$filter', '$http', function($scope, $
         
         chart1.formatters = {};
         $scope.chart = chart1;
-        
-        //Reference: https://bouil.github.io/angular-google-chart/#/fat
+        //Reference https://bouil.github.io/angular-google-chart/#/fat
     
-        /*
-        $scope.init = function() {
-            $http.post(
-                'api/get_question',
-                {data: {"question": $scope.question }}
-            ).then(function successCallback(response) {
-                $scope.prev_question = response.data.prev_question;
-                console.log(response);
-
-            }, function errorCallback(response) {
-                
+        $http.get('/api/get_concepts').then(function successCallback(response) {
+            words = [];
+            angular.forEach(response.data.main_concepts, function(value, key) {
+              words.push({"text": value.text, "weight": value.weight, "handlers": {
+                click: function(clicked) {
+                   $scope.question = clicked.currentTarget.innerText;
+                   $scope.sendQuestion();
+               }}, "link": "#!?question=" + value.text})
             });
-        };
-        */
 
-
+            $scope.words = words;
+        });
 }]);
