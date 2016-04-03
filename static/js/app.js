@@ -17,7 +17,6 @@ app.controller('queryListCtrl', ['$scope','$filter', '$http', function($scope, $
                 $scope.top_mentions = response.data.answer.top_mentions;
                 $scope.related_things = response.data.answer.related_things;
                 $scope.related_spend = response.data.answer.related_spend;
-                console.log(response.data.answer.main_concepts);
                 $scope.main_concepts = response.data.answer.main_concepts;
 
                 words = [];
@@ -25,25 +24,7 @@ app.controller('queryListCtrl', ['$scope','$filter', '$http', function($scope, $
                   words.push({"text": value.name, "weight": value.count * 10});
                 });
                 $scope.related_things_words = words;
-                console.log(words);
             });
         };
-
-    
-        /*
-        $scope.init = function() {
-            $http.post(
-                'api/get_question',
-                {data: {"question": $scope.question }}
-            ).then(function successCallback(response) {
-                $scope.prev_question = response.data.prev_question;
-                console.log(response);
-
-            }, function errorCallback(response) {
-                
-            });
-        };
-        */
-
 
 }]);
