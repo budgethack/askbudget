@@ -19,7 +19,6 @@
 <div ng-show="answer && chart">
 
   <h3 class="subtitle">Trends over time</h3>
-
   <div ng-if="chart">
     <div google-chart chart="chart" style="{{chart.cssStyle}}"/>
   </div>
@@ -30,9 +29,8 @@
 
 <div ng-show="answer && answer.main_concepts">
   <h3 class="subtitle">You might also be interesting in...</h3>
-
-  <span ng-repeat="doc in answer.main_concepts.docs"><a ng-href="#/answer?question={{ doc.text }}">{{ doc.text }}</a>, </span>
-     <span ng-repeat="keyword in answer.related_things.keywords"><a ng-href="#/answer?question={{ keyword.name }}">{{ keyword.name }}</a><span ng-show="!$last">, </span>
-  </span>
+    <div id="word_cloud">
+      <jqcloud words="related_words" weight="600" height="300" steps="10" auto-resize="true" shape="rectangular"></jqcloud>
+    </div>
 
 </div>

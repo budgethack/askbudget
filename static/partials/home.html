@@ -1,7 +1,15 @@
-<div ng-if="words && !answer">
+<div ng-if="loading">
+    <div data-ng-show="loading" id="loading_spinner">
+        <h5>Fetching the budget data
+            <img src="/static/img/load.gif" width="150px">
+        </h5>
+    </div>
+</div>
 
-  <div id="word_cloud">
-    <jqcloud words="words" weight="600" height="300" steps="10" auto-resize="true" shape="rectangular"></jqcloud>
-  </div>
+<div ng-if="!loading">
+    <div id="word_cloud">
+
+        <jqcloud words="words" weight="600" height="300" steps="10" auto-resize="true" shape="rectangular"></jqcloud>
+    </div>
 
 </div>

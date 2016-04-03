@@ -1,0 +1,356 @@
+{
+    "source_document_id": "", 
+    "media_type_detected": "application/pdf", 
+    "timestamp": "2016-04-03T09:19:40.933Z", 
+    "warnings": [], 
+    "answer_units": [
+        {
+            "direction": "ltr", 
+            "title": "Victorian Budget 2014|15", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h2", 
+            "id": "40d60bfa-b5f2-46e4-8c96-0c8b9353c2df"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Building a Better Victoria", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h1", 
+            "id": "604e91aa-756a-4377-a640-650fc33ffa95"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Treasurer's Speech", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Budget Paper No. 1 Presented by The Hon. Michael O'Brien MP Treasurer of the State of Victoria The Secretary Department of Treasury and Finance 1 Treasury Place Melbourne Victoria, 3002 Australia Telephone: +61 3 9651 5111 Facsimile: +61 3 9651 2062 Website: budget.vic.gov.au Authorised by the Victorian Government 1 Treasury Place, Melbourne, 3002 Printed by On Demand, Port Melbourne This publication makes reference to the 2014-15 Budget Paper set which includes: Budget Paper No. 1 - Treasurer's Speech Budget Paper No. 2 - Strategy and Outlook Budget Paper No. 3 - Service Delivery Budget Paper No. 4 - State Capital Program Budget Paper No. 5 - Statement of Finances (incorporating Quarterly Financial Report No. 3) ((c)) State of Victoria 2014 This work, 2014-15 Budget Paper No. 1 Treasurer's Speech , is licensed under a Creative Commons Attribution 3.0 Australia licence. You are free to re-use the work under that licence, on the condition that you credit the State of Victoria (Department of Treasury and Finance) as author and comply with the other licence terms. The licence does not apply to any images, photographs or branding, including the Victorian Coat of Arms, the Victorian Government logo and the Department of Treasury and Finance logo. Copyright queries may be directed to IPpolicy@dtf.vic.gov.au ISSN 1440-6969"
+                }
+            ], 
+            "parent_id": "604e91aa-756a-4377-a640-650fc33ffa95", 
+            "type": "h2", 
+            "id": "bd32d428-9fac-4e14-9ad7-b50e54cfc890"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "VICTORIA", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "bd32d428-9fac-4e14-9ad7-b50e54cfc890", 
+            "type": "h3", 
+            "id": "a3e4c2bc-790c-44b8-9d9f-9145d28f7352"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "BUDGET SPEECH", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Delivered on 6 May 2014 by The Hon. Michael O'Brien MP Treasurer of the State of Victoria In accordance with Section 28 of the Charter of Human Rights and Responsibilities Act 2006 , I table a statement of compatibility for the Appropriation (2014 - 15) Bill. Speaker - I move that this Bill be now read a second time."
+                }
+            ], 
+            "parent_id": "604e91aa-756a-4377-a640-650fc33ffa95", 
+            "type": "h2", 
+            "id": "92c5cc9c-30bd-495e-987a-640acefc9106"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "INTRODUCTION", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The budget I hand down today lays out the most ambitious infrastructure agenda seen in this state for decades. It delivers transformational projects that will connect and grow Victoria like never before. In doing so, this budget will build a better Victoria with job-creating infrastructure and stronger local communities. It builds on the difficult but necessary decisions we have made in each of our four budgets to bring and keep government spending under control. It builds on our measures to reduce red tape, grow the economy and create more jobs. It builds on our record investments in health, in education and in regional Victoria to support our growing population. This budget of the Napthine Coalition Government delivers an infrastructure investment program of up to $27 billion that will shape Victoria for the next decade and beyond. Over the past three-and-a-half years the Coalition Government has restored Victoria's budget from the structural deficit we inherited to the strongest state finances in Australia. Restoring Victoria's finances has been very challenging. If budget surpluses were easy in the current economic conditions, everybody would have them. While some would opportunistically oppose the measures necessary to strengthen our finances, we are determined to keep Victoria strong."
+                }
+            ], 
+            "parent_id": "92c5cc9c-30bd-495e-987a-640acefc9106", 
+            "type": "h4", 
+            "id": "5fd99c26-93d5-40c3-a4b3-f58160ee153a"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "ECONOMIC OVERVIEW", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Low interest rates, improved consumer and business sentiment and an improved global outlook will, along with our policy settings and infrastructure investment, drive economic growth over the near term. As the investment phase of the mining boom recedes in favour of the less labour intensive production phase, Victoria is well placed to benefit from emerging drivers of economic growth. As measured by gross state product (GSP), economic growth is forecast to be 2.5 per cent in 2014-15, and 2.75 per cent thereafter. Unemployment is expected to remain stable at 6.25 per cent in 2014-15, before falling to 5.5 per cent by 2017-18. This demonstrates the resilience of Victoria's economy and its capacity to adapt to changing circumstances and structural adjustments. Since the Coalition Government came to office more than 60 000 new jobs have been created in Victoria and we have the lowest regional unemployment rate in the country, notwithstanding a participation rate that is higher than any other non-mining state. Population growth is forecast to be 1.8 per cent a year over the forward estimates, continuing to generate economic activity in the housing sector."
+                }
+            ], 
+            "parent_id": "92c5cc9c-30bd-495e-987a-640acefc9106", 
+            "type": "h4", 
+            "id": "6c298cfa-ce0d-4683-893e-315efd8016da"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "STRONGER FINANCES", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The 2014-15 Budget will deliver an operating surplus of $1.3 billion in 2014-15 growing to $3.3 billion by 2017-18. Net debt will fall from 6.3 per cent of GSP in 2014-15 to just 4.5 per cent in 2017-18. Victoria stands alone as the only government in Australia - federal, state or territory - to be forecasting operating surpluses over the next four years. These strong operating surpluses are critical to Victoria's future. They fund our major infrastructure investments without having to resort to unsustainable debt. These surpluses are not there to be frittered away by those who cannot otherwise fund their election promises. Victorians should understand that maintaining these strong surpluses is crucial to delivering this transformational infrastructure. Victoria has a triple-A credit rating - the strongest of any state - reflecting the Government's efforts to prudently manage net debt and resulting in lower interest costs. Key to responsible financial management is ensuring that expenses growth is limited and sustainable. The budget forecasts expenditure growth of 2.8 per cent in 2014-15 and 2.6 per cent per year on average across the forward estimates. This contrasts with the average expenditure growth in the decade to 2009-10; an unsustainable 8 per cent per year. By limiting expenses growth the budget can deliver strong and growing surpluses across the forward estimates. By 2015-16, net infrastructure spending will be fully funded by cash from operations rather than debt."
+                }
+            ], 
+            "parent_id": "92c5cc9c-30bd-495e-987a-640acefc9106", 
+            "type": "h4", 
+            "id": "e8fa369f-195f-4081-9a07-acacd32231ea"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "BUILDING FOR THE FUTURE", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Coalition Government will continue to act decisively to keep the economy strong, because that is the best way to generate new jobs, investment and a better quality of life for all Victorians. We are determined that Victoria be a great place to grow a business and create more jobs. I am therefore pleased to announce that from 1 July 2014, the rate of payroll tax will be reduced from 4.9 per cent to 4.85 per cent, saving Victorian businesses around $234 million over four years. This measure, which benefits around 39 000 Victorian employers, confirms Victoria as having the second lowest rate of payroll tax in Australia. Indeed, for payrolls between $4.7 million and $26.7 million, Victoria will have the lowest effective payroll tax rate of any jurisdiction in the country. In addition to this payroll tax cut, I announce that from 1 July 2014 the duty payable on life insurance in Victoria will be abolished entirely, saving consumers $16 million over four years. This quarter of a billion dollars in tax relief is a dividend of good economic management. From 1 September 2014, eligible Victorian first homebuyers will see the stamp duty concession rise from 40 per cent to 50 per cent, further supporting families and our building and construction industry."
+                }
+            ], 
+            "parent_id": "92c5cc9c-30bd-495e-987a-640acefc9106", 
+            "type": "h4", 
+            "id": "b2cce4a2-2683-4c02-89cc-ee33ce9fed92"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "ASSET RECYCLING", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Commonwealth Government's asset recycling initiative provides financial incentives for jurisdictions to divest assets so the proceeds can bring forward the funding of new, productive infrastructure. Consistent with this initiative, the Coalition Government has determined to enter into a medium-term lease over the Port of Melbourne's operations and to divest the business of the Rural Finance Corporation (RFC). The lease of the Port of Melbourne's operations is part of the Government's integrated ports strategy and will support the development of the Port of Hastings as Melbourne's second major port. The decision to divest the RFC business recognises that, in the 21st century, the core business of governments is not to own and operate retail financial institutions. This comes 24 years after a former Labor Government sold the State Bank of Victoria in 1990. Net proceeds from RFC's sale will be earmarked for productive new infrastructure in rural and regional Victoria."
+                }
+            ], 
+            "parent_id": "92c5cc9c-30bd-495e-987a-640acefc9106", 
+            "type": "h4", 
+            "id": "4581216d-674d-4415-b2f4-fcb950aea712"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "STATE-SHAPING INFRASTRUCTURE TO BUILD A BETTER VICTORIA", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The 2014-15 Budget delivers a record infrastructure program of up to $27 billion that supports thousands of new jobs and will dramatically transform the way people, goods and services move throughout Victoria. There are those who suggest that Victorians must choose between investing in better public transport or better roads. This is a nonsensical proposition; they may as well ask Victorians to choose between breathing in or breathing out. The fact is, with a large and growing population, we must invest in better public transport and better roads to ensure that Victoria maintains the liveability that makes us the envy of many."
+                }
+            ], 
+            "parent_id": "92c5cc9c-30bd-495e-987a-640acefc9106", 
+            "type": "h4", 
+            "id": "4da12e3d-c24d-4e2a-8a9b-d5cd74d5d351"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Melbourne Rail Link", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Almost half a century ago, the Bolte Government had the vision and foresight to plan and commence construction of the City Loop underground rail tunnel, which revolutionised travel from the suburbs into the CBD. While successive governments have made piecemeal improvements to the network, no government has undertaken an expansion of the scale I am announcing today. Speaker, it will be the Napthine Government that will now fund and build the next chapter in the metropolitan rail network - the Melbourne Rail Link (MRL) at a cost of $8.5-$11 billion. Linking Melbourne's north and south, the MRL includes a new rail tunnel from Southern Cross Station to South Yarra via Fishermans Bend, with new underground stations at Domain and Montague. Two new platforms will be constructed at Southern Cross and South Yarra Stations. This project will remove bottlenecks and untangle the central rail network which is nearing capacity. The MRL will increase the metropolitan rail network's capacity by 30 per cent and enable 30 additional peak hour services. With $830 million provided in this budget, Victorians will see the commencement of early construction in mid-2016 and major construction in mid-2017. The project is expected to create up to 3 700 new jobs at its peak. The MRL includes the Airport Rail Link, which will provide a mass transit option for the 30 million passengers each year who currently use Melbourne Airport. This number is expected to rise to over 60 million by 2034. This project will deliver an electrified rail service on dedicated tracks from Melbourne Airport to Albion where it will join the existing rail network and run through to Southern Cross Station."
+                }
+            ], 
+            "parent_id": "92c5cc9c-30bd-495e-987a-640acefc9106", 
+            "type": "h4", 
+            "id": "59a41c87-b110-4835-9da4-d397526172c1"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "East West Link - Western Section", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "In the 2013-14 Budget I announced the Coalition Government would build the first stage of the East West Link as a vital road link between the end of the Eastern Freeway at Hoddle Street and CityLink at Parkville. One year on and in the 2014-15 Budget , the Coalition Government is now funding planning and construction of the $8-$10 billion Western Section which completes the full East West Link. East West Link - Western Section will join the Eastern Section and provide access to the Western Ring Road via a mixture of tunnel, viaduct and freeway-grade roads. This project will relieve chronic traffic congestion across Melbourne's inner north and west, further develop transport links for the western suburbs, and provide travellers from the regional centres of Geelong and Ballarat with an alternative to the West Gate Bridge. It will enhance Victoria's position as the freight and logistics hub of Australia, and vastly reduce the vulnerability of the transport network to unexpected road closures and incidents on the M1 corridor. Supported by a $1.5 billion grant from the Commonwealth Government, construction of the Western Section is expected to commence by late 2015 and will create around 3 000 jobs at its peak."
+                }
+            ], 
+            "parent_id": "92c5cc9c-30bd-495e-987a-640acefc9106", 
+            "type": "h4", 
+            "id": "e421cbbb-0b20-420d-8972-7829ef89877f"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Cranbourne-Pakenham Rail Corridor", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Melbourne's south-east is home to more than one million people, as well as one of the largest concentrations of jobs outside the CBD. The Coalition Government will give this corridor a significant boost in the 2014-15 Budget by delivering the $2-$2.5 billion Cranbourne-Pakenham Rail Corridor project. The project will eliminate four level crossings, fund planning for the removal of a further five, deliver 25 next-generation trains, new stations and high-capacity signalling to boost capacity on the line by around 30 per cent. The project will also benefit V/Line passengers from Gippsland, providing a more reliable journey through the metropolitan area. The Cranbourne-Pakenham Rail Corridor is the first project to be progressed under the Government's new unsolicited proposal guideline."
+                }
+            ], 
+            "parent_id": "92c5cc9c-30bd-495e-987a-640acefc9106", 
+            "type": "h4", 
+            "id": "49189037-6a8c-46ce-8298-8a84d66afa29"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "CityLink - Tulla Widening", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "In addition to a commitment to building the East West Link - Western Section and a new Airport Rail Link, the Coalition Government will oversee an $850 million widening of CityLink, including additional lanes from the Bolte Bridge to Melrose Drive on the Tullamarine Freeway. This project will increase traffic capacity by around 30 per cent and reduce travel times from the West Gate Freeway to Melbourne Airport by around 16 minutes in the peak, providing a productivity boost to business, freight and commuters. This project, financed by Transurban, will create around 700 jobs at its peak."
+                }
+            ], 
+            "parent_id": "92c5cc9c-30bd-495e-987a-640acefc9106", 
+            "type": "h4", 
+            "id": "862d069e-2b38-46ce-b7a8-65c53bb0f7e4"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Level Crossing Removals", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Coalition Government understands that eliminating level crossings delivers significant benefits to all Victorians, increasing productivity, reducing accidents and providing a better quality of life. Since coming to office, the Government has provided around $1.8 billion to remove or start planning for a program of 40 level crossing removals and grade separations - the largest such initiative on record. Five level crossings have already been removed or significantly progressed at Springvale Road, Springvale, Mitcham and Rooks roads, Mitcham, and at Anderson Road north and Anderson Road south at Sunshine. The 2014-15 Budget provides in excess of $1 billion to remove a further eight level crossings at Ormond, Blackburn, Glen Iris and St Albans with four level crossings at Murrumbeena, Carnegie and Clayton being part of the Cranbourne-Pakenham Rail Corridor project."
+                }
+            ], 
+            "parent_id": "92c5cc9c-30bd-495e-987a-640acefc9106", 
+            "type": "h4", 
+            "id": "2b821dbd-d46b-408e-b9fc-4debbb405b23"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Further transport initiatives", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Public transport travel will be more affordable under the Coalition Government. From 1 January 2015, tram travel will be free within Melbourne's CBD and Docklands, while bus, train and tram commuters will be able to travel in Zone 1 and 2 for the price of a Zone 1 fare, reducing cost of living pressures by saving Zone 1 and 2 daily commuters up to $1 200 a year. From 2015, the Government will provide subsidised travel on public transport for eligible international students in partnership with higher education providers. This will enhance Victoria's reputation as a leading international student destination. Construction of a new station at Southland Shopping Centre will commence this year, easing congestion at neighbouring stations and improving access to the bus interchange and shopping precinct."
+                }
+            ], 
+            "parent_id": "92c5cc9c-30bd-495e-987a-640acefc9106", 
+            "type": "h4", 
+            "id": "4aaa1c3c-e342-4ba5-b651-2c12ba114e78"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Rural and regional transport initiatives", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Rural and regional Victoria will also benefit from major road and rail infrastructure investment. In a major boost for rural and regional Victoria, the Coalition Government is investing up to $220 million on the Murray Basin Rail Project; a transformational rail project that will deliver far more efficient movement of freight from the State's west. This long-awaited investment will deliver modern rail infrastructure and transform Victoria's freight network, improving productivity and enhance access to the ports of Geelong, Portland and Melbourne for Victorian exporters. Rural and regional Victorians will also benefit from the progressive opening of the Regional Rail Link project, which has been successfully turned around by the Coalition Government. This budget provides $362 million for the duplication of 37 kilometres of the Princes Highway between Winchelsea and Colac, supporting around 250 jobs at its peak. A further $42 million has been allocated to the Princes Highway East including new overtaking lanes between Nowa Nowa and Orbost and an upgrade to the Sand Road interchange near Drouin. In addition to road maintenance and restoration funding of more than half a billion dollars in 2014-15 - a figure over $120 million more than the comparable budget allocation in 2010 - this budget provides a $50 million regional roads package which will focus on removing regional road-freight bottlenecks, increasing capacity and safety. $3.6 million has also been allocated in 2014-15 for planning, project development and the preparation of business cases for the Drysdale bypass, Westall Road extension, Edgars Road extension in Epping and a northern extension of the Mornington Peninsula Freeway to bypass Mordialloc."
+                }
+            ], 
+            "parent_id": "92c5cc9c-30bd-495e-987a-640acefc9106", 
+            "type": "h4", 
+            "id": "d5a1f187-d326-4ddf-808c-4f4e4b48fc94"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "INVESTING IN OUR FUTURE", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Victoria is well positioned to take advantage of new markets to drive economic growth. The 2014-15 Budget invests $17.8 million over three years in the Global Health Melbourne Plan to help leverage Victoria's competitive advantage in health and medical research through increased exports of health-related products and services. The budget also allocates $4 million for the implementation of the Victorian coal development strategy to drive economic development and potential new export markets for Latrobe Valley coal. $30.2 million has been allocated for Stage 1 of the Ballarat West Employment Zone to stimulate growth in this regional centre. In line with the Coalition Government's strategy to actively seek new opportunities for Victorian industry, $8.7 million has been allocated to assist local defence and national security companies to target major defence projects. The $1 billion Regional Growth Fund has now provided almost $400 million in direct funding support for regional projects, generating over $1.6 billion of total investment across more than 1 400 projects to create strong vibrant cities and country communities. This budget also invests $35 million to increase the volume and value of regional Victoria's food exports through the Government's Food and Agriculture into Asia plan. Funding to further develop Melbourne as a sport and events destination and to develop key Victorian export markets is designed to capitalise on the success of the Government's Super Trade Mission agenda. These measures include: \u2022 more than $366 million for stage two of the Melbourne Park redevelopment, including a new pedestrian bridge over Batman Avenue; \u2022 $13 million to attract new air services from priority international markets; \u2022 $1.2 million to open a Victorian Government Business Office in South Korea, building on the new Free Trade Agreement recently signed between the two countries; and \u2022 $17 million for marketing activities, advertising campaigns and partnerships to promote Melbourne and $14 million in continued support to increase visitation for regional Victoria."
+                }
+            ], 
+            "parent_id": "92c5cc9c-30bd-495e-987a-640acefc9106", 
+            "type": "h4", 
+            "id": "88b324d9-1e17-4dca-9698-255630c737b2"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "STRENGTHENING HEALTHCARE AND COMMUNITY SERVICES", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Coalition Government is investing in key social infrastructure projects to secure Victoria's prosperity and deliver the services our growing population needs. Total additional funding for the health portfolio over the next four years is $1.2 billion, plus an additional $223 million in new capital projects. This includes an additional $190 million to boost elective surgery. Victoria's health system continues to lead the nation in providing responsive, integrated and innovative health care options. Major regional health initiatives announced in this budget include: \u2022 $73 million for the Latrobe Regional Hospital to increase capacity and responsiveness, as well as lifting the number of specialist services on offer to the local community; \u2022 $28 million for the Barwon Health - North health hub to deliver a range of community-based services to cater for growing demand; \u2022 $14 million for the Boort Hospital redevelopment; \u2022 over $8 million to expand mental health services across Warrnambool and Mildura; and \u2022 $60 million to replace and improve medical equipment and statewide infrastructure. These build on current Coalition Government health projects including the $250 million Monash Children's Hospital, the $448 million Box Hill Hospital redevelopment, the $1 billion Victorian Comprehensive Cancer Centre in Parkville and the largest regional health project in Australia - the new $630 million Bendigo Hospital. The Napthine Coalition Government has increased support for the most vulnerable in the community and the 2014-15 Budget builds on that record. Over the next four years the Coalition Government will spend almost $100 million to boost services for people with a mental illness. In addition, $121 million has been allocated for additional individual support packages for Victorians with a disability. The budget also provides $25 million over three years to establish the headquarters of the National Disability Insurance Agency in Geelong, creating 300 jobs. This budget funds diversion responses for young people at risk of entering the youth justice system at a cost of $17 million and allocates $34.9 million over four years to address the harms of ice and other drugs in the community. We will also contribute $4.5 million to protect women and children at high risk of family violence, because there is no place - and no excuse - for family violence in our community."
+                }
+            ], 
+            "parent_id": "92c5cc9c-30bd-495e-987a-640acefc9106", 
+            "type": "h4", 
+            "id": "d66c06ec-5d6b-4383-92c9-133effb7b426"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "RECORD EDUCATION INVESTMENT", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Speaker, this generation of Victorian school children will be tomorrow's leaders. The Coalition Government is investing in their future to build a stronger Victoria. The budget delivers an additional $1.6 billion over five years to deliver high-quality education, in addition to state funding growth of $1.2 billion. This funding boost contributes to the Coalition Government's commitment to providing $5.4 billion in additional funding over six years. We recognise the importance of providing modern, vibrant learning environments which is why this budget includes $500 million for: \u2022 new schools in growing communities; \u2022 upgrades for existing schools; and \u2022 land acquisitions to meet demand for new schools in growth corridors. Twelve new schools will be delivered, including 11 through public private partnerships (PPP), to provide better local access and learning facilities in growing communities across Victoria. PPPs involve the private sector designing, building and maintaining schools, freeing up educational staff to focus on quality learning. Using PPPs as the delivery method enables principals to be educational leaders, rather than 'handyman-in-chief'. The Government remains committed to support students with disabilities and their families. More than $270 million has been allocated over the next four years in additional funding to government schools to support students with moderate to severe disabilities. Students attending specialist schools will benefit from new funding to provide transport assistance. This Government believes that better education outcomes are not as simple as merely spending more money. That is why we have implemented reforms to Victoria's education system to give school principals more autonomy over safety and discipline, improvements in teacher training and recruitment, as well as a greater emphasis on professional development."
+                }
+            ], 
+            "parent_id": "92c5cc9c-30bd-495e-987a-640acefc9106", 
+            "type": "h4", 
+            "id": "c99394b4-597c-4908-9df2-1d88ceaa23d1"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Vocational Education and Training", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Coalition Government also recognises the need to invest in skills and training. Since coming to office, the number of government subsidised enrolments in vocational education and training has grown by more than 50 per cent. The Government's subsidies to students in training has likewise increased and is now $1.2 billion a year, compared to a budget of a little over $800 million in the former government's last year. Our reforms have led to students undertaking fewer lifestyle courses in favour of more job-ready training. In this budget, on top of the $1.2 billion investment in skills training, the Coalition Government will be investing $30 million over two years to retrain employees in the automotive sector and the supply chain. This Government's strong economic management and infrastructure program will create thousands of new jobs. We will invest in skills and training to ensure that those workers whose industries are in transition have access to the support they need to take advantage of the many job opportunities to come."
+                }
+            ], 
+            "parent_id": "92c5cc9c-30bd-495e-987a-640acefc9106", 
+            "type": "h4", 
+            "id": "56e5c48f-9c11-4afa-b0fa-5d3363545c71"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "PROTECTING A GROWING VICTORIA", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Speaker, the Coalition Government was elected on a clear platform of making Victorian communities safer and we are delivering on that commitment. By November this year there will be an extra 1 700 police on our streets and 940 Protective Service Officers to patrol metropolitan and major regional train stations from 6pm every evening across the network. These measures, combined with reforms to the justice system, are helping to build a safer Victoria. The 2014-15 Budget builds on the comprehensive community safety package provided over the past three years. Specific initiatives include: \u2022 $447 million for prison capacity expansion to support the Coalition Government's parole reforms and to keep pace with population growth; \u2022 $73 million to redevelop Shepparton's court precinct into a new multi-jurisdictional court complex; and \u2022 $33 million in funding for a new police station in Echuca, the relocation of the St Kilda Road Police Station and the development of a new emergency services precinct in Ballarat West. More than $13 million has been allocated to equip first response operational units at 24-hour regional police stations with 580 Taser stun gun devices. The budget provides $457 million in 2014-15 for the Country Fire Authority, and funding over four years for 78 new vehicles and over $20 million to replace respiratory protection equipment. The Metropolitan Fire Brigade will receive $326 million, a rise of 3.1 per cent from 2013-14."
+                }
+            ], 
+            "parent_id": "92c5cc9c-30bd-495e-987a-640acefc9106", 
+            "type": "h4", 
+            "id": "62712c54-cfb3-4a78-be63-74282074a220"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "ENVIRONMENT", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The 2014-15 Budget continues the Coalition Government's commitment to protecting our environment. New funding will be provided to the Environment Protection Authority's Illegal Dumping Strike Force which is tasked with gathering intelligence to measure, track and respond to illegal dumping. The Government will also contribute $11.6 million for pre-formed incident management teams to ensure local communities are better protected on days of high bushfire danger. This initiative delivers on a recommendation of the Victorian Bushfires Royal Commission. Other measures include: \u2022 $13.4 million to boost national park assets; and \u2022 the establishment of a conservation area within Yellingbo Nature Conservation Reserve to protect rare and endangered fauna including the Helmeted Honeyeater and Leadbeater's Possum."
+                }
+            ], 
+            "parent_id": "92c5cc9c-30bd-495e-987a-640acefc9106", 
+            "type": "h4", 
+            "id": "07d2c117-ddbb-4b8e-9622-7e683384ba17"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "SUPPORTING ARTS, CULTURE AND HERITAGE", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The 2014-15 Budget secures Victoria's reputation as an arts and cultural leader. The Government's $45 million arts funding commitment - in addition to core arts spending of more than $470 million - will preserve our cultural heritage while also building for the future. This will protect the State's much loved cultural assets, support the creation of new work, and bring the arts to more Victorians. Initiatives include: \u2022 a $16.4 million building upgrade and maintenance package for Arts Centre Melbourne and the National Gallery; \u2022 $3 million to Museum Victoria to continue its successful program of renewal of the permanent exhibition spaces, including the development of new children's exhibitions; and \u2022 $5 million for the Arts and Cultural Facilities Maintenance Fund, which supports essential maintenance works at State-owned arts facilities. In 2014-15, Australia will commemorate the 100th anniversary of the Gallipoli campaign; a defining moment in the history of this state and nation. The Coalition Government is providing $6 million for Anzac Centenary commemorative activities."
+                }
+            ], 
+            "parent_id": "92c5cc9c-30bd-495e-987a-640acefc9106", 
+            "type": "h4", 
+            "id": "5813bd56-33bd-4d1c-a296-296f95660689"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "CONCLUSION", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Speaker, in November 2010 Victorians elected a Coalition Government to fix the problems and build for the future. Three-and-a-half years later, we have stayed true to that commitment and capably managed the State's finances in challenging times. We have ended the unsustainable growth in government expenses, refocused the public sector on frontline services and provided the right framework to support business and grow the economy. The Napthine Coalition Government has demonstrated that it can manage Victoria's finances and it can manage major projects. It is the strength of Victoria's finances, alone amongst the states, which now provides the basis for an infrastructure program that will connect and grow Victoria like never before. Building Melbourne Rail Link and the Airport Rail Link, completing the East West Link, eliminating more level crossings, upgrading the Cranbourne-Pakenham Rail Corridor, the CityLink - Tulla widening, and delivering the Murray Basin Rail Project will create benefits that will endure for decades to come. This budget builds on our record of delivery for the Victorian community over the past three-and-a-half years. This budget builds stronger services to ensure more Victorians are safer, healthier and better educated. This budget builds a once-in-a-generation infrastructure program of up to $27 billion that will create thousands of new jobs, grow our economy, drive productivity and secure our quality of life. This budget will build a better Victoria. I commend the Bill to the House. If you would like to receive this publication in an accessible format please telephone 9651 0909 or email information@dtf.vic.gov.au. 2014-15 Victorian Budget Treasurer's Speech Budget Paper No. 1 budget.vic.gov.au"
+                }
+            ], 
+            "parent_id": "92c5cc9c-30bd-495e-987a-640acefc9106", 
+            "type": "h4", 
+            "id": "3cf173a1-cfdf-4e22-bd4d-94c08c3c1b9b"
+        }
+    ], 
+    "metadata": [
+        {
+            "content": "Deidre Steain", 
+            "name": "author"
+        }, 
+        {
+            "content": "2014-05-04", 
+            "name": "publicationdate"
+        }
+    ]
+}

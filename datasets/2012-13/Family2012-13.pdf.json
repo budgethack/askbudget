@@ -1,0 +1,798 @@
+{
+    "source_document_id": "", 
+    "media_type_detected": "application/pdf", 
+    "timestamp": "2016-04-03T09:34:06.073Z", 
+    "warnings": [], 
+    "answer_units": [
+        {
+            "direction": "ltr", 
+            "title": "Victorian Budget", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h2", 
+            "id": "6815b9fa-c61d-47ff-a624-2a79965d27d8"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "2012-13 Victorian Families", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Budget Information Paper No. 2 The Secretary Department of Treasury and Finance 1 Treasury Place Melbourne, Victoria, 3002 Australia Telephone: +61 3 9651 5111 Facsimile: +61 3 9651 5298 Website: www.budget.vic.gov.au Authorised by the Victorian Government 1 Treasury Place, Melbourne, 3002 Printed managed by Finsbury Green, Level 9, 124 Exhibition Street, Melbourne 3000 This publication makes reference to the 2012-13 Budget Paper set which includes: Budget Paper No. 1 - Treasurer's Speech Budget Paper No. 2 - Strategy and Outlook Budget Paper No. 3 - Service Delivery Budget Paper No. 4 - State Capital Program Budget Paper No. 5 - Statement of Finances (incorporating Quarterly Financial Report No. 3) ((c)) Copyright State of Victoria 2012 This book is copyright. No part may be reproduced by any process except in accordance with the provisions of the Copyright Act 1968 . ISSN 1440-6969 Published May 2012"
+                }
+            ], 
+            "parent_id": "6815b9fa-c61d-47ff-a624-2a79965d27d8", 
+            "type": "h3", 
+            "id": "9063b663-0d72-4c24-b76a-116476019daf"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Victorian Budget", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h1", 
+            "id": "dc2de7e1-3a1e-4760-8aea-cfc58f07bd29"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "2012-13 Victorian Families Statement", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h1", 
+            "id": "35681869-ed89-44cf-bc41-59a058382c74"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Budget Information Paper No. 2", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "35681869-ed89-44cf-bc41-59a058382c74", 
+            "type": "h3", 
+            "id": "2c6a61b8-2b0e-4367-b520-450a9c25206b"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "TABLE OF CONTENTS", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "35681869-ed89-44cf-bc41-59a058382c74", 
+            "type": "h2", 
+            "id": "3e9278a7-df6c-4719-81b3-da9a16506814"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Foreword ....................................................................................................... 1", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "3e9278a7-df6c-4719-81b3-da9a16506814", 
+            "type": "h4", 
+            "id": "349e071e-1830-4740-8acf-166808bfc066"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Families and the economy .............................................................................. 3", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "A focus on service delivery ....................................................................................................... 4 Better, more responsive services .............................................................................................. 5 Sustainable infrastructure funding to boost jobs and investment ........................................... 5"
+                }
+            ], 
+            "parent_id": "3e9278a7-df6c-4719-81b3-da9a16506814", 
+            "type": "h4", 
+            "id": "864d3513-7954-4c67-9f3b-67dc36384fd6"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Helping families ............................................................................................. 6", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Building health infrastructure and services .............................................................................. 7 Investing in skills, education and early childhood development .............................................. 7 Protecting Victoria's vulnerable children .................................................................................. 9 Supporting people with disabilities and their carers .............................................................. 13 Improving outcomes in mental health .................................................................................... 15 A new approach to public housing and homelessness ........................................................... 16 Rebuilding communities ......................................................................................................... 17"
+                }
+            ], 
+            "parent_id": "3e9278a7-df6c-4719-81b3-da9a16506814", 
+            "type": "h4", 
+            "id": "1ed6b101-c6c5-470f-a5e7-2ae3c7912c59"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Improving safety for families ........................................................................ 19", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Strengthening policing ............................................................................................................ 19 Cracking down on crime ......................................................................................................... 20 Crime prevention and community safety ............................................................................... 21 Reducing alcohol-related harm ............................................................................................... 21 Corrections and youth justice ................................................................................................. 22 Protection from family violence ............................................................................................. 22 Protecting children.................................................................................................................. 23 Preparing for future disasters ................................................................................................. 24"
+                }
+            ], 
+            "parent_id": "3e9278a7-df6c-4719-81b3-da9a16506814", 
+            "type": "h4", 
+            "id": "233fc10c-a233-4e9e-a70b-31ca592c9277"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Budget output initiatives to support Victorian families ................................. 25", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Protecting Victoria's Vulnerable Children ............................................................................... 25 Business and Innovation ......................................................................................................... 29 Education and Early Childhood Development ........................................................................ 30 Health ...................................................................................................................................... 31 Human Services....................................................................................................................... 34 Justice ..................................................................................................................................... 36 Planning and Community Development ................................................................................. 37 Premier and Cabinet ............................................................................................................... 38 Primary Industries ................................................................................................................... 39 Transport ................................................................................................................................ 39"
+                }
+            ], 
+            "parent_id": "3e9278a7-df6c-4719-81b3-da9a16506814", 
+            "type": "h4", 
+            "id": "2e0597fb-63d1-434c-9d0d-f2b40ee6b07d"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Table of contents", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "(continued)"
+                }
+            ], 
+            "parent_id": "3e9278a7-df6c-4719-81b3-da9a16506814", 
+            "type": "h4", 
+            "id": "a280efb9-6d90-4141-beba-3d12ae21c942"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Budget asset initiatives to support Victorian families .................................... 41", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Protecting Victoria's Vulnerable Children ............................................................................... 41 Business and Innovation ......................................................................................................... 41 Education and Early Childhood Development ........................................................................ 41 Health ...................................................................................................................................... 41 Human Services....................................................................................................................... 42 Justice ..................................................................................................................................... 42 Premier and Cabinet ............................................................................................................... 42 Transport ................................................................................................................................ 42"
+                }
+            ], 
+            "parent_id": "3e9278a7-df6c-4719-81b3-da9a16506814", 
+            "type": "h4", 
+            "id": "47ade514-bdb0-4a4b-82bc-e2a980f61109"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "FOREWORD", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Families are the foundation of our society, providing great support and comfort. From the outset, this Government has placed the concerns and needs of families at the heart of what we do. Over the last year, the Government has been listening to Victorians about what is important to them. The aspirations people have for their families are powerful. They share a vision in which all Victorians enjoy a high standard of living and are part of safe, secure communities. Victorian families rightfully have high expectations of government. They expect it to focus its efforts and resources on quality, responsive frontline services. At the same time, families expect these services to be provided effectively and efficiently: the Government must live within its means, be mindful of the cost of living and minimise the burden on future generations. A strong, productive economy is fundamental to the wellbeing of our families and children. It will help generate jobs and investment and provide the economic security that allows families to contribute to their wider community and plan confidently for the future. It is only by getting these fundamentals right that the Government can provide the services that Victorians need and expect. Victorians can rightly be proud of our State's highly-skilled workforce, competitive business environment, diverse economy and liveable cities and regions. These strengths augur well for our State's economic future and position Victoria to benefit from global economic opportunities. In the short-term, however, our economy faces challenges. These are caused by global and national macroeconomic factors resulting in a high Australian dollar, a large one-off shift in investment patterns and a fall in consumer and business confidence. These forces are placing real pressure on Victorian employment, small business and industry. For the State, these challenges are made more difficult to address by past unsustainable spending and substantially reduced Commonwealth revenues. This Government is addressing these challenges through a budget that is: financially responsible; provides economic confidence; and secures our State's future prosperity while responding realistically to a tough economic environment. Despite these challenging economic times, the 2012-13 Budget prioritises frontline services. The Government has worked hard to maintain critical health services. It continues significant expenditure on education and skills, as well as measures that protect the most vulnerable in our society. The budget also invests substantially in infrastructure to boost jobs and investment. The Government is listening to Victorian families. By focusing on better-quality and more responsive services, competitive taxation and new infrastructure, this budget supports Victorian families to reach their potential, even during challenging times. Ted Baillieu Premier"
+                }
+            ], 
+            "parent_id": "3e9278a7-df6c-4719-81b3-da9a16506814", 
+            "type": "h4", 
+            "id": "639fb97d-30c5-476e-a781-750013dc6e31"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "FAMILIES AND THE ECONOMY", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "A strong and vibrant economy is fundamental to the wellbeing of our families and children. Victoria has a diverse and flexible economy that is founded on the State's strengths. Melbourne's large pool of skilled labour and world-class liveability make Victoria an attractive location for knowledge-based industries. Victoria is Australia's leading knowledge state, as well as an internationally recognised centre of excellence in medical research and the biosciences. At the same time, Victoria leads the nation in agriculture, with food and fibre exports growing by 19 per cent last year. Its regional centres offer an attractive and affordable lifestyle, often within close proximity to Melbourne. These are the some of the key economic sectors that are in growing demand by Asia's emerging middle classes as our region continues to develop: a trend which will last long beyond the current phase of the mining boom. Victorians can be optimistic about our State having a prosperous and productive economy into the future, if we address the challenges of today to secure our State's future prosperity. Nonetheless, in the short-term our economy faces challenges. Declining global and national economic conditions, the high Australian dollar and their impact on consumer and business confidence are placing pressure on households, small business and industry. Trade-exposed sectors and regions are particularly affected. These pressures are being exacerbated by national policies, including the carbon tax, that increase the cost of living for households and increase business costs. This reduces the competitiveness of sectors such as manufacturing and small business, both of which are heavily exposed to price and export competition. The State faces additional challenges. These include declining goods and services tax (GST) revenue, a weaker State tax outlook and other pressures on our Commonwealth funding. Unsustainably high State Government expenditure growth, which consistently exceeded revenue growth in the decade until 2010, and multiple, serious project overruns have further impacted the State's finances and - unless addressed - will burden Victorian families and future generations of Victorians. The Government is continuing to address these challenges in the 2012-13 Budget , which refocuses public resources on core service delivery responsibilities. These actions are necessary to repair the State's finances and ensure a productive economy that generates jobs and investment. Stronger finances will enable the Government to invest additional amounts in much-needed infrastructure, keep taxes competitive and keep costs of living as low as possible. Only by getting the economic fundamentals right and living within its means can the Government provide better services for all Victorian families, both now and in the future."
+                }
+            ], 
+            "parent_id": "3e9278a7-df6c-4719-81b3-da9a16506814", 
+            "type": "h4", 
+            "id": "102b4a69-0ae4-45ac-8a49-f8013eaa711f"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "A focus on service delivery", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "This budget underscores the Government's commitment to strong and responsive front line service delivery for Victorian families. Despite the challenging economic environment, the 2012-13 Budget includes a significant spend on health to maintain our health services, as well as continued significant expenditure on education and skills. Additionally, the Government is funding new initiatives to protect the most vulnerable Victorians. The Government will respond to growing demand in child protection services and improve support for all vulnerable children and their families. The Government is also working to prepare for the introduction of a National Disability Insurance Scheme to improve the assistance and support available to Victorians with a disability, as well as their families and carers. The Government is continuing to support low-income and vulnerable Victorian families who are most exposed to cost-of-living pressures. Building on last year's package of concessions, this year's budget provides additional funding for concessions for essential services such as energy, water and municipal rates. The Government is also working to provide support for those families that are hardest hit by industry transition, as the global economy continues to change. The Government is providing support services to retrenched workers, including the Victorian Training Guarantee and the Workers in Transition Program. Further, in this year's budget, the Government is providing additional support for workers and their families facing retrenchment because of structural changes in manufacturing and allied industries. This support will particularly assist workers in regional Victoria. The Government will be supporting small businesses, which are often family-run companies that drive job generation in Victoria. Initiatives include Business Victoria Online, Victoria's Small Business Festival and a new program to develop innovation and boost growth for small businesses in manufacturing. Small business is vital for the future prosperity of Victoria and these programs will help to spread the benefits across the community. The Government is supporting families in regional Victoria through initiatives to boost the productivity and competitiveness of regional economies and ensure high-quality services. The $1 billion Regional Growth Fund is building a better future in regional Victoria by improving roads and infrastructure, upgrading regional health services and creating new employment and business opportunities. The 2012-13 Budget includes upgrades to hospitals in Geelong, Ballarat, Kilmore and Castlemaine, following the investment for Bendigo Hospital redevelopment included in the 2011-12 Budget . Victorian Families have a fundamental right to feel safe in their communities. Since December 2010, the Government has been tackling crime, violence, disorder and anti-social behaviour. Central to this approach is the Government's commitment in this term to deliver the largest increase in police numbers during a single term of government in the State's history. This year's budget provides significant additional investment to assist police with much-needed infrastructure. The Government is also continuing to strengthen the justice system, abolishing suspended sentences for all serious crimes, and toughening punishments to send the message that crime will not be tolerated."
+                }
+            ], 
+            "parent_id": "3e9278a7-df6c-4719-81b3-da9a16506814", 
+            "type": "h4", 
+            "id": "99168a80-2aa9-4b78-956e-f6a403b9f6db"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Better, more responsive services", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Victorians expect high-quality, customer-focused services and the Government is taking action to meet those expectations. Public services should offer choice and respond to the diverse needs of Victorian families. The Government's Better Services Implementation Taskforce will oversee improvements to give Victorians better services without imposing additional burdens on taxpayers. The Taskforce will take the initiative with new service delivery models to provide improved services, improve the work practices of the public service and streamline governance. These improvements mean families will receive better services and will enable the Government to invest in the infrastructure needed to support Victoria's growth."
+                }
+            ], 
+            "parent_id": "3e9278a7-df6c-4719-81b3-da9a16506814", 
+            "type": "h4", 
+            "id": "12439c53-53b7-4b4e-8ec3-db2514dfd96d"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Sustainable infrastructure funding to boost jobs and investment", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Government is investing substantial amounts in infrastructure to boost jobs and investment. This investment includes new asset investment worth $2.7 billion, as well as the Webb Dock expansion by the Port of Melbourne. These projects will improve the State's productivity, strengthen service delivery and community infrastructure and enhance safety and security for Victorian families. The 2012-13 Budget is investing $200 million for schools infrastructure and $364 million in capital and infrastructure funding for hospitals and public health services. There will also be $4 million invested in capital grants to support community-based mental health infrastructure. The Government is continuing to support the repair of infrastructure damaged by floods and bushfires, including thousands of kilometres of main and local roads around the State. A Community Infrastructure Fund, established following the 2011 floods, is providing $30 million to councils and community groups for repairs to public halls, sporting facilities and other community assets. The 2012-13 Budget also invests in significant new road and rail infrastructure including: $350 million for the removal of level crossings at Springvale Road, Springvale and Mitcham Road and Rooks Road, Mitcham; $136 million for the construction of the Dingley Bypass, a new four-lane arterial road; and funding to purchase additional rolling stock to improve the capacity of existing regional passenger train services. These projects will relieve congestion delays, increase connectivity and reduce individual trip times to help hardworking Victorian families maintain a work-life balance."
+                }
+            ], 
+            "parent_id": "3e9278a7-df6c-4719-81b3-da9a16506814", 
+            "type": "h4", 
+            "id": "fb8fdd40-4654-410c-988c-1694811c7aae"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "HELPING FAMILIES", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Families should be safe, healthy and connected to their communities. The Government aims to achieve a social and economic environment in which all families can thrive. The Government provides services such as health, education and crime prevention that, combined with a strong economy, help Victorian families to fulfil their potential independently. At times, however, some families will need additional support. The Government provides this support through targeted services that work alongside our universal services such as our broad-based health and education services. These services should all work together, not separately. Families who need targeted support often under-use universal services. For example, young people with unsafe home environments are often at risk of becoming disengaged from school. These families can sometimes miss out on the broader benefits that universal services provide. Targeted services are a pathway, not a destination. The aim is to promote families' independence, rather than a continued reliance on specialised government services. To help families make this transition and to ensure that the specialised services provided to families when they need them are as effective as possible, the Government is taking the following approach to improving the services it funds and delivers: Joined-up services - Current service systems tend to be fragmented across program and portfolio areas. Connecting services across government ensures a simpler, more positive experience for families and ensures that all the support provided to a family is working towards the same goals. It also ensures that service providers have access to good information about families' needs. Many of the most vulnerable families have complex needs and access multiple services, which makes it difficult for them to navigate the various service systems they need. Joined-up services can deliver particular benefits to these families. Family-centred services - Family-centred services give people a key role in designing and implementing solutions that work for them, including access and other assistance. Services should be built around each family's needs. A family-centred approach also ensures that when services work with individual clients, they take into account the broader needs of those clients' families. This will increase the likelihood of finding lasting solutions for vulnerable families. Prevention and early intervention focus - A stronger focus on prevention and early intervention allows service providers to tackle problems before they reach crisis. Early intervention can also support those experiencing ongoing vulnerabilities, helping them to maintain their quality of life and avoid problems intensifying. The Government aims to support effective prevention and early intervention by encouraging government-funded services and agencies to work together. Outcomes focus - In the past, service planning and funding has been based around processes and activities, rather than focused on outcomes for families. As a result, it is often difficult for government to know which strategies are effective and should be pursued and which are ineffective and should be abandoned. Designing and evaluating services based on outcomes can significantly improve government's understanding of how families can effectively manage issues and lead independent and productive lives. This section outlines the action and reforms the Government is pursuing to ensure these principles are reflected in the services we provide."
+                }
+            ], 
+            "parent_id": "3e9278a7-df6c-4719-81b3-da9a16506814", 
+            "type": "h4", 
+            "id": "d9c74152-cd1b-4f82-ba9c-210618c21d46"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Building health infrastructure and services", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Strong universal services are essential to the health and wellbeing of Victorian families. Last year's budget supported families by taking the first steps in delivering the Government's election commitments. These included funding to commence the implementation of the election commitment to provide 800 new hospital beds and deliver more public health services, including a $34 million boost for palliative care services, and more funding for doctors, nurses and other health care workers. As with last year's budget, the Government is again providing funding for many significant new hospital capital projects throughout the State. In the 2012-13 Budget , the Government has provided for key projects for public hospital services from 2012-13 to 2015-16. In this year alone the Government is providing an extra $364 million in capital and infrastructure funding for hospitals and public health services. Regional services committed to in last year's budget, such as the Bendigo Hospital ($630 million), will be joined this year by commitments to key services in Geelong, Ballarat, Castlemaine, Kilmore and Charlton. In the 2012-13 Budget , the Government has allocated an additional $44 million to support elective surgery activity in hospitals to meet demand pressures and contain waiting lists. These funds will help fill the gap left by lapsing Commonwealth funding for hospital services, which had previously been provided under the National Partnership Agreement for Improving Public Hospital Services. In addition, $60 million has been allocated over four years to support the work of the Victorian Cancer Agency, including its work to translate cancer research into treatments and approaches to patient care."
+                }
+            ], 
+            "parent_id": "3e9278a7-df6c-4719-81b3-da9a16506814", 
+            "type": "h4", 
+            "id": "006657ef-ce8c-45f6-ab5d-429ac39dd302"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Investing in skills, education and early childhood development", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "A strong and sustainable vocational education and training system (VET) is vital for Victoria's future. A well-trained, job-ready workforce is the life-blood of Victorian business and is the largest determinant of productivity in the State's economy. Helping people train in areas of jobs growth is also one of the best ways the Government can provide Victorians with opportunities to participate in the workforce. In recent years, the Victorian VET system has changed significantly through the introduction of an individual entitlement to a subsidised training place and the opening of the market to competition between providers. The Government is retaining and strengthening these market fundamentals, to ensure that businesses and individuals have opportunities to undertake training and that they are able to choose what and where they study. In this budget, the Government is refocusing its support to better target areas of greatest public benefit and future jobs growth, while continuing to support students most in need of assistance through relatively higher subsidies, concessions and fee waivers. In education, the Government is also committed to ensuring that schools respond to the needs of each family. The Government is changing the way government schools are being run to strengthen the ability of principals, teachers and school communities to make decisions about how their schools work. Local decision making will enable schools to better serve the needs of each family in the community and, most importantly, enable children to achieve their potential. The Government also recognises that every family should be free to make choices about the right school for their children. That is why government schools are encouraged to diversify and specialise, to expand the choices available to students. That is also why the Government has created an ongoing 25 per cent link between government and non-government school funding, so families are treated fairly regardless of their choice of school. Giving families a choice also means ensuring that families can send their children to a school in their local area. The 2012-13 Budget commits $200 million to building and developing schools in many of Victoria's fastest growing communities, including funding for a new primary school in Doreen South and the acquisition of land for future new schools in areas of population growth. This additional funding builds on funding in last year's budget of $208 million for school infrastructure, of which more than $80 million was directed to special and autistic schools, constituting the biggest investment in these schools in over a decade. Some families do need extra assistance to support their children's schooling. That is why the Government is making changes to the Education Maintenance Allowance. Parents of eligible Prep students will receive a boosted payment of $200. The payment to eligible parents of primary school students will rise from $117 to $150 per student in years 1 through 6. Parents of eligible Year 7 students will receive a boosted payment of $300 per student. The payment to eligible parents of years 8 - 12 students will increase from $235 to $250 per student. The Government's 2011-12 Budget also invested an additional $101 million to improve access to kindergarten for Victorian families. This included measures to ease the financial burden on families by providing $42 million in fee relief for over 18 000 Victorian families, including many families in rural and regional Victoria."
+                }
+            ], 
+            "parent_id": "3e9278a7-df6c-4719-81b3-da9a16506814", 
+            "type": "h4", 
+            "id": "09794169-b19f-41b6-b482-50f064133cff"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Chart 1: Proportion of children enrolled in Government-funded and/or provided preschool services in the year before full time school (2005-06 to 2010-11)", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "0 10 20 30 40 50 60 70 80 90 100 2005-06 2006-07 2007-08 2008-09 2009-10 2010-11 P ro p o rt io n o f ch ild re n Year Victoria Australia Source: Report on Government Services 2012 In the 2012-13 Budget , the Government is providing funding for Victoria's important maternal and child health services. Families with babies and young children face considerable challenges. The maternal and child health service is a critical support to Victorian families, providing health, development and wellbeing expertise and support to all Victorian families with young children and contributing to timely intervention to support parents and children to meet key developmental milestones. The significant investment of $63 million in the 2012-13 Budget will ensure Victorians continue to receive this high level of support into the future."
+                }
+            ], 
+            "parent_id": "3e9278a7-df6c-4719-81b3-da9a16506814", 
+            "type": "h4", 
+            "id": "c279418b-cea3-4581-89a6-8ed44c6b7b7e"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Protecting Victoria's vulnerable children", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Protecting Victoria's vulnerable children is one of the most significant challenges the Government faces. The Government has no more urgent task. This is why the Government commissioned a major independent inquiry to make recommendations to strengthen and improve protection and support for vulnerable young Victorians. That is also why the first year's response to this report is a priority in the 2012-13 Budget . As detailed in the Protecting Victoria's Vulnerable Children Inquiry report, tabled in Parliament on 28 February 2012, Victoria's child protection system received 55 000 reports of children at possible risk of abuse or neglect in 2010-11. On any given day, there were more than 5 500 children being cared for in foster, kinship or residential care because of fears for their safety at home."
+                }
+            ], 
+            "parent_id": "3e9278a7-df6c-4719-81b3-da9a16506814", 
+            "type": "h4", 
+            "id": "b1bb5eb5-ff40-4deb-82fc-6ab1ba317f0d"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Chart 2: Children who were the subject of a child protection report, Victoria, 2010-11", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "0 500 1 000 1 500 2 000 2 500 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 C h ild re n Age at time of report Male Female Source: Protecting Victoria's Vulnerable Children Inquiry, 2012, p. 41 The Government is striving to prevent abuse and neglect and reduce its negative impacts on vulnerable children and families, while improving long-term outcomes for children who have been involved in the system. To achieve these aims, the Government is committed to significant reform of the child protection system. This will be supported by the development of a new whole-of-government Vulnerable Children and Families Strategy, to be delivered in 2013. The Government's 2012 Victoria's Vulnerable Children, Our Shared Responsibility, Directions Paper outlines the first phase and next steps to achieve this. This year, the Government is committing to a new investment of $336 million over five years for immediate initiatives to strengthen and stabilise the system and prepare for future reform. These actions reflect our strong commitment to achieving better outcomes through joined-up, family-centred services and a greater focus on prevention and early intervention. The initiatives and directions set out in the directions paper will help ensure that the Government improves assistance and support for vulnerable children and their families across services, including: health; education; specialist services, such as adult mental health and drug and alcohol programs; and the statutory child protection system, including the Children's Court and out-of-home care. All parts of the system will be rigorously held to account to improve outcomes for vulnerable children and their families. A key step in this process of change is delivering on the Government's commitment to trial case management reform in two lead sites in Dandenong and Geelong/South West. These trials, which commenced in February 2012, worked with a number of families identified as having complex needs. The trials worked to build the capacity and independence of these families by drawing together the services they need and by focusing case management planning on the families. Over the next 12 months, the Government will invest $1 million for an external evaluation of the two reform pilots, testing ways of integrating services for clients with complex needs to inform future planning and service delivery. The Government's further efforts will be focused on supporting vulnerable families by providing access to quality universal services to boost protections that prevent families from falling into crisis and by intervening earlier at key points through targeted programs. Key investments include a further $22 million to increase the capacity of ChildFIRST (Child and Family Information, Referral and Support Teams) and Integrated Family Services to deliver more early support to families where there are concerns about the wellbeing of children. The Government will also invest $30 million over four years in the Stronger Families program, a client-centred service that provides intensive case work support to families identified by the child protection system and whose children are at imminent risk of being placed in out-of-home care. The Government's investment will continue existing services in the current four locations and expand these programs to an additional two catchment areas of high need. Some women and their partners need support during pregnancy to provide for the health, safety and development of their children. The Government will invest $4.7 million to continue the successful Healthy Mothers-Healthy Babies program. This initiative puts families at the centre of service delivery, with coordinated care and education delivered by community health services. The initiative complements the new Cradle to Kinder program, funded in the 2011-12 Budget , which provides more intensive and long-term support for vulnerable young mothers and their children. The Government will also invest $16 million in the Enhanced Maternal and Child Health program, which will work alongside the universal Maternal and Child Health program to provide additional support for families who are facing particularly challenging circumstances. The Government recognises the need to support early learning for families as a way of promoting future learning habits and preventing vulnerability. Parents are the first and most influential role models for children. The value of education is one of the most important lessons parents can impart. The Government will invest $17 million to support more playgroups, home learning support and long-term research into the impact of early childhood education and care on vulnerable children. Early learning programs are also one of the best ways to help children start school ready for life and learning. The Government is providing $8.3 million for the early start kindergarten program, which will make sure that Victoria's most vulnerable three-year olds can access quality kindergarten programs. A further challenge to improving overall outcomes for Victoria's most vulnerable children is investment in and reform of the statutory system, which includes child protection, the Children's Court and out-of-home care. As part of this year's budget, the Government will provide $19 million to expand the child protection workforce by 42 new workers. This will ease the pressure on the system and make it more responsive to families in need. This builds on last year's funding of over $19 million to recruit 47 new full-time child protection staff, bringing the total number of new child protection workers since 2010 to 89. The Government will implement a new and improved operating model for child protection, underpinned by a $51 million workforce reform package, to deliver improved career structures, training, supervision and better pay and conditions. The Government is also creating a less adversarial, more family- and child-friendly system by investing $30 million to expand the new model and family group conferencing and Aboriginal family decision making programs. This will be supported by $17million for the decentralisation of the Children's Court at Broadmeadows, including $10 million in capital works. The Government is working to increase stability and improve outcomes for children in the out-of-home care system by investing $61 million over four years to: establish time-limited permanent care and stability review teams and Aboriginal permanent care assessments; meet growing placement demand; and extend and expand the innovative Therapeutic Residential Care model for significantly more young people in care. The significant new investment for vulnerable children and their families in this year's budget builds on last year's $98 million budget boost, including: $20 million in investment for early intervention programs to help vulnerable parents cope with the challenges of raising children; and $53 million to help young people in residential care get the support they need and ensure their effective transition to independent living, including new health and education assessments, support for care leavers and enhanced placement capacity. The Government's directions paper also outlines a wide range of other reforms, legislative changes and policies that will be further developed as the Vulnerable Children and Families Strategy is finalised."
+                }
+            ], 
+            "parent_id": "3e9278a7-df6c-4719-81b3-da9a16506814", 
+            "type": "h4", 
+            "id": "5413560e-3164-4d8d-993d-b8871291d0dc"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Supporting people with disabilities and their carers", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "There are one million Victorians who have particular needs through having some form of disability. Many Victorians give their time to care for the needs of family members, friends or others in the community. Chart 3 shows the many hours that primary carers spend caring for people with a disability. For tens of thousands of Victorians, this involves 40 hours or more spent caring each week. Chart 4 shows that Victorians have many reasons for taking on a caring role, but family responsibilities are the primary reason."
+                }
+            ], 
+            "parent_id": "3e9278a7-df6c-4719-81b3-da9a16506814", 
+            "type": "h4", 
+            "id": "cea70c0c-362b-4aab-87be-756ca7585f86"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Chart 3: Number of primary carers caring for persons with a reported disability, by age and time (Victoria, 2009)", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "0 10 000 20 000 30 000 40 000 50 000 60 000 70 000 Less than 20 hours 20-39 hours 40 hours or more N u m b er o f p ri m a ry c a re rs , th o u sa n d s Time spent caring per week Primary carers aged 65 years and over Primary carers aged 45-64 years Primary carers aged 15-44 years Source: ABS, Disability, Ageing and Carers, Australia: Summary of Findings 2009 (cat.no.4430.0)."
+                }
+            ], 
+            "parent_id": "3e9278a7-df6c-4719-81b3-da9a16506814", 
+            "type": "h4", 
+            "id": "13608a9f-ea4e-4eaf-88e7-e915401524ac"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Chart 4: Reasons provided for taking on caring role (Victoria, 2009)", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "0 10 20 30 40 50 60 No other care arrangements available No other family or friends willing Had no other choice Alternative care too costly Other reason or not stated No other family or friends available Emotional obligation Could provide better care Family responsibility Percentage of respondents R ea so n s Source: ABS Disability, Ageing and Carers, Australia: Summary of Findings 2009 (cat.no.4430.0). The Government values the efforts of carers and their contribution to our community. The Government knows that carers and volunteers can face many challenges and demands, often giving their time tirelessly without any reward or recognition. The Government introduced the Carers Recognition Bill into Parliament on 7 February 2012 to recognise and promote the crucial role of carers and care relationships. Services and support for people with a disability, their families and their carers are vitally important. The Victorian Government is committed to leading and driving the implementation of a National Disability Insurance Scheme (NDIS), which will support people with a severe and profound activity limitation. This commitment is part of the Government's broader agenda of connecting services across government to ensure a simpler and more positive experience for users of the system. In this year's budget, the Government has committed $900 000 to prepare for being a launch site for an NDIS. The Government has also committed $38 million as part of this year's budget to fund additional Individual Support Packages (ISPs) for people with a disability. ISPs are disability services funds that are allocated to a person to meet their disability-related support needs. Users of the system should be at the centre of service delivery. This is why ISPs enable people with a disability to direct the planning process to the greatest extent possible, making their own choices about how they wish to live their lives. This funding complements the $26 million allocated through the 2011-12 Budget to the Aids and Equipment Program. This was in addition to a new $4 million top-up fund to ease the financial burden on families by providing financial support to access aids and equipment for children. As part of last year's budget, the Government allocated $41 million to Innovative Supported Accommodation, Respite Support and School Holiday Respite Support programs to support people with a disability and their families and carers. Of this, $20 million has been allocated to supported accommodation and $21 million to respite, with a particular focus on school holiday periods. A further 53 supported accommodation beds have also been secured through an additional funding commitment of more than $30 million from the Victorian and Commonwealth Governments. The Commonwealth provided the capital funding to establish the accommodation and the Victorian Government, delivering on its election commitment, has allocated more than $14 million over four years to support the successful providers to cover ongoing costs for the delivery of the new services. This new supported accommodation will provide a greater range of innovative and flexible options to meet the diverse needs of people with a disability."
+                }
+            ], 
+            "parent_id": "3e9278a7-df6c-4719-81b3-da9a16506814", 
+            "type": "h4", 
+            "id": "a82ef436-032b-43de-9a3d-a756875f1127"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Improving outcomes in mental health", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Government is committed to ensuring people with a mental illness get the care and support they need. We are working to better identify and respond to mental illness early, seeking to reduce its impact through providing timely community and acute care services and supporting ongoing recovery for Victorians living with a mental illness. In the 2011-12 Budget , a total of $105 million over four years was allocated to address a number of gaps in the implementation of mental health reform. This included $27 million over four years for community-based clinical treatment to provide early intervention for people who need it the most. The package also included $8.3 million over four years for home-based outreach services. These investments ensure that more Victorians can access treatment within their communities, while maintaining close links to their families and social networks. The care and support provided by Victoria's community-managed mental health services are a vital part of health and human services. In partnership with the sector, we are working on reforms that will deliver better targeted, planned and coordinated services that respond more effectively to individual needs. Victoria's Mental Health Act 1986 is the oldest mental health law in the country. The Government will deliver important legislative reform through the development of a new Mental Health Bill, which will promote the involvement of patients, carers and families and strengthen people's participation in making decisions about their treatment and recovery planning. The Government is also committed to improving early intervention services to better support young people with a mental illness. This includes expanding prevention and recovery care beds and youth mental health services, such as headspace and EPPIC. There is a growing demand for eating disorder services among young people, where they and their families can receive treatment and assistance for an often complex and severe condition. To achieve ongoing reform and improvement of our eating disorder services, the Government has established an eating disorders taskforce to make recommendations for a Victorian eating disorders strategy. The Government will soon be opening a new intensive day patient program for young people with eating disorders at the Royal Children's Hospital. Through the budget the Government has also provided ongoing funding for two existing eating disorder projects that were due to lapse. The Government is also committed to taking the pressure off Victoria's emergency departments by investing in additional Psychiatric Assessment and Planning Units beds and new acute mental health beds through this year's budget. Strong family relationships are important to ensure that Victorians with a mental illness are supported in their recovery and are able to participate in the community. That is why the Government is delivering new family-focused mental health initiatives, including three new five-bed regional Mother-Baby Mental Health Services to provide assessment and treatment in a safe and calm environment for women experiencing post-natal depression and their children. Mental health issues frequently have a relationship to drug and alcohol abuse. The Victorian Alcohol and Drug Strategy will set out how the Government will approach alcohol, pharmaceutical drugs, illicit drugs and treatment for addiction over the next 10 years. In preparing this strategy, the Government will ensure current investment aimed at reducing the harms of alcohol and drug use is delivering the best results. The 2012-13 Budget will kick-start this reform agenda. The Government has already doubled the pharmacotherapy budget and has expanded needle and syringe programs to reduce the harm caused to the community by illicit drugs. This budget also funds a new therapeutic counselling, consultancy and continuing care service that builds on the new services announced in the 2011-12 Budget . Risky drinkers are increasingly present at emergency departments, hospital treatment centres and in the criminal justice system. This is why, as a first measure, the Government is investing in more support for clinicians dealing with alcohol-related emergency department cases. The Government is committed to taking action to ensure that Victorians of all ages with mental health, alcohol or drug abuse problems can receive help earlier, with treatment and support focused on reducing the often devastating health, social and economic impact of these issues."
+                }
+            ], 
+            "parent_id": "3e9278a7-df6c-4719-81b3-da9a16506814", 
+            "type": "h4", 
+            "id": "6779a8d6-cb6f-46d4-858e-98e91f6411a3"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "A new approach to public housing and homelessness", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Government has directed $77 million, including a Commonwealth contribution of $10 million, to fund the Victorian Homelessness Action Plan. The cornerstone of the plan is a $25 million investment in Innovation Action Projects, which will trial new ways of delivering services in Victoria for people who are experiencing or at risk of homelessness. There were around 20 000 homeless Victorians in the 2006 Census, including rough sleepers and people who are 'couch surfing' or in other precarious living situations. This new approach will improve connections between government services and create new partnerships between government and the community sector. It will offer proactive early support and provide clear pathways that help vulnerable Victorians into stable housing, as well as maintain community and economic participation."
+                }
+            ], 
+            "parent_id": "3e9278a7-df6c-4719-81b3-da9a16506814", 
+            "type": "h4", 
+            "id": "385cb5a4-27ef-43fb-9a1d-3c4b1b8b425a"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Chart 5: Total Homeless, Victoria, 2006", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "2794 3896 2512 3643 2872 2128 1468 1198 0 500 1 000 1 500 2 000 2 500 3 000 3 500 4 000 4 500 Under 12 12 - 18 19 - 24 25 - 34 35 - 44 45 - 54 55 - 64 65 + To ta l H o m el es s Age groups Source: Chamberlain C & MacKenzie D 2009. Counting the homeless 2006: Victoria. Cat. no. HOU 203. Canberra: AIHW. The Action Plan also includes our plan to roll out Youth Foyers, an integrated model of supported youth accommodation aimed at helping young people who are experiencing or at risk of homelessness achieve sustainable education, employment and housing. In 2012-13, the Government is providing $10 million for the construction and operation of the first of three new 40-bed purpose-built Youth Foyers in Victoria."
+                }
+            ], 
+            "parent_id": "3e9278a7-df6c-4719-81b3-da9a16506814", 
+            "type": "h4", 
+            "id": "c2a69065-5c21-4dcd-9873-f30524ed57f9"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Rebuilding communities", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Our regions face ongoing challenges in dealing with the aftermath of recent natural disasters. Victorian families have suffered from the effects of significant flood damage in each of the past three years and continue to deal with the long-running effects of the 2009 Black Saturday bushfires. Funding is being provided to repair damaged infrastructure, including thousands of kilometres of main and local roads around the State. A Community Infrastructure Fund was established following the 2011 floods, providing $30 million to councils and community groups for repairs to public halls, sporting facilities and other community assets. The Government's flood and natural disaster response is not just about repairing assets. It is also about supporting local communities to maintain their economic self-sufficiency. A range of recovery support has been provided to families following the 2011 and 2012 floods, including personal hardship payments, temporary accommodation assistance, case work support and counselling programs. These floods hit rural communities particularly hard and specific support has been provided to farmers and rural families through clean-up grants, low-interest loans, off-farm employment programs and financial counselling. The Government also recognised the personal, social and emotional impact of these events and has supported families and local communities through direct support in affected communities. The Government continues to support families and communities recovering from the Black Saturday bushfires, including through advice and assistance in rebuilding homes and businesses."
+                }
+            ], 
+            "parent_id": "3e9278a7-df6c-4719-81b3-da9a16506814", 
+            "type": "h4", 
+            "id": "b74796d1-a86e-4821-97c0-b20b309c5483"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "IMPROVING SAFETY FOR FAMILIES", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Government is committed to improving public safety for families. A sense of safety is fundamental to a strong community in which people can participate in and contribute to community life. People need to be safe and feel safe at home, in public spaces and when travelling on public transport. Since December 2010, the Government has been tackling crime, violence and anti-social behaviour through a number of reforms. In 2012-13, the Government will build on this platform through further support for crime prevention and community safety programs."
+                }
+            ], 
+            "parent_id": "3e9278a7-df6c-4719-81b3-da9a16506814", 
+            "type": "h4", 
+            "id": "fe0c64d1-8467-4b89-9907-ae67d9b00547"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Strengthening policing", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "At the centre of the plan to improve safety is a commitment to implement the biggest increase in police numbers in Victoria's history. The Government will recruit 1 700 extra frontline police officers by November 2014 to protect communities across Victoria. This is the largest single increase in frontline police numbers ever made in one term of government in Victoria. Over the past 12 months, significant progress has been made towards realising this target and making our communities safer. The Government's record commitment is allowing Victoria Police to increase police presence where it is needed to make communities safer. One example is the establishment of a Victoria Police Command Post on the Richmond public housing estate to address the sale and use of drugs. Additional closed circuit television cameras have also been installed and residents are already reporting they feel safer and that anti-social and illegal behaviour has decreased. A successful recruitment campaign is underway to recruit and train new police officers. Targets have been set to ensure that this goal is realised. In 2011-12, the Police Academy received $18 million to upgrade facilities to enable the effective training of the new recruits and $34 million was provided to fund the first stage of the Government's election commitment for new police stations and police station upgrades. The 2012-13 Budget includes $49 million for a program of capital works at various police stations across the State to accommodate the additional frontline police and Protective Services Officers provided for in the 2011-12 Budget . In addition, the Government will invest $48 million dollars to construct new and upgrade existing police stations at various locations, including at Waurn Ponds and Emerald, and the Essendon Operational Tactics and Safety Training complex. The Government understands that people across the community are concerned about their safety on public transport, particularly at night, with surveys showing that less than a third of respondents feel safe travelling on public transport after dark (see Chart 6)."
+                }
+            ], 
+            "parent_id": "3e9278a7-df6c-4719-81b3-da9a16506814", 
+            "type": "h4", 
+            "id": "d50398d3-c6b6-441e-8a05-e74c6ee33fa3"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Chart 6: Feelings of safety during the night (Victoria, 2006-07 to 2010-11)", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "0 10 20 30 40 50 60 70 80 90 100 2006-07 2007-08 2008-09 2009-10 2010-11 P ro p o rt io n o f re sp o n d en ts w h o f ee l sa fe o r ve ry s a fe Year At home alone Walking or jogging locally On public transport Source: Australia New Zealand Policing Advisory Agency, National Survey of Community Satisfaction with Policing (unpublished) in Productivity Commission Report on Government Services 2012 The Government is committed to improving safety on public transport and at train stations. The Government will deploy 940 PSOs to all metropolitan stations and major regional centres from six pm to the last train, seven days a week, 365 days a year, by November 2014. The 2011-12 Budget allocated $212 million for the recruitment, training and deployment of PSOs. This investment is further supported in the 2012-13 Budget by $18 million in capital funding for the Department of Transport to construct facilities at railway stations to support their deployment. PSOs will have support from host police stations, including for equipment storage. Legislation has been enacted to implement the placement of PSOs on railway stations and to give them the powers they need to keep our stations and surrounding areas safe. Ninety-three PSOs will be trained by 30 June 2012."
+                }
+            ], 
+            "parent_id": "3e9278a7-df6c-4719-81b3-da9a16506814", 
+            "type": "h4", 
+            "id": "38710f61-246b-4a02-b593-6687979ad8c2"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Cracking down on crime", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Government is introducing sentencing reforms to ensure stronger and more effective sentencing to better protect the community. Legislation has been passed to abolish suspended sentences for all serious crimes, including murder, manslaughter, rape, armed robbery, arson and commercial drug trafficking. The Government will also introduce longer sentences for people who attack police officers or emergency workers while they are carrying out their duties. Further, the Government has abolished home detention and will introduce statutory minimum sentences for gross acts of violence, including gang attacks. This year, the Government has introduced a new single, flexible Community Correction Order that enables courts to deliver effective, common-sense sentences targeted directly at the offender and the offence. The Government has also increased the monitoring of dangerous offenders and legislation has been passed to allow retrials to be ordered by the Court of Appeal where new and compelling evidence emerges. To protect families on Victoria's roads, the Government last year introduced tough new laws to send the message that dangerous hoon driving will not be tolerated. Hoon drivers now face longer periods of impoundment for their cars and increased fines for their anti-social behaviour."
+                }
+            ], 
+            "parent_id": "3e9278a7-df6c-4719-81b3-da9a16506814", 
+            "type": "h4", 
+            "id": "8c8517d7-ce6f-42d1-868b-d95844b1cc5e"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Crime prevention and community safety", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "In 2011-12, the Government allocated $25 million of the Community Safety Fund and Public Infrastructure Safety Fund to the Community Crime Prevention Program. This program enables local councils and community organisations to access grants to undertake practical crime prevention projects, such as installing security measures, and to develop public safety and security infrastructure, such as installing CCTV systems, to improve community safety and confidence in public places. The Government's graffiti removal and prevention strategy included an additional $4 million for a zero-tolerance approach and local grants specifically for graffiti removal and prevention. The Government has also committed $550 000 to reinvigorate Neighbourhood Watch and strengthen its role in community crime prevention. Neighbourhood Watch is a volunteer organisation that brings residents together to protect themselves and their property by encouraging them to be more vigilant, boost home security and report any suspicious activity in their local area. The Government is also working with communities to identify local crime issues and develop local solutions. Regional Reference Groups have been established in every region of Victoria with representatives from local community groups and businesses, the judiciary, local police and local government, including councillors and chief executive officers. The Government is also allocating $107 million to Victoria Legal Aid to provide legal advice and representation for disadvantaged people and families. In recognition of the important assistance Victoria Legal Aid provides to the community, the Government has committed to make this funding ongoing."
+                }
+            ], 
+            "parent_id": "3e9278a7-df6c-4719-81b3-da9a16506814", 
+            "type": "h4", 
+            "id": "5ff9f474-8c16-4551-9bb5-302288fd619f"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Reducing alcohol-related harm", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The links between alcohol and violence are complex. Studies have shown that alcohol use commonly precedes aggressive behaviour and that harmful drinking is associated with being both a perpetrator and a victim of violence. Each year in Victoria, too many people are victims of persons under the influence of alcohol, suffering both verbal and physical abuse and intimidation. To ensure that Victorian families are protected from the negative impacts of alcohol misuse, the Government has introduced a number of reforms relating to the licensing and consumption of alcohol, including: increasing existing penalties and creating new offences related to drunk and antisocial behaviour in public places and in and around licensed venues; introducing the power for licensees to bar people from licensed premises if they are drunk, violent or quarrelsome; a more responsive liquor licensing system that rewards responsible liquor licensees and targets irresponsible venues; and returning the decision-making about a child's access to alcohol to parents by making it illegal to supply alcohol to a minor in a private home without parental consent. The Government has also committed additional funding to enhance the 'Step Back. Think' campaign to inform young people and raise awareness of the consequences of violence associated with the misuse of alcohol."
+                }
+            ], 
+            "parent_id": "3e9278a7-df6c-4719-81b3-da9a16506814", 
+            "type": "h4", 
+            "id": "e579c626-4c95-4108-be2c-b2bac05a6169"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Corrections and youth justice", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "In the 2012-13 Budget , the Government is allocating $670 million in capital to increase prison capacity and is also investing over $54 million to address critical capacity, security and infrastructure issues across Victoria's youth justice centres for young offenders. The Government is supporting a range of initiatives in the area of youth justice to prevent criminal behaviour through early intervention. These include Youth Partnerships, which will develop new ways for services to work together more collaboratively to support vulnerable young people aged 10 to 18 years old, and Youth Justice Group Conferencing, which uses dialogue between individuals who have offended and their victims as a way of keeping young people out of Children's Court and reduce re-offending. The Government has also significantly improved the education of young offenders at the Parkville Youth Justice Precinct with the establishment of a new school within the Parkville facility. Operating at the Parkville Youth Justice Precinct since the start of the school year in February, 'Parkville College' is Victoria's newest school. Education is a pathway out of poverty and intergenerational disadvantage and the high-quality education that is now being offered to young people in custody is critical to their rehabilitation."
+                }
+            ], 
+            "parent_id": "3e9278a7-df6c-4719-81b3-da9a16506814", 
+            "type": "h4", 
+            "id": "7aacde34-6e15-439a-b95c-837d541d39a0"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Protection from family violence", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Responding to family violence and sexual assault is a key priority for the Victorian Government. Over $77 million was invested in 2011-12 to increase the safety of women and children and ensure the accountability of perpetrators, including additional grants to reduce violence against women and children. The Government's commitment to responding to family violence and sexual assault is supported by the Chief Commissioner of Victoria Police, who has committed to doubling the existing dedicated family violence units over three years. The Government has also introduced new amendments to the Family Violence Protection Act 2008 , to give Victoria Police the power to continue to issue safety notices to protect victims of domestic violence. Additional recent initiatives include expanding the successful family risk assessment training program over the next two years to mainstream professionals who may be the first point of contact for women experiencing violence, as well as specialist family violence professionals, and providing funding at the local government level to develop and tailor initiatives to local needs. Further, every Victorian has the right to live safely and to be treated with dignity and respect, which is why the Government has developed its Elder Abuse Prevention Strategy. This strategy aims to protect and safeguard the rights of all older Victorians by focusing on community education, strengthening the response to incidents of elder abuse and continuing legal and advocacy services tailored to older people's complex needs. It will also focus on the unique needs of older people from culturally and linguistically diverse and Aboriginal communities."
+                }
+            ], 
+            "parent_id": "3e9278a7-df6c-4719-81b3-da9a16506814", 
+            "type": "h4", 
+            "id": "5e04281a-f716-47c9-b02a-23e70f478637"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Protecting children", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Protecting our children from physical and sexual harm is a firm commitment of this Government, therefore it is supporting the development of existing and new Multi-Disciplinary Centres which investigate sexual assault and child abuse crimes and provide specialised support to victims. In 2011-12, the Government invested $12 million to establish a new Multi-Disciplinary Centre at Geelong and expand the existing Frankston and Mildura centres. In 2012-13, an additional $20 million will be provided to establish three new Multi-Disciplinary Centres across the State and provide additional nursing services at all of the centres To protect the community and children from known sex offenders, last year the Government passed legislation to strengthen the State's serious sex offender supervision scheme. In the 2011-12 Budget , the Government provided funding to continue the management, supervision and treatment of supervised offenders. The 2012-13 Budget includes an additional $8.7 million to Victoria Police over four years to better manage the State's sex offender register. The Government is making schools safer through its Stamp Out Bullying plan. It has invested $4 million to review, update and expand bullying policies and programs in Victorian schools over the next four years and $11 million to roll out the eSmart anti cyber-bullying program developed by the Alannah and Madeline Foundation. This program warns students about the dangers of cyber-bullying and teaches them strategies to stay safe. Every government school and 300 Catholic and independent schools will be participating in the program by 2014. The plan builds on other important initiatives, such as new legislation to crack down on workplace and other forms of bullying, greater powers for principals to suspend and expel students and search for dangerous weapons, and the establishment of a further 150 Primary Welfare Officer positions in government primary schools over the next four years."
+                }
+            ], 
+            "parent_id": "3e9278a7-df6c-4719-81b3-da9a16506814", 
+            "type": "h4", 
+            "id": "e3f7c444-e364-4e32-a166-eb050c8cc58c"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Preparing for future disasters", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Government is helping communities rebuild and become better equipped to cope with future natural disasters. As part of the 2012-13 Budget , the Government is investing $16 million over four years to upgrade the Victorian State Emergency Service's information technology systems to ensure that they can be used in incident control centres, which are operated by the Country Fire Authority. This responds directly to the recommendations of the Review of the 2010-11 Flood Warnings and Response into the 2011 floods. In September 2011, the Government published the Emergency Management Green Paper Towards a More Disaster Resilient and Safer Victoria , which outlines options for major reform of Victoria's emergency management framework to support more disaster resilient communities. A White Paper will be published later in 2012. The Government is also working to strengthen emergency planning activities to support vulnerable people in Victorian communities. In this budget, the Government is providing funding of $10 million over four years towards the Vulnerable People in Emergencies Program to enable local governments to identify and register, through a web-based database, vulnerable people who would be at risk in emergencies, including vulnerable people who do not attend or receive municipal or state-delivered services. This supports the ongoing response to the 2009 Victorian Bushfires Royal Commission. Work has also commenced on reducing the risks of bushfires caused by power lines, another recommendation of the Victorian Bushfires Royal Commission. The work program includes a $200 million plan to replace the most dangerous power lines in the State, of which $40 million will be used to address the impact on vulnerable Victorians due to changes in the network. In addition, the Government has committed to increase the level of planned burning on public land, consistent with the recommendations of the Victorian Bushfire Royal Commission. Increasing planned burning is one of a number of measures that the Government is taking to protect the community and the environment from the impacts of bushfires."
+                }
+            ], 
+            "parent_id": "3e9278a7-df6c-4719-81b3-da9a16506814", 
+            "type": "h4", 
+            "id": "1c8a48a4-1433-4a7f-9011-381bf809b03d"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "BUDGET OUTPUT INITIATIVES TO SUPPORT VICTORIAN FAMILIES Protecting Victoria's Vulnerable Children", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Education and Early Childhood Development Early childhood education and care for vulnerable three year olds known to Child Protection $8.3 million Continued provision of free access to kindergarten for three year olds known to child protection will support better participation in early services. The Access to Early Learning program will be continued and will trial a more intensive approach to engaging children known to child protection and their families in early childhood education and care programs. Engaging vulnerable families in early learning $16.6 million Provision of preventative interventions including maintaining the delivery of supported playgroups and parenting groups, and learning programs and in home support for disadvantaged and vulnerable families. It will also support Victoria's participation in nation-leading longitudinal research investigating the impact of early childhood education and care on children's outcomes. Strengthening student support services $4.0 million The student support service is being reformed by the devolution of resources to principals in school clusters. Student support services operate in government schools to directly support students facing barriers to achieving their educational and developmental potential and to build teacher capacity to better respond to the needs of vulnerable children. By returning staff to school-based clusters, these professional support officers will allow for greater responsiveness to students and student communities' needs. Sustaining the Enhanced Maternal and Child Health Service $16.3 million The enhanced Maternal and Child Health service will enable the provision of additional support to parents who are disadvantaged, isolated or have babies with significant health problems and need extra assistance. This funding ensures that intensive support will continue to be available to vulnerable families. This initiative will complement the Maternal and Child Health Service (see the Sustaining the universal Maternal and Child Health service initiative in Education and Early Childhood Development's section). Health Healthy Mothers, Healthy Babies $4.7 million The Healthy Mothers, Healthy Babies program provides ante and post natal support, health education and care coordination to vulnerable mothers and their babies. The program will continue in eight metropolitan local government areas with high demand and high socioeconomic disadvantage. Human Services Child Protection - Principal Practitioners $2.0 million Principal practitioners will continue to deliver clinical guidance and professional leadership to child protection practitioners and community service organisation staff working with vulnerable children and their families, particularly in relation to complex issues. The practitioners will also contribute to policy development on ways to improve how the needs of children and families are best met. Child Protection - Specialist Intervention Team $7.9 million The Specialist Intervention Team, comprised of experienced practitioners and business improvement specialists, will be continued. The team is set up to assist frontline child protection teams across Victoria meet spikes in demand and other acute operational pressures so responses to vulnerable children's needs are maintained during peak times. Child Protection workforce reform $51.4 million Introduction of a new child protection operating model and reform of the child protection workforce will improve outcomes for vulnerable children. More experienced practitioners will be working directly with children and their families. Frontline workers will receive greater support and supervision to meet the challenges of assisting vulnerable children through senior experienced practitioners being available to provide guidance. These measures will contribute towards increased staff retention which will provide better continuity for children and their families. Demand for ChildFIRST and Integrated Family Services $22.4 million The ChildFIRST and Integrated Family Services program will be expanded to meet areas of demand to respond to vulnerable children and their families. Funding will support around an additional 1 500 cases per year. Demand for statutory frontline child protection $19 million The number of children and their families who are supported by child protection workers will be increased through the addition of 42 child protection workers. The expanded child protection workforce capacity will meet current demand and better support children being safe and protected. Early Childhood Development workers $2.3 million Five Early Childhood Development workers to be deployed in Loddon-Mallee, Gippsland and Grampians regions. Early childhood development workers provide education and training to child welfare staff and early years workers to improve the links between the two systems and increase participation by vulnerable children in early years services. Establishment of a Commission for Children and Young People $3.0 million A Commission for Children and Young People will be established to replace and build on the functions of the Office of the Child Safety Commissioner and the Victorian Child Death Review Committee. Expansion of new model conferencing $2.9 million The new model conferencing initiative will be continued and expanded across Victoria. This program, delivered by Children's Court and jointly funded by the Departments of Justice and Human Services, will provide an effective non-adversarial forum for the resolution of complex child protection disputes. Expansion of Therapeutic Residential Care $29.6 million The Therapeutic Residential Care program will be continued and significantly expanded. This will increase the capacity of the service to respond to the complex needs of young people in care. The Therapeutic Residential Care initiative provides supplementary funding to the standard residential care unit price for therapeutic specialists, an increased number of care staff and mandatory staff training in dealing with trauma. The therapeutic input aims to stabilise children's behaviour which will support higher educational participation rates, greater stability and reduced risky behaviour. Family group conferencing and Aboriginal family decision making $7.4 million Two conferencing options will be provided for vulnerable children and their families who are referred to child protection services for the first time. Conferencing provides an opportunity to engage children's families, put plans in place that will keep children safe and divert the need for more formal protective intervention. The Aboriginal Family Decision Making program will be expanded to contribute to reducing the overrepresentation of Indigenous children in the child protection system. The routine use of Family Group Conferencing will be piloted for two years (2013-14 and 2014-15) and will be evaluated to consider the program's effectiveness and its capacity to divert children safely from further involvement by child protection services. Improving the response to sexual assault - Multi-Disciplinary Centres $9.2 million Three additional Multi-Disciplinary Centres (MDCs) will be established, bringing the total number of centres to six across Victoria. MDCs provide for co-location of Victoria Police's Sexual Offences and Child Abuse Investigative Teams, child protection workers, and Centres for Sexual Assault counsellors to provide an integrated multi-agency response to sexual assault and child sexual abuse. The funding will also support one nursing position in each of the six MDCs to provide appropriate forensic care. Permanent care and stability project $3.6 million Eight permanent care review teams will investigate placement options for children who have been in care for long periods. The teams will operate from 1 January 2013 for 12 months. The Aboriginal permanent care team capacity will also be expanded to increase the response to Indigenous children waiting for an assessment for permanent placement. Reform and innovation to drive service connections and better outcomes $1.0 million An external evaluation of two case management reform pilots testing ways of integrating services for clients with complex needs accessing multiple Department of Human Services and mental health, and alcohol and other drug services provided by the Department of Health, will inform future planning and service delivery. Additional work will explore the relationship between disadvantage in Victoria and service delivery reform, including opportunities for government action and options for reform of business processes to increase efficiency and benefit service delivery. Responding to demand for residential out-of-home care $27.9 million An additional 34 placements will be provided to help meet demand and better address the needs of children who are unable to live safely with their families. Stronger Families $29.6 million Existing placement prevention and reunification services for families who have come to the attention of child protection services and whose children are at imminent risk of being placed in out-of-home care will be continued in four locations and expanded to an additional two high needs catchments. This will provide support for 375 children and their families each year. Treating problem sexual behaviours in children and young people $7.4 million Additional specialised treatment places will be provided for children and young people exhibiting problem sexual behaviours. The initiative will provide an additional 14 specialist counsellors and will increase the number of treatment places from 240 to 445 each year. This initiative will also facilitate regular professional development sessions for the workforce. Justice Expansion of new model conferencing $19.4 million Refer to the Human Services output initiative for a description of this initiative. Improving the response to sexual assault - Multi-Disciplinary Centres $5.9 million Refer to the Human Services output initiative for a description of this initiative. Legislative amendments to suppression orders $1.8 million Amendments to the suppression order provisions regarding the whereabouts and identity of serious sex offenders in the Serious Sex Offender (Detention and Supervision) Act 2009 will strengthen the focus on the protection of children, families and the community. New Children's Court at Broadmeadows Court $7.1 million An additional Children's Court facility will be established at the Broadmeadows Court that will implement less adversarial trial models and address pressures at the Melbourne Children's Court."
+                }
+            ], 
+            "parent_id": "3e9278a7-df6c-4719-81b3-da9a16506814", 
+            "type": "h4", 
+            "id": "61344a85-6f30-43ee-8a81-70ec41237880"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Business and Innovation", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Managing transition for retrenched workers $3.0 million Managing transition for retrenched workers will help reduce the adverse impact of retrenchments, particularly in regional communities, by establishing a response team to provide early information and support to retrenched workers."
+                }
+            ], 
+            "parent_id": "3e9278a7-df6c-4719-81b3-da9a16506814", 
+            "type": "h4", 
+            "id": "fc013412-991a-499c-bd67-30069d2831ac"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Education and Early Childhood Development", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Sustaining the universal Maternal Child Health service $62.7 million Maternal and Child Health services provide advice and support on a range of parenting, child health, maternal health and development issues, delivered by highly qualified nurses. Children and their parents will continue to have free access to the universal maternal and child health key ages and stages visits, as well as access to new parent groups and extra support as required. This initiative is linked to the Sustaining enhanced Maternal and Child Health service initiative included in the Protecting Victoria's vulnerable children section. Refocusing vocational education in Victoria $1 billion The Vocational Education Training (VET) reform package will refocus and improve Victoria's training system to drive economic growth, employment and productivity improvements. Government subsidies will be better targeted towards training for skills shortage occupations - such as trades - and specialised occupations. The Government will also continue to support training in foundation skills such as literacy and numeracy that people need to function effectively in the workplace. To support this major investment the Government is committing to new measures to ensure our training system architecture is fit for purpose. These initiatives will ensure Victorian VET is high quality and that consumers have better information and more choice about their training. Victorian industries will be given a stronger voice and a critical role in directly influencing the VET market to deliver the outcomes business and our economy need. National Partnership reward payment - Literacy and numeracy $2.2 million National Partnership reward money will be provided to non-government schools for literacy and numeracy targets achieved for Victoria in 2010-11. Languages teaching scholarships and languages start-up grants $7.0 million Delivering the Government's election commitment will strengthen languages education by providing teaching scholarships to increase the number of qualified languages teachers. Start-up grants will be provided for government schools to establish languages programs. Scholarships will be available to experienced teachers who wish to expand their teaching capacity to include language education, and graduate teachers who will begin teaching with capacity for language education. Program for Students with Disabilities $8.3 million The Program for Students with Disabilities provides targeted funding to government schools for resources to support the education of students with moderate to severe disabilities. The program will receive funding to meet demand growth. Students with Disabilities Transport Program $14.9 million The Student with Disabilities Transport program will receive demand growth and operational funding requirements from new bus contracts. The program provides transportation between home and school for students with disabilities who attend special schools."
+                }
+            ], 
+            "parent_id": "3e9278a7-df6c-4719-81b3-da9a16506814", 
+            "type": "h4", 
+            "id": "5b1b2b70-cd7c-4d5a-92e8-0f642073306a"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Health", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Language services $4.0 million Language services will be maintained for Victorians from culturally and linguistically diverse backgrounds to ensure continued access to government services. National E-Health Transition Authority's core operations $16.6 million The National E-Health Transition Authority provides for the development and maintenance of national e-health foundations including operation of a healthcare identifier service, operation of a national authentication and clinical terminology services, and maintenance of a national product catalogue. This initiative will meet Victoria's funding contribution for two years. Primary Ciliary Dyskinesia $1.2 million Primary Ciliary Dyskinesia is an inherited condition resulting in altered or diminished airway clearance, currently affecting approximately one in 10 000 to 12 500 live births. This is the only public testing service in Victoria for diagnosis or therapeutic support for this group of patients. Approximately 150 consultations and associated testing cases are expected per year. The program will deliver the Government's election commitment for ongoing testing for Primary Ciliary Dyskinesia at the Royal Children's Hospital following the funding of $200 000 in the 2011-12 Budget to establish this unit. Sustaining hospital performance - improving security and safety $5.8 million This initial measure will develop training and education packages to reduce occupational violence and improve the patient experience in hospitals. This initiative will target health and security staff in hospitals including the provision of duress alarms. Sustaining hospital performance - maintaining elective surgery capacity $44 million Following the cessation of one off Commonwealth funding provided under the National Partnership Agreement for Improving Public Hospital Services, this initiative will support meeting demand for public hospital services. Sustaining hospital performance - ongoing elective surgery $149.8 million This program will continue to support ongoing demand for hospital services, including elective surgery, in Victorian hospitals. Sustaining hospital performance - organ retrieval and transplantation $20.8 million The program will continue to support the capacity of health services to meet substantial growth in life-saving and life-transforming transplantation services resulting from increases in organ and tissue donation. Sustaining hospital performance - patient demand growth $603.5 million This program will support the capacity of health services to meet and manage growth in demand for essential hospital services. Support will target additional emergency and inpatient capacity, renal dialysis, chemotherapy and radiotherapy services, as well as cost-effective substitutes for acute care. This funding includes additional critical care capacity in Intensive Care Units as well as additional maternity and neonatal service care funding. Victorian Cancer Agency - building on achievements $59.6 million Ongoing investment for the Victorian Cancer Agency will support research infrastructure for the cancer research platform. This program will also support project funding for tumour stream research and clinical trials. Home and community care $72 million Service delivery in the home and community care program will be funded to support older people, and younger people with a disability to remain living in their home and help reduce the pressure on hospital expenditure. Responding to alcohol issues in the community $3.2 million The responding to alcohol issues in the community program will continue an intensive community-based therapeutic program for people exiting alcohol withdrawal and alcohol detoxification. This funding will provide alcohol rehabilitation for more than 100 adults each year. Enhance and redevelop community-based mental health infrastructure stage 2 $4 million This initiative will deliver the second and final stage of the Government's election commitment to support the expansion and sustainability of community-based mental health services, including psychiatric disability and rehabilitation support services, by undertaking building modifications, refurbishment and redevelopment of facilities. This initiative is funded from the Health Infrastructure Fund. Mental health - barrier breakers $0.1 million This initiative provides support for advocacy service for people with a mental illness and their families. Psychiatric Assessment and Planning Unit $3.8 million This initiative will deliver the Government's election commitment to operate four new short-stay beds in the new Psychiatric Assessment and Planning Unit at Sunshine Hospital. The unit will provide accelerated access to specialist psychiatric assessment and short-term treatment, without requiring admission to general adult acute inpatient units. The construction of the Psychiatric Assessment and Planning Unit was funded in the 2011-12 Budget as part of stage 1 of the Government's commitment to provide 20 new mental health beds. Strengthened response to young people with severe eating disorders $3.0 million This initiative will deliver the Government's election commitment to operate an intensive eating disorder day program at the Royal Children's Hospital for young people with severe eating disorders. The service aims to prevent prolonged or repeated in-patient care and improve patient outcomes. The 2011-12 Budget provided $400 000 for the capital refurbishment of the existing Centre for Adolescent Health site in Parkville to accommodate the intensive eating disorder day program. Sustaining hospital performance - mental health, alcohol and drugs growth $56.9 million This initiative will support the capacity of health services to meet and manage growth in presentations for mental health and drug services. It includes funding for new mental health adult and aged in-patient beds, secure extended care beds as well as funding for eating disorder services. Vulnerable People in Emergencies program $1.2 million The Departments of Health, Human Services, and Planning and Community Development will assist local governments to identify and maintain a list of vulnerable people who would be at risk in emergencies, through a web based database. This assistance will include support with information systems, program management and staff training. The initiative will contribute towards addressing the recommendation by the 2009 Victorian Bushfires Royal Commission regarding registration of vulnerable people by councils during emergencies. Victorian Innovation, E-Health and Communications Technology Fund $100 million The Victorian Innovation, E-Health and Communications Technology Fund will support Victorian Public Health Services information communication technology projects, including system and software upgrades and installations. Vision 2020 - preventing avoidable blindness $2.7 million Vision 2020 promotes eye health and vision care and aims to prevent avoidable blindness and reduce the impact of vision loss for all Victorians through improving public and professional awareness. Eye health is a critical issue for Victoria's ageing population both directly and through issues associated with vision loss such as falls, accidents, depression, productivity loss and burden on carers. This program supports the Government's election commitment to continue and expand the Vision 2020 initiative."
+                }
+            ], 
+            "parent_id": "3e9278a7-df6c-4719-81b3-da9a16506814", 
+            "type": "h4", 
+            "id": "17275277-ade1-4643-a2eb-b7c1d05bd9aa"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Human Services", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Language Services $1.6 million Language services will be maintained for Victorians from culturally and linguistically diverse backgrounds to ensure continued access to government services. Family violence - building regional leadership $4.6 million Regional Integration Coordinators will be maintained in each of the 12 family violence service catchment areas. Coordinators will continue to develop effective partnerships across the counselling, accommodation, policing, health, community and court systems to ensure that the response to women, and their children, experiencing family violence is coordinated and reflects local needs. Concessions to pensioners and beneficiaries $78.6 million The Government will support the growth in eligible concession card holders and enable the Government's concessions program to continue to assist low income households to meet rising utility costs, including electricity, water and property rates. Vulnerable People in Emergencies program $0.9 million The Departments of Health, Human Services, and Planning and Community Development will assist local governments to identify and maintain a list of vulnerable people at risk in emergencies, through a web based database. This assistance will include support with information systems, program management and staff training. The initiative will contribute towards addressing the recommendation by the 2009 Victorian Bushfires Royal Commission regarding registration of vulnerable people by councils during emergencies. Essential support for people with disabilities, their families and carers $38 million Additional individual support packages will be provided enabling people with a disability to have a choice in the range of supports required to assist them to achieve their goals. Mansfield Autism service $0.6 million Government will continue providing support for the travelling teacher service which provides educational services for children with autism. Preparing for the National Disability Insurance Scheme $0.9 million The Government has committed funding to support preparations for the launch of a National Disability Insurance Scheme in Victoria. FReeZa $1.6 million Support for the FReeZa program will enable the continuation of grants to local councils and community organisations as a contribution towards the cost of safe drug, alcohol and smoke free events for young people. The program includes opportunities for young people to develop planning and event management skills through their local FReeZA committee. Opening Doors - coordinating homelessness services $7 million The program will continue to deliver centralised, visible single entry points for people in housing crisis to access coordinated homelessness assistance 24 hours a day. Assistance is provided through initial assessment and planning services at first point of contact, and referrals to crisis, transitional and other support options, including specialist case management support. Support for high risk tenancies $4.7 million The support for high risk tenancies program will continue to assist over 300 of the most complex housing clients, including those at risk of homelessness, to access flexible service coordination, improved referral pathways and care planning. Victorian Youth Foyers - achieving sustainable education, employment and housing outcomes for young people $3.4 million The first of three purpose-built 40 bed Youth Foyers will deliver an integrated model of supported youth accommodation aimed at achieving sustainable education, employment and housing for young people who are at risk of, or experiencing, homelessness. The first of three Youth Foyer will be at the Kangan Institute of TAFE, Broadmeadows campus and operated by Hanover Welfare Services and the Brotherhood of St Laurence."
+                }
+            ], 
+            "parent_id": "3e9278a7-df6c-4719-81b3-da9a16506814", 
+            "type": "h4", 
+            "id": "31dd37c1-38a9-40e8-9e72-1d165a0466eb"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Justice", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Improving dispute resolution services for Victorians $20.4 million Ongoing funding is provided for a range of dispute resolution programs across Victoria, including the Intervention Order program and the Judicial Resolution program. These programs offer non-adversarial resolution of disputes, and will ease pressures in Victorian courts. Language services $4.1 million Additional funding is provided to support the availability of language services in the justice system for Victorians from culturally and linguistically diverse backgrounds. Specialist response to the management of serious sex offenders $104.4 million A specialist response to the management of serious sex offenders will continue to support the legal and operational requirements of the post-sentence detention and supervision scheme for sex offenders where the court is satisfied offenders pose an unacceptable risk of reoffending. Victoria Legal Aid $107.2 million Victoria Legal Aid will receive ongoing funding to provide legal representation, case work and duty lawyer services to deliver accessible legal advice to the community. Police station infrastructure to accommodate 1 700 frontline police and 940 Protective Services Officers $7.7 million Delivers a program of capital works at various police stations to accommodate the additional 1 700 frontline police and 940 Protective Services Officers funded in the 2011-12 Budget . Registered sex offender management $8.7 million Additional staff will enable Victoria Police to effectively manage and monitor registered sex offenders. Upgrade police stations $6.9 million The next stage of the Government's election commitment to construct new and upgrade existing police stations at various locations will enable the completion of new police stations at Waurn Ponds and Emerald, and the Essendon Operational Tactics and Safety Training complex, which all received stage one funding in the 2011-12 Budget . A new police residence will be delivered in Axedale, and the new Waurn Ponds police station will accommodate the co-location of the South Barwon Victorian State Emergency Service headquarters. This initiative also funds planning and development work for increased service delivery in Mount Waverley. Bushfire response - emergency services $1.2 million The Government will deliver the next stage of its election commitment to enhance the capacity of emergency services infrastructure through continued investment in fire station upgrades and fire fighting vehicles for the Country Fire Authority to assist emergency services to respond to bushfires. Bushfire response - Retreat and Resettlement Strategy $0.4 million The next stage of the Government's election commitment will be delivered with the implementation of a Retreat and Resettlement Strategy involving the voluntary acquisition of property destroyed by the 2009 bushfires determined to be of unacceptably high bushfire risk. Community bushfire refuges $2.0 million In the absence of an existing bushfire shelter option, public entities such as schools and local councils in high risk bushfire areas will be able to apply for grant funding to construct a community bushfire refuge. Emergency services communications $20.4 million Infrastructure for the Emergency Services Telecommunications Authority will be improved to enhance the Computer Aided Dispatch system. Infrastructure upgrades will enable the Victorian State Emergency Service to interface and integrate into incident control centres to improve multi-agency responses to emergency events. In addition, development of the Emergency Services Communications Long Term Masterplan aims to enable strategic future investments in the emergency services sector."
+                }
+            ], 
+            "parent_id": "3e9278a7-df6c-4719-81b3-da9a16506814", 
+            "type": "h4", 
+            "id": "05c734b1-1306-4505-8c5f-59dd0077db94"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Planning and Community Development", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Extending support for soccer facilities $1.5 million Funding will be provided to upgrade or develop soccer facilities across Victoria. This will meet continuing strong growth in soccer participation and improve the availability and access to community sporting infrastructure. In addition, the Government will continue to deliver funding through contributions from the Community Support Fund for sporting facilities that were previously funded through the Community Facility Funding Program, subject to the usual approval process and capacity. Public libraries funding program $12.7 million The public library funding program will continue to ensure that up to 52 library services continue to provide appropriate levels of resources and information to the community. This initiative will also include funding for the review of public library services to be undertaken by a bipartisan ministerial advisory council. Significant Sporting Events Program $2.4 million Grants to sporting and community organisations will continue to deliver significant sporting events in Victoria. These events attract interstate and international visitors, build participation opportunities, and showcase national and international elite level competition to wide audiences throughout Victoria. Supporting emerging Indigenous leaders $0.8 million The Community Support Fund will continue to support the Victorian Indigenous Youth Advisory Council. The Council acts as a mechanism for Indigenous youth leadership initiatives, profiling and acknowledging success and works with statewide bodies and local networks to connect with young Indigenous people across Victoria. Vulnerable People in Emergencies program $8.3 million The Departments of Health, Human Services, and Planning and Community Development will assist local governments to identify and maintain a list of vulnerable people who would be at risk in emergencies, through a web based database. This assistance will include support with information systems, program management and staff training. The initiative will contribute towards addressing the recommendation by the 2009 Victorian Bushfires Royal Commission regarding protection of vulnerable people by councils during emergencies. Continuing support for communities affected by the 2009 Victorian bushfires $1.2 million The Fire Recovery Unit will continue delivering assistance and support to individuals, communities and councils affected by the 2009 Victorian bushfires."
+                }
+            ], 
+            "parent_id": "3e9278a7-df6c-4719-81b3-da9a16506814", 
+            "type": "h4", 
+            "id": "3c4980a1-782c-46a8-81d4-40ea614736e2"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Premier and Cabinet", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Arts Centre Melbourne - expanded operations of Hamer Hall $1.5 million Support for the expanded operations of Arts Centre Melbourne through the reopening of Hamer Hall in July 2012. This is following its $128.5 million redevelopment which has created new public spaces along its Yarra River and St Kilda Road connections. Upgrading the Melbourne Planetarium at Scienceworks $0.9 million Technology underpinning the Melbourne Planetarium at Scienceworks, including the projectors and production system, will be replaced. Infrastructure will be acquired under an ongoing leasing model, which will better allow the organisation to benefit from technological updates as they occur. Refugee Support Program $5.2 million Support for partnerships between service agencies and refugee communities that help new humanitarian arrivals and asylum seekers to access services and become integrated socially and economically into their local community."
+                }
+            ], 
+            "parent_id": "3e9278a7-df6c-4719-81b3-da9a16506814", 
+            "type": "h4", 
+            "id": "643b63c6-dbf0-4b83-8eaa-90f7fb90afa8"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Primary Industries", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Facilitating low emission transition $9.5 million The facilitating low emission transition program will help to ensure that Victoria is well positioned to manage the major risks impacting on the State and local communities arising from the introduction of the Commonwealth's carbon tax. Safer Electricity Assets Workplan $62.5 million In response to a recommendation of the 2009 Victorian Bushfires Royal Commission the most high risk powerlines will be progressively replaced with safer technology."
+                }
+            ], 
+            "parent_id": "3e9278a7-df6c-4719-81b3-da9a16506814", 
+            "type": "h4", 
+            "id": "44f3cf37-0015-4c84-b237-381456aa70f3"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Transport", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "East West Link - planning and development $15 million The development of a business case for the East West Link between the Eastern Freeway and the Western Ring Road. This will support the economic development of Victoria by creating an alternative freight route improving flows to the Port of Melbourne and international airports, and reducing congestion in east-west travel. Hume Freeway - rest area upgrades Existing rest areas along the Hume Freeway will be upgraded to provide additional truck parking spaces and improved amenities. This commitment represents Victoria's contribution under the Australian Government's Heavy Vehicle Safety and Productivity Program. Lara to Avalon Airport Link $2.1 million The Government's election commitment to develop a new rail link to Avalon Airport will be further progressed, including planning and business case development work. West Gate Bridge maintenance works $14 million The West Gate Bridge will undergo enhanced maintenance works to ensure the longevity of this key road asset. Graduated licensing system $12.4 million The graduated licensing system program will be continued to improve young driver safety through increasing the level of driving experience, promoting safe practices and safer vehicle purchase, and providing motivation for safer driving behaviour. Hoon safe driving program $2.8 million The hoon safe driving program will establish a compulsory safe driving program for drivers who have committed first time offences involving excessive speed, street racing, and loss of traction, consistent with the Government's election commitment. Victoria's Road Safety Action Plan 2012-15 $17.2 million Victoria's Road Safety Action Plan 2012-15 will deliver new initiatives relating to drink driving, speeding, cycling and pedestrian and vehicle safety. This funding complements existing road safety initiatives."
+                }
+            ], 
+            "parent_id": "3e9278a7-df6c-4719-81b3-da9a16506814", 
+            "type": "h4", 
+            "id": "f7a9b996-6188-479c-a0cb-d5532280045e"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "BUDGET ASSET INITIATIVES TO SUPPORT VICTORIAN FAMILIES", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Government is funding a range of asset initiatives that will help Victorian families. The full details of these can be found in Budget Paper No. 3: Service Delivery ."
+                }
+            ], 
+            "parent_id": "3e9278a7-df6c-4719-81b3-da9a16506814", 
+            "type": "h4", 
+            "id": "9e115541-2d10-4d5a-9429-e26501f5b7b0"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Protecting Victoria's Vulnerable Children", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Government is providing funding to improve and upgrade facilities and services involved in the protection of Victoria's vulnerable children, including: responding to demand for residential out-of-home care; expansion of new model conferencing; improving the response to sexual assault - Multi-Disciplinary Centres; and new Children's Court at Broadmeadows Court."
+                }
+            ], 
+            "parent_id": "3e9278a7-df6c-4719-81b3-da9a16506814", 
+            "type": "h4", 
+            "id": "379d52db-bc5c-4615-b046-aa05e7addd99"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Business and Innovation", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Government is supporting tourism and marketing in Victoria by providing funding for the Puffing Billy Railway upgrade."
+                }
+            ], 
+            "parent_id": "3e9278a7-df6c-4719-81b3-da9a16506814", 
+            "type": "h4", 
+            "id": "aa1e7c1e-32dc-48dd-86d6-6a16691cb77b"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Education and Early Childhood Development", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Government is investing in education initiatives including: promoting excellence in science education; and new school construction, land acquisition and school upgrades."
+                }
+            ], 
+            "parent_id": "3e9278a7-df6c-4719-81b3-da9a16506814", 
+            "type": "h4", 
+            "id": "bec0bcaf-aae3-427e-8fb8-4b80633c5203"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Health", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Government is investing to upgrade and redevelop Victoria's hospitals and health services, including: Ballarat Hospital - additional beds, ambulatory care and helipad; Castlemaine Hospital upgrade; critical care capacity expansion; Frankston Hospital Emergency Department redevelopment; Geelong Hospital major upgrade; Monash Children's Hospital planning and development; radiotherapy services for South West Victoria; Royal Victorian Eye and Ear Hospital planning and development; Sunshine Hospital critical care services; Swan Hill Hospital aged care redevelopment; new mental health beds stage 2; regional mother-baby mental health units; Charlton Hospital reconstruction; Kilmore and District Hospital redevelopment; and Seymour Hospital chemotherapy chairs."
+                }
+            ], 
+            "parent_id": "3e9278a7-df6c-4719-81b3-da9a16506814", 
+            "type": "h4", 
+            "id": "4714d77f-ddf5-4a2c-91dd-3b1042bf2c71"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Human Services", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Government is supporting some of Victoria's most vulnerable citizens by providing funding for: fire risk management - children and people with a disability; Victorian Youth Foyers - achieving sustainable education, employment and housing outcomes for young people; and youth justice centres - increasing capacity and improving infrastructure."
+                }
+            ], 
+            "parent_id": "3e9278a7-df6c-4719-81b3-da9a16506814", 
+            "type": "h4", 
+            "id": "a6cce51b-1f1e-4df1-a6b6-d217cf9f3858"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Justice", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Government is improving community safety by investing in: liquor control reform; police station infrastructure to accommodate 1 700 frontline police and 940 Protective Services Officers; upgrade police stations; and bushfire response - Retreat and Resettlement Strategy."
+                }
+            ], 
+            "parent_id": "3e9278a7-df6c-4719-81b3-da9a16506814", 
+            "type": "h4", 
+            "id": "4148cfef-6c7f-46fe-a199-f7fbbd6d075c"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Premier and Cabinet", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Government is supporting Victoria's treasured cultural collections by funding the Museum Victoria exhibition renewal program."
+                }
+            ], 
+            "parent_id": "3e9278a7-df6c-4719-81b3-da9a16506814", 
+            "type": "h4", 
+            "id": "fda13793-556b-4730-8156-bd02e7f05768"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Transport", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Government is investing in roads and rail: Ballarat Western Link Road; Cardinia Road upgrade between Princes Highway and Pakenham Bypass; Dingley Bypass between Warrigal Road to Westall Road; Grovedale Station; Hume Freeway - rest area upgrades; Koo Wee Rup Bypass; local ports critical infrastructure works; managed motorways - West Gate Freeway (Williamstown Road to M80 Ring Road); Melbourne Metro - planning and development; Metropolitan Train Safety Communications System; Metropolitan grade separations - Mitcham Road and Rooks rail grade separation project (Mitcham) and Springvale Road rail grade separation project (Springvale); Narre Warren-Cranbourne Road duplication between Pound Road and Thompson Road; Protective Services Officers - railway station infrastructure; regional rail network major periodic maintenance (passenger and freight); regional rolling stock; rural overtaking lanes; Stud Road Improvement Project - Boronia Road to Mountain Highway; transport corridor reservation; Warragul station car park improvements; and Western Highway - duplication from Beaufort to Buangor. If you would like to receive this publication in an accessible format please telephone 9651 0909 or email information@dtf.vic.gov.au. 2012-13 Victorian Families Budget Information Paper No. 2 www.budget.vic.gov.au"
+                }
+            ], 
+            "parent_id": "3e9278a7-df6c-4719-81b3-da9a16506814", 
+            "type": "h4", 
+            "id": "083b922a-a6fb-43cc-9caa-7e2bfecb3b08"
+        }
+    ], 
+    "metadata": [
+        {
+            "content": "agi", 
+            "name": "author"
+        }, 
+        {
+            "content": "2012-05-01", 
+            "name": "publicationdate"
+        }
+    ]
+}

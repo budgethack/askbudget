@@ -49,9 +49,12 @@ if __name__ == '__main__':
             elif '$' in sentence:
                 data['is_sub'] = True
 
-            result = al.combined(
-                text=sentence, extract=combined_operations,
-                sentiment=True)
+            try:
+                result = al.combined(
+                    text=sentence, extract=combined_operations,
+                    sentiment=True)
+            except Exception:
+                continue
 
             quantities = []
             for entity in result['entities']:

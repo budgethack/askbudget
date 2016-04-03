@@ -1,0 +1,1253 @@
+{
+    "source_document_id": "", 
+    "media_type_detected": "application/pdf", 
+    "timestamp": "2016-04-03T09:20:03.990Z", 
+    "warnings": [], 
+    "answer_units": [
+        {
+            "direction": "ltr", 
+            "title": "Victorian Budget", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h2", 
+            "id": "f74215f4-e08a-4193-9326-042ba9ed4f6e"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "2011-12 Strategy and Outlook", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "f74215f4-e08a-4193-9326-042ba9ed4f6e", 
+            "type": "h3", 
+            "id": "7195d8f9-03ec-47c2-970b-3cfb83955a8d"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Budget Paper No. 2", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Presented by Kim Wells MP Treasurer of the State of Victoria The Secretary Department of Treasury and Finance 1 Treasury Place Melbourne, Victoria, 3002 Australia Telephone: +61 3 9651 5111 Facsimile: +61 3 9651 5298 Website: www.budget.vic.gov.au Authorised by the Victorian Government 1 Treasury Place, Melbourne, 3002 Printed by Stream Solutions, Level 3, 157 Spring Street, Melbourne, 3000 This publication makes reference to the 2011-12 Budget Paper set which includes: Budget Paper No. 1 - Treasurer's Speech Budget Paper No. 2 - Strategy and Outlook Budget Paper No. 3 - Service Delivery Budget Paper No. 4 - State Capital Program Budget Paper No. 5 - Statement of Finances (incorporating Quarterly Financial Report No. 3) Victorian Budget Overview ((c)) Copyright State of Victoria 2011 This book is copyright. No part may be reproduced by any process except in accordance with the provisions of the Copyright Act 1968 . ISSN 1440-6969 Published May 2011 Printed on recycled paper"
+                }
+            ], 
+            "parent_id": "7195d8f9-03ec-47c2-970b-3cfb83955a8d", 
+            "type": "h4", 
+            "id": "f7d02410-5735-477e-96e7-5de317e2f03e"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Strategy and Outlook 2011-12", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "          Presented by"
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h1", 
+            "id": "9283b8d5-edaf-4860-823e-bc16b15e407b"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Kim Wells MP Treasurer of the State of Victoria", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "9283b8d5-edaf-4860-823e-bc16b15e407b", 
+            "type": "h2", 
+            "id": "d3ae46d2-5683-48cf-8703-559ae88b5935"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "for the information of Honourable Members", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "d3ae46d2-5683-48cf-8703-559ae88b5935", 
+            "type": "h3", 
+            "id": "2bf6cd30-0329-47cd-afb4-2f79d4ecf5fb"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Budget Paper No. 2", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "9283b8d5-edaf-4860-823e-bc16b15e407b", 
+            "type": "h2", 
+            "id": "2ea641fb-ec04-4f31-ae18-faa8635abc41"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "TABLE OF CONTENTS", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "9283b8d5-edaf-4860-823e-bc16b15e407b", 
+            "type": "h2", 
+            "id": "c9b86460-14c0-493d-b750-d02681ff4243"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Introduction .....................................................................................................1", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "c9b86460-14c0-493d-b750-d02681ff4243", 
+            "type": "h4", 
+            "id": "9efa39db-55d2-412a-a02f-080d9c638d3c"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Chapter 1 - Economic and fiscal overview........................................................3", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Delivering election commitments............................................................................................. 3 Fiscal challenges........................................................................................................................ 4 The Victorian economy ............................................................................................................. 5"
+                }
+            ], 
+            "parent_id": "c9b86460-14c0-493d-b750-d02681ff4243", 
+            "type": "h4", 
+            "id": "fd511972-f92f-4f6a-9041-1ff0d4210549"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Chapter 2 - Economic context ..........................................................................7", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Economic overview................................................................................................................... 7 Short-term risks to the outlook .............................................................................................. 14 The medium-term productivity and competitiveness challenge............................................ 15"
+                }
+            ], 
+            "parent_id": "c9b86460-14c0-493d-b750-d02681ff4243", 
+            "type": "h4", 
+            "id": "f5183b1c-bf41-48af-bba6-2532fb4af1ff"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Chapter 3 - Budget position and outlook .......................................................21", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Fiscal overview........................................................................................................................ 22 Fiscal strategy and objectives ................................................................................................. 25 Operating statement analysis ................................................................................................. 26 Cash flows ............................................................................................................................... 31 Net debt and net financial liabilities ....................................................................................... 33 Fiscal risks ............................................................................................................................... 34"
+                }
+            ], 
+            "parent_id": "c9b86460-14c0-493d-b750-d02681ff4243", 
+            "type": "h4", 
+            "id": "b9a034ce-f855-4ce9-b6ec-6210a4955132"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Chapter 4 - Position and outlook of the broader public sector.......................39", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Introduction ............................................................................................................................ 39 Summary operating statement............................................................................................... 40 Application of cash resources ................................................................................................. 42 Financial sustainability of the Victorian Government............................................................. 44 State of Victoria outcome ....................................................................................................... 46"
+                }
+            ], 
+            "parent_id": "c9b86460-14c0-493d-b750-d02681ff4243", 
+            "type": "h4", 
+            "id": "f37689e9-16b4-444a-be44-b639be8fe74f"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Appendix A - Operating statement reconciliation ..........................................47", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "c9b86460-14c0-493d-b750-d02681ff4243", 
+            "type": "h4", 
+            "id": "de78d392-37ae-463c-b061-6cbc3edcc759"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Appendix B - Sensitivity analysis table...........................................................53", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Introduction ............................................................................................................................ 53"
+                }
+            ], 
+            "parent_id": "c9b86460-14c0-493d-b750-d02681ff4243", 
+            "type": "h4", 
+            "id": "9fcc24a4-a23c-40fc-bded-c549f0b682c4"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Style conventions ...........................................................................................59", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "c9b86460-14c0-493d-b750-d02681ff4243", 
+            "type": "h4", 
+            "id": "83e7d631-8a0e-479f-bc2a-41b72c70f998"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Index ..............................................................................................................61", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "c9b86460-14c0-493d-b750-d02681ff4243", 
+            "type": "h4", 
+            "id": "9fe48ef2-ac5c-43bb-a473-c4c525ee0fc1"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "INTRODUCTION", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Budget Paper No. 2 Strategy and Outlook describes the State's current economic and financial performance and outlines the Government's fiscal and economic reform strategy. It is the primary source for information on the State's financial performance, forward projections and strategy for the 2011-12 Budget . This budget paper takes into account the financial impacts as at 21 April 2011 of all policy decisions taken by the Victorian Government, as well as Commonwealth Government funding revisions and other information that affects the financial statements, unless otherwise stated. Budget Paper No. 2 forms part of the suite of budget papers. The Victorian Economic and Financial Statement released on 14 April 2011 highlights the fiscal and economic challenges confronting the Government, including significant program and capital project cost pressures. The Statement foreshadows the broad direction of reform the Government will pursue in order to address these challenges over time. Budget Paper No. 3 Service Delivery provides an overview of the goods and services funded by the Government and delivered by departments in the coming financial year and describes how these services support the Government's strategic priorities and objectives. This includes descriptions of new capital investment initiatives announced in the 2011-12 Budget for the general government sector. Budget Paper No. 4 State Capital Program describes Victoria's asset investment program. Budget Paper No. 5 Statement of Finances provides the financial details of the aggregated Victorian general government sector as outlined in this budget paper. The Government has implemented some changes to the structure of this year's Budget Paper No. 2 to enhance the overall level of transparency and disclosure. Chapter 1 Economic and fiscal overview has been streamlined to focus on the key economic and fiscal challenges facing the State. Chapter 2 Economic context now incorporates the former Chapter 5 Economic reform agenda to link the reform agenda more closely with the current economic outlook. Chapter 3 Budget position and outlook has been enhanced to provide greater disclosure and analysis of the State's fiscal position. Chapter 4 Position and outlook of the broader public sector includes commentary on the public financial corporations sector and State of Victoria estimates for the first time. This change enhances transparency and will provide the ability to compare forecast information with actual results published in the State's Annual Financial Report . Budget Paper No. 2 consists of the following chapters and appendices: Chapter 1 - Economic and fiscal overview \u2022 Chapter 1 outlines the Government's approach to delivering its election commitments in challenging circumstances. It outlines economic strategies aimed at boosting Victoria's productivity growth and improving the State's competitiveness, as well as fiscal strategies which seek to redress the State's current fiscal weaknesses so that Victoria is in a position to manage any future external shocks and move the budget to a sustainable position. Chapter 2 - Economic context \u2022 Chapter 2 provides an overview of current economic conditions in Victoria in the context of the international and Australian economic environment. It contains a detailed discussion of the projected trends in the key economic indicators: gross state product, employment, unemployment, inflation, wages and population. The chapter also details the key risks facing the Victorian economy. \u2022 This chapter explains how economy-wide reforms, human capital reforms and improved delivery of public services will support Victoria's ongoing recovery and ensure the State's continued prosperity in the face of its longer-term challenges. Chapter 3 - Budget position and outlook \u2022 Chapter 3 outlines the general government budget position and the forward year estimates. It shows how the Government's economic and fiscal strategy, outlined in Chapters 1 and 2, will impact on the general government sector's financial performance and position. \u2022 The chapter includes a summary of the forecast movements in key financial aggregates across the forward estimates, along with the major factors behind these movements. It discusses the assumptions underpinning the financial projections. Chapter 4 - Position and outlook of the broader public sector \u2022 Chapter 4 provides an overview of the activities of the broader public sector by adding the financial information of the State's public non-financial corporations sector to the general government sector's financial information, as presented in Chapter 3. The fiscal aggregates within the chapter provide an important measure of the financial sustainability of the Victorian Government, including the objective of maintaining the State's triple-A credit rating. \u2022 The Government is publishing public financial corporations sector and State of Victoria estimates for the first time in a Victorian budget and the chapter also provides a brief summary of the headline results for each of these sectors. Appendix A - Operating statement reconciliation \u2022 Appendix A reconciles the movement in the general government sector's net result from transactions between those published in the 2010-11 Budget Update and those in the 2011-12 Budget . As part of this reconciliation, explanations are provided on the key elements driving the movements in estimates. Appendix B - Sensitivity analysis table \u2022 Appendix B quantifies the estimated impact on income, expenses, the net result from transactions and the net result associated with variations to the forecasts of selected economic and financial variables."
+                }
+            ], 
+            "parent_id": "9283b8d5-edaf-4860-823e-bc16b15e407b", 
+            "type": "h2", 
+            "id": "203c6b04-3d1f-4b55-888c-973bf1d5928d"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "CHAPTER 1 - ECONOMIC AND FISCAL OVERVIEW", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The 2011-12 Budget funds the Government's election commitments, meets growing demand for services and delivers necessary new infrastructure. These priorities reflect the need to address the challenges of a growing population and meet the community's expectations about service quality and liveability. The budget is also framed against the backdrop of the significant economic and fiscal challenges facing Victoria. The ability to improve services and build new infrastructure ultimately depends on having a strong, sustainable budget position. Similarly, Victoria's economic success relies on having necessary infrastructure, safe communities and high quality, accessible services. Victoria's fiscal, economic, service delivery and infrastructure issues will not be fixed overnight. They will require longer term planning and ongoing, disciplined focus. The 2011-12 Budget sets out the initial stages of that longer term strategy by: \u2022 delivering the Government's election commitments, which focus on improvements to services and infrastructure, as well as addressing the cost of living; \u2022 laying out the full nature of the fiscal and economic challenges facing Victoria; and \u2022 taking the necessary first steps towards placing the State's finances on a more secure and sustainable footing."
+                }
+            ], 
+            "parent_id": "9283b8d5-edaf-4860-823e-bc16b15e407b", 
+            "type": "h2", 
+            "id": "7989d613-1717-4ab7-bd74-1ac71edc8ef2"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "DELIVERING ELECTION COMMITMENTS", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Government's election commitments outline its key priorities, including community safety, transport, health and the cost of living. These are priorities which reflect the everyday concerns of Victorian families. Many of these issues reflect the need to adequately manage Victoria's growth, which translates into concerns over crime, crowded and unreliable transport, a strain on public hospitals and a rise in utility bills. The Government's election commitments reflect a focus on managing Victoria's growth, meeting service demand and planning for the future. This includes a substantial new investment in public safety, bringing forward the deployment of 1 700 additional police and introducing 940 new Protective Services Officers on the public transport system. In transport, the budget delivers new rolling stock, a $100 million Rail Network Fund and development of new metropolitan and regional stations. The budget includes a major expansion of the public hospital system, funding the first tranche of an additional 800 beds which will be delivered in the Government's first term. Cost of living issues are addressed through a range of initiatives including stamp duty relief, an extension of existing electricity concessions to cover the full year and a reduction in ambulance membership fees. In addition, the budget delivers over $1.7 billion in new infrastructure projects to be funded in 2011-12 and future years."
+                }
+            ], 
+            "parent_id": "7989d613-1717-4ab7-bd74-1ac71edc8ef2", 
+            "type": "h3", 
+            "id": "fed6d785-c7bd-49ef-936d-b2c45d28017d"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "FISCAL CHALLENGES", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Since the mid 1990s, Victoria has benefited from a relatively strong budget position. However, the underlying strength of Victoria's budget position has begun to deteriorate in the last decade, particularly since the global financial crisis. This has left the budget vulnerable to external shocks. As a result, Victoria now faces some financial challenges which must be addressed in this and future budgets. A number of existing major projects face significant cost pressures, with an aggregate cost overrun in the order of $2 billion. Victoria has also experienced a $4.1 billion reduction in forecast GST grants over five years. Of this, $2.5 billion is attributable to Victoria's reduced relative share of GST and a further $1.6 billion is due to weaker GST receipts. The Commonwealth has delayed funding of $550 million for the Regional Rail Link and the Victorian Comprehensive Cancer Centre. In addition, the State must meet substantial costs as a result of floods in late 2010 and early 2011. Over the last decade, expenses have risen by an average annual rate of 8.0 per cent in nominal terms, faster than corresponding revenue growth which averaged 7.3 per cent. Recent and projected surpluses have relied on temporary capital grants from the Commonwealth. Public sector net debt has risen substantially, mainly as a result of spending on infrastructure. The 2011-12 Budget outlines these challenges and their implications for the first time and sets out the immediate steps taken by the Government to start rebuilding the State's financial position. These steps include: \u2022 delivering on the Government's commitment to have surpluses of at least $100 million each year, with average surpluses of $164 million over the forward estimates; \u2022 delivering $2.2 billion of savings, exceeding the election savings commitment by more than half a billion dollars and constraining expenditure growth to an average of 3.2 per cent per annum over the forward estimates; \u2022 increasing the rigour and oversight applied to developing and approving asset investment proposals, in particular through a new mandatory level of scrutiny by the Treasurer of high-value and high-risk investments (including those that are already underway); \u2022 stabilising debt as a percentage of gross state product (GSP), with net financial liabilities as a percentage of GSP falling by 2014-15, and remaining consistent with retaining Victoria's triple-A credit rating; and \u2022 reaffirming the policy of no public sector wage outcome greater than 2.5 per cent unless funded by productivity gains."
+                }
+            ], 
+            "parent_id": "7989d613-1717-4ab7-bd74-1ac71edc8ef2", 
+            "type": "h3", 
+            "id": "adda1d3a-045c-497a-b601-7495ca7066c9"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Independent review", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The measures taken in this budget deliver an operating surplus of at least $100 million and establish the basis for a sustainable debt strategy. However, surpluses in this budget and over the forward estimates continue to be underpinned by temporary Commonwealth grants for capital projects. Over the medium term there will be a need to rebuild surpluses to fund necessary infrastructure and provide a buffer for future economic and fiscal shocks. Further effort will be required to correct prevailing imbalances between revenue and expenses and to reduce debt so that the State can deal with future external economic and fiscal shocks. The interim report of the Independent Review of State Finances makes a number of significant recommendations in relation to the current health of Victoria's public finances, which are outlined in Box 1. In addition, it proposes a set of objectives to guide responsible fiscal management. Box 1 - Interim report's financial management framework targets \u2022 Over rolling five-year periods, the general government net operating balance is at least equal to the medium-term sustainable level of net infrastructure investment. \u2022 Over rolling five-year periods, general government net infrastructure investment is at least equal to 0.5 per cent of the historical five-year average of GSP. \u2022 General Government net debt is equal to zero on average over a 10-year rolling period. \u2022 Government superannuation liabilities are equal to zero by 2035. \u2022 When revenue growth exceeds the rolling five-year average, the Government preserves the excess in the form of cash reserves or equivalent financial assets. The Government will respond to the interim report of the Independent Review of State Finances in due course. The review's final report, due in February 2012, will provide further advice to the Government on possible strategies to transition to a sustainable position, particularly in light of recent fiscal shocks. This advice will include opportunities to improve the efficiency and effectiveness of public sector service delivery, infrastructure, governance and transition strategies."
+                }
+            ], 
+            "parent_id": "7989d613-1717-4ab7-bd74-1ac71edc8ef2", 
+            "type": "h3", 
+            "id": "877fb178-a6c0-4d62-9336-ae8144917aaf"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "THE VICTORIAN ECONOMY", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Victoria has a diverse economic base and a skilled workforce. This has been a major factor in the resilience of the Victorian economy. In general, the outlook for the Victorian economy is positive. However, the State faces a number of short and medium-term challenges that highlight the need to boost Victoria's productivity growth. Over the past decade, Victoria has largely relied on population growth to drive its economic performance. At the same time productivity growth - the main driver of higher living standards and economic prosperity - has declined from an average annual growth rate of 2.8 per cent in the five years to 1999-2000 to just 0.7 per cent in the five years to 2009-10. The sustained commodities boom provides significant opportunities for the Australian and Victorian economies. Victoria will benefit from interstate trade links with the resource-rich states and territories, particularly for services demanded by the mining industry. However, the commodities boom has also resulted in a high Australian dollar, reducing the competitiveness of Victoria's exports sector. This, together with a prolonged and uneven recovery in the global economy and higher oil prices, is already adversely affecting Victoria's manufacturing, education and tourism industries. Economic growth is expected to be substantially lower than forecast in the 2010-11 Budget Update as a result of weaker than expected business investment and downwards revisions to historical GSP growth. Forecast GSP growth in 2010-11 is now expected to be 2.5 per cent, rising to 3 per cent in 2011-12. However, this budget also revises Victoria's long-term trend growth projection down from 3 per cent to 2.75 per cent. This underscores the need for a renewed focus on productivity in the Victorian economy. The Government is acting to improve the State's competitiveness and boost productivity growth and has already asked the Victorian Competition and Efficiency Commission to identify the main elements of a state-based reform agenda. The Government will cut the costs of regulation for Victorian businesses by 25 per cent over the next three years. New regulation will be designed to minimise burdens while appropriately protecting broader community interests. Taxation reform is critical to a competitive business environment. At the national tax forum in October, the Government will advocate Commonwealth-State tax reforms that are in the long-term interests of Victorians. Adjustment to the Commonwealth's taxation regime is a key component of meaningful reform. The Government will also argue for a fair share of GST grants through the review of horizontal fiscal equalisation and associated GST distribution announced by the Commonwealth. The Government will identify opportunities to improve the efficiency and responsiveness of public services through greater use of competition, better procurement processes and further consolidation of back-office functions via shared services. These initiatives will improve the quality of frontline services to Victorians. Significant gains in productivity will also result from investment in knowledge, skills and appropriate infrastructure, which in turn will foster innovation which is another important source of productivity growth."
+                }
+            ], 
+            "parent_id": "7989d613-1717-4ab7-bd74-1ac71edc8ef2", 
+            "type": "h3", 
+            "id": "e23e663e-1fba-4300-83ac-b3d72e27e92b"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "CHAPTER 2 - ECONOMIC CONTEXT", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "\u2022 Victorian real gross state product (GSP) is forecast to grow by 3 per cent in 2011-12, with an expected recovery in business investment partially offset by the expiry of the fiscal stimulus. \u2022 Growth in the out-years is expected to be slightly weaker, consistent with slower productivity and population growth. \u2022 Victorian employment has grown strongly over the past year, with leading indicators pointing to continued strength in 2010-11, before moderating in 2011-12. The unemployment rate is expected to continue to fall. \u2022 The short-term economic outlook for Victoria involves a number of potential downside risks. These include a prolonged and uneven global economic recovery, rising oil prices and capacity constraints in the national economy. \u2022 Over the medium term, the Victorian economy will need to adjust to the change in relative prices as a result of the high terms of trade and a sustained high Australian dollar. \u2022 In response to the medium-term challenges, the Government is developing a comprehensive productivity reform agenda that will boost Victoria's competitiveness and ensure the economy remains strong. Key themes of this agenda are reduced business costs and regulatory burdens, more efficient, responsive and transparent public services, and enhanced knowledge, skills and infrastructure."
+                }
+            ], 
+            "parent_id": "9283b8d5-edaf-4860-823e-bc16b15e407b", 
+            "type": "h2", 
+            "id": "a578be8e-d2c2-403e-8c5a-7d46de93b052"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "ECONOMIC OVERVIEW International economic conditions and outlook", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The outlook for the international economy has improved since the release of the 2010-11 Budget Update , largely driven by growth in emerging economies. The International Monetary Fund's (IMF) April 2011 World Economic Outlook estimated world growth of 5 per cent in 2010, with growth expected to remain solid at around 4.5 per cent for both 2011 and 2012. However, the recent rise in oil prices caused by political instability in the Middle East and Africa could pose some risk to global growth. The outlook for emerging and developing economies remains strong, especially for Victoria's major trading partners in Asia, with the IMF forecasting 6.5 per cent growth in both 2011 and 2012. This should support growth in Victoria's exports over the medium term. China's outlook remains robust, with growth expected to be around 9.5 per cent over 2011 and 2012, despite policies aimed at cooling urban property markets. India is expected to record growth of around 8 per cent in 2011 and 2012, while growth in the ASEAN economies is forecast to moderate. Rising inflation remains a concern for a number of emerging economies, including China and India, with signs that these economies may be overheating. Growth in advanced economies is expected to continue to be sluggish, with the IMF expecting growth of 2.4 per cent and 2.6 per cent in 2011 and 2012, respectively. Following the recent earthquake and tsunami, activity in Japan is now expected to slow in 2011 before rebuilding efforts boost growth in 2012. In the US, a range of indicators show that the economic recovery has been progressing. Labour market conditions are also beginning to improve, with employment increasing and the unemployment rate falling, although the necessary adjustment in the housing market has a way to go. Apart from Germany, conditions in the euro area remain subdued, held back by the performance of highly indebted countries, such as Greece, Spain, Portugal and Ireland, and the impact of austerity measures. The global outlook has supported commodity prices, lifting Australia's terms of trade to its highest level since the early 1950s. The sharp recovery in commodity prices and interest rate differentials between Australia and other advanced economies has resulted in a high Australian dollar, which has been trading around or above parity with the US dollar for the past few months."
+                }
+            ], 
+            "parent_id": "a578be8e-d2c2-403e-8c5a-7d46de93b052", 
+            "type": "h3", 
+            "id": "278991e5-708a-4c70-b956-98b5606ccbdd"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Australian economic conditions and outlook", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Compared with most other advanced economies, the Australian economy has performed well over the past two years. However, there are some risks to growth in the immediate outlook. This overall national strength also masks some disparities in regional growth. According to the Commonwealth Government's Mid-Year Economic and Fiscal Outlook 2010-11 , the Australian economy is forecast to grow by 3.25 per cent in 2010-11 and 3.75 per cent in 2011-12. Since those forecasts were published in November 2010, Australia has experienced several natural disasters which, together with the impact of the Japanese earthquake and tsunami, are likely to reduce growth in 2010-11. However, as the Reserve Bank of Australia (RBA) noted in its February 2011 Statement on Monetary Policy , the medium-term outlook remains robust, assisted by expected strong growth in mining investment and higher commodity prices boosting national income and demand. Strong demand for mineral and energy commodities will support growth in the resource-rich states and territories over the medium term. Overall, this will bring substantial national economic benefits. However, competition for labour and capital and the high Australian dollar will to some extent offset the national benefits of the mining boom on states and territories, such as Victoria, that do not have large mineral resources. National employment has continued to grow solidly over 2010-11. The outlook for the labour market is positive, with forward indicators, such as business hiring intentions and job advertisements, pointing to continued employment growth. Structural adjustments in the national economy are favouring employment in the mining and business service industries, while the share of employment in the manufacturing industry, which is relatively more important for Victoria, is falling."
+                }
+            ], 
+            "parent_id": "a578be8e-d2c2-403e-8c5a-7d46de93b052", 
+            "type": "h3", 
+            "id": "b7ba1bae-ec53-4b4b-9592-ee3340b8a875"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Victorian economic conditions and outlook", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Victoria has performed relatively well since the global financial crisis and the outlook remains positive. However, the local economy is expected to grow more moderately than previously forecast over the next four years . This reflects some downside risks flagged in the 2010-11 Budget Update materialising. A delayed recovery in business investment has resulted in lower economic growth in the short term. Weaker than expected business investment and data revisions to historical GSP have been the primary drivers of the downward revision to expected GSP growth in 2010-11 to 2.5 per cent - one percentage point below the 2010-11 Budget Update forecast. Forecast GSP growth for 2011-12 has been maintained at 3 per cent, with an expected return to solid growth in business investment partially offset by the rundown of the fiscal stimulus. In the out-years, annual GSP growth is expected to decline to a trend rate of 2.75 per cent. The decrease in trend GSP growth from 3 per cent published in the 2010-11 Budget Update in part reflects data revisions made by the Australian Bureau of Statistics which have lowered the decade-average GSP growth rate below 3 per cent and led to a reassessment of trend productivity growth. The current forecasts are also consistent with expected slower population growth due to continued weaker net overseas migration. These effects combine to suggest that 2.75 per cent is a prudent assumption for the long-term projection of real GSP growth. However, with appropriate policy settings, higher growth rates remain achievable. The Victorian labour market has been strong over the past year, resulting in higher employment growth for 2010-11 relative to the 2010-11 Budget Update . Employment growth is forecast to revert to its long-term trend of around 1.75 per cent in 2011-12 and the out-years. The higher wage growth forecasts are consistent with strong wages growth recorded in the first half of 2010-11, while inflation forecasts are unchanged. The economic projections underpinning the 2011-12 Budget are set out in Table 2.1. They assume constant exchange rates and that oil prices follow the path implied by current oil futures contracts. Table 2.1: Victorian economic projections (a) 2009-10 2010-11 2011-12 2012-13 2013-14 2014-15 Actual Forecast Forecast Forecast Forecast Forecast Real gross state product Employment Unemployment rate (b) Consumer price index Wage price index (c) Population (d) 2.0 2.8 5.5 2.1 2.8 1.8 2.50 3.50 5.25 3.00 3.75 1.70 3.00 1.75 5.00 2.75 3.75 1.50 2.75 1.75 5.00 2.50 3.50 1.50 2.75 1.75 4.75 2.50 3.50 1.50 2.75 1.75 4.75 2.50 3.50 1.50 Sources: Australian Bureau of Statistics; Department of Treasury and Finance Notes: (a) Year-average per cent change on previous year unless otherwise indicated. All economic projections are rounded to the nearest 0.25 percentage point, except population projections which are rounded to the nearest 0.1 percentage point. (b) Year-average level, per cent. (c) Total hourly rate excluding bonuses. (d) June quarter, per cent change on previous June quarter. Gross state product Consumers appear to have become more cautious over 2010-11 despite the strong labour market and boost to real household incomes from the high terms of trade. Together, the recent weakness in retail sales, easing consumer sentiment, a high household saving rate (Chart 2.1) and slower personal credit growth point to a change in consumer attitudes. This appears to reflect positive efforts by households to strengthen their balance sheets, following a prolonged period of high credit growth and low net saving rates. There are long-term economic benefits associated with a more resilient household sector, despite the short-term impact of lower spending in key sectors, such as retail trade, on government revenues. Chart 2.1: Net household saving rate, Australia (a) -3 0 3 6 9 12 Dec-00 Dec-02 Dec-04 Dec-06 Dec-08 Dec-10 pe r c en t Source: Australian Bureau of Statistics Note: (a) Net saving as a proportion of net household disposable income (disposable income less depreciation). The forecasts assume below-trend growth in consumer spending over the remainder of 2010-11. For 2011-12 and the out-years, a return to trend growth in consumption is expected, as household balance sheets improve and employment and earnings continue to grow. However, continued consumer caution would represent some downside risk to the forecasts. The short-term outlook for dwelling investment remains upbeat. Dwelling approvals in Victoria have remained at an above-average level, pointing to a substantial pipeline of work yet to be completed. Other indicators of housing demand, such as housing finance commitments, suggest slower dwelling investment growth over the remainder of 2010-11 and 2011-12. Easing population growth is also expected to dampen dwelling investment in the out-years. Business investment declined substantially over the course of 2010, following a peak in the December quarter 2009. This was partly driven by the impact of temporary tax concessions for investment which ended in December 2009 and the unwinding over 2010 of private sector activity associated with the Commonwealth Government's Building the Education Revolution program. Machinery and equipment investment and non-residential building remain subdued, while engineering construction has fared relatively better. Overall, conditions for future business investment in Victoria are positive, particularly with the improved affordability of imported machinery and equipment as a result of the high Australian dollar. Weather-related disruptions to non-dwelling construction in the December quarter 2010 are also expected to be offset by higher activity over the first half of 2011. Business investment is expected to recover over the rest of 2010-11 and in 2011-12, though there remain downside risks from structural changes in the Victorian economy. This is because conditions in industries that have traditionally contributed significantly to Victorian investment, such as manufacturing, may continue to be challenging in an economic environment influenced by a strong Australian dollar and national capacity constraints. Victorian businesses will also need to compete with mining operations for investment resources in light of rapid capacity expansion plans in the mining sector (Chart 2.2). Chart 2.2: Private new capital expenditure by industry, Australia (a)(b) 0 20 40 60 80 100 2002-03 2005-06 2008-09 2011-12 $ bi lli on Mining Non-mining Sources: Australian Bureau of Statistics; Department of Treasury and Finance Notes: (a) Current prices. (b) Dashed lines indicate expected capital spending adjusted for long-run realisation ratios. Public investment is expected to continue to be a strong contributor to growth in 2010-11, associated with activity in the health, education, public housing and urban water sectors. Public investment is expected to decline over 2011-12 and the out-years as Commonwealth Government fiscal stimulus measures unwind, though this will be mitigated by asset rebuilding efforts in flood-affected areas. Overall, net international trade is expected to detract from growth in 2011-12 and the out-years. However, this may be offset by positive contributions from net interstate trade, as the resource-rich states and territories buy goods and services from other parts of Australia, including Victoria. The short-term outlook for merchandise exports has improved, with the increase in agricultural production in 2010-11, underpinned by above-average rainfall throughout 2010, expected to boost rural commodity exports. In particular, the 2010-11 Victorian winter crop was a record 7.9 million tonnes, 34 per cent higher than the 2009-10 season. However, the high Australian dollar and increased international competition are expected to weigh on manufactured exports. Prospects for service exports are improving but remain weak, in part reflecting the international education sector reverting to a more sustainable growth trend. The decline in international student enrolments and the influence of the exchange rate on inbound tourism are likely to affect service exports over the forward estimates period. Over 2009-10 and the first half of 2010-11, Victoria recorded strong growth in imports, partly reflecting their increased affordability as the exchange rate strengthened. Over the forward estimates period, the volume of merchandise and service imports are expected to grow further, albeit at a slower pace, as the Victorian economy adjusts to the shift in relative prices. The recent floods in Victoria have caused considerable hardship in some regional areas with significant asset losses. Despite these losses, since most of the winter crop had been harvested by the time the floods occurred and there were no major livestock losses, the impact on Victorian output is likely to be small. Further, the increase in water storages and soil moisture as a result of heavy rains is expected to boost growing conditions for the 2011-12 winter crop. Other indicators Employment has continued to increase strongly in Victoria, with 3.5 per cent growth over the year to March 2011, representing close to an additional 100 000 jobs (Chart 2.3). Over the past year, job increases were greatest in the health care and social assistance, construction and professional, technical and scientific services industries. Average hours worked has also risen over the past year in line with the pick-up in full-time employment, unwinding previous efforts to absorb slowing demand through a reduction in hours. Despite the increase in hours worked and the falling unemployment rate, there remains some slack in the labour market from underemployment. The strong labour market conditions are also encouraging increased participation, with the labour force participation rate rising to historically high levels over the six months to March 2011. Chart 2.3: Annual employment growth, Victoria and Australia (a) -1 0 1 2 3 4 5 Mar-01 Mar-03 Mar-05 Mar-07 Mar-09 Mar-11 pe r c en t Victoria Austra l ia Source: Australian Bureau of Statistics Note: (a) Trend data. Employment is likely to continue to grow over the rest of 2010-11 and into 2011-12, but the rate of growth will moderate towards trend. The recent increase in the participation rate is expected to be partially unwound over the forward estimates period, as the effect of an ageing population depresses the overall participation rate. As this is expected to result in employment growth outstripping growth in the labour force, the unemployment rate is likely to edge lower over the forecast period. Consistent with national forecasts, headline inflation in Victoria is expected to remain in the upper half of the RBA's medium-term target band of 2 to 3 per cent over 2010-11 and 2011-12 before easing to the middle of the band. A key driving factor is wage growth that is not offset by productivity improvements. The $26 a week increase in the national minimum wage from 1 July 2010 has boosted private sector wages and, together with the possible re-emergence of general skills shortages, has resulted in higher wages growth forecasts for 2010-11 and 2011-12. Growth in wages not commensurate with productivity gains will reinforce consumer price inflation. Inflation is also being affected by higher fresh food prices as a result of recent natural disasters and continued firm growth in utility prices, health and education costs. Partially offsetting this will be the continued moderating effect of the higher Australian dollar on the price of imported goods and services. Population growth has slowed in Victoria to 1.7 per cent over the year to September 2010, compared with the peak of 2.2 per cent growth over the year to June 2009. The slow down in population growth reflects lower net overseas migration - a trend which is expected to continue over the forward estimates period - and will in turn dampen economic growth (Chart 2.4). However, business visa applications have picked up recently, presumably to fill vacancies for skilled labour in short supply. Despite the economic strength of resource-rich states and territories, net interstate migration remains in balance. There is a medium-term risk that this could turn negative. Chart 2.4: Contribution to Victorian annual population growth -1.0 -0.5 0.0 0.5 1.0 1.5 2.0 Sep-90 Sep-94 Sep-98 Sep-02 Sep-06 Sep-10 pe r c en t Net overs eas migration Natura l increa se Net inters ta te migration Source: Australian Bureau of Statistics"
+                }
+            ], 
+            "parent_id": "a578be8e-d2c2-403e-8c5a-7d46de93b052", 
+            "type": "h3", 
+            "id": "ddaf0bae-60e3-4349-a179-1c657a44355f"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "SHORT-TERM RISKS TO THE OUTLOOK", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The balance of risks is weighted to the downside in the short term. The downside risks include a prolonged and uneven global economic recovery, rising oil prices, capacity constraints emerging in the national economy, the strong Australian dollar and continued subdued business investment. Continued strength of the labour market and the return of stronger net overseas migration could pose some upside risks to these forecasts. The global economic recovery is fragile and there are significant downside risks to the outlook for advanced economies. Sovereign debt problems mean that many European economies are expected to be undertaking fiscal consolidation, while major advanced economies are winding back expansionary policies to ensure fiscal sustainability. Both are likely to affect growth prospects. International financial markets continue to be more volatile than before the global financial crisis, reflecting sharp changes in risk appetite and the impact of natural disasters. Political instability in the Middle East and North Africa has resulted in higher oil prices which, if prolonged, could dampen the global recovery. There has also been some moderation in growth in emerging economies, although the outlook remains positive. The return of strong international demand for resources and the associated elevated terms of trade provide both benefits and challenges for the Victorian economy. On the upside, the higher terms of trade will boost incomes, which should flow through to higher domestic consumption and investment. Victoria will also benefit from interstate trade links with the resource-rich states and territories, particularly for services demanded by the mining industry and their expanding workforces. However, this strong demand may also lead to capacity constraints and a sustained high Australian dollar. As investment is likely to favour mining-related activities, other industries may face labour and materials constraints, decreasing their ability to invest and increasing input cost pressures. On the upside, labour market conditions have remained firm, with stronger employment growth boosting incomes and so potentially raising Victoria's medium-term GSP growth rate back towards 3 per cent. This could also be accommodated through higher population growth if net overseas migration were to rise in response to skill shortages in the Australian economy."
+                }
+            ], 
+            "parent_id": "a578be8e-d2c2-403e-8c5a-7d46de93b052", 
+            "type": "h3", 
+            "id": "a9d64862-a6c9-48c5-b70a-5ba55e68a845"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "THE MEDIUM-TERM PRODUCTIVITY AND COMPETITIVENESS CHALLENGE", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "While Victoria's trade-exposed industries are suffering reductions in their competitiveness because of the high exchange rate, many of Victoria's global competitors are likely to emerge leaner and more efficient from the global financial crisis. In order to boost the State's competitiveness, the Government is pursuing a reform agenda that is focused on lifting productivity. Over the past decade, Victoria has been relatively reliant on population growth to drive its economic performance, while productivity growth - the main driver of higher living standards and economic prosperity - has declined. Chart 2.5 shows the deterioration in labour productivity growth. Average annual labour productivity growth in Victoria in the five years to 1999-2000 reached 2.8 per cent, outstripping the national average. Since then, however, the average annual rate of productivity growth in Victoria has slowed, sinking to just 0.7 per cent a year in the five years to 2009-10. As a result, Victoria now finds itself below the national average productivity growth rate. Chart 2.5: Victorian and Australian average annual labour productivity growth 0.0 0.5 1.0 1.5 2.0 2.5 3.0 1989-90 to 1994-95 1994-95 to 1999-2000 1999-2000 to 2004-05 2004-05 to 2009-10 av er ag e an nu al p er ce nt ag e ch an ge Victoria Australia Sources: Australian Bureau of Statistics; Department of Treasury and Finance The Government is committed to strengthening the State's finances and improving the competitiveness of the Victorian economy. It has commissioned an Independent Review of State Finances, and has also delivered on its election commitment to establish two Victorian Competition and Efficiency Commission (VCEC) inquiries that will look at areas that will improve the State's competitiveness. The Government has commissioned a VCEC inquiry to identify the main elements of a state-based reform agenda that will focus on promoting productivity, competitiveness and labour force participation. The analysis will be informed by a benchmarking exercise that will compare Victoria's competitive position with other jurisdictions (in areas including state taxes and regulation, infrastructure services and the education and skills base of the population), and help identify priority areas for reform. The Government will also use a VCEC inquiry to inform the strategic direction and growth of Victoria's manufacturing sector. In pursuing its agenda to promote Victoria's competitiveness and boost productivity growth, the Government has already identified the following key broad areas of focus: \u2022 reducing business costs through competition, regulation and taxation reform; \u2022 creating more efficient, responsive and transparent public services; and \u2022 enhancing Victoria's knowledge, skills base and core infrastructure."
+                }
+            ], 
+            "parent_id": "a578be8e-d2c2-403e-8c5a-7d46de93b052", 
+            "type": "h3", 
+            "id": "a5d2fe97-ce60-4ef0-a7d2-09d5b2e8613e"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Reduced business costs", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Victoria has long been recognised as a national leader in competition and regulatory reform. However, feedback from business and not-for-profit organisations is that state regulation in Victoria is becoming more costly and complex. In response, the Government is placing a renewed focus on competition and regulation reform to reduce costs for businesses, not-for-profit organisations, local government and government services, with a particular emphasis on reducing red tape. The Government is implementing its commitment to cut red tape by 25 per cent from current levels through an ambitious program that: \u2022 sets a target to reduce existing regulatory costs which is to be achieved by July 2014; and \u2022 requires all reductions to be measured under the requirements of the Victorian Regulatory Change Measurement manual and assessed by the VCEC to ensure independent verification. Under this approach, the calculation of regulatory savings will take a broad view which will include not only the traditionally narrow focus on administrative burden, but also consideration of compliance and delay costs. This strategy will include the following complementary measures that will contribute to the achievement of the targeted 25 per cent reduction in regulation burden: \u2022 earlier and more systematic review and reform of sunsetting regulations that have high costs to business; \u2022 targeted reviews of new or amended legislation that introduce new regulatory burdens; \u2022 more proactive stakeholder consultation using the Department of Business and Innovation's company engagement network; \u2022 improving the governance and operational performance of regulators; and \u2022 preparation of best practice guidance on developing, implementing and evaluating regulation. More rigorous, transparent processes will deliver regulation that is risk based and imposes minimal burdens while ensuring that broader community interests are protected. The Government will respond to the VCEC's inquiry into Victoria's regulatory framework and implement a range of actions to further enhance Victoria's leadership in regulatory reform. This will include targeting reforms to regulatory 'hotspots' such as land use planning and environmental regulation. The Government will explore innovative options to lower the burden of regulation. For example, in the area of environmental regulation, 'ecoMarkets' use market-based approaches instead of regulation to achieve objectives. An example is the development of a market for native vegetation offsets, currently being field tested in Victoria. This approach significantly reduces the complexity involved in finding matching vegetation offsets, which promises to reduce delay costs for developers and will significantly improve efficiency in the offset market. In terms of national regulatory reforms, the Government will work with other states on reform processes that boost Australia's productivity and competitiveness, but only where there are demonstrable benefits for Victoria. Experience has shown that cooperative federalism can be important where markets are genuinely national but, in many other areas, stronger reform outcomes for Victoria can be driven by unilateral action. This is particularly the case where cooperative federalism results in 'lowest common denominator' outcomes. It is important in regulatory policy that national uniformity is not pursued for its own sake. As taxation is another critical element of a competitive business environment, the Government will advocate Commonwealth-State tax reforms that are in the long-term interests of Victorians. The Government will also argue for a fair share of goods and services tax (GST) revenue through the review of horizontal fiscal equalisation and associated GST distribution announced by the Commonwealth."
+                }
+            ], 
+            "parent_id": "a578be8e-d2c2-403e-8c5a-7d46de93b052", 
+            "type": "h3", 
+            "id": "840b66fd-fd7d-4988-831b-e7fab80befb2"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "More efficient, transparent and responsive public services", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Government's reform agenda will identify opportunities to improve the efficiency and responsiveness of public services through appropriate workplace flexibilities, the targeted use of competition, better procurement processes and further consolidation of back-office functions through the use of shared services. These initiatives will aim to reduce costs, increase choice and improve the quality of frontline services to Victorians. The Government will act on the findings of the Independent Review of State Finances to boost public sector productivity in public service delivery. As part of its terms of reference, this review is being asked to examine: \u2022 efficiency and effectiveness of agency approaches to service delivery; \u2022 the use of benchmarking and performance information to drive results; \u2022 the use of and potential for private sector involvement in service delivery (where appropriate or relevant), including through the use of market-based instruments or other service delivery reforms; and \u2022 possible cost savings through the identification of existing waste in expenditure and potential for efficiency gains. The benefits of reform in public services can be significant. Past eras of microeconomic reform - notably the national competition policy reforms that started in the mid 1990s - have demonstrated that the introduction of competition can deliver significant productivity improvements, greater choice and better customer service in areas of the economy not previously subject to market discipline. In 2005, the Productivity Commission estimated that the productivity and pricing reforms implemented as a result of the National Competition Policy agenda resulted in a sustained increase in Australia's real gross domestic product of 2.5 per cent above what it would otherwise have been."
+                }
+            ], 
+            "parent_id": "a578be8e-d2c2-403e-8c5a-7d46de93b052", 
+            "type": "h3", 
+            "id": "7887e2e4-1e74-46bc-8955-668b7fcfdec0"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Enhanced knowledge, skills and infrastructure", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Investment in knowledge, skills and productivity-enhancing infrastructure will benefit every sector of the Victorian economy. The Government will place particular emphasis on raising teacher quality and providing greater autonomy and flexibility to principals and school communities. In addition, high-quality early childhood education has been shown to deliver substantial long-term social and economic gains. Particular emphasis will be placed on targeted intervention for disadvantaged children who might otherwise not benefit from Victoria's suite of early childhood education and care services. Targeted intervention in early childhood for disadvantaged children will lift long-term outcomes and ensure the best value for Victoria. The Government will support ongoing reform in the vocational education and training sector that increases choice and the responsiveness of training providers to the needs of students and businesses. Capital investment is another crucial driver of productivity. Reform of infrastructure planning, financing and delivery will help drive investments that enhance productivity. Enhancements to Victoria's knowledge, skills base and appropriate infrastructure will also help to drive innovation, which is another important source of productivity growth."
+                }
+            ], 
+            "parent_id": "a578be8e-d2c2-403e-8c5a-7d46de93b052", 
+            "type": "h3", 
+            "id": "6fcc8398-36cf-4191-b802-e3ade7bbb2c5"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "CHAPTER 3 - BUDGET POSITION AND OUTLOOK", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "\u2022 The 2011-12 general government sector operating surplus (net result from transactions) has been revised downward since the 2010-11 Budget Update to $140 million. The average annual operating surplus is forecast to be $164 million over the forward estimates. These forecasts meet the Government's target of $100 million surplus in each year. \u2022 The downward revision to the operating surplus reflects the deterioration in Victoria's revenue forecasts primarily driven by a reduction in goods and services tax (GST) revenue by $4.1 billion over five years. The GST shock is similar to that observed during the global financial crisis. Total revenue is projected to grow by 4.4 per cent in 2011-12, and 3.2 per cent on average a year over the forward estimates. \u2022 Total expenditure is expected to grow by 4.7 per cent in 2011-12. The Government has constrained expenditure growth to 3.2 per cent on average a year across the forward estimates. \u2022 The budget position continues to rely on temporary grants from the Commonwealth to generate operating surpluses. Over the medium term, there will be a need to rebuild surpluses to fund necessary infrastructure and provide a buffer for future economic and fiscal shocks. \u2022 The Government is investing in key infrastructure to support future growth, with a net general government infrastructure investment program of at least 1 per cent of gross state product (GSP) in the 2011-12 budget and over the forward estimates. \u2022 The weakened budget position, due to immediate and long-term challenges, has led to an increase in general government sector net debt. Net debt is forecast to rise to 5.9 per cent of GSP at 30 June 2013 and remain at that level to 30 June 2015. The rise in net debt is attributable to the reduction in GST grants, cost pressures on existing projects in the order of $2 billion and new infrastructure investment. \u2022 Net financial liabilities are expected to peak at 14.2 per cent of GSP at 30 June 2013 before declining to 13.5 per cent of GSP by 30 June 2015, reflecting the impact of a gradual decline in the defined benefit obligations of the State's superannuation schemes as a percentage of GSP. This chapter provides an overview of the revised budget position for the budget year (2011-12) and forward estimates years (2012-13 to 2014-15) for the general government sector. The revised budget and forward estimates are based on the economic projections outlined in Chapter 2 Economic context , and reflect the accounting policies and assumptions in Budget Paper No. 5, Chapter 1 Estimated Financial Statements and Notes . The 2010-11 revised budget outcome can be found in Budget Paper No. 5, Appendix B Revised 2010-11 Budget outcome incorporating the financial report for the March quarter. A reconciliation of the movements in the general government's operating statement's forward estimates between those in the 2010-11 Budget Update and those in the 2011-12 Budget can be found at Appendix A Operating statement reconciliation."
+                }
+            ], 
+            "parent_id": "9283b8d5-edaf-4860-823e-bc16b15e407b", 
+            "type": "h2", 
+            "id": "f3d55563-8e6b-4e40-ba86-45f42b5d423e"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "FISCAL OVERVIEW", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Fiscal aggregates and measures are set out in Table 3.1. Despite the prevailing challenges, the Government will meet its budget surplus target of at least $100 million in each year. The Government has achieved this result while delivering on its election commitments, funding the necessary flood repair and reconstruction costs and constraining expenditure growth. Table 3.1: General government fiscal aggregates and measures Unit of 2011-12 2012-13 2013-14 2014-15 Measure Budget Estimate Estimate Estimate Net result from transactions Net debt Net debt to GSP (a) Net financial liabilities (b) Net infrastructure investment $ million $ billion per cent $ billion $ million 140.416.8 5.0 46.0 6 143.4 149.720.8 5.9 50.2 5 892.1 160.6 22.0 5.9 51.7 4 114.4 181.0 23.2 5.9 52.8 3 865.0 Source: Department of Treasury and Finance Notes: (a) Ratios to GSP may vary from publications year to year due to revisions to the ABS GSP data. (b) The sum of borrowings, deposits held and advances received less the sum of cash and deposits, advances paid, and investments, loans and placements. The revenue outlook has deteriorated considerably since the 2010-11 Budget Update . This is largely driven by a $4.1 billion (6.6 per cent over five years) reduction in GST grants from 2010-11 as a result of recommendations contained in the Commonwealth Grants Commission's (CGC) 2011 Update Report combined with significantly slower growth in the overall GST pool. The 2011 Update Report recommended a decrease in Victoria's share of the total GST pool to 22.5 per cent in 2011-12, compared with 23.4 per cent in 2010-11. Victoria is forecast to lose about $2.5 billion from the reduction in its share of the pool over the budget and forward estimates years. The decrease is substantially driven by the backcasting of wages data revisions, redistributing substantial amounts of GST funding away from Victoria to the resource-rich states. Victoria supports an appropriate system for distributing GST grants among states and territories, one which takes account of the challenges faced by smaller jurisdictions in meeting their service delivery requirements. However the 2011 Update Report undermines the horizontal fiscal equalisation principles underlying this funding distribution because of its volatile, unpredictable and contrary results. More detail on this topic can be found in the Department of Treasury and Finance's Victoria's response to the CGC 2011 Update of GST relativities . The remainder of the reduction in GST grants of $1.6 billion over five years (starting in 2010-11) will result from a slower growth in the overall GST pool. The decline in the forecast total pool is due to the weaker outlook for national consumption and dwelling investment, and a trend decline in the proportion of consumption subject to GST. Further details are contained in Budget Paper No. 5, Chapter 4 State Revenue . The impact of the downwards revision in GST grants in this budget is comparable to the reduction in GST grants observed during the global financial crisis. At the same time State revenue has remained relatively stable with only marginal variations to 2010-11 Budget Update forecasts. In conjunction with the unwinding of the Commonwealth fiscal stimulus, these variations have been insufficient to fully buffer the State from the impact of the GST shock. Compared with the 2010-11 Budget Update , expenditure growth for 2011-12 has increased from 4.0 per cent to 4.7 per cent. Details of the variations in expenditure from 2010-11 Budget Update are discussed in Appendix A Operating statement reconciliation . However, across the forward estimates, expenditure has been constrained to grow by a forecast annual average of 3.2 per cent. Despite the reduction in estimated revenue, the budget maintains general government investment in infrastructure of at least 1 per cent of GSP across the budget and forward estimates, in order to service a growing economy. Net debt to GSP is now forecast to be at 5.0 per cent by 30 June 2012. The measures outlined in this budget have assisted in stabilising net debt as a percentage of GSP at around 5.9 per cent thereafter. This represents a significant increase since the 2010-11 Budget Update , with the key drivers of the increase provided in Chart 3.1. The primary contributor is the impact of the reduction in Victoria's forecast GST grants, followed by additional infrastructure funding for cost pressures and future investment. Chart 3.1: Growth in net debt in the 2011-12 Budget 0 1 2 3 4 5 6 7 8 2011-12 2012-13 2013-14 2014-15 $ bi lli on GST revis ion Interest expense Net investment in fi xed assets Other variations Source: Department of Treasury and Finance Together these factors have exposed a number of underlying weaknesses in the budget position, including the budget's reliance on temporary grants from the Commonwealth to maintain operating surpluses. Table 3.2 shows the effect of removing one-off Commonwealth grants for specific major capital programs from Victoria's net result from transactions, for 2008-09 and 2009-10 and the forecast result for 2010-11 through 2014-15. Table 3.2: Effect of removing one-off Commonwealth grants (a) ($ million) 2008-09 2009-10 2010-11 2011-12 2012-13 2013-14 2014-15 Actual Actual Revised Estimate Estimate Estimate Estimate Net result from transactions 251.2 643.6 249.4 140.4 149.7 160.6 181.0 Impact of one-off Commonwealth funding for specific major capital programs 319.3 1 594.3 1 395.2 657.2 589.0 925.0 567.0 Difference (a) ( 68.1) ( 950.7) (1 145.8) ( 516.8) ( 439.3) ( 764.4) ( 386.0) Source: Department of Treasury and Finance Note: (a) This adjusts the operating surplus for the impact of one-off Commonwealth grants for specific capital projects reflecting Regional Rail Link, Victorian Comprehensive Cancer Centre, Nation Building - Economic Stimulus Plan Social Housing component and Building the Education Revolution ."
+                }
+            ], 
+            "parent_id": "f3d55563-8e6b-4e40-ba86-45f42b5d423e", 
+            "type": "h3", 
+            "id": "9881873a-063c-4341-a814-8801eab25d76"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "FISCAL STRATEGY AND OBJECTIVES", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The above fiscal overview outlines the size of the challenges facing Government. In response, the budget takes important steps to make Victoria's public finances more sustainable through: \u2022 delivery of Government's commitment to have surpluses of at least $100 million in each year, with surpluses averaging $164 million over the forward estimates; \u2022 constraint in expenditure growth, including the delivery of a $2.2 billion five year package of efficiency savings; \u2022 ensuring that debt as a percentage of GSP will stabilise, with net financial liabilities falling as a percentage of GSP by 2014-15, and remaining consistent with retaining Victoria's triple-A credit rating; \u2022 addressing the issue of cost overruns by increasing the Treasurer's direct involvement in oversight of major projects to provide more rigour in delivery against timelines and budgets; and \u2022 emphasising the importance of the Government's policy of having no wage policy outcomes greater than 2.5 per cent, unless they are funded from productivity gains. Further detail on the Government's fiscal strategy will be provided in the Government's response to the interim report of the Independent Review of State Finances. Addressing the budget's reliance on temporary grants from the Commonwealth to maintain operating surpluses is a challenge for the longer term. The magnitude of this challenge is increased by the Independent Review of State Finances' findings that there is a need to increase infrastructure spending overall and that this spending should be funded through operating surpluses. The final report of the Independent Review of State Finances will provide advice to Government on a strategy to deliver such surpluses over the medium term."
+                }
+            ], 
+            "parent_id": "f3d55563-8e6b-4e40-ba86-45f42b5d423e", 
+            "type": "h3", 
+            "id": "fb1758fe-24e8-40e1-bf94-f2cf4b934f49"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "OPERATING STATEMENT ANALYSIS", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Table 3.3: Summary operating statement for the period 2010-11 revised to 2014-15 for the general government sector (a) ($ million) 2010-11 2011-12 2012-13 2013-14 2014-15 Revised Budget Estimate Estimate Estimate Revenue Taxation 14 877.3 15 387.9 15 986.5 16 669.4 17 520.2 Dividends, TER and interest (b) 773.0 1 150.4 1 484.6 1 381.3 1 570.0 Sales of goods and services 5 969.9 6 465.8 6 587.6 6 698.6 6 831.7 Grants 21 997.4 22 516.6 22 906.6 23 710.6 24 436.6 Other current revenue 1 820.6 1 918.4 1 841.5 1 850.9 1 812.2 Total revenue 45 438.3 47 439.2 48 806.9 50 310.8 52 170.8 % change 4.4% 2.9% 3.1% 3.7% Expenses Employee expenses 16 089.5 16 649.0 17 385.9 18 277.5 19 021.4 Superannuation (c) 2 609.8 2 571.3 2 628.9 2 662.8 2 683.5 Depreciation 2 116.8 2 345.4 2 537.8 2 645.7 2 706.3 Interest expense 996.8 1 394.1 1 959.2 2 198.7 2 317.4 Other operating expenses 15 204.3 16 261.6 16 269.9 16 347.9 16 979.5 Grants and other transfers 8 171.6 8 077.3 7 875.4 8 017.7 8 281.6 Total expenses 45 188.9 47 298.8 48 657.1 50 150.2 51 989.7 % change 4.7% 2.9% 3.1% 3.7% Net result from transactions 249.4 140.4 149.7 160.6 181.0 Total other economic flows included in net result 1 050.1 ( 76.3) 44.7 ( 97.5) ( 111.5) Net result 1 299.5 64.2 194.4 63.1 69.6 Source: Department of Treasury and Finance Notes: (a) This is an abbreviated operating statement. The comprehensive operating statement is presented in Budget Paper No. 5 , Chapter 1 Estimated Financial Statements and Notes , and provides additional information on economic flow measurements which, when added to the net result from transactions, yields the net result. (b) Comprises dividends, income tax and rate equivalent revenue and interest. (c) Comprises superannuation interest expense and other superannuation expenses. Analysis of the revised 2010-11 operating result can be found in Budget Paper No. 5, Appendix B Revised 2010-11 Budget outcome incorporating the financial report for the March quarter."
+                }
+            ], 
+            "parent_id": "f3d55563-8e6b-4e40-ba86-45f42b5d423e", 
+            "type": "h3", 
+            "id": "cf861dbf-a6ee-496f-b9e3-e4b6132e40aa"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Revenue outlook", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Total revenue in 2011-12 is projected to grow by 4.4 per cent to $47.4 billion, increasing to $52.2 billion in 2014-15 or by 3.2 per cent on average a year over the forward estimates. Despite the substantial downward revision to GST grants in this budget, GST grants are forecast to rise in nominal terms in 2011-12 and across the forward estimates. In 2011-12, GST grants are expected to rise by just 2.7 per cent, which is less than the combined growth of population and inflation, meaning untied Commonwealth funding to Victoria is falling in real per capita terms. Across the forward estimates, growth of 5.1 per cent on average per year is forecast. Grants revenue from the Commonwealth (non-GST) is projected to remain relatively stagnant rising from $11.5 billion in 2011-12 to $11.6 billion in 2014-15. Increases in specific purpose payments (SPP) for health, human services and education are largely offset by the unwinding of the Commonwealth fiscal stimulus, the cessation of anticipated national partnerships (NP) funding for flood recovery costs and the Productivity Places Program and by declining funding for the Nation Building Program (AusLink II) from 2013-14. Taxation revenue, which represents approximately a third of total revenue, is projected to grow from $15.4 billion in 2011-12 to $17.5 billion in 2014-15, an average growth of 4.4 per cent a year. This growth is expected to be underpinned by a stronger labour market and its effect on payroll tax collections. In particular, over the three years to 2014-15: \u2022 land transfer duty is expected to grow by an average of 4.2 per cent a year, despite the slight fall in revenue in 2011-12 consistent with the moderation in housing turnover due in part to the impact of higher interest rates. However, continued population growth and a recovery in commercial transactions should support land transfer duty revenue in the forward estimates period; \u2022 land tax revenue is expected to remain strong, growing by an average of 5.1 per cent a year, reflecting the land revaluation cycle used in the determination of land tax; \u2022 payroll tax is expected to grow by an average of 6.3 per cent a year consistent with the stronger outlook for employment and wages; \u2022 taxes on insurance are expected to grow modestly at an average of 2.2 per cent a year, on the back of lower economic growth, although higher premiums due to natural disasters both in Australia and overseas pose an upside risk to insurance revenue; \u2022 motor vehicle taxes are expected to increase by 4.3 per cent a year on average in line with purchases of higher value vehicles on account of improved affordability; and \u2022 gambling taxes are also expected to grow by 3.4 per cent a year on average reflecting moderate growth in player losses and household consumption. Dividends, income tax and rate equivalent revenue and interest revenue are projected to increase in 2011-12 and 2012-13, fall slightly in 2013-14 and rise again in 2014-15. The main driver of increased dividend revenue in 2011-12 is the deferral of the 2010-11 interim dividends from the metropolitan water businesses resulting from the potential for variability in profit forecasts due to above average rainfall, continued water conservation behaviour and residential land development activity. It is proposed that a single dividend be payable in October 2011 by each of the metropolitan water businesses in respect of 2010-11, in the light of their full year results. Dividend revenue is projected to increase over the forward estimates period, except for a decline in 2013-14, which largely reflects the timing of projected dividends from the State Electricity Commission of Victoria (SECV). The dividends from the SECV reflect projected cash flow that is assessed to be surplus to its operational requirements. Income tax equivalent revenue is forecast to be relatively stable over the forward estimates period. Interest revenue is expected to be $575 million in 2011-12 and increase to $845 million in 2012-13 where it will remain stable over the forward estimates. The increase in 2012-13 largely relates to interest paid by the public non-financial corporations sector to fund delivery of infrastructure. Goods and services related revenue is projected to grow modestly from $6.5 billion in 2011-12 to $6.8 billion in 2014-15. The growth in sales of goods and services primarily reflects the activities of hospitals and TAFEs to fund own source expenditure, and expected receipts associated with public transport fare revenue. Goods and services revenue in 2011-12 includes the one-off impact of payments from Melbourne Water Corporation which will be recognised as revenue when the desalination plant is commissioned, consistent with the accounting treatment in the 2009-10 Financial Report for the State of Victoria."
+                }
+            ], 
+            "parent_id": "f3d55563-8e6b-4e40-ba86-45f42b5d423e", 
+            "type": "h3", 
+            "id": "e01853fc-9172-4a76-ba0d-6feb9004c4ef"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Expenses outlook", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Total expenses are projected to be $47.3 billion in 2011-12, an increase of $2.1 billion (or 4.7 per cent) from the 2010-11 revised forecasts. Across the forward estimates, expenditure growth has been constrained at 3.2 per cent on average per year. The growth in expenditure over the budget and forward estimates period is largely driven by the effect of announced output policy decisions (net of savings and other efficiencies), the expenditure of Commonwealth SPP and NP funding, expenditure of own-source revenue and growth in interest expense. Employee expenses (including superannuation), which account for around 41 per cent of operating expenditure, are projected to grow from $19.2 billion in 2011-12 to $21.7 billion in 2014-15 or by 4.1 per cent on average a year. The year on year growth primarily reflects the wages costs associated with growth in services required for a growing community, including the delivery of additional police, Protective Services Officers and child protection staff, as well as anticipated increases in the cost of wages in line with the Government's wages policy. Other operating expenses, which include purchases of supplies, purchases of services in the human services, health and transport sectors, maintenance and operating lease payments, account for 34 per cent of operating expenditure. They are projected to grow moderately at 1.5 per cent a year on average over the forward estimates, reflecting growing service delivery and service payments related to the State's public transport contracts in the transport sector. Grants and other transfers include funding provided to non-government schools, grants to VicTrack and V/Line for operational costs incurred in the provision of transport services and grants to the Director of Housing for housing services. Grants and other transfers are forecast to grow moderately over the forward estimates at 0.8 per cent a year on average. The decline in 2012-13 primarily reflects the cessation of grants to local government for flood recovery costs and related activities. Depreciation expenses are projected to grow from $2.3 billion in 2011-12 to $2.7 billion in 2014-15, or 4.9 per cent a year on average in line with forecast infrastructure investment and the projected impact of asset revaluations. Projected growth in interest expense, from $1.4 billion in 2011-12 to $2.3 billion in 2014-15, primarily reflects the additional servicing costs associated with the increase in borrowings over the period. This expense is related to the delivery of infrastructure by public non-financial corporations."
+                }
+            ], 
+            "parent_id": "f3d55563-8e6b-4e40-ba86-45f42b5d423e", 
+            "type": "h3", 
+            "id": "6822832c-dee3-4898-99ea-4cb1d41fe724"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Other economic flows", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Differences between the net result from transactions and the net result are due to other economic flows. Other economic flows include actuarial adjustments, gains and losses on the disposal of non-financial assets such as land and property, plant and equipment and other income and expenses. Net other economic flows in 2010-11 primarily reflect a forecast actuarial gain on superannuation of $848 million. This actuarial gain reflects experience to 31 March 2011 and has primarily arisen due to better than expected investment returns on superannuation assets."
+                }
+            ], 
+            "parent_id": "f3d55563-8e6b-4e40-ba86-45f42b5d423e", 
+            "type": "h3", 
+            "id": "2b0bcf66-a7df-481e-8fe3-2288de60c19a"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "New output initiatives by department", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The 2011-12 Budget delivers on election commitments and immediate service delivery priorities such as making the community safer, delivering better public transport, improving our health system, helping households manage the cost of living, meeting growing demand for services and restoring confidence in government. Table 3.4 shows the budget impact of new output initiatives which will be implemented in order to deliver the Government's policy objectives for the 2011-12 Budget . Table 3.4: Net impact of 2011-12 Budget new output initiatives (a) ($ million) 2011-12 2012-13 2013-14 2014-15 Budget Estimate Estimate Estimate Business and Innovation 50.2 31.5 17.9 17.8 Education and Early Childhood Development 229.8 243.5 241.0 241.8 Health 482.5 515.7 512.4 518.0 Human Services 207.3 207.1 219.5 234.0 Justice 123.2 148.5 198.4 209.9 Planning and Community Development 182.4 177.4 168.0 167.9 Premier and Cabinet 47.2 48.6 44.9 46.2 Primary Industries 28.7 40.3 43.8 40.3 Sustainability and Environment 85.4 68.3 68.4 70.0 Transport 142.0 85.8 89.9 91.0 Treasury and Finance 110.2 68.5 22.5 21.9 Government-wide 190.5 15.1 7.7 7.3 Subtotal 1 879.4 1 650.2 1 634.4 1 666.2 Less funding from reprioritisation and adjustments (b) 184.2 384.4 216.1 147.1 Less election commitment savings and additional efficiencies (c) 474.5 511.3 520.3 536.7 2011-12 Budget output policy decisions 1 220.7 754.6 898.1 982.4 Less funding from demand and other offsets (d) 755.8 813.5 907.2 1 147.9 Net impact 464.8 ( 58.9) ( 9.1) ( 165.5) Source: Department of Treasury and Finance Notes: (a) Departmental totals reflect gross expenditure outlined in Budget Paper No. 3, Chapter 1 Election commitments and Chapter 2 Other output, asset investment and revenue initiatives. (b) This includes the reprioritisation of resources previously allocated to departments. It also reflects deferral of the 2010 decision to continue the program to transfer public housing stock to the registered housing sector. (c) Reflects election commitment savings and additional efficiencies outlined in Budget Paper No. 3, Chapter 1 Election commitments and Chapter 2 Other output, asset investment and revenue initiatives . (d) Represents release of demand and other contingencies as outlined in the Government's election commitments."
+                }
+            ], 
+            "parent_id": "f3d55563-8e6b-4e40-ba86-45f42b5d423e", 
+            "type": "h3", 
+            "id": "45e4ce3c-54ba-4cae-b8c8-c0daf23f28ed"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "CASH FLOWS", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Table 3.5 shows how cash from operating activities is applied in the general government sector to infrastructure investment, and the associated impact on net debt. Table 3.5: Application of cash resources for the general government sector ($ million) 2011-12 2012-13 2013-14 2014-15 Budget Estimate Estimate Estimate Net result from transactions 140.4 149.7 160.6 181.0 Add back: Non-cash income and expenses (net) (a) 2 341.9 2 629.5 2 720.3 2 511.0 Net cash flow from operating activities 2 482.3 2 779.2 2 880.9 2 692.0 Less: Net investment in fixed assets Expenditure on approved projects 6 445.8 5 957.4 3 892.2 2 252.3 Capital provision approved but not yet allocated (b) .. 394.3 489.1 1 865.0 Proceeds from asset sales ( 302.4) ( 459.6) ( 266.9) ( 252.2) Total net investment in fixed assets 6 143.4 5 892.1 4 114.4 3 865.0 Finance leases (c) 1 250.9 844.8 .. .. Other investment activities (net) ( 4.6) ( 8.6) ( 8.5) ( 8.9) Decrease/(increase) in net debt (4 907.5) (3 949.2) (1 225.0) (1 164.1) Source: Department of Treasury and Finance Notes: (a) Includes depreciation, movements in the unfunded superannuation liability and liability for employee benefits. (b) Amount available to be allocated to specific departments and projects through future Government decisions, including contributions to other sectors. (c) The finance lease amount in 2011-12 relates to the Ararat Prison project, Biosciences Research Centre Project and the redevelopment of the Royal Children's Hospital, and the finance lease in 2012-13 relates to the Peninsula Link project. The 2011-12 estimate is net of the financing arrangements associated with the Victorian Desalination Project at Wonthaggi which forms part of the public non-financial sector net debt. The general government sector's net infrastructure investment program (which includes total purchases of property, plant and equipment, capital contributions to other sectors of government and net proceeds from asset sales), is projected to ease as the Commonwealth stimulus unwinds, but forecast to be at least 1 per cent of GSP over the forward estimates. The Independent Review of State Finances recommends, as a medium term target, general government net infrastructure investment (net acquisition of non-financial assets), over rolling five year periods, to be at least 0.5 per cent of the historical five-year average of GSP to sustain and enhance the capacity of the government's asset base to deliver public services. This target is significantly higher than the levels of investment forecast for 2013-14 and 2014-15. The Independent Review of State Finances also recommends that sustainable management of general government sector finances would see the net result from transactions (that is operating revenues less operating expenses) at least equal to the level of general government net infrastructure investment recommended in the Review over a rolling five year period. This would ensure that all infrastructure investment is internally funded and debt would not increase over the medium term. As shown in Table 3.5 infrastructure investment across the forward estimates is forecast to be partially debt funded in each and every year. Asset initiatives in the"
+                }
+            ], 
+            "parent_id": "f3d55563-8e6b-4e40-ba86-45f42b5d423e", 
+            "type": "h3", 
+            "id": "a37d682d-fba0-4bf2-9e14-9b6eee6d447a"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "2011-12 Budget", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "In this budget the Government has approved $1.7 billion of total estimated investment (TEI). Table 3.6 shows new asset funding by department. Table 3.6: New asset funding 2011-12 Budget (a)(b)(c) ($ million) 2011-12 TEI Budget Business and Innovation Education and Early Childhood Development Health Human Services Justice Planning and Community Development Premier and Cabinet Primary Industries Sustainability and Environment Transport Treasury and Finance Parliament Government-wide 0.1 0.1 99.8 243.0 93.5 508.6 1.7 2.0 134.7 162.1 13.9 13.9 10.0 20.0 .. .. 9.7 9.7 150.0 609.5 .. .. 4.0 4.0 79.0 97.5 Total 2011-12 Budget asset funding 596.4 1 670.5 Source: Department of Treasury and Finance Notes: (a) Budget Paper No. 4 State Capital Program provides project level cashflow information about the Government's new asset investments announced in the 2011-12 Budget , while Budget Paper No. 3, Chapter 1 Election Commitments and Chapter 2 Other output, asset investment and revenue initiatives includes a detailed list and description of all asset initiatives announced in the 2011-12 Budget . (b) The original TEI for the Regional Rail Link was $4.3 billion. Provision has been made for additional contingency funding for this project in order to meet a range of cost pressures. A revised TEI is not reported at this time due to commercial sensitivities. (c) Includes projects which are to be delivered through the public non-financial corporations sector on behalf of the Government."
+                }
+            ], 
+            "parent_id": "a37d682d-fba0-4bf2-9e14-9b6eee6d447a", 
+            "type": "h4", 
+            "id": "379cab16-b9bf-40bc-a73c-0020950b141f"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "NET DEBT AND NET FINANCIAL LIABILITIES", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The key measures of the financial position are the net debt and net financial liabilities, which are presented for the general government sector in Table 3.7. Table 3.7: General government sector net debt and net financial liabilities as at 30 June ($ billion) 2011 2012 2013 2014 2015 Revised Budget Estimate Estimate Estimate Financial assets Cash and deposits 2.7 2.8 3.0 3.3 3.6 Advances paid 0.3 4.5 4.5 4.4 4.4 Investments, loans and placements 2.8 2.7 2.8 2.9 3.0 Total 5.8 10.1 10.3 10.7 11.0 Financial liabilities Deposits held and advances received 0.5 0.5 0.5 0.5 0.5 Borrowings 17.2 26.4 30.6 32.2 33.7 Total 17.7 26.9 31.1 32.7 34.2 Net debt (a) 11.9 16.8 20.8 22.0 23.2 Superannuation liability 22.2 22.7 22.8 22.9 22.8 Net debt plus superannuation liability 34.1 39.5 43.6 44.9 45.9 Other liabilities (net) (b) 6.8 6.5 6.6 6.8 6.9 Net financial liabilities (c) 40.9 46.0 50.2 51.7 52.8 Net debt to GSP (d) Net debt plus superannuation liability to GSP (d) Net financial liabilities to GSP (d) (per cent) 3.7 5.0 5.9 5.9 5.9 10.7 11.7 12.3 12.1 11.8 12.8 13.6 14.2 13.9 13.5 Source: Department of Treasury and Finance Notes: (a) The sum of borrowings and deposits held and advances received less the sum of cash and deposits, advances paid, and investments, loans and placements. (b) Includes other employee entitlements and provisions and other non-equity liabilities, less other non-equity assets. (c) Total liabilities less financial assets (excluding investments in other sector entities). (d) Ratios to GSP may vary from publications year to year due to revisions to the ABS GSP data. Net debt is expected to increase by 30 June 2013 but stabilise as a proportion of GSP thereafter. This increase is higher than expected at the time of the 2010-11 Budget Update , reflecting the significant revenue shock associated with the Commonwealth Grants Commission's recommended decrease in Victoria's share of the total GST pool, slower growth in the overall GST pool and a larger capital program funded through borrowing. The measures taken in this budget take the necessary steps towards placing the State's finances on a more secure and sustainable footing. The 2011-12 Budget projection for net financial liabilities is also higher than published in the 2010-11 Budget Update , primarily due to an increase in net debt over the forward estimates partially offset by a downwards revision of the superannuation liability. As a share of GSP, net financial liabilities are expected to peak at 14.2 per cent of GSP at 30 June 2013 before declining to 13.5 per cent of GSP by 30 June 2015, reflecting the impact of a gradual decline in the defined benefit obligations of the State's superannuation schemes as a proportion of GSP. Chart 3.2 displays the composition of general government net financial liabilities. Chart 3.2: General government net financial liabilities as at 30 June 0 5 10 15 20 25 30 35 40 45 50 55 60 1999 2001 2003 2005 2007 2009 2011 2013 2015 $ bi lli on 0% 3% 5% 8% 10% 13% 15% 18% 20% pe r c en t o f G SP Other l iabi l i ties (net) (LHS) Superannuation Liabi l i ty (LHS) Genera l government sector net debt (LHS) Genera l government sector net financia l l iabi l i ties to GSP (RHS) Net debt plus superannuation l iabi l i ty to GSP (%) (RHS) Source: Department of Treasury and Finance The State's superannuation liability is currently expected to start declining in 2014-15. This is because the majority of the underlying superannuation schemes have been closed to new members since 1993 and so the membership, and associated cost, is diminishing over time."
+                }
+            ], 
+            "parent_id": "f3d55563-8e6b-4e40-ba86-45f42b5d423e", 
+            "type": "h3", 
+            "id": "7bda9513-a43d-4980-abef-863b3995f24d"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "FISCAL RISKS", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The State's financial performance could be affected by the realisation of economic and fiscal risks. Economic risks are outlined in Chapter 2 Economic context . Fiscal risks, explained below, are those potential future events and circumstances that could affect the State's fiscal outlook. In addition to the fiscal risks, Appendix B Sensitivity analysis table , quantifies the impact of selected economic and financial variables on revenue, expenses, the net result from transactions and the net result associated with variations to forecasts."
+                }
+            ], 
+            "parent_id": "f3d55563-8e6b-4e40-ba86-45f42b5d423e", 
+            "type": "h3", 
+            "id": "b2695b1c-b63d-456d-a90d-404ed0e8303e"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Revenue risks", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Commonwealth grants Commonwealth Government grants are expected to be approximately $22.5 billion in 2011-12 (or 47 per cent of total revenue) and include general purpose grants (GST grants), specific purpose payments (SPPs) and National Partnership (NP) payments. The level of SPP and NP funding received by Victoria is determined by the policies of the Commonwealth Government and new funding arrangements agreed by the Council of Australian Governments. Some NP funding is also subject to the State achieving certain performance benchmarks. Decisions of the Commonwealth Government can substantially alter the ongoing provision or phasing of payments under individual agreements, with significant revenue implications in a given financial period. For example, Commonwealth funding for the Regional Rail Link (RRL) is expected to be around $500 million lower over the period 2010-11 to 2014-15 than previously forecast. The distribution of GST grants between states and territories is determined by the size of the GST grants pool and each state or territory's population share weighted by the GST relativities, which are decided by the Commonwealth Treasurer and informed by the recommendations of the Commonwealth Grants Commission (CGC). The CGC's Report on GST Revenue Sharing Relativities - 2011 Update , released in February 2011, recommended a significant amount of GST being redistributed away from Victoria ($500 million in 2011-12 and $2.5 billion over the forward estimates). Any changes to national economic conditions will directly affect the GST grants pool, while changes to the CGC's methodology or further revisions to data could pose risks for Victoria's share of the pool. State revenue The State's tax revenues are primarily forecast on an assumed or estimated relationship between taxation revenue and projected economic variables. As a result, there are two main sources of risk to the taxation estimates. First, changes in economic conditions from those projected will affect taxation revenue. For example, higher than expected economic activity or inflation will tend to lead to higher taxation revenue. Second, there is the risk of changes in the relationship between the economic variables and taxation revenue (such as between consumer spending and motor vehicle taxes, or between employment and payroll taxes). Moreover, some state taxes, such as stamp duty on land transfer, are sourced from tax bases that are subject to volatility, and revenue from these sources may be subject to substantial annual variation. The Commonwealth Government is pursuing, through the Council of Australian Government's Select Council on Gambling Reform, to implement a full, mandatory pre-commitment scheme for electronic gaming machines. This would impact Victorian gambling tax revenue, though the full scope and impact of this proposal is still unclear. The Victorian Government is focused on implementing an effective voluntary pre-commitment scheme. Revenue received from public transport fares is used to fund contractual arrangements with public transport operators and a number of transport infrastructure and service delivery projects. There is a risk that public transport patronage and fare revenue may vary from projected levels with a resulting impact on the budget."
+                }
+            ], 
+            "parent_id": "f3d55563-8e6b-4e40-ba86-45f42b5d423e", 
+            "type": "h3", 
+            "id": "cbe3e858-aba5-4cbe-8ca4-92220164dd8c"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Expenditure risks", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The overall expenditure presented in the 2011-12 Budget is subject to a number of risks, including but not limited to the following: \u2022 as part of managing total government expenditure, departments are required to plan for and manage all costs associated with delivering services. Within this departmental funding model (introduced in 2004-05), changes in the forecasts of CPI growth rates used to inflate output prices for the budget and forward estimates years are determined in the context of the annual budget; \u2022 employee expenses are the largest expense incurred by the State. Several major enterprise bargaining agreements are due to expire in 2011 such as for police, nurses, teachers and the Victorian public service. If the related costs exceed the available funding, this will impose an expenditure risk; and \u2022 growth in demand for government services which may exceed current projections, for example through increased demand driven by population changes or expenditure in response to unforeseen events such as natural disasters, including bushfires and floods. The 2011-12 Budget and forward estimates include a contingency provision to mitigate the impact of expenditure risks materialising during the remainder of the budget year or over the forward estimates. This provision is based on the best available information, and is an important budget management practice which supports the State's capacity to respond to unexpected events. Realised expenditure risks will affect total expenditure and the annual budget position to the extent they exceed the contingency provision built into the budget estimates. The aggregate level of the operating contingency provision is shown in Note 12 of Budget Paper No. 5 , Chapter 1 Estimated Financial Statements and Notes . The contingency provision includes a general allowance for: \u2022 likely growth in Victoria's population, and consequent derived demand for government services; \u2022 depreciation expenditure associated with new asset investment funded from the unallocated capital provision (subject to government approval); \u2022 the likelihood that a number of existing programs which conclude in 2011-12 or the forward estimates may continue or be replaced with other programs to meet service delivery priorities; and \u2022 other expenditure risks, which were unforeseen or not able to be quantified, or were not finalised at the time of producing the published estimates. The 2011-12 Budget and forward estimates also include an unallocated capital provision to provide capacity for future asset investment requirements, and is shown in Table 3.5 (earlier in this chapter). The aggregate level of the capital contingency provision, which includes the unallocated capital provision, is shown in Note 19 of Budget Paper No. 5 , Chapter 1 Estimated Financial Statements and Note s. Given the size of the current capital program, there are likely to be variations in actual costs (compared with budget) for individual asset investment projects. However, the budget and forward estimates assume that capital cost pressures are managed within existing financial estimates. Options to manage capital cost pressures include: \u2022 reallocating existing departmental resources within departments' global capital budgets (reflecting the likelihood that cost overruns on some projects will be offset by cost underruns in other areas); and/or \u2022 rescoping projects to fit within funding parameters (subject to government approval); and/or \u2022 funding projects from the unallocated capital funding set aside in the forward estimates (subject to government approval)."
+                }
+            ], 
+            "parent_id": "f3d55563-8e6b-4e40-ba86-45f42b5d423e", 
+            "type": "h3", 
+            "id": "0940fea8-a848-4627-985c-d585c520186f"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Specific fiscal risks", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Significant events that could represent a call on the operating contingency, unallocated capital funding and/or impact on budget expenditure forecasts are detailed below. National Health and Hospitals Network Agreement Victoria has signed the National Health and Hospitals Network - National Partnership Agreement on Improving Public Hospital Services , which commits the State to meeting a new four hour emergency department access target, new elective surgery targets and a new elective surgery access guarantee. The increased exposure to reward payments from the Commonwealth, which are a result of these targets, may increase the volatility of revenue received as Commonwealth grants. Review of GST distribution and tax forum The Commonwealth has announced an independent review of the distribution of GST and the form of horizontal fiscal equalisation. In a similar vein, the Commonwealth is intending to hold a tax forum in October 2011. Among other things, the forum will consider the reform of state taxes. Given that Commonwealth revenue constitutes approximately half of total revenue for the general government sector, both the review process and forum present both significant threats and opportunities for the budget. Impact of carbon price on onerous contracts The proposed introduction of a carbon price by the Commonwealth Government may have a negative impact on the State Electricity Commission of Victoria's (SECV) dividends as the SECV has a significant exposure to electricity prices due to its role in the energy supply contracts in place for the provision of energy to the Alcoa aluminium smelters. Any negative financial impact on the SECV after the implementation of a carbon price from July 2012 will flow through to the State as it has indemnified the SECV against any losses incurred by the SECV under the Alcoa energy supply contracts. Social and community services sector pay equity case The Government has committed $200 million to support the decision of Fair Work Australia on an application for an equal remuneration order for the social and community services sector. This sector is dominated by non-government organisations, but relies heavily on government funding to deliver services. The case is still subject to deliberation by Fair Work Australia."
+                }
+            ], 
+            "parent_id": "f3d55563-8e6b-4e40-ba86-45f42b5d423e", 
+            "type": "h3", 
+            "id": "d97c002c-6fcb-4d4a-9749-2b9fca739a35"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "CHAPTER 4 - POSITION AND OUTLOOK OF THE BROADER PUBLIC SECTOR", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "\u2022 The non-financial public sector (NFPS) has an estimated deficit net result from transactions of $398 million in 2011-12, and an average deficit of $219 million across the forward estimates period. The deficit outcome is primarily driven by the public non-financial corporations sector (PNFC), and in particular Victorian Rail Track and the Director of Housing. These entities derive a large portion of their revenue from grants which do not fully cover the impact of depreciation expense. \u2022 The financial performance of the PNFC sector will be examined as part of the Independent Review of the State's Finances, however, the sector continues to forecast very strong cash surpluses from operations across the forward estimates period. \u2022 NFPS spending on new infrastructure is expected to be $8.7 billion in 2011-12, and $18.5 billion in total over the remaining three forward estimate years. This includes $4.7 billion in the PNFC sector in 2011-12, primarily for water and transport infrastructure. Around 59 per cent of infrastructure investment in the NFPS is expected to be funded by cash operating surpluses. \u2022 NFPS net debt is expected to plateau at 9.9 per cent of GSP from 2013 as expenditure growth is restricted and infrastructure investment is reduced to more historical levels."
+                }
+            ], 
+            "parent_id": "9283b8d5-edaf-4860-823e-bc16b15e407b", 
+            "type": "h2", 
+            "id": "d92d25a3-a709-49b0-b531-783f65debad4"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "INTRODUCTION", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "This chapter provides an overview of the activities of the NFPS by adding (after accounting for transactions between the two sectors) the PNFC sector to the general government sector. The PNFC sector comprises a wide range of entities that provide services while meeting commercial principles through cost recovery via user charges and fees. The largest Victorian PNFCs provide water, housing, transport, and port services. The activities of the general government sector are discussed in Chapter 3 and Appendix A. The balance sheet of the NFPS is of particular interest considering the level of infrastructure investment being undertaken by that sector for the State. Also, as equity owner and guarantor of debt, the Government has a direct financial interest in the PNFC sector. An important measure of the financial sustainability of the Victorian Government is the level of debt in the NFPS. A key fiscal objective of the Government is to maintain NFPS debt at a sustainable level, consistent with the State maintaining its triple-A credit rating. As part of its agenda of increasing transparency, the Government has also included for the first time in a Victorian budget, forward estimates for the public financial corporations (PFC) sector and the State of Victoria (including the activities of the general government sector, PNFC sector and PFC sector after accounting for transactions between the sectors). These estimates are in Budget Paper No. 5 Statement of Finances."
+                }
+            ], 
+            "parent_id": "d92d25a3-a709-49b0-b531-783f65debad4", 
+            "type": "h3", 
+            "id": "56e964a1-33b3-462c-9270-d9d7599ecea4"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "SUMMARY OPERATING STATEMENT", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Table 4.1: Summary operating statement for the non-financial public sector (a) ($ million) 2011-12 2012-13 2013-14 2014-15 Estimate Estimate Estimate Estimate Revenue Taxation revenue 15 145.0 15 801.0 16 472.0 17 314.1 Interest 409.4 413.8 419.7 426.3 Dividends and income tax equivalents and rate equivalents (b) 252.4 279.0 306.8 353.7 Sales of goods and services 9 549.2 10 249.8 10 543.8 10 760.7 Grants 22 514.5 22 901.9 23 707.0 24 433.2 Other current revenue 2 400.9 2 313.3 2 316.0 2 309.2 Total revenue 50 271.4 51 958.7 53 765.3 55 597.3 % change 3.4 3.5 3.4 Expenses Employee expenses 17 548.9 18 310.8 19 233.7 20 023.8 Superannuation interest expense (c) 880.6 900.3 907.4 906.1 Other superannuation 1 765.6 1 805.3 1 834.1 1 859.1 Depreciation 4 189.2 4 542.4 4 719.7 4 821.6 Interest expense 2 352.6 3 248.2 3 514.4 3 669.9 Other operating expenses 18 096.2 17 945.3 18 104.6 18 751.7 Grants and other transfers 5 836.3 5 518.4 5 572.4 5 787.8 Total expenses 50 669.6 52 270.8 53 886.3 55 820.2 % change 3.2 3.1 3.6 Net result from transactions - net operating balance ( 398.2) ( 312.1) ( 121.0) ( 222.9) Total other economic flows included in net result ( 101.0) 12.1 ( 128.7) ( 143.3) Net result ( 499.2) ( 299.9) ( 249.7) ( 366.3) Source: Department of Treasury and Finance Notes: (a) This is a summary operating statement. The comprehensive operating statement is presented in Budget Paper No. 5 Statement of Finances . (b) Comprises dividends, income tax and rate equivalent revenue and interest. (c) Comprises superannuation interest expense and other superannuation expenses. The projected 2011-12 deficit outcome in the NFPS is driven by a $255 million deficit net result from transactions in the PNFC sector, largely the result of the operations of Victorian Rail Track (VicTrack) and the Director of Housing. These entities derive a large portion of their revenue from grants which do not fully cover the impact of depreciation expense. The financial performance and relationship of the PNFC sector with the general government sector will be examined by the Independent Review of the State's Finances. The PNFC sector and NFPS, however, remain sustainable from a cash perspective, with both projecting very strong cash surpluses from operations in excess of $1 billion across the forward estimates period. The downward revision to the 2011-12 net result from transactions in the NFPS since the 2010-11 Budget Update is predominantly explained by the activities of the general government sector discussed in Chapter 3 and Appendix A, combined with a $25 million reduction in the PNFC sector, primarily as a result of lower goods and services revenue. The comprehensive operating statement for the PNFC sector is in Budget Paper No. 5 Statement of Finances ."
+                }
+            ], 
+            "parent_id": "d92d25a3-a709-49b0-b531-783f65debad4", 
+            "type": "h3", 
+            "id": "efb29535-bf0f-4e5d-b7ca-920ce0d194b3"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Revenue outlook", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Most components of NFPS revenue are largely driven by the activities of the general government sector, and are discussed in Chapter 3 and Appendix A. Those components influenced by the PNFC sector are explained below. Revenue in the PNFC sector from the sale of goods and services is projected to be $4.8 billion in 2011-12, increasing by 6 per cent on average a year to $5.8 billion by the end of the forward estimates period. This is largely driven by increases in regulated water and sewerage prices for sales by water entities as approved by the Essential Services Commission. The downward revision to goods and services revenue in 2011-12 since the 2010-11 Budget Update is primarily due to the phased sale of revenue producing assets by VicUrban, as well as a reduction in contracted work by Goulburn-Murray Water for the Murray-Darling Basin Authority, and revised patronage forecasts for V/Line Passenger Corporation (V/Line). Grants receipts in the PNFC sector, which primarily fund social housing programs and the operating costs of VicTrack and V/Line, are forecast to be relatively steady over the forward estimates period, increasing by $58 million (or 0.8 per cent on average a year) by 2014-15. This remains in line with the 2010-11 Budget Update estimates. The other sources of PNFC sector revenue represent a relatively small component of total revenue and are projected to remain relatively steady over the period."
+                }
+            ], 
+            "parent_id": "d92d25a3-a709-49b0-b531-783f65debad4", 
+            "type": "h3", 
+            "id": "f40b1585-c562-48a7-ae1f-d606e435e4d7"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Expense outlook", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Most components of NFPS expenditure are largely driven by the activities of the general government sector, and are discussed in Chapter 3 and Appendix A. Those components influenced by the PNFC sector are explained below. Depreciation expense in the PNFC sector is projected to be $1.8 billion in 2011-12, increasing by 4.7 per cent on average a year to $2.1 billion by the end of the forward estimates period. The increase in depreciation across the period, which is consistent with the 2010-11 Budget Update , is primarily driven by the sector's higher depreciable asset base resulting from the significant investment in water and transport assets. PNFC sector interest expense is estimated to increase by $396 million (or 13 per cent on average a year) from $975 million in 2011-12 to $1.4 billion by 2014-15. The movement is driven by an increase in borrowings to partly fund infrastructure investment in the sector, and includes finance lease costs associated with projects procured under the Partnerships Victoria method of public private partnership (PPP). The interest expense projections remain in line with estimates published in the 2010-11 Budget Update . Other operating expenses, which largely consist of operating supplies and consumables in the water and transport sectors, are forecast to be $4 billion in 2011-12, increasing by $229 million (or 1.9 per cent on average a year) to $4.2 billion by the end of the forward estimates period. This trend is largely attributable to higher capital asset charges incurred by VicTrack on new rail infrastructure, as well as operational costs associated with new water sector infrastructure such as the Victorian Desalination Project at Wonthaggi. Although increasing over the forward estimates, other operating expenses have been revised downwards since the release of the 2010-11 Budget Update . Grants expenditure in the PNFC sector is expected to decline by $187 million (or 23.9 per cent on average a year) from $316 million in 2011-12 to $129 million by the end of the projection period. The 2011-12 expense is higher than that published in the 2010-11 Budget Update due to the rephasing of payments relating to social housing programs. However, these payments are projected to decline over the period as Commonwealth fiscal stimulus continues to unwind. The other sources of PNFC sector expenditure represent a relatively small component of total expenditure and are projected to remain relatively steady over the forecast period."
+                }
+            ], 
+            "parent_id": "d92d25a3-a709-49b0-b531-783f65debad4", 
+            "type": "h3", 
+            "id": "718f8eb2-51de-4bc8-a5c2-d18acce37504"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "APPLICATION OF CASH RESOURCES", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Table 4.2 provides a summary of cash generated through the operations of the NFPS, and how that cash is applied to infrastructure investment, and the associated impact on net debt. Table 4.2: Application of cash resources for the non-financial public sector ($ million) 2011-12 2012-13 2013-14 2014-15 Estimate Estimate Estimate Estimate Net result from transactions ( 398.2) ( 312.1) ( 121.0) ( 222.9) Add back: Non-cash income and expenses (net) (a) 4 079.7 4 297.3 4 411.9 4 231.6 Net cash flow from operating activities 3 681.5 3 985.2 4 290.9 4 008.7 Less: Net investment in fixed assets Expenditure on approved projects 8 983.7 7 843.1 5 945.8 5 927.1 Proceeds from asset sales ( 329.8) ( 521.4) ( 339.2) ( 325.0) Total net investment in fixed assets 8 653.8 7 321.6 5 606.6 5 602.1 Finance leases (b) 5 453.9 844.8 .. .. Other investment activities (net) 96.5 138.0 248.0 168.8 Decrease/(increase) in net debt (10 522.8) (4 319.2) (1 563.7) (1 762.3) Source: Department of Treasury and Finance Notes: (a) Includes depreciation and movements in the unfunded superannuation liability and liability for employee benefits. (b) The finance lease amount in 2011-12 relates to the Ararat Prison project, the redevelopment of the Royal Children's Hospital and the Victorian Desalination Project at Wonthaggi; and the finance lease amount in 2012-13 relates to the Peninsula Link project."
+                }
+            ], 
+            "parent_id": "d92d25a3-a709-49b0-b531-783f65debad4", 
+            "type": "h3", 
+            "id": "729494ae-20e0-407b-b33b-1aebca73e7df"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Investment in non-financial assets", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Around 59 per cent of the infrastructure investment in the NFPS over the forward estimates period will be funded by cash operating surpluses, with the remainder through borrowings. This compares favourably with the 54 per cent outcome expected over the previous four-year period ending in 2010-11. In addition to the general government sector discussed in Chapter 3, the PNFC sector is expecting to invest $4.7 billion on infrastructure projects in 2011-12, and $9.1 billion in total over the remaining three forward estimates years. The key PNFC sector infrastructure projects currently under development include: \u2022 the Regional Rail Link project, delivering up to 50 kilometres of new rail track, two new dedicated regional service platforms at Southern Cross Station, construction of two new stations and a new rail bridge, and upgrading of some existing stations; \u2022 the Northern Victoria Irrigation Renewal Project (NVIRP), of which Stage 1 is designed to save up to a long-term average of 225 billion litres of water in the Goulburn and Murray irrigation systems; and \u2022 the Victorian Desalination Project at Wonthaggi, which, on completion, will have the ability to provide up to an additional 150 billion litres of water a year to Melbourne, Geelong, Westernport and South Gippsland through the construction of a desalination plant and associated infrastructure."
+                }
+            ], 
+            "parent_id": "d92d25a3-a709-49b0-b531-783f65debad4", 
+            "type": "h3", 
+            "id": "4c4223e2-c495-4c47-bfe6-78524d2021dc"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "FINANCIAL SUSTAINABILITY OF THE VICTORIAN GOVERNMENT", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Government is committed to ensuring a sustainable level of public sector debt that is consistent with the State maintaining its triple-A credit rating. While the international credit rating agencies perform analyses at both a sectoral and whole of state level, the NFPS is of particular importance to them in forming their rating determination. One of the key NFPS indicators currently examined by Standard & Poor's (S&P) is net financial liabilities as a proportion of operating revenue. In Victoria's case, S&P has indicated the trigger point for a ratings downgrade would be if this ratio were to exceed 130 to 140 per cent. Victoria's ratio is currently expected to peak at 112 per cent over the forward estimates period. Victoria's credit rating was last formally reaffirmed by S&P in October 2010, and Moody's Investors Service in February 2011. Table 4.3: Non-financial public sector net debt and net financial liabilities as at 30 June ($ billion) 2011 2012 2013 2014 2015 Revised Estimate Estimate Estimate Estimate Financial assets Cash and deposits 3.4 3.6 4.0 4.5 5.0 Advances paid 0.1 0.1 0.1 0.1 0.1 Investments, loans and placements 4.2 4.0 3.9 3.8 3.8 Total 7.8 7.7 8.0 8.5 8.9 Financial liabilities Deposits held and advances received 0.6 0.6 0.6 0.6 0.6 Borrowings 27.6 38.1 42.6 44.7 46.9 Total 28.1 38.6 43.2 45.3 47.4 Net debt (a) 20.4 30.9 35.2 36.8 38.6 Superannuation liability 22.3 22.7 22.9 23.0 22.8 Net debt plus superannuation liability 42.7 53.7 58.1 59.8 61.4 Other liabilities (net) (b) 7.7 7.3 7.1 6.9 6.9 Net financial liabilities (c) 50.4 60.9 65.3 66.7 68.1 Net debt to GSP (d) Net debt plus superannuation liability to GSP (d) Net financial liabilities to GSP (d) Net financial liabilities to revenue (e) (per cent) 6.4 9.2 9.9 9.9 9.9 13.3 15.9 16.4 16.1 15.7 15.7 18.0 18.4 17.9 17.4 88.0 106.9 112.1 111.4 110.6 Source: Department of Treasury and Finance Notes: (a) The sum of borrowings, deposits held and advances received less the sum of cash and deposits, advances paid, and investments, loans and placements. (b) Includes other employee entitlements and provisions and other non-equity liabilities, less other non-equity financial assets. (c) Total liabilities less financial assets (excluding investments in other sector entities). (d) Ratios to GSP may vary from publications year to year due to revisions to the ABS GSP data. (e) The sum of non-financial public sector net debt (excluding advances paid) plus the superannuation liability as a proportion of non-financial public sector total operating revenue. Table 4.3 presents additional indicators used to measure the financial sustainability of the Victorian Government. Of specific interest is the trend in net debt, which is expected to plateau as a percentage of GSP from 2013 as expenditure growth is restricted and capital spend is reduced to more historical levels. Net financial liabilities are also being managed, and are expected to peak in 2013, before declining as a proportion of GSP. The trend in NFPS nominal net debt and net debt as a proportion of GSP over the period 1995 to 2015 is shown in Chart 4.1. Chart 4.1: Non-financial public sector net debt (a)(b) 0 4 8 12 16 20 24 28 32 36 40 1995 1997 1999 2001 2003 2005 2007 2009 2011 2013 2015 $ bi lli on 0 3 5 8 10 13 15 18 20 23 25 pe r ce nt o f G SP Non-financia l publ ic sector net debt Non-financia l publ ic sector net debt to GSP Source: Department of Treasury and Finance Notes: (a) Figures represent yearly actual data as at 30 June. (b) Ratios to GSP may vary from publication year to year due to revisions to ABS GSP data."
+                }
+            ], 
+            "parent_id": "d92d25a3-a709-49b0-b531-783f65debad4", 
+            "type": "h3", 
+            "id": "dc73c093-96b4-4bb8-8827-6d2a9c0080f1"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "STATE OF VICTORIA OUTCOME", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "This budget includes published estimates for the PFC sector and the State of Victoria for the first time. In addition to the general government and PNFC sectors already discussed, the State of Victoria estimates include the State's PFCs, which can be categorised into two broad types: those that provide services to the general public and businesses (such as the statutory insurers), and those that provide financial services, predominantly to other government entities (such as the Victorian Funds Management Corporation and Treasury Corporation of Victoria). The headline results arising from these forward estimates included in Budget Paper No. 5 Statement of Finances are: \u2022 a State of Victoria deficit net result from transactions of $731 million in 2011-12, including a deficit of $156 million in the PFC sector. The net result in the PFC sector is significantly influenced by Australian Accounting Standards, which require capital gains on the State's insurers' investment portfolios to be classified under 'other economic flows', and are therefore included in the net result rather than the net result from transactions. Once these capital gains are included, particularly for the Victorian WorkCover Authority and Transport Accident Commission, the PFC sector is projecting a surplus net result in 2011-12 of $494 million; and \u2022 a net asset position for the State of Victoria of $123.6 billion at 30 June 2011, increasing by $16.9 billion to $140.5 billion by 30 June 2015. The average net asset position in the PFC sector of $2 billion across the period primarily reflects insurance assets such as cash and deposits, as well as investments, loans and placements held by the Victorian WorkCover Authority and the Transport Accident Commission."
+                }
+            ], 
+            "parent_id": "d92d25a3-a709-49b0-b531-783f65debad4", 
+            "type": "h3", 
+            "id": "6c816684-bdbf-414f-a6c3-13bcebfbc5a8"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "APPENDIX A - OPERATING STATEMENT RECONCILIATION", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "9283b8d5-edaf-4860-823e-bc16b15e407b", 
+            "type": "h2", 
+            "id": "b823d88c-e9ca-4072-aff2-603612f8eca4"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Reconciliation of forward estimates to previously published estimates", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "This appendix supports the commentary provided in Chapter 3 Budget Position and Outlook , by providing a reconciliation and explanation of the key movements in the 2011-12 to 2013-14 net result from transactions since these estimates were published in the 2010-11 Budget Update . As shown in Table A.1, compared to 2010-11 Budget Update , the net result from transactions has been revised downwards for each of the three financial years. Table A.1: Reconciliation of estimates to the 2010-11 Budget Update ($ million) 2011-12 2012-13 2013-14 Estimate Estimate Estimate Net result from transactions: 2010-11 Budget Update (a) 823.1 832.9 872.8 Plus: Variations in income from transactions since 2010-11 Budget Update Policy decision variations ( 92.5) ( 32.7) ( 48.5) Economic/demographic variations Taxation 104.1 46.4 ( 38.8) Investment income (b) 142.3 203.6 ( 142.2) Total economic/demographic variations 246.4 249.9 ( 181.0) Commonwealth grant variations General purpose grants ( 811.1) (1 031.2) ( 978.8) Specific purpose grants 419.0 ( 244.4) 193.9 Total Commonwealth grant variations ( 392.2) (1 275.5) ( 784.9) Increase in own-source revenue (c) 90.2 113.2 92.7 Administrative variations 29.7 63.9 49.4 Total variation in income from transactions since 2010-11 Budget Update ( 118.4) ( 881.2) ( 872.2) Less: variations in expenses from transactions since 2010-11 Budget Update Policy decision variations (d)(e) 1 220.7 754.6 898.1 Commonwealth variations 211.0 69.2 98.0 Variations due to changes in own-source revenue (c) 94.2 87.7 111.5 Administrative variations Superannuation variations ( 106.5) ( 117.4) ( 128.8) Other administrative variations (e) ( 855.1) ( 992.2) (1 138.9) Total administrative variations ( 961.6) (1 109.6) (1 267.6) Total variation in expenses from transactions since 2010-11 Budget Update 564.3 ( 198.1) ( 160.0) Revised net result from transactions 140.4 149.7 160.6 Source: Department of Treasury and Finance Notes: (a) 2010-11 Budget Update net result from transactions. (b) Investment income includes dividends, income tax and rate equivalent revenue and interest. (c) Own-source revenue variations represent third party variations by departments. (d) This is represented in Table 3.4 of Chapter 3 Budget position and outlook as the 2011-12 Budget output policy decisions. (e) In this table budget policy decision variations are shown at gross levels rather than net of contingency provisions. Release of contingency provisions are shown in Other administrative variations."
+                }
+            ], 
+            "parent_id": "b823d88c-e9ca-4072-aff2-603612f8eca4", 
+            "type": "h3", 
+            "id": "2bebc619-5c80-487d-8533-4d93b7cf6228"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Variations to income from transactions", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "When compared to the estimates published in the 2010-11 Budget Update total income from transactions is estimated to be lower in all financial years. This downward revision primarily relates to lower GST grants due to a decline in Victoria's relativities and a weaker aggregate GST pool. Revenue policy decision variations 2011-12 Budget revenue policy decision variations are expected to reduce revenue in all financial years. This mainly reflects the 50 per cent reduction in the cost of Ambulance Membership Subscription Scheme Fees and a reduction in land transfer duty revenue arising from duty concessions for first homebuyers, eligible senior Victorians and farmers under 35 years of age. These have been partially offset by enhanced tax compliance measures, reform of land rich duty provisions to ensure greater consistency in the treatment of direct and indirect acquisitions of land and the rescheduling of planned increases in the landfill levy. Details of specific revenue policy initiatives are contained in Budget Paper No. 3, Chapter 1 Election Commitments , and Chapter 2 Other Output, asset investment and revenue initiatives . Economic/demographic variations Despite the modest easing of the Victorian economic outlook and other economic and demographic variables, State taxation revenue has been revised upwards in 2011-12 and 2012-13 reflecting strong labour market conditions and the resilience of the housing market. Upward revisions include: \u2022 an upwards revision to payroll tax of $48 million in 2011-12, and by an average of $49 million in each of the next two years due to stronger employment growth in 2010-11, lifting the payroll tax base in future years; \u2022 greater than expected strength in the property market, with a return of investment in high value commercial properties lifting estimated land transfer duties by $63 million in 2011-12, although falling in 2013-14 as the market is forecast to return to trend levels; and \u2022 stronger motor vehicle taxes underpinned by improving affordability which is expected to result in the acquisition of more vehicles. This is partly offset by: \u2022 reduced gambling tax revenue on account of easing household consumption; \u2022 lower insurance taxes arising from softer economic activity and lower than expected growth in insurance premiums, although increased costs from natural disasters could pose an upside risk; and \u2022 slower return of housing turnover to trend levels which brings down land transfer duties in 2013-14. Investment income is higher in 2011-12 reflecting the deferral of the 2010-11 interim dividends from the metropolitan water businesses to 2011-12. The combined net increase over 2012-13 and 2013-14, in comparison with the 2010-11 Budget Update , reflects both additional dividends as well as re-phasing of projected dividends from the State Electricity Commission of Victoria. The dividends from the State Electricity Commission of Victoria reflect projected cash flow that are assessed to be surplus to its operational requirements. Commonwealth grant variations Total Commonwealth grants have been revised downwards in all financial years. General purpose grants in the form of GST have been revised downward in all years due to recommendations by the Commonwealth Grants Commission Report on GST Revenue Sharing Relativities - 2011 Update to reduce Victoria's share of the GST pool, combined with a reduction in revenue due to slower growth in the overall GST pool. Variations to Commonwealth specific purpose grants revenue are primarily as a result of: \u2022 anticipated one-off revenue in 2011-12 for Natural Disaster Relief and Recovery Arrangements funding associated with flood recovery and reconstruction costs ($515 million in 2011-12); \u2022 deferral of funding for the Regional Rail Link project to outside the forward estimates due to the implementation of the Commonwealth Flood Levy ($199 million in 2011-12 and $200 million in 2012-13); \u2022 re-phasing of funding for the Victorian Comprehensive Cancer Centre; \u2022 additional grant revenue for the education sector reflecting updated estimates from the Commonwealth for a number of National Partnership and National Education Agreement grants provided to Victoria ($218 million over three years); \u2022 increases to Commonwealth grants in the health and hospitals sector, including funding for the Pharmaceutical Benefits Scheme and the Chemotherapy Access Program, which is partly offset by reductions in revenue being received for the Essential Vaccines Program due to the Commonwealth commencing the purchase of vaccines directly; and \u2022 re-phasing of $50 million from 2010-11 to 2011-12 for the social housing program under the Nation Building - Economic Stimulus Plan . Own-source revenue Modest upward revisions to own-source revenue in all years largely relate to revised estimates for hospitals resulting predominantly from increased private patient revenues, matched by a corresponding increase in expense. Administrative variations Administrative variations have increased revenue estimates and primarily reflect estimated revenue from the sale of land for the Kew Residential Redevelopment Project. This is offset by a corresponding increase in expense and therefore has no impact on the net result from transactions. This is partially offset by amendments to revenue forecasts associated with transport related initiatives such as the Freight Infrastructure Charge which is currently under review along with other initiatives outlined in the previous government's transport plan."
+                }
+            ], 
+            "parent_id": "b823d88c-e9ca-4072-aff2-603612f8eca4", 
+            "type": "h3", 
+            "id": "cca5c29e-38cd-4808-abb9-af6147274423"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Variations to expenses from transactions", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Compared to the 2010-11 Budget Update , total expenses from transactions are estimated to be higher in 2011-12 and lower in 2012-13 and 2013-14. Policy decision variations New output policy decisions reflect the impact of the 2011-12 Budget output initiatives as per Table 3.4 in Chapter 3 Budget position and outlook. As outlined in Chapter 3 Budget position and outlook , the budget and forward estimates include a contingency provision to offset the impact of likely growth in demand for services and other expenditure risks. To increase transparency, in this budget policy decision variations are shown at gross levels rather than net of contingency provisions. As a consequence, contingencies released as part of the 2011-12 Budget are instead included in administrative variations and are discussed below. Commonwealth grant variations The revision to expenses related to Commonwealth grant revenue variations are associated with: \u2022 anticipated grants to Local Government Authorities for the floods recovery associated with Commonwealth reimbursement ($102 million in 2011-12); \u2022 the State on-passing Commonwealth funding grants to non-government schools ($207 million over three years); and \u2022 the health and hospitals sector, including the Pharmaceutical Benefits Scheme and the Chemotherapy Access Program. Other Commonwealth specific purpose grant variations that have not had an associated impact on expenses largely reflect the grants being of a capital nature. Variations due to changes in own-source revenue Expenses associated with own-source revenue have been revised upwards, largely as a result of the increased revenue in hospitals including from higher private patient fees. This has led to increased expenditure in line with the delivery of additional services. Administrative variations The downward revision in superannuation related expenses is attributable to both favourable movements in the Commonwealth Government bond rates that are used for valuation purposes, along with better than expected investment returns on superannuation assets between 30 September 2010 and 31 March 2011. Other downward administrative variations include the impacts of: \u2022 the release of contingencies as part of the 2011-12 Budget which offset new policy decisions (as disclosed in Table 3.4 of Chapter 3 Budget position and outlook ) as announced in the Government's election commitments; \u2022 a downward revision to expenditure contingencies across the forward estimates in line with the revised economic and fiscal outlook; and \u2022 a revision to the model underpinning the depreciation provision for unallocated capital to better reflect asset depreciation expenditure by allowing for depreciation in the year following the capital spend for general government infrastructure projects. These revisions are partly offset by: \u2022 an increase in interest expense primarily reflecting the additional servicing costs associated with the material increase in borrowings over the period, combined with a small increase to assumed interest rates (around $550 million over three years); \u2022 proceeds from the sale of land for the Kew Residential Redevelopment Project that have had a corresponding impact on the expenses to recognise the cost of the land sold; \u2022 additional funding which has been provided for the entitlement-based concessions program (concessions to pensioners and beneficiaries) to meet the anticipated increase in the number of concession card holders and expected annual price increases for utilities ($73 million in 2011-12, $76 million in 2012-13 and $80 million in 2013-14); and \u2022 anticipated expenditure to local government authorities associated with flood recovery activities above anticipated Commonwealth reimbursement ($102 million in 2011-12)."
+                }
+            ], 
+            "parent_id": "b823d88c-e9ca-4072-aff2-603612f8eca4", 
+            "type": "h3", 
+            "id": "dc26c043-174d-441f-b2c1-e2ece81002e3"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "APPENDIX B - SENSITIVITY ANALYSIS TABLE", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "9283b8d5-edaf-4860-823e-bc16b15e407b", 
+            "type": "h2", 
+            "id": "a026f9ae-bcaf-43db-8c61-1e3188968b16"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "INTRODUCTION", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The sensitivity analysis estimates the impact on income, expenses, the net result from transactions and the net result associated with variations to forecasts of selected economic and financial variables. The major variables that affect Victoria's net result from transactions are economic growth, employment, consumer prices, wages, enterprise bargaining agreements, domestic and overseas share prices, property prices and volume, and interest rates. To assess sensitivity to change, the level of the economic variable in each case is assumed to be 1 per cent higher than expected in the budget year, before continuing to grow at the previously forecast rate. For interest rates, the assumption is that they are one percentage point higher than assumed in the budget year and remain one percentage point above the budget assumptions in subsequent years. It is assumed during the analysis of each variable that all other variables remain unaffected and will continue to follow their forecast growth. The analysis captures the effect of changing only a single variable at a time, and does not allow for the likelihood that other variables would also change. For example, an increase in consumer prices could be expected to affect interest rates, wage claims and other economic variables but, for the purposes of this analysis, such effects are ignored. The sensitivity analysis in Table B.1 presents the sensitivity of both the net result from transactions and the net result to selected economic and financial indicators. Table B.1: Impact on the general government fiscal results of selected economic indicators being 1 per cent higher than expected in 2011-12 (a)(b)(c) ($ million) 2011-12 2012-13 Estimate 2013-14 Estimate 2014-15 Estimate Estimate GSP Income from transactions 150 157 163 170 Expenses from transactions 7 -2 -10 -18 Net result from transactions 143 158 173 189 Other economic flows .. .. .. .. Net result 143 158 173 189 Employment Income from transactions 55 58 62 66 Expenses from transactions -2 -5 -9 -12 Net result from transactions 57 64 71 78 Other economic flows .. .. .. .. Net result 57 64 71 78 Consumer prices (d) Income from transactions 283 288 300 311 Expenses from transactions 109 109 103 57 Net result from transactions 175 179 197 254 Other economic flows -191 .. .. .. Net result -15 179 197 255 Average weekly earnings Income from transactions 61 65 66 70 Expenses from transactions 6 2 -1 -4 Net result from transactions 56 63 67 74 Other economic flows .. .. .. .. Net result 56 63 67 74 Enterprise bargaining agreements (e) Income from transactions 26 26 27 28 Expenses from transactions 178 224 244 262 Net result from transactions -152 -197 -217 -234 Other economic flows -191 .. .. .. Net result -343 -197 -217 -234 Domestic share prices Income from transactions .. .. .. .. Expenses from transactions .. -4 -4 -4 Net result from transactions .. 4 4 4 Other economic flows 44 .. .. .. Net result 44 4 4 4 Overseas share prices Income from transactions .. .. .. .. Expenses from transactions .. -3 -4 -4 Net result from transactions .. 3 4 4 Other economic flows 42 .. .. .. Net result 42 3 4 4 Table B.1: Impact on the general government fiscal results of selected economic indicators being 1 per cent higher than expected in 2011-12 (a)(b)(c) (continued) ($ million) 2011-12 2012-13 2013-14 Estimate 2014-15 Estimate Estimate Estimate Property prices Income from transactions 53 76 79 83 Expenses from transactions -2 -7 -12 -16 Net result from transactions 54 83 91 99 Other economic flows 16 .. .. .. Net result 72 87 92 101 Property volumes Income from transactions 39 40 42 44 Expenses from transactions -1 -4 -6 -8 Net result from transactions 40 44 48 52 Other economic flows .. .. .. .. Net result 40 44 48 52 Interest rates (f) Income from transactions 46 47 45 44 Expenses from transactions (g) 22 347 377 402 Net result from transactions 24 -300 -332 -358 Other economic flows 1111 .. .. .. Net result 1135 -300 -332 -358 Source: Department of Treasury and Finance Notes: (a) A positive number for income from transactions denotes an increase in revenue. A positive number for expenses from transactions denotes an increase in expenses (and hence a reduction in the net result from transactions and net result). A positive number for other economic flows represents an increase in revenue. A positive number for the net result from transactions and net result denotes a higher surplus or lower deficit. Numbers may not balance due to rounding. (b) The sensitivity from a 1 per cent lower than expected outcome of an economic variable would, in most instances, simply be the opposite of the impact shown in the table. However, for some results the impacts of changes are not symmetrical and therefore care should be exercised when using the table to estimate the impact of lower than expected economic variables. (c) Only reasonably quantifiable data have been included in the analysis. (d) Reflecting departmental funding arrangements, it is assumed that an increase in consumer prices within the budget year does not impact on employee entitlements. (e) Represents a 1 per cent increase in all government enterprise bargaining agreements. (f) Assumes a one percentage point increase across the entire term structure, i.e. short and long rates, over the forward estimates period. (g) The increased sensitivity of expenses from transactions to movements in interest rates since the 2010-11 Budget Update is primarily due to revised analysis, as provided by the State's external actuary, of the impact of interest rates on the superannuation expense."
+                }
+            ], 
+            "parent_id": "a026f9ae-bcaf-43db-8c61-1e3188968b16", 
+            "type": "h3", 
+            "id": "8869dd11-dd29-4beb-b440-ea19646f12b8"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Sensitivity to economic growth", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Higher than expected gross state product (GSP) leads to higher revenue, principally from the State's own taxation as well as higher dividends and income tax equivalent payments made by State-owned enterprises, and Commonwealth goods and services tax (GST) grants. This leads to a reduction in borrowing requirements and interest costs only partially offset by a small increase in the purchase of additional supplies and services. As a consequence both the net result from transactions and the net result increase."
+                }
+            ], 
+            "parent_id": "a026f9ae-bcaf-43db-8c61-1e3188968b16", 
+            "type": "h3", 
+            "id": "4aa025bf-c8ca-4154-8cf2-0aadfa03b9e8"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Sensitivity to employment", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Higher than expected employment results in additional payroll tax revenue, with a small reduction in borrowing costs, leading to an increase in both the net result from transactions and the net result."
+                }
+            ], 
+            "parent_id": "a026f9ae-bcaf-43db-8c61-1e3188968b16", 
+            "type": "h3", 
+            "id": "29ef4fd1-d747-4d72-84e4-2357f2172331"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Sensitivity to consumer prices", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Higher consumer prices are assumed to lead to higher Commonwealth sourced revenue, revenue from sales of goods and services (reflecting indexation and changes in other charges), as well as higher GST grants and taxation revenue as the value of tax bases rise in nominal terms. However, the higher revenue is partly offset by the higher cost of supplies and services, and some increases in outlays on grants and transfers. Reflecting the operation of departmental funding arrangements, the impact of any increase in expenses is limited to the extent that departments can fund it from increased revenue from specific purpose grants and sales of goods and services. The increase in consumer prices would also result in an immediate increase in the superannuation liability which would adversely affect the net result due to the associated actuarial loss in the 2011-12 budget year. In subsequent years the now higher superannuation liability would also increase the superannuation expense slightly. However, overall, higher consumer prices are expected to have a positive impact on the net result from transactions."
+                }
+            ], 
+            "parent_id": "a026f9ae-bcaf-43db-8c61-1e3188968b16", 
+            "type": "h3", 
+            "id": "4fd76d16-427a-40ac-892f-6f61cbce0cb4"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Sensitivity to average weekly earnings", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "A rise in the level of economy-wide wages would raise payroll tax revenue, contributing to an increase in the net result from transactions and net result. As with the sensitivity to consumer prices, where there is an increase in Commonwealth sourced revenue (due to indexation arrangements), there is a proportional increase in expenses. Enterprise bargaining agreements are assumed to be unchanged over the projection period."
+                }
+            ], 
+            "parent_id": "a026f9ae-bcaf-43db-8c61-1e3188968b16", 
+            "type": "h3", 
+            "id": "da638e80-950e-40f5-baa1-fcf51d4b37a5"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Sensitivity to enterprise bargaining agreements", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "An across-the-board rise in the State's enterprise bargaining agreements in excess of the level set out in its wages policy would result in an increase in employee entitlements and a corresponding decline in the net result from transactions. This is only partially offset by increased revenue from indexation arrangements and user charges (which are based on the cost of providing services). The increased employee entitlements would also increase the value of the superannuation liability and give rise to an actuarial loss, thereby reducing the net result for the budget year. The higher superannuation liability would also increase the superannuation expense in the remaining out-years, further decreasing the net result from transactions."
+                }
+            ], 
+            "parent_id": "a026f9ae-bcaf-43db-8c61-1e3188968b16", 
+            "type": "h3", 
+            "id": "888d9524-6b07-4be3-8e3a-a573468e5d4f"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Sensitivity to domestic and overseas share prices", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Higher domestic and international share prices increase (or reduce) the net result of the State's public financial corporations (PFCs), which have holdings of domestic and international shares as part of their respective investment portfolios. The associated impact on the dividends of the Transport Accident Commission (TAC) and the income tax equivalents (ITEs) of the TAC and Victorian WorkCover Authority will impact general government revenue. As there have been substantial decreases in share and other asset prices in recent years, accumulated carry forward tax losses mean there will be little or no impact of share prices on ITEs paid until the losses have been fully utilised. In terms of the superannuation liability, an increase in domestic and overseas share prices would reduce the value of the superannuation liability due to the associated increase in superannuation fund assets. This gives rise to an actuarial gain which would increase the net result in the budget year. The expected investment return on the higher level of superannuation fund assets also reduces the superannuation expense beyond the budget year, thereby improving the net result from transactions in these years."
+                }
+            ], 
+            "parent_id": "a026f9ae-bcaf-43db-8c61-1e3188968b16", 
+            "type": "h3", 
+            "id": "73327265-8441-4871-8608-c79b8c6e88cb"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Sensitivity to property prices", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Higher property prices have an immediate impact on the net result from transactions through increased collections of land transfer duty revenue. Akin to the impact of higher share prices, higher property prices reduce the value of the superannuation liability (due to the increased value of holdings of property in superannuation funds' investment portfolios). The reduction in the superannuation liability gives rise to an actuarial gain, which increases the net result in the budget year. Also akin to higher share prices, higher property prices also increase the value of the investments and profits of the insurance agencies, resulting in an increase in dividends and ITEs from the public financial corporations sector. In later years, the higher property prices continue to be reflected in higher land transfer duty and land tax revenues, while the expected investment return on the higher level of superannuation assets reduces ongoing superannuation expenses. Overall, higher property prices are expected to increase the net result from transactions beyond the budget year."
+                }
+            ], 
+            "parent_id": "a026f9ae-bcaf-43db-8c61-1e3188968b16", 
+            "type": "h3", 
+            "id": "ff568045-246a-492e-b9c4-90397b047b5d"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Sensitivity to property volumes", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Higher property transaction volumes would increase land transfer duty revenue, leading to a rise in the net result from transactions and net result."
+                }
+            ], 
+            "parent_id": "a026f9ae-bcaf-43db-8c61-1e3188968b16", 
+            "type": "h3", 
+            "id": "27b135f2-4eb5-42f5-b2cc-48585f876f9d"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Sensitivity to interest rates", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "A one percentage point increase in interest rates is assumed to occur equally across the entire term structure. The increase in interest rates (i.e. the 10 year bond rate) reduces the valuation of long-term liabilities of the PFCs and will raise the profits of these entities, in particular the insurers. However, accumulated carry forward tax losses mean there will be little or no impact on revenues to the general government sector through ITEs until those losses have been used. There is little or no impact on dividends of the TAC as the dividend calculation excludes the impact of discount rate changes on the TAC claims liability value. There will be lower dividends and ITEs from public non-financial corporations due to higher borrowing costs, as well as an increase in the borrowing costs of the general government sector. At the same time, the increase in interest rates reduces the value of the superannuation liability, giving rise to an actuarial gain, and increasing the net result in the budget year. In terms of ongoing superannuation expenses, higher interest rates are expected to increase the superannuation expense, primarily due to an increase in the interest cost associated with the superannuation liability. Accordingly, both the net result from transactions and the net result fall beyond the budget year."
+                }
+            ], 
+            "parent_id": "a026f9ae-bcaf-43db-8c61-1e3188968b16", 
+            "type": "h3", 
+            "id": "5d7f8456-8192-4856-a178-4fc75ebf1061"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "STYLE CONVENTIONS", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Figures in the tables and in the text have been rounded. Discrepancies in tables between totals and sums of components reflect rounding. Percentage changes in all tables are based on the underlying unrounded amounts. The notation used in the tables and charts is as follows: LHS left-hand-side RHS right-hand-side s.a. seasonally adjusted n.a. or na not available or not applicable Cat. No. catalogue number 1 billion 1 000 million 1 basis point 0.01 per cent nm new measure .. zero, or rounded to zero tbd to be determined ongoing continuing output, program, project etc (xxx.x) negative numbers"
+                }
+            ], 
+            "parent_id": "9283b8d5-edaf-4860-823e-bc16b15e407b", 
+            "type": "h2", 
+            "id": "84cbccea-53c7-4be9-b7ce-5cf9f6e9b9bd"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "INDEX", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "9283b8d5-edaf-4860-823e-bc16b15e407b", 
+            "type": "h2", 
+            "id": "c737ed47-e2f2-4b6d-bcc3-6d76f58c26f9"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "2", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "2010-11 Budget Update , 7, 9, 41, 42 2010-11 Mid-Year Economic and Fiscal Outlook , 8"
+                }
+            ], 
+            "parent_id": "c737ed47-e2f2-4b6d-bcc3-6d76f58c26f9", 
+            "type": "h3", 
+            "id": "bcfee076-90f5-4546-b40f-d9c00f5b2d2e"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "A", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Application of cash resources, 42 Asset investment, 4 Australian dollar, 7, 8, 11, 12, 13, 15"
+                }
+            ], 
+            "parent_id": "c737ed47-e2f2-4b6d-bcc3-6d76f58c26f9", 
+            "type": "h3", 
+            "id": "652f2a7f-3526-4160-aa34-2570f7f8ad9f"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "B", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Balance sheet, 10, 46 Benchmarking, 16 Business competitiveness, 15, 16, 17, 18, 15-18 Business investment, 7, 9, 11, 15 Commodity prices, 8 Mining, 8"
+                }
+            ], 
+            "parent_id": "c737ed47-e2f2-4b6d-bcc3-6d76f58c26f9", 
+            "type": "h3", 
+            "id": "d1fb7a27-7cc8-44e3-bc21-f9bfc5b44b8d"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "C", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Capacity constraints, 14, 15 Cash Resources - use of, 30-32 Commodity prices, 8 Commonwealth fiscal stimulus, 9, 12 Commonwealth Flood Levy, 50 Commonwealth Grants Commission, 22, 33, 35, 50 Competition and market reforms. See Reforms Consumer spending, 10, 15 Contingency, 52 Credit rating, 39"
+                }
+            ], 
+            "parent_id": "c737ed47-e2f2-4b6d-bcc3-6d76f58c26f9", 
+            "type": "h3", 
+            "id": "e177e81c-22eb-4a72-b78f-f4da49b9d2b0"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "D", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Debt. See also Net debt Sovereign, 14 Demographic change, 49-50 Department of Business and Innovation, 17 Depreciation, 52 Desalination. See Infrastructure Dividends, 50 Dwelling investment, 10"
+                }
+            ], 
+            "parent_id": "c737ed47-e2f2-4b6d-bcc3-6d76f58c26f9", 
+            "type": "h3", 
+            "id": "e0c6ae7d-2e20-47ca-b8f6-707dcc8f6569"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "E", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Early childhood. See Education Economic conditions, 2 Australia, 8 Growth, 10-12 Victoria, 9-15 World, 7-8 Economic downturn. See also Global financial crisis Global financial crisis, 4 Economic growth, 6, 7, 8, 14, 18, See also Risks Gross state product, 7, 9, 10-12, 15 Economic projections, 9 Education, 12, 16, 50 Schools and early childhood, 19 Vocational education and training, 19 Election commitments, 3-4, 29 Community safety, 3 Cost of living, 3 Health, 3 Transport, 3 Employment, 7, 8, 9, 10, 12, 13 Employment growth, 13, 15 Exchange rate, 9, 12, 15 Expenditure risks. See Risks Expense, 41 Depreciation, 42 Interest, 42 Exports, 8, 12"
+                }
+            ], 
+            "parent_id": "c737ed47-e2f2-4b6d-bcc3-6d76f58c26f9", 
+            "type": "h3", 
+            "id": "a3ae68b1-51d6-4884-a878-d4b92f9d4886"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "F", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Financial markets, 14 Financial objectives and strategies Sustainability, 39, 44 Financial position, 2 Financial sustainability, 39 Fiscal stimulus, 7, See also Commonwealth fiscal stimulus Floods, 4"
+                }
+            ], 
+            "parent_id": "c737ed47-e2f2-4b6d-bcc3-6d76f58c26f9", 
+            "type": "h3", 
+            "id": "b00a7d94-28da-43f7-9bcf-8fdbf80881fd"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "G", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Gambling tax revenue, 49 General government net debt. See Debt; Net Debt Global financial crisis, 9, 14, 15 Goods and services tax, 18, 21, 22, 23, 49 Revenue, 4 Grants Commonwealth, 35 Expenses, 42 Revenues, 41 Gross state product, 2, 9, See also Economic growth"
+                }
+            ], 
+            "parent_id": "c737ed47-e2f2-4b6d-bcc3-6d76f58c26f9", 
+            "type": "h3", 
+            "id": "7611ef4c-bcb2-49cb-9dd8-a3d82ce46314"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "H", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Health and hospitals, 50 Horizontal fiscal equalisation, 18"
+                }
+            ], 
+            "parent_id": "c737ed47-e2f2-4b6d-bcc3-6d76f58c26f9", 
+            "type": "h3", 
+            "id": "97bf5177-33ca-4e6c-b894-9d48b95f2820"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "I", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Imports, 12, 13 Independent Review of State Finances, 5, 16, 18 Inflation, 8, 9, 13 Infrastructure, 3, 4, 16, 21 Asset investment projects, 43 Investment, 42 Northern Victoria Irrigation Renewal Project, 43 Projects, 4, 52 Victorian Desalination Project, 43 Initiatives, 29 Innovation, 7, 16 Insurance, 46 Interest rate, 8, 52 International Monetary Fund, 7, 8 Investment Infrastructure, 12"
+                }
+            ], 
+            "parent_id": "c737ed47-e2f2-4b6d-bcc3-6d76f58c26f9", 
+            "type": "h3", 
+            "id": "c063e39d-880d-4311-94ce-27372498c266"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "K", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Kew Residential Redevelopment Project, 50, 52"
+                }
+            ], 
+            "parent_id": "c737ed47-e2f2-4b6d-bcc3-6d76f58c26f9", 
+            "type": "h3", 
+            "id": "e5765942-6df6-4e5f-a363-4dcf4b787065"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "L", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Labour market, 8, 9, 10, 12, 13, 15, 49 Employment growth, 15 Labour force participation, 12, 13, 16 Underemployment, 12"
+                }
+            ], 
+            "parent_id": "c737ed47-e2f2-4b6d-bcc3-6d76f58c26f9", 
+            "type": "h3", 
+            "id": "2a19c11d-2fd7-4d11-9fa5-4d82f92af41b"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "M", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Manufacturing, 8, 11 Migration, 14, 15 Moody's Investors Service, 44"
+                }
+            ], 
+            "parent_id": "c737ed47-e2f2-4b6d-bcc3-6d76f58c26f9", 
+            "type": "h3", 
+            "id": "6d160857-9e4b-4f60-b68c-741c508e8010"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "N", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "National Competition Policy, 18 Natural disaster relief, 50 Natural disasters, 13, 14 Net debt, 4, 21, 23, 33-34 Non-financial public sector, 39, 45 Net financial liabilities, 21, 33, 34, 45 Net result from transactions, 46, 47, 50 Public financial corporations sector, 46 Non-financial public sector, 39, 41, 42, 45"
+                }
+            ], 
+            "parent_id": "c737ed47-e2f2-4b6d-bcc3-6d76f58c26f9", 
+            "type": "h3", 
+            "id": "1ee08360-eac1-4d34-b74f-7664edf30f0e"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "O", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Oil prices, 7, 9, 14 Operating statement Non-financial public sector, 40 Operating surplus, 4 Net result from transactions, 41 Other operating expenses, 42"
+                }
+            ], 
+            "parent_id": "c737ed47-e2f2-4b6d-bcc3-6d76f58c26f9", 
+            "type": "h3", 
+            "id": "069acbc4-0bf0-471d-8e16-f14361317f79"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "P", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Participation, 13, 16 Partnerships Victoria , 42 Planning and infrastructure reforms. See also Reforms Population, 13, 16 Growth, 7, 9, 10, 14, 15 Prices, 13, 14 Productivity, 5, 7, 9, 15, 16, 15-16, 18 Labour productivity, 13 Productivity Commission, 18 Reform, 7 Public non-financial corporations sector, 41"
+                }
+            ], 
+            "parent_id": "c737ed47-e2f2-4b6d-bcc3-6d76f58c26f9", 
+            "type": "h3", 
+            "id": "1669d006-e5d3-4ff6-8a21-ea2a4b303bbd"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "R", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Recovery, 7, 8 Global economy, 14 Reforms, 15, 16, 17, 18 Benchmarking, 18 Market-based instruments, 17, 18 Regional Rail Link, 4, 35, 43, 50 Regulation, 6, 16, 17, 16-18 Red tape, 17 Reforms, 17, 18 Regulators, 17 Regulatory policy, 18 Reserve Bank of Australia, 8, 13 Resources Demand, 15 Revenue, 41 Risks Economic, 14-15 Expenditure, 36-37 Fiscal, 37-38 Revenue, 10, 35"
+                }
+            ], 
+            "parent_id": "c737ed47-e2f2-4b6d-bcc3-6d76f58c26f9", 
+            "type": "h3", 
+            "id": "f9b01832-fe39-4765-99aa-8955ac685e89"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "S", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Sale of goods and services, 41 Schools and early childhood. See Education Sensitivity analysis, 53 Average weekly earnings, 56 Consumer prices, 56 Domestic and overseas share prices, 57 Economic growth, 56 Employment, 56 Enterprise bargaining agreements, 56 Interest rates, 58 Property prices, 57 Property volumes, 57 Service delivery, 3, 16, 17, 18 Skills, 7, 16 Shortages, 13, 14, 15 Standard & Poor's, 44 State Electricity Commission of Victoria, 28, 50 Superannuation Expense, 51 Surplus. See Operating surplus Sustainability, 2, 14"
+                }
+            ], 
+            "parent_id": "c737ed47-e2f2-4b6d-bcc3-6d76f58c26f9", 
+            "type": "h3", 
+            "id": "f6e7e2e1-1d0f-4a5d-8e96-7e96d094cc46"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "T", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Taxation, 49 Insurance, 49 Land rich duty, 49 Land transfer duty, 49 Landfill levy, 49 Reform, 6, 16 Reform and Commonwealth State Financial Relations, 18 Terms of trade, 7, 8, 10, 15 Trade International, 12 Interstate, 15"
+                }
+            ], 
+            "parent_id": "c737ed47-e2f2-4b6d-bcc3-6d76f58c26f9", 
+            "type": "h3", 
+            "id": "b82c2d34-97ba-4ed5-acec-2bd152abff8a"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "U", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Unemployment, 2 Unemployment rate, 7, 8, 12, 13"
+                }
+            ], 
+            "parent_id": "c737ed47-e2f2-4b6d-bcc3-6d76f58c26f9", 
+            "type": "h3", 
+            "id": "2a60b28e-8605-4ddf-8a78-4ee4d8f41da4"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "V", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Victorian Competition and Efficiency Commission, 6, 16, 17 Victorian Comprehensive Cancer Centre, 4, 50 Victorian Economic and Financial Statement , 1 Victorian economic projections. See Economic projections Victorian Regulatory Change Measurement manual, 17"
+                }
+            ], 
+            "parent_id": "c737ed47-e2f2-4b6d-bcc3-6d76f58c26f9", 
+            "type": "h3", 
+            "id": "3e7afb28-72a0-4e3f-a929-a6c2d9468826"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "W", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Wages, 2, 13 Wage growth, 9, 13 If you would like to receive this publication in an accessible format please telephone 9651 0909 or email information@dtf.vic.gov.au. This document is also available in PDF at www.budget.vic.gov.au. 2011-12 Strategy and Outlook Budget Paper No. 2 www.budget.vic.gov.au"
+                }
+            ], 
+            "parent_id": "c737ed47-e2f2-4b6d-bcc3-6d76f58c26f9", 
+            "type": "h3", 
+            "id": "ce1fb363-020c-4b73-b958-d4532d1b72e6"
+        }
+    ], 
+    "metadata": [
+        {
+            "content": "Deidre Steain", 
+            "name": "author"
+        }, 
+        {
+            "content": "2011-04-29", 
+            "name": "publicationdate"
+        }
+    ]
+}
