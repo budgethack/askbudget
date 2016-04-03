@@ -26,12 +26,19 @@
   <h3 class="subtitle">History</h3>
   <div google-chart chart="chart" style="{{chart.cssStyle}}"/>
 </div>
+<div ng-if="related_words">
 
-<div ng-show="answer && answer.main_concepts">
+  <div ng-show="answer && answer.main_concepts">
   <h3 class="subtitle">Related Concepts</h3>
-
+    
+    <jqcloud words="related_words" weight="600" height="300" steps="10" auto-resize="true" shape="rectangular"></jqcloud>
+    
+  <!--  
   <span ng-repeat="doc in answer.main_concepts.docs"><a ng-href="#/answer?question={{ doc.text }}">{{ doc.text }}</a>, </span>
      <span ng-repeat="keyword in answer.related_things.keywords"><a ng-href="#/answer?question={{ keyword.name }}">{{ keyword.name }}</a><span ng-show="!$last">, </span>
   </span>
+    -->
+</div>
 
 </div>
+

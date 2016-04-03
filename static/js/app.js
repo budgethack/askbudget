@@ -25,14 +25,13 @@ app.controller('HomeCtrl', ['$scope', '$http', function($scope, $http) {
 
   $http.get('/api/get_concepts').then(function successCallback(response) {
     words = [];
-
     angular.forEach(response.data.main_concepts, function(value, key) {
       words.push({
         "text": value.text, "weight": value.weight,
         "link": "#/answer?question=" + value.text})
     });
-
-    $scope.words = words;
+      
+    $scope.words = words; 
   });
 
 }]);
@@ -40,16 +39,26 @@ app.controller('HomeCtrl', ['$scope', '$http', function($scope, $http) {
 app.controller(
     'AnswerCtrl', function($scope, $filter, $http, $routeParams, $rootScope) {
   $scope.answer;
-  $scope.words = [];
-
+  $scope.words = []; 
+  $scope.related_words = [];
+          
   sendQuestion = function(question) {
       $http.post('api/post_question', {
         'question': question
       }).then(function successCallback(response) {
+           related_words = [];
+           angular.forEach(response.data.answer.related_things.keywords, function(value, key) {
+              related_words.push({
+                "text": value.name, 
+                "weight": Math.round(value.count*100) + 1,
+                "link": "#/answer?question=" + $.trim(value.name)
+              })
+            });
           $scope.answer = response.data.answer;
+          $scope.related_words = related_words;
       });
   }
-
+  
   if ($routeParams.question) {
     $rootScope.question = $routeParams.question; 
     sendQuestion($routeParams.question);
