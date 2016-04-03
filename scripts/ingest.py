@@ -12,7 +12,8 @@ import settings
 
 
 if __name__ == '__main__':
-    es = Elasticsearch()
+    es = Elasticsearch([private.ELASTICSEARCH_HOST])
+    """
     es.indices.create('budgethack', body={
         'mappings': {
             'doc': {
@@ -61,7 +62,8 @@ if __name__ == '__main__':
             }
         }
     })
-    tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
+    """   
+    tokenizer = nltk.data.load('nltk_data/tokenizers/punkt/english.pickle')
 
     # Go through each Dataset and ingest into ElasticSearch
     for doc in settings.DOCS_2014_15:

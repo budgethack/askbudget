@@ -1,3 +1,5 @@
+import sys
+sys.path.append('..')
 import nltk.data
 
 from watson_developer_cloud import AlchemyLanguageV1
@@ -8,7 +10,7 @@ from elasticsearch import Elasticsearch
 import private
 
 if __name__ == '__main__':
-    tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
+    tokenizer = nltk.data.load('../scripts/nltk_data/tokenizers/punkt/english.pickle')
 
     es = Elasticsearch()
     al = AlchemyLanguageV1(api_key=private.ENTITY_API_KEY)
