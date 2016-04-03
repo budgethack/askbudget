@@ -22,6 +22,11 @@
 
 </div>
 
+<div ng-if="chart">
+  <h3 class="subtitle">History</h3>
+  <div google-chart chart="chart" style="{{chart.cssStyle}}"/>
+  <pre>{{chart | json}}</pre>
+</div>
 
 <div ng-show="answer && answer.main_concepts">
   <h3 class="subtitle">Related Concepts</h3>

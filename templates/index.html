@@ -9,12 +9,14 @@
         <!-- load bootstrap via CDN -->
         <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" />
         <link rel="stylesheet" href="/static/bower_components/jqcloud2/dist/jqcloud.min.css">
-
         
         <link rel="stylesheet" href="static/css/main.css" />
+        
         <!-- load fonts -->
         <link href='https://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
         <link href='https://fonts.googleapis.com/css?family=Raleway:900' rel='stylesheet' type='text/css'>
+        
+        
 </head>
 
 <body ng-app="search">
@@ -45,10 +47,9 @@
     <div id="answer_container">
       <div id="answer_body">
         <img id="answer_icon" src="../static/img/icon_1024.png">
-        <div ng-view></div>
+          <div ng-view></div>
       </div>
     </div>
-
 </div>
 {% endraw %}
 <!-- load angular via CDN -->
@@ -60,7 +61,7 @@
 
 <!-- load local js -->
 <script src="/static/js/app.js"></script>    
-
+<script type="text/javascript" src="/static/js/ng-google-chart.js"></script>
 </body>
 
 </html>
