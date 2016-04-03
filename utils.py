@@ -112,13 +112,35 @@ def parse_related_spend(result):
     output = {}
 
     top_sentences = []
-    for result in result['hits']['hits']:
-        for sentence in result['_source'].get('sentences') or []:
-            if 'the budget' in sentence.lower() and '$' in sentence:
-                if sentence not in top_sentences:
-                    top_sentences.append({'text': sentence})
+    top_sentences_raw = set([])
 
-    output['docs'] = top_sentences[:3]
+    aug_sentences = []
+    for result in result['hits']['hits']:
+        for sentence in result['_source'].get('aug_sentences') or []:
+            if not sentence.get('is_main') and not sentence.get('is_sub'):
+                continue
+
+            text = sentence['text']
+            text = text.replace('The Budget includes: ', '')
+            text = text.replace('The Budget provides ', '')
+            text = text.replace('The Andrews Labor Government is investing ', '')
+            text = text.replace('The Budget invests ', '')
+            text = text.replace('The Budget also provides ', '')
+
+            for keyword in sentence['keywords']:
+                text = text.replace(keyword['text'], '<a href="#/answer?question={0}">{1}</a>'.format(
+                    keyword['text'], keyword['text']))
+            for entity in sentence['entities']:
+                if entity['type'] == 'Quantity':
+                    text = text.replace(entity['text'], '<strong>{1}</strong>'.format(
+                        entity['text'], entity['text']))
+
+            sentence['text'] = text
+            sentence['doc_name'] = result['_source']['doc_name']
+            sentence['doc_url'] = result['_source']['doc_url']
+            top_sentences.append(sentence)
+
+    output['docs'] = top_sentences[:4]
 
     return output
 

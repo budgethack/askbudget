@@ -1,34 +1,35 @@
 <div ng-show="answer && answer.related_spend">
-  <h3 class="subtitle">Summary</h3>
+  <h3 class="subtitle">The budget says...</h3>
+  <hr>
 
   <ul ng-repeat="doc in answer.related_spend.docs">
-      <li>{{ doc.text }}</li>
+    <li>"<span class="budget-highlight" ng-bind-html="doc.text"></span>" (<a href="{{ doc.doc_url }}">{{ doc.doc_name }}</a>)</li>
   </ul>
-
+  <hr>
+  <div ng-if="answer.top_mentions.docs">It was also mentioned 
+    <span ng-repeat="doc in answer.top_mentions.docs"><strong>{{ doc.count}}</strong> 
+     {{doc.count != 1 ? 'times' : 'time' }} in <a ng-href="?doc_name={{ doc.name }}">{{ doc.name }}</a>
+     <span ng-show="!$last">, </span>
+   </span>.
+   </div>
   <hr> 
 
 </div>
 
-<div ng-show="answer && answer.top_mentions">
+<div ng-show="answer && chart">
 
-  <h3 class="subtitle">Mentions</h3>
+  <h3 class="subtitle">Trends over time</h3>
 
-  <span ng-repeat="doc in answer.top_mentions.docs"><strong>{{ doc.count}}</strong> 
-       {{doc.count != 1 ? 'times' : 'time' }} in <a ng-href="?doc_name={{ doc.name }}">{{ doc.name }}</a>
-       <span ng-show="!$last">, </span>
-  </span>.
-
-  <hr> 
+  <div ng-if="chart">
+    <div google-chart chart="chart" style="{{chart.cssStyle}}"/>
+  </div>
 
 </div>
 
-<div ng-if="chart">
-  <h3 class="subtitle">History</h3>
-  <div google-chart chart="chart" style="{{chart.cssStyle}}"/>
-</div>
+<hr>
 
 <div ng-show="answer && answer.main_concepts">
-  <h3 class="subtitle">Related Concepts</h3>
+  <h3 class="subtitle">You might also be interesting in...</h3>
 
   <span ng-repeat="doc in answer.main_concepts.docs"><a ng-href="#/answer?question={{ doc.text }}">{{ doc.text }}</a>, </span>
      <span ng-repeat="keyword in answer.related_things.keywords"><a ng-href="#/answer?question={{ keyword.name }}">{{ keyword.name }}</a><span ng-show="!$last">, </span>

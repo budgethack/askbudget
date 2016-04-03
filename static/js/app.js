@@ -1,4 +1,4 @@
-var app = angular.module('search', ['ngRoute', 'angular-jqcloud', 'googlechart']);
+var app = angular.module('search', ['ngRoute', 'angular-jqcloud', 'googlechart', 'ngSanitize']);
 app.config(['$routeProvider',
   function($routeProvider) {
     $routeProvider.

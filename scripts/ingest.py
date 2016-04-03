@@ -93,4 +93,4 @@ if __name__ == '__main__':
                             doc_url=doc.url, doc_name=doc.name,
                             title=title, text=text, section_type=section_type,
                             sentences=sentences),
-                        index='budgethack', doc_type='doc')
+                        index=settings.INDEX_NAME, doc_type='doc')
