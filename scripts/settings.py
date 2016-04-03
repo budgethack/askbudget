@@ -1,4 +1,4 @@
-scripts/ingest.pyfrom collections import namedtuple
+from collections import namedtuple
 
 
 BudgetDocument = namedtuple('BudgetDocument', ['name', 'path', 'url'])
