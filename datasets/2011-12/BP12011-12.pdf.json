@@ -1,0 +1,265 @@
+{
+    "source_document_id": "", 
+    "media_type_detected": "application/pdf", 
+    "timestamp": "2016-04-03T09:19:52.471Z", 
+    "warnings": [], 
+    "answer_units": [
+        {
+            "direction": "ltr", 
+            "title": "Victorian Budget", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h2", 
+            "id": "051f1b3d-05c5-4a95-bc0e-ee8af2887949"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "2011-12 Treasurer's Speech", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "051f1b3d-05c5-4a95-bc0e-ee8af2887949", 
+            "type": "h3", 
+            "id": "a6114184-81d4-4b31-af9c-a1323db8f35e"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Budget Paper No. 1", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Presented by Kim Wells MP Treasurer of the State of Victoria The Secretary Department of Treasury and Finance 1 Treasury Place Melbourne, Victoria, 3002 Australia Telephone: +61 3 9651 5111 Facsimile: +61 3 9651 5298 Website: www.budget.vic.gov.au Authorised by the Victorian Government 1 Treasury Place, Melbourne, 3002 Printed by Stream Solutions, Level 3, 157 Spring Street, Melbourne, 3000 This publication makes reference to the 2011-12 Budget Paper set which includes: Budget Paper No. 1 - Treasurer's Speech Budget Paper No. 2 - Strategy and Outlook Budget Paper No. 3 - Service Delivery Budget Paper No. 4 - State Capital Program Budget Paper No. 5 - Statement of Finances (incorporating Quarterly Financial Report No. 3) Victorian Budget Overview ((c)) Copyright State of Victoria 2011 This book is copyright. No part may be reproduced by any process except in accordance with the provisions of the Copyright Act 1968 . ISSN 1440-6969 Published May 2011 Printed on recycled paper"
+                }
+            ], 
+            "parent_id": "a6114184-81d4-4b31-af9c-a1323db8f35e", 
+            "type": "h4", 
+            "id": "0d1d4aca-bc9b-41b2-841c-b3e43d9a972a"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "VICTORIA", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "051f1b3d-05c5-4a95-bc0e-ee8af2887949", 
+            "type": "h3", 
+            "id": "4932b2ff-6d09-47a2-a08b-5e31f060aa12"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "BUDGET SPEECH", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Delivered on 3 May 2011 by Kim Wells, MP Treasurer of the State of Victoria In accordance with Section 28 of the Charter of Human Rights and Responsibilities Act 2006 , I table a statement of compatibility for the Appropriation (2011-12) Bill . Speaker - I move that this Bill be read a second time."
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h2", 
+            "id": "6bc3c6f7-5842-4ff3-905b-13314418873b"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "INTRODUCTION", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Speaker, five months ago the Baillieu Coalition Government was elected to office with a simple but fundamental promise - to fix the problems and build the future. That promise underlined what Victorians increasingly understood: that many of our State's great qualities - its liveability, its safe streets, its transport system, its affordable lifestyle - were steadily being eroded. The Government's first budget delivers on that promise. It is not a budget of quick fixes or easy answers. It is not a budget of spin. This is a budget which lays out the challenges with honesty and candour, and begins the hard work of addressing them. Victorians have high expectations of government. They expect governments to honour commitments and support them in their daily lives. Victorians want the cost of living eased. They want their State to grow and they want that growth to be managed, for services to keep pace with demand. They want new infrastructure to serve new communities, and for our streets and civic spaces to be vibrant and safe. They expect responsible government - focused and disciplined - but also a caring government. That is why the Baillieu Government's election commitments - delivered in this budget - focus on these basic, community needs. The Government is making a record investment in community safety, centred on a significant rise in police presence. The Government is delivering a $1.2 billion package of measures to ease cost of living pressures for Victorian families. It is taking the first steps towards achieving an additional 800 beds across our public hospital system. The budget will fund, in the coming year, one of the biggest infrastructure investments in Victoria's history. The Government is purchasing new trains, fixing level crossings, planning new investments to expand and rejuvenate the rail network, and investing in arterial roads. The budget will establish a $1 billion Regional Growth Fund, which will set its sights not just on regional centres, but on our country communities which have been neglected for too long. And there is a renewed focus on some of the most disadvantaged Victorians - those often forgotten over the past decade. The Government will enhance disability services, expand child protection, deliver new mental health initiatives and fund a massive new upgrade to special and autistic schools across the State. These are the things that set this Government apart. This budget will deliver responsible and caring government, in challenging times."
+                }
+            ], 
+            "parent_id": "6bc3c6f7-5842-4ff3-905b-13314418873b", 
+            "type": "h3", 
+            "id": "b8d013f2-36d3-419a-8a92-746f4ad04af9"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "ADDRESSING FINANCIAL AND ECONOMIC CHALLENGES", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "I would like to elaborate on those challenges - in particular, the financial and economic hurdles facing the State. Last month, the Independent Review of State Finances released an interim report revealing that Victoria's budget has been on an unsustainable path. Expenditure growth has outstripped revenue growth over the past decade, with spending growing by an average of 8 per cent a year, in contrast to revenue growth of 7.3 per cent. In recent years, the budget has relied on one-off Commonwealth payments to boost revenue and the operating surplus. This has led to an underlying imbalance and seen Victoria's infrastructure program increasingly funded from debt - a trend which cannot be allowed to continue indefinitely. In effect, as the economy rebounded from the global financial crisis, Victoria's financial position remained vulnerable to unexpected shocks. Those shocks have now materialised. Our GST revenues have been reduced by $4.1 billion over five years as a result of the Commonwealth Grants Commission's assessment to cut Victoria's share of the GST, and a slowing national economy. There have also been significant delays in Commonwealth infrastructure funding of $550 million. The recent floods across Victoria have required substantial additional expenditure on repair and rebuilding. In addition, major projects inherited by this Government - including myki , the Regional Rail Link and HealthSMART - face significant cost overruns which total around $2 billion and have further contributed to the run-up of debt. These are significant challenges. They have already affected the State's financial position and have made framing the 2011-12 Budget much more challenging. They need to be addressed. To do this requires steady effort over time - working every day to build a stronger budget position, one which is capable of funding necessary services and investing in new infrastructure without relying on excessive debt. The 2011-12 Budget takes important steps in this task: \u2022 Delivering on the Government's commitment of a $100 million minimum surplus each year, with average surpluses of $164 million over the forward estimates. \u2022 Achieving an additional $600 million in efficiency savings from government departments, bringing the total value of savings delivered in this budget to $2.2 billion over five years. \u2022 Increasing the rigour and oversight of major capital projects, with a mandatory process of scrutiny by the Department of Treasury and Finance and the Treasurer. \u2022 Lowering forecast expenditure growth with spending over the forward estimates period now expected to grow by an average 3.2 per cent a year, compared with 8 per cent a year over the past decade. \u2022 Reaffirming the importance of the Government's public sector wages policy, stating that wage rises should be 2.5 per cent unless accompanied by productivity gains. As a result of our fiscal strategy, net debt will stabilise at 5.9 per cent of gross state product. In all, debt will be $7.5 billion higher than previously forecast in the 2010-11 Budget Update . This debt increase can be attributed substantially to specific causes: \u2022 The reduction in GST revenue. \u2022 Future infrastructure spending and cost blow outs on existing projects. \u2022 Higher interest costs. This debt increase represents the combined effect of external shocks and pre-existing vulnerabilities. It illustrates clearly what the Independent Review of State Finances has said - that Victoria would be poorly placed to deal with another substantial external shock. That is why the Government must continue to work hard to rebuild our State's finances in coming years. A crucial element of its fiscal strategy has to be the ongoing reform of the Victorian economy. Victoria has great economic strengths - a diverse economic base and a skilled workforce. During the past decade, the budget was underpinned by strong windfall revenues from the property boom. This is unlikely to be repeated in the medium term. Today, the resource-rich states have significant royalty revenue flowing into their coffers. Victoria does not. The current commodities boom brings considerable benefits to Victorians, but poses challenges as well. The Australian dollar is now poised around $1.08 US, compared with a post-float average of 74 cents - a difference of nearly 50 per cent. That places a significant burden on many of our traditional export industries, like manufacturing, tourism and education. The Government and the Victorian community must manage those challenges and foster growth from our traditional and emerging industries. The key to this is productivity. It is totally unrealistic to rely on population growth to underpin economic growth. Productivity growth is the main driver of higher living standards and economic prosperity, but in the past decade it has fallen. In the five years to 1999-2000, productivity growth averaged 2.8 per cent a year. In the five years to 2009-10 it grew by an average of just 0.7 per cent a year. In the 1990s, Victoria's productivity growth exceeded the national average. Since 2000, it has fallen below the national average. Reversing this trend requires a firm productivity reform agenda. The Government has already announced its plan to cut the cost of regulation on Victorian businesses by 25 per cent over three years. Two important independent inquiries will be undertaken by the Victorian Competition and Efficiency Commission - one into manufacturing and the other into a state-based reform agenda, including a comprehensive benchmarking project to identify where Victoria could become more competitive relative to other states. Further work will be required. There is a need to improve the quality of education and skills. And there is a need to ensure that our infrastructure planning is targeted on key economic and service delivery needs. This means major capital projects must be properly planned - not rushed through for the sake of a media conference with a hard hat. Ultimately these reform efforts - fixing our finances and strengthening our economy - are part of the broader agenda of the Baillieu Government. Without a strong budget position, the Goverment cannot deliver the services the State requires or fund the new infrastructure required to keep pace with growth."
+                }
+            ], 
+            "parent_id": "6bc3c6f7-5842-4ff3-905b-13314418873b", 
+            "type": "h3", 
+            "id": "2b203abd-39fd-44a8-b739-f4a7badf8283"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "FLOOD RESPONSE", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Speaker, one of the first tasks faced by the Government was to respond swiftly and effectively to the recent floods. Those floods directly affected over 5 000 Victorians across areas covering roughly 20 per cent of the State. The total cost of emergency response, repairs to State-owned assets and support for community recovery from floods is estimated at $676 million, with $115 million to be recovered from insurance. In particular, the budget provides $242 million for the restoration of assets, including: \u2022 Repairs to the flood-damaged regional rail network. \u2022 Fixing long-term flood damage to roads. \u2022 Repairing and re-opening national and regional parks, including Wilsons Promontory National Park. But it's not just about repairing assets. The Government's flood response is about supporting local communities to maintain their economic self-sufficiency. The Business Flood Recovery Fund will deliver $10 million over two years to support flood-affected regional companies that show potential for business growth or investment. In addition, funding is provided to support a spectrum of community needs, from grants to kindergarten and maternal child health service providers, to assisting the regional tourism industry. As rural communities get back on their feet, the Government must ensure that the State is better prepared for natural disasters in the future. This budget strengthens our emergency and disaster preparedness through: \u2022 Repair and improvements to Victoria's flood warning network. \u2022 A $38 million funding injection to the Victorian SES. \u2022 $67 million to the CFA to purchase new trucks and build new stations. \u2022 $50 million in the Safer Electricity Assets Fund to reduce the number of bushfires started from ageing power lines."
+                }
+            ], 
+            "parent_id": "6bc3c6f7-5842-4ff3-905b-13314418873b", 
+            "type": "h3", 
+            "id": "7918007f-115f-4d32-b141-34f644cec023"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "SAFE STREETS FOR ALL VICTORIANS", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "One of the Government's key commitments to the community is to tackle rising crime. That means feeling safe and secure every day and everywhere - in homes, on the streets, travelling in taxis and on public transport - going about our daily routine. For this reason, the budget provides for an unprecedented increase in the number of police and protective services personnel. This budget delivers on the Government's commitment to having more police, more quickly on our streets. Specifically: \u2022 1 600 additional police and 100 transit safety police will be in place by November 2014. \u2022 940 protective services officers will patrol metropolitan and regional railway stations. \u2022 New police stations will be built and upgrades made to existing stations where they are most needed. The Government will also implement measures to deter crime and punish offenders. It will do this through tougher sentencing and effective offender management. To support this, the budget provides $66 million to fund an additional 108 beds in the male prison system - the first phase of the Government's election commitment to an extra 500 beds. GPS and electronic monitoring will be imposed on serious offenders such as convicted arsonists and sex offenders. These measures deliver on election commitments and reflect community views. The budget supports local communities to develop effective ways to cut crime across our towns and suburbs. These include: \u2022 Setting up the Public Infrastructure Safety Fund to help local communities implement their own security measures. \u2022 Renewing partnerships with local government to help them reduce graffiti. \u2022 Restoring Neighbourhood Watch access to local crime statistics."
+                }
+            ], 
+            "parent_id": "6bc3c6f7-5842-4ff3-905b-13314418873b", 
+            "type": "h3", 
+            "id": "c349dec3-1f9b-4eba-b915-f2a9edde17e2"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "ADDRESSING COST OF LIVING PRESSURES", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "One of the biggest everyday concerns for Victorian families relates to the cost of living. The cost burden felt by Victorians is not about extravagance. It is about the basics - the water bill, the power bill, health costs and whether young people will ever be able to afford their first home. Some factors are beyond the Government's influence. But families should at least feel that the Government is on their side. Victorians did not expect billions of dollars to be wasted on a desalination plant which will force up the cost of water for decades to come, or smart meters which have forced up power bills. This budget provides a $1.2 billion package of measures to ease cost of living pressures. This includes half a billion dollars in stamp duty cuts for first homebuyers, pensioners and farmers. The stamp duty paid by a first homebuyer will be cut in successive stages from 1 July this year. Before the end of this Government's first term, first homebuyers will benefit from a 50 per cent cut in stamp duty. On a median-price Victorian house, this means a cut of more than $14 000. Families will get relief through a 50 per cent cut in ambulance membership fees. In addition, $445 million has been provided for eligible households to benefit from a year-round electricity concession, and to enable water and sewerage concessions to keep pace with increasing costs. This will benefit an estimated 815 000 people across the State. The Government understands cost of living issues and is focused on easing the pressure, not adding to it."
+                }
+            ], 
+            "parent_id": "6bc3c6f7-5842-4ff3-905b-13314418873b", 
+            "type": "h3", 
+            "id": "b5be7afc-acd5-4f6f-8c42-978a3c4dc369"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "REBUILDING OUR TRANSPORT SYSTEM", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Speaker, the daily pressures felt by Victorians are compounded dramatically by infrastructure problems. Nowhere is this more evident than our failing transport system. So this budget starts by fixing the basics. Any responsible householder knows that if you neglect basic maintenance, your home will start to crumble. On our public transport system, maintenance has been neglected. This budget injects an additional $100 million over four years for ongoing rail maintenance. Further, the Government will invest heavily in infrastructure and service expansions, such as $484 million over five years for new public transport and rail freight infrastructure and operational improvements. This includes $222 million for seven new trains - the first of 40 for Melbourne commuters - and planning for new railway stations at Southland and Grovedale. In addition, the Government's new Public Transport Development Authority represents a major governance reform which will help to ensure that public transport improvements are well planned, prioritised and coordinated. To be serious about improving transport, the issue of level crossings must be addressed. For too long, country Victorians have had to put up with unsafe level crossings. The budget commits $47 million over four years to improve and upgrade regional level crossings. It also commits initial funding towards the Government's $379 million investment in metropolitan rail crossings which will help alleviate traffic congestion. In addition, the budget allocates $601 million to fund key road projects and upgrade roads to cope with increasing traffic volumes. The Government is also taking decisive steps to reform our troubled taxi industry. To make this happen, we have commissioned a new Taxi Industry Inquiry to be headed by former ACCC Chair, Professor Allan Fels."
+                }
+            ], 
+            "parent_id": "6bc3c6f7-5842-4ff3-905b-13314418873b", 
+            "type": "h3", 
+            "id": "8248e584-f0ea-494a-82eb-cd6274e4bfa8"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "IMPROVING OUR HEALTH SYSTEM", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Central to sustaining our quality of life is the quality of our health system. This year, the Government will spend a record $13 billion on our health system, including a new funding injection of $1.3 billion over four years to expand and improve Victorian public hospitals. This includes: \u2022 $448 million over four years to initiate the Government's commitment to provide 800 new hospital beds in its first term. \u2022 $550 million to boost activity in the hospital system, particularly in elective and emergency departments. Over half a billion dollars will be provided for hospital upgrades to increase the capacity of our hospitals to deliver more services. This budget sets aside $171 million over five years to employ more ambulance officers, build more ambulance stations, add more MICA paramedics and introduce a new motorcycle paramedic unit."
+                }
+            ], 
+            "parent_id": "6bc3c6f7-5842-4ff3-905b-13314418873b", 
+            "type": "h3", 
+            "id": "73a19022-6d6f-428a-9811-6028ee65292d"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "MENTAL HEALTH", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "For too long, problems in the mental health sector have been set aside as too difficult. Today I announce an $88 million package to address this longstanding neglect. This package will: \u2022 Improve community-based mental health services by supporting the redevelopment of facilities. \u2022 Expand psychiatric disability, rehabilitation and support places, improving access to care for up to 120 people with a severe and enduring mental illness. \u2022 Increase access to specialist clinical mental health services, particularly in outer urban areas. \u2022 Provide new capital funding for headspace outlets to improve services to young Victorians with mental health and substance abuse issues. \u2022 Improve access to housing for people with severe mental illness and psychiatric disability, as well as developing better pathways to employment. \u2022 And create a Mental Illness Research Fund to strengthen our research effort in Victoria."
+                }
+            ], 
+            "parent_id": "6bc3c6f7-5842-4ff3-905b-13314418873b", 
+            "type": "h3", 
+            "id": "8397a6be-1fa7-414a-bd99-5ce538ceb971"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "BOOSTING EDUCATION", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Central to the future of Victoria are our young people. This budget focuses on providing education and skills for our young people. It creates a new $100 million school maintenance fund to help schools deal with wear and tear on school buildings, addressing years of neglect. It invests $208 million in school capital works, including $97 million on land acquisition and construction of new schools in growing suburbs and regional centres. The Government is focused on improving learning outcomes through the employment of 100 maths and science specialists in primary schools, and 400 scholarships to attract science graduates into the teaching profession. In addition, the budget will support choice for parents through a $240 million funding boost to Catholic and independent schools. The Government is concerned about student wellbeing. It will seek to ensure our schools are safe and our children are nurtured. This includes new powers for principals to improve discipline. It also includes an additional 150 primary welfare officers and new programs to combat bullying. Today's budget also funds a record investment in special and autistic schools. This includes election commitments for new and upgraded special schools at Officer, Wodonga, Yarrabah, Nepean and the Western Autistic School. It also includes regeneration and modernisation of special and autistic schools at Broadmeadows, Horsham, Hume Valley, the Eastern Autistic School, Rosamond Special School and the Northern School for Autism."
+                }
+            ], 
+            "parent_id": "6bc3c6f7-5842-4ff3-905b-13314418873b", 
+            "type": "h3", 
+            "id": "eacb7e49-77e7-4764-95b8-8f519fd09cbc"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "A FOCUS ON VICTORIANS IN NEED", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Speaker, the focus on special and autistic schools, like the focus on mental health, reflects the priorities of the Baillieu Government. The Government was elected to deliver responsible government. But Victorians want a government that cares, a government with a heart. This budget extends a hand to those in need. It includes: \u2022 A $93 million package to support those with a disability, their families and carers through better access to aids and equipment, an extra 1 700 days of school holiday respite for families and carers and 50 new supported accommodation places for people with a disability or mental illness. \u2022 Extra funding will be provided to meet growing demand for programs for students with disabilities, including funding to special and mainstream schools to provide increased resources for these students. \u2022 $34 million will be provided to strengthen palliative care, including more flexible funding for carers and more funds to community-based palliative care services. \u2022 $98 million of new funding will be provided for child protection and early intervention, including $22 million for improved out-of-home care, and $19 million for an additional 47 child protection staff and innovative new programs to care for at-risk children. These are fundamental responsibilities of government and the Baillieu Government will continue to place priority on those most in need."
+                }
+            ], 
+            "parent_id": "6bc3c6f7-5842-4ff3-905b-13314418873b", 
+            "type": "h3", 
+            "id": "053801d5-f39e-411a-8744-775487c12e6d"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "REGIONAL AND COUNTRY VICTORIA", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "It is a matter of great pride that the Baillieu Government contains strong representation from rural and regional Victoria. The voice of country Victorians has never been stronger in the party room and Cabinet. Rural and regional Victoria is central to the Baillieu Government's policy agenda. Our regional centres and country towns will be vital in driving future growth and prosperity across the whole State. This budget provides the first contributions to the new $1 billion Regional Growth Fund. The first allocation of $500 million will flow over the next four years. The fund will be used to provide greater prosperity, new opportunities and a better quality of life for our regional cities and country communities. Further investment will be made through our regional aviation fund, devoted to upgrading aviation infrastructure to improve accessibility to our major rural towns and cities. This budget helps drive a major revitalisation of our farm sector, with an unprecedented level of assistance to young farmers entering the industry. This includes new stamp duty concessions and an extension of the First Farm Grant. The Government is also investing in regional health and offering real incentives to attract and retain medical professionals in rural areas."
+                }
+            ], 
+            "parent_id": "6bc3c6f7-5842-4ff3-905b-13314418873b", 
+            "type": "h3", 
+            "id": "1667c9a2-9e68-4867-965a-761db972ab7e"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "PROTECTING VICTORIA'S COMPETITIVE STRENGTHS", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Speaker, Victoria has always had distinctive qualities that set us apart from other states: its liveability, its safety, its tolerance and cohesion, its neighbourhood character and its economic opportunities. It is these attributes that set us apart. They are the qualities that a responsible government must protect. The Government has begun this process through the 2011 Victorian Families Statement - Starting the discussion on what matters to families. This provided insight into how Victorian families are managing and how the Government can help. The budget funds key community infrastructure, including new capital grants for community-based kindergartens and children's services, as well as ongoing capital funding for public libraries. Additional resources are devoted to an improved planning strategy for metropolitan Melbourne, underpinned by community engagement. A new grant program will provide support for small sport and recreation groups to upgrade their facilities, including lighting and change rooms. $73 million will be provided to protect Port Phillip Bay beaches and foreshores, improve the financial sustainability of Parks Victoria, and manage weeds and pests on public land. The budget funds 60 Landcare coordinators across Victoria and introduces a new $20 million Community Green Fund grants program to assist local groups to undertake on-the-ground activities like revegetation, cleaning waterways or protecting habitat. An additional $45 million will be provided for a range of arts programs, covering our major iconic arts institutions as well as grass roots initiatives. The budget also provides support for Victoria's volunteers, who make an important contribution not only in delivering services, but also strengthening our communities. The budget includes new funding for multicultural programs, including increased support for multicultural language services, new festivals and events, a new focus on African community leadership, and new facilities for South Asian community organisations. These initiatives all contribute towards the protection and enhancement of Victoria's distinctive attributes."
+                }
+            ], 
+            "parent_id": "6bc3c6f7-5842-4ff3-905b-13314418873b", 
+            "type": "h3", 
+            "id": "8e80a783-9cc9-4dcc-85c5-9b1b718b7ed3"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "INTEGRITY IN GOVERNMENT", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Victorians have always expected high standards of integrity in their elected representatives and public officials. Victorians expect and deserve a government with integrity. This budget commits funds to the establishment of an Independent Broad-based Anti-Corruption Commission. This commission will investigate, expose and prevent corruption across the entire public sector. It will also educate the public sector and the community about corruption and its harmful effects on public administration and the community. The commission is just one of many measures this Government will implement to ensure Victorians receive the high-quality leadership they deserve."
+                }
+            ], 
+            "parent_id": "6bc3c6f7-5842-4ff3-905b-13314418873b", 
+            "type": "h3", 
+            "id": "8ed3e847-e9ce-4031-b451-dcc33e1b5758"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "CONCLUSION", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Speaker, budgets are about priorities. The Government has inherited many financial challenges, but despite those challenges, the Baillieu Government is delivering its election promises. That is our priority. Victorians deserve a responsible and caring government. This is what the Baillieu Coalition Government delivers. Victoria is a great State and this budget is the first step in ensuring that we build a great future. Speaker, I commend the Bill to the House. If you would like to receive this publication in an accessible format please telephone 9651 0909 or email information@dtf.vic.gov.au. This document is also available in PDF at www.budget.vic.gov.au. 2011-12 Treasurer's Speech Budget Paper No. 1 www.budget.vic.gov.au"
+                }
+            ], 
+            "parent_id": "6bc3c6f7-5842-4ff3-905b-13314418873b", 
+            "type": "h3", 
+            "id": "9761eab8-7e9f-4af6-9e9b-ef228bf8cf27"
+        }
+    ], 
+    "metadata": [
+        {
+            "content": "Deidre Steain", 
+            "name": "author"
+        }, 
+        {
+            "content": "2011-05-02", 
+            "name": "publicationdate"
+        }
+    ]
+}

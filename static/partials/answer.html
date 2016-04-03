@@ -15,7 +15,7 @@
 
   <span ng-repeat="doc in answer.top_mentions.docs"><strong>{{ doc.count}}</strong> 
        {{doc.count != 1 ? 'times' : 'time' }} in <a ng-href="?doc_name={{ doc.name }}">{{ doc.name }}</a>
-       <span ng-show="!$last">, </span>
+       <span ng-show=   "!$last">, </span>
   </span>.
 
   <hr> 
@@ -30,15 +30,16 @@
 
   <div ng-show="answer && answer.main_concepts">
   <h3 class="subtitle">Related Concepts</h3>
-    
-    <jqcloud words="related_words" weight="600" height="300" steps="10" auto-resize="true" shape="rectangular"></jqcloud>
+    <div id="word_cloud">
+        <jqcloud words="related_words" weight="600" height="300" steps="10" auto-resize="true" shape="rectangular"></jqcloud>
+    </div>
     
   <!--  
   <span ng-repeat="doc in answer.main_concepts.docs"><a ng-href="#/answer?question={{ doc.text }}">{{ doc.text }}</a>, </span>
      <span ng-repeat="keyword in answer.related_things.keywords"><a ng-href="#/answer?question={{ keyword.name }}">{{ keyword.name }}</a><span ng-show="!$last">, </span>
   </span>
     -->
-</div>
+    </div>
 
 </div>
 

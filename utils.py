@@ -36,6 +36,8 @@ def handle_agg(text=None):
         }
     }
 
+    global_query = None
+
     if text:
         query['query']['bool'] = {
             'must': [{
@@ -46,15 +48,39 @@ def handle_agg(text=None):
             }]
         }
 
-    es = Elasticsearch([private.ELASTICSEARCH_HOST])
-    result = es.search(body=query, index='budgethack')
+        global_query = {
+            'query': {
+                'multi_match': {
+                    'fields': ['text^2', 'concepts.text'],
+                    'query': text
+                }
+            },
+            'aggregations': {
+                'historic_mentions': {
+                    'terms': {
+                        'field': 'year',
+                        'size': 5
+                    }
+                }
+            }
+        }
+
 
     output = {}
+
+    es = Elasticsearch([private.ELASTICSEARCH_HOST])
+    result = es.search(body=query, index='budgethack')
+    if global_query:
+        global_result = es.search(body=global_query, index='budgethack')
+        output['historic_mentions'] = [{
+            'year': b['key'], 'count': b['doc_count']}
+            for b in global_result['aggregations']['historic_mentions']['buckets']]
+
     output['top_mentions'] = parse_top_mentions(result)
     output['related_things'] = parse_related_things(result)
     output['related_spend'] = parse_related_spend(result)
     output['main_concepts'] = parse_main_concepts(result)
-    
+
     return output
 
 def parse_related_things(result):

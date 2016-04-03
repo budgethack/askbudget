@@ -1788,3 +1788,233 @@ Traceback (most recent call last):
 127.0.0.1 - - [03/Apr/2016 03:26:42] "GET /static/img/ProjectPage.png HTTP/1.1" 200 -
 127.0.0.1 - - [03/Apr/2016 03:26:42] "GET /static/img/BodyBg.png HTTP/1.1" 200 -
 127.0.0.1 - - [03/Apr/2016 03:26:42] "GET /static/img/Header_01.png HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 03:28:20] "GET /project HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 03:28:20] "GET /static/css/main.css HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 03:28:21] "GET /static/img/ProjectPage.png HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 03:28:21] "GET /static/img/Header_01.png HTTP/1.1" 304 -
+127.0.0.1 - - [03/Apr/2016 03:28:21] "GET /static/img/BodyBg.png HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 03:39:20] "GET /project HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 03:39:20] "GET /static/img/ProjectPage.png HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 03:39:33] "GET /project HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 03:39:34] "GET /static/css/main.css HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 03:39:34] "GET /static/img/ProjectPage.png HTTP/1.1" 304 -
+127.0.0.1 - - [03/Apr/2016 03:39:34] "GET /static/img/BodyBg.png HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 03:39:34] "GET /static/img/Header_01.png HTTP/1.1" 304 -
+127.0.0.1 - - [03/Apr/2016 03:40:58] "GET /project HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 03:41:03] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 03:41:03] "GET /static/bower_components/angular-route/angular-route.js HTTP/1.1" 404 -
+127.0.0.1 - - [03/Apr/2016 03:41:07] "GET /?text=transport&x=0&y=0 HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 03:41:07] "GET /static/bower_components/angular-route/angular-route.js HTTP/1.1" 404 -
+127.0.0.1 - - [03/Apr/2016 03:41:11] "GET /?text=transport&x=0&y=0 HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 03:41:11] "GET /static/bower_components/angular-route/angular-route.js HTTP/1.1" 404 -
+127.0.0.1 - - [03/Apr/2016 03:41:18] "GET /?text=budget&x=0&y=0 HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 03:41:18] "GET /static/bower_components/angular-route/angular-route.js HTTP/1.1" 404 -
+127.0.0.1 - - [03/Apr/2016 03:41:20] "GET /project HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 03:41:31] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 03:41:31] "GET /static/bower_components/angular-route/angular-route.js HTTP/1.1" 404 -
+127.0.0.1 - - [03/Apr/2016 03:46:23] "GET /project HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 03:47:51] "GET /project HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 03:48:26] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 03:48:26] "GET /static/bower_components/angular-route/angular-route.js HTTP/1.1" 404 -
+127.0.0.1 - - [03/Apr/2016 03:48:27] "GET /static/bower_components/angular-route/angular-route.js HTTP/1.1" 404 -
+127.0.0.1 - - [03/Apr/2016 03:48:30] "GET /project HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 03:57:39] "GET /project HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 03:57:42] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 03:57:42] "GET /static/bower_components/angular-route/angular-route.js HTTP/1.1" 404 -
+127.0.0.1 - - [03/Apr/2016 03:57:47] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 03:57:47] "GET /static/bower_components/angular-route/angular-route.js HTTP/1.1" 404 -
+127.0.0.1 - - [03/Apr/2016 03:57:47] "GET /static/bower_components/angular-route/angular-route.js HTTP/1.1" 404 -
+127.0.0.1 - - [03/Apr/2016 03:57:49] "GET /project HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 03:57:54] "GET /?text=hello&x=0&y=0 HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 03:57:54] "GET /static/bower_components/angular-route/angular-route.js HTTP/1.1" 404 -
+127.0.0.1 - - [03/Apr/2016 03:57:57] "GET /?text=transpor&x=0&y=0 HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 03:57:57] "GET /static/bower_components/angular-route/angular-route.js HTTP/1.1" 404 -
+127.0.0.1 - - [03/Apr/2016 03:58:00] "GET /?text=test&x=0&y=0 HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 03:58:00] "GET /static/bower_components/angular-route/angular-route.js HTTP/1.1" 404 -
+ * Detected change in '/var/www/askbudget/utils.py', reloading
+ * Restarting with stat
+Traceback (most recent call last):
+  File "app.py", line 46, in <module>
+    
+  File "/var/www/askbudget/ENV/local/lib/python2.7/site-packages/flask/app.py", line 772, in run
+    
+  File "/var/www/askbudget/ENV/local/lib/python2.7/site-packages/werkzeug/serving.py", line 692, in run_simple
+  File "/var/www/askbudget/ENV/local/lib/python2.7/site-packages/werkzeug/_reloader.py", line 250, in run_with_reloader
+  File "/var/www/askbudget/ENV/local/lib/python2.7/site-packages/werkzeug/_reloader.py", line 109, in restart_with_reloader
+  File "/usr/lib/python2.7/subprocess.py", line 522, in call
+    return Popen(*popenargs, **kwargs).wait()
+  File "/usr/lib/python2.7/subprocess.py", line 710, in __init__
+    errread, errwrite)
+  File "/usr/lib/python2.7/subprocess.py", line 1326, in _execute_child
+    child_exception = pickle.loads(data)
+  File "/usr/lib/python2.7/pickle.py", line 1382, in loads
+    return Unpickler(file).load()
+  File "/usr/lib/python2.7/pickle.py", line 858, in load
+    dispatch[key](self)
+  File "/usr/lib/python2.7/pickle.py", line 971, in load_string
+    self.append(rep.decode("string-escape"))
+LookupError: unknown encoding: string-escape
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger pin code: 279-831-869
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger pin code: 279-831-869
+127.0.0.1 - - [03/Apr/2016 04:09:45] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 04:09:46] "GET /static/bower_components/angular-route/angular-route.js HTTP/1.1" 404 -
+127.0.0.1 - - [03/Apr/2016 04:09:47] "GET /project HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 04:09:48] "GET /?text=fire&x=0&y=0 HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 04:09:49] "GET /static/bower_components/angular-route/angular-route.js HTTP/1.1" 404 -
+127.0.0.1 - - [03/Apr/2016 04:09:50] "GET /?text=fire&x=0&y=0 HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 04:09:50] "GET /static/bower_components/angular-route/angular-route.js HTTP/1.1" 404 -
+127.0.0.1 - - [03/Apr/2016 04:09:50] "GET /static/bower_components/angular-route/angular-route.js HTTP/1.1" 404 -
+127.0.0.1 - - [03/Apr/2016 04:09:52] "GET /?text=fire&x=0&y=0 HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 04:09:53] "GET /static/bower_components/angular-route/angular-route.js HTTP/1.1" 404 -
+127.0.0.1 - - [03/Apr/2016 04:09:53] "GET /?text=transport&x=0&y=0 HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 04:09:54] "GET /static/bower_components/angular-route/angular-route.js HTTP/1.1" 404 -
+127.0.0.1 - - [03/Apr/2016 04:09:55] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 04:09:56] "GET /static/bower_components/angular-route/angular-route.js HTTP/1.1" 404 -
+127.0.0.1 - - [03/Apr/2016 04:10:01] "GET /?text=fire&x=0&y=0 HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 04:10:02] "GET /static/bower_components/angular-route/angular-route.js HTTP/1.1" 404 -
+127.0.0.1 - - [03/Apr/2016 04:10:05] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 04:10:06] "GET /static/bower_components/angular-route/angular-route.js HTTP/1.1" 404 -
+127.0.0.1 - - [03/Apr/2016 04:10:08] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 04:10:09] "GET /static/bower_components/angular-route/angular-route.js HTTP/1.1" 404 -
+127.0.0.1 - - [03/Apr/2016 04:10:21] "GET /?text=transport&x=0&y=0 HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 04:10:21] "GET /static/bower_components/angular-route/angular-route.js HTTP/1.1" 404 -
+127.0.0.1 - - [03/Apr/2016 04:11:24] "GET /?text=fire&x=0&y=0 HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 04:11:25] "GET /static/bower_components/angular-route/angular-route.js HTTP/1.1" 404 -
+127.0.0.1 - - [03/Apr/2016 04:11:36] "GET /?text=transport&x=0&y=0 HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 04:11:36] "GET /static/bower_components/jqcloud2/dist/jqcloud.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 04:11:36] "GET /static/bower_components/jquery/dist/jquery.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 04:11:36] "GET /static/js/app.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 04:11:36] "GET /static/bower_components/angular-route/angular-route.js HTTP/1.1" 404 -
+127.0.0.1 - - [03/Apr/2016 04:11:36] "GET /static/bower_components/angular-jqcloud/angular-jqcloud.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 04:11:36] "GET /static/bower_components/jqcloud2/dist/jqcloud.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 04:11:36] "GET /static/css/main.css HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 04:11:36] "GET /static/img/SearchButton.png HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 04:11:36] "GET /static/js/ng-google-chart.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 04:11:36] "GET /static/img/icon_1024.png HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 04:11:36] "GET /static/img/BodyBg.png HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 04:11:36] "GET /static/img/Header_01.png HTTP/1.1" 304 -
+127.0.0.1 - - [03/Apr/2016 04:11:40] "GET /?text=transport&x=0&y=0 HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 04:11:40] "GET /static/bower_components/angular-route/angular-route.js HTTP/1.1" 404 -
+127.0.0.1 - - [03/Apr/2016 04:17:08] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 04:17:11] "GET /static/bower_components/angular-route/angular-route.js HTTP/1.1" 404 -
+127.0.0.1 - - [03/Apr/2016 04:17:22] "GET /?text=fire&x=0&y=0 HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 04:17:23] "GET /static/bower_components/angular-route/angular-route.js HTTP/1.1" 404 -
+127.0.0.1 - - [03/Apr/2016 04:17:50] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 04:17:50] "GET /static/bower_components/angular-route/angular-route.js HTTP/1.1" 404 -
+127.0.0.1 - - [03/Apr/2016 04:17:55] "GET /?text=transport&x=0&y=0 HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 04:17:55] "GET /static/bower_components/angular-route/angular-route.js HTTP/1.1" 404 -
+127.0.0.1 - - [03/Apr/2016 04:18:08] "GET /project HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 04:18:18] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 04:18:18] "GET /static/bower_components/angular-route/angular-route.js HTTP/1.1" 404 -
+127.0.0.1 - - [03/Apr/2016 04:18:22] "GET /static/bower_components/angular-route/angular-route.js HTTP/1.1" 404 -
+ * Detected change in '/var/www/askbudget/utils.py', reloading
+ * Restarting with stat
+Traceback (most recent call last):
+  File "app.py", line 5, in <module>
+    import utils
+  File "/var/www/askbudget/utils.py", line 1, in <module>
+    static/js/app.js
+NameError: name 'static' is not defined
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger pin code: 279-831-869
+127.0.0.1 - - [03/Apr/2016 04:29:51] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 04:29:51] "GET /static/css/main.css HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 04:29:51] "GET /static/img/SearchButton.png HTTP/1.1" 304 -
+127.0.0.1 - - [03/Apr/2016 04:29:51] "GET /static/bower_components/jqcloud2/dist/jqcloud.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 04:29:52] "GET /static/bower_components/jqcloud2/dist/jqcloud.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 04:29:52] "GET /static/bower_components/jquery/dist/jquery.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 04:29:52] "GET /static/js/app.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 04:29:52] "GET /static/js/ng-google-chart.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 04:29:52] "GET /static/bower_components/angular-jqcloud/angular-jqcloud.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 04:29:52] "GET /static/bower_components/angular-route/angular-route.js HTTP/1.1" 404 -
+127.0.0.1 - - [03/Apr/2016 04:29:52] "GET /static/img/icon_1024.png HTTP/1.1" 304 -
+127.0.0.1 - - [03/Apr/2016 04:29:54] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 04:29:55] "GET /static/bower_components/angular-route/angular-route.js HTTP/1.1" 404 -
+127.0.0.1 - - [03/Apr/2016 04:29:55] "GET /static/img/BodyBg.png HTTP/1.1" 304 -
+127.0.0.1 - - [03/Apr/2016 04:29:55] "GET /static/img/Header_01.png HTTP/1.1" 304 -
+127.0.0.1 - - [03/Apr/2016 04:30:23] "GET /?text=fire&x=0&y=0 HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 04:30:23] "GET /static/bower_components/angular-route/angular-route.js HTTP/1.1" 404 -
+127.0.0.1 - - [03/Apr/2016 04:30:28] "GET /?text=transport&x=0&y=0 HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 04:30:28] "GET /static/bower_components/angular-route/angular-route.js HTTP/1.1" 404 -
+127.0.0.1 - - [03/Apr/2016 04:30:36] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 04:30:37] "GET /static/bower_components/angular-route/angular-route.js HTTP/1.1" 404 -
+127.0.0.1 - - [03/Apr/2016 04:30:41] "GET /?text=fire&x=0&y=0 HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 04:30:41] "GET /static/bower_components/angular-route/angular-route.js HTTP/1.1" 404 -
+127.0.0.1 - - [03/Apr/2016 04:31:54] "GET /?text=transport&x=0&y=0 HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 04:31:54] "GET /static/bower_components/jqcloud2/dist/jqcloud.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 04:31:54] "GET /static/css/main.css HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 04:31:54] "GET /static/bower_components/angular-route/angular-route.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 04:31:54] "GET /static/bower_components/jquery/dist/jquery.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 04:31:54] "GET /static/bower_components/angular-jqcloud/angular-jqcloud.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 04:31:55] "GET /static/bower_components/jqcloud2/dist/jqcloud.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 04:31:55] "GET /static/js/app.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 04:31:55] "GET /static/img/SearchButton.png HTTP/1.1" 304 -
+127.0.0.1 - - [03/Apr/2016 04:31:55] "GET /static/js/ng-google-chart.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 04:31:55] "GET /static/img/icon_1024.png HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 04:31:55] "GET /static/img/BodyBg.png HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 04:31:55] "GET /static/img/Header_01.png HTTP/1.1" 304 -
+127.0.0.1 - - [03/Apr/2016 04:31:55] "GET /static/partials/home.html HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 04:31:55] "GET /api/get_concepts HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 04:31:59] "GET /?text=fire&x=0&y=0 HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 04:32:01] "GET /static/bower_components/angular-route/angular-route.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 04:32:02] "GET /static/partials/home.html HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 04:32:03] "GET /api/get_concepts HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 04:32:07] "GET /static/partials/answer.html HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 04:32:07] "POST /api/post_question HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 04:32:15] "GET /?text=transport&x=0&y=0 HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 04:32:16] "POST /api/post_question HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 04:32:28] "GET /api/get_concepts HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 04:32:30] "POST /api/post_question HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 04:32:48] "POST /api/post_question HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 04:32:52] "GET /api/get_concepts HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 04:33:17] "POST /api/post_question HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 04:33:19] "GET /api/get_concepts HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 04:33:40] "POST /api/post_question HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 04:33:43] "GET /api/get_concepts HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 04:33:46] "GET /api/get_concepts HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 04:42:14] "GET /?text=fire&x=0&y=0 HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 04:42:15] "GET /static/bower_components/jqcloud2/dist/jqcloud.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 04:42:15] "GET /static/css/main.css HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 04:42:15] "GET /static/bower_components/jqcloud2/dist/jqcloud.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 04:42:15] "GET /static/bower_components/jquery/dist/jquery.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 04:42:15] "GET /static/bower_components/angular-route/angular-route.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 04:42:15] "GET /static/bower_components/angular-jqcloud/angular-jqcloud.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 04:42:15] "GET /static/js/app.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 04:42:15] "GET /static/js/ng-google-chart.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 04:42:15] "GET /static/img/icon_1024.png HTTP/1.1" 304 -
+127.0.0.1 - - [03/Apr/2016 04:42:16] "GET /static/img/SearchButton.png HTTP/1.1" 304 -
+127.0.0.1 - - [03/Apr/2016 04:42:17] "GET /static/partials/home.html HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 04:42:17] "GET /static/img/BodyBg.png HTTP/1.1" 304 -
+127.0.0.1 - - [03/Apr/2016 04:42:17] "GET /static/img/Header_01.png HTTP/1.1" 304 -
+127.0.0.1 - - [03/Apr/2016 04:42:18] "GET /api/get_concepts HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 05:31:22] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 05:31:25] "GET /static/bower_components/jqcloud2/dist/jqcloud.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 05:31:26] "GET /static/css/main.css HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 05:31:26] "GET /static/bower_components/jquery/dist/jquery.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 05:31:26] "GET /static/bower_components/jqcloud2/dist/jqcloud.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 05:31:26] "GET /static/bower_components/angular-route/angular-route.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 05:31:26] "GET /static/img/icon_1024.png HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 05:31:26] "GET /static/bower_components/angular-jqcloud/angular-jqcloud.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 05:31:26] "GET /static/js/app.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 05:31:26] "GET /static/js/ng-google-chart.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 05:31:27] "GET /static/img/BodyBg.png HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 05:31:27] "GET /static/img/Header_01.png HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 05:31:27] "GET /static/img/SearchButton.png HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 05:31:29] "GET /static/partials/home.html HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 05:31:30] "GET /api/get_concepts HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 05:31:55] "GET /static/partials/answer.html HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 05:31:56] "POST /api/post_question HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 05:34:03] "GET /api/get_concepts HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 05:34:06] "GET /project HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 05:34:07] "GET /static/img/ProjectPage.png HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 05:35:16] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 05:35:16] "GET /api/get_concepts HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 05:46:28] "GET /favicon.ico HTTP/1.1" 404 -
