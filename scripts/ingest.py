@@ -16,6 +16,10 @@ if __name__ == '__main__':
             'mappings': {
                 'doc': {
                     'properties': {
+                        'year': {
+                            'type': 'string',
+                            'index': 'not_analyzed'
+                        },
                         'doc_name': {
                             'type': 'string',
                             'index': 'not_analyzed'

@@ -6,7 +6,11 @@ import private
 def handle_agg(text=None):
     query = {
         'size': 10,
-        'query': {'match_all': {}},
+        'query': {
+            'bool': {
+                'filter': [{'term': {'year': '2015-16'}}]
+            }
+        },
         'aggs': {
             'by_doc': {
                 'terms': {
@@ -33,11 +37,13 @@ def handle_agg(text=None):
     }
 
     if text:
-        query['query'] = {
-            'multi_match': {
-                'fields': ['text^2', 'concepts.text'],
-                'query': text
-            }
+        query['query']['bool'] = {
+            'must': [{
+                'multi_match': {
+                    'fields': ['text^2', 'concepts.text'],
+                    'query': text
+                }
+            }]
         }
 
     es = Elasticsearch([private.ELASTICSEARCH_HOST])
@@ -48,7 +54,6 @@ def handle_agg(text=None):
     output['related_things'] = parse_related_things(result)
     output['related_spend'] = parse_related_spend(result)
     output['main_concepts'] = parse_main_concepts(result)
-    print parse_word_count(result) 
     
     return output
 
