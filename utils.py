@@ -87,7 +87,7 @@ def parse_related_spend(result):
 
     top_sentences = []
     for result in result['hits']['hits']:
-        for sentence in result['_source']['sentences']:
+        for sentence in result['_source'].get('sentences') or []:
             if 'the budget' in sentence.lower() and '$' in sentence:
                 if sentence not in top_sentences:
                     top_sentences.append({'text': sentence})
