@@ -1,0 +1,33 @@
+<div ng-show="answer && answer.related_spend">
+  <h3 class="subtitle">Summary</h3>
+
+  <ul ng-repeat="doc in answer.related_spend.docs">
+      <li>{{ doc.text }}</li>
+  </ul>
+
+  <hr> 
+
+</div>
+
+<div ng-show="answer && answer.top_mentions">
+
+  <h3 class="subtitle">Mentions</h3>
+
+  <span ng-repeat="doc in answer.top_mentions.docs"><strong>{{ doc.count}}</strong> 
+       {{doc.count != 1 ? 'times' : 'time' }} in <a ng-href="?doc_name={{ doc.name }}">{{ doc.name }}</a>
+       <span ng-show="!$last">, </span>
+  </span>.
+
+  <hr> 
+
+</div>
+
+
+<div ng-show="answer && answer.main_concepts">
+  <h3 class="subtitle">Related Concepts</h3>
+
+  <span ng-repeat="doc in answer.main_concepts.docs"><a ng-href="#/answer?question={{ doc.text }}">{{ doc.text }}</a>, </span>
+     <span ng-repeat="keyword in answer.related_things.keywords"><a ng-href="#/answer?question={{ keyword.name }}">{{ keyword.name }}</a><span ng-show="!$last">, </span>
+  </span>
+
+</div>

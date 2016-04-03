@@ -19,7 +19,7 @@
 
 <body ng-app="search">
 {% raw %}
-<div ng-controller="queryListCtrl">            
+<div ng-controller="QueryCtrl">
     <!-- Header -->
     <header>
         <nav class="navbar navbar-default" id="nav">
@@ -34,65 +34,19 @@
 
     <!-- Body -->
     <div id="blue_box">
-
       <div id="question_container">
-
         <form id="form_container" ng-submit="sendQuestion()">
-          <input type="text" ng-model="question" name="text" placeholder="I want to know about..." id="question_input"/>
+          <input type="text" ng-model="$root.question" name="text" placeholder="I want to know about..." id="question_input"/>
           <input type="image"  src="/static/img/SearchButton.png" width="25px" id="question_img"/>
         </form>
-
       </div>
-
     </div>
     
     <div id="answer_container">
       <div id="answer_body">
         <img id="answer_icon" src="../static/img/icon_1024.png">
-
-        <div ng-if="words && !answer">
-
-          <div id="word_cloud">
-            <jqcloud words="words" weight="600" height="300" steps="10" auto-resize="true" shape="rectangular"></jqcloud>
-          </div>
-
-        </div>
-
-        <div ng-show="answer && answer.related_spend">
-          <h3 class="subtitle">Summary</h3>
-
-          <ul ng-repeat="doc in answer.related_spend.docs">
-              <li>{{ doc.text }}</li>
-          </ul>
-
-          <hr> 
-
-        </div>
-
-        <div ng-show="answer && answer.top_mentions">
-
-          <h3 class="subtitle">Mentions</h3>
-
-          <span ng-repeat="doc in answer.top_mentions.docs"><strong>{{ doc.count}}</strong> 
-               {{doc.count != 1 ? 'times' : 'time' }} in <a ng-href="?doc_name={{ doc.name }}">{{ doc.name }}</a>
-               <span ng-show="!$last">, </span>
-          </span>.
-
-          <hr> 
-
-        </div>
-
-
-        <div ng-show="answer && answer.main_concepts">
-          <h3 class="subtitle">Related Concepts</h3>
-
-          <span ng-repeat="doc in answer.main_concepts.docs"><a ng-href="/#!?question={{ doc.text }}">{{ doc.text }}</a>, </span>
-             <span ng-repeat="keyword in answer.related_things.keywords"><a ng-href="/#!?question={{ keyword.name }}">{{ keyword.name }}</a><span ng-show="!$last">, </span>
-          </span>
-
-        </div>
+        <div ng-view></div>
       </div>
-
     </div>
 
 </div>
@@ -101,6 +55,7 @@
 <script src="/static/bower_components/jquery/dist/jquery.min.js"></script>
 <script src="/static/bower_components/jqcloud2/dist/jqcloud.min.js"></script>
 <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.2/angular.min.js"></script>
+<script src="/static/bower_components/angular-route/angular-route.js"></script>
 <script src="/static/bower_components/angular-jqcloud/angular-jqcloud.js"></script>
 
 <!-- load local js -->
