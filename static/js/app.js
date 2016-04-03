@@ -27,6 +27,10 @@ app.controller('QueryCtrl', function($scope, $rootScope, $location) {
 });
 
 app.controller('HomeCtrl', ['$scope', '$http', function($scope, $http) {
+  console.log('AT HOME');
+  $scope.loading = true;
+  console.log($scope.loading);
+
   $http.get('/api/get_concepts').then(function successCallback(response) {
     words = [];
     angular.forEach(response.data.main_concepts, function(value, key) {
@@ -34,8 +38,14 @@ app.controller('HomeCtrl', ['$scope', '$http', function($scope, $http) {
         "text": value.text, "weight": value.weight,
         "link": "#/answer?question=" + value.text})
     });
+<<<<<<< HEAD
       
     $scope.words = words; 
+=======
+    $scope.loading = false;
+    console.log($scope.loading)
+    $scope.words = words;
+>>>>>>> origin/master
   });
 
 }]);
