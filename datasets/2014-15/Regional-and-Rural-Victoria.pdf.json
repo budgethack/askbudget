@@ -1,0 +1,768 @@
+{
+    "source_document_id": "", 
+    "media_type_detected": "application/pdf", 
+    "timestamp": "2016-04-03T09:19:34.020Z", 
+    "warnings": [], 
+    "answer_units": [
+        {
+            "direction": "ltr", 
+            "title": "Regional and Rural Victoria", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Budget Information Paper"
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h2", 
+            "id": "08840b75-e30d-4963-9082-136b5f7cdceb"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Victorian Budget 2014|15 Building a Better Victoria", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Secretary Department of Treasury and Finance 1 Treasury Place Melbourne Victoria, 3002 Australia Telephone: +61 3 9651 5111 Facsimile: +61 3 9651 2062 Website: budget.vic.gov.au Authorised by the Victorian Government 1 Treasury Place, Melbourne, 3002 Printed by Impact Digital, Brunswick This publication makes reference to the 2014-15 Budget Paper set which includes: Budget Paper No. 1 - Treasurer's Speech Budget Paper No. 2 - Strategy and Outlook Budget Paper No. 3 - Service Delivery Budget Paper No. 4 - State Capital Program Budget Paper No. 5 - Statement of Finances (incorporating Quarterly Financial Report No. 3) ((c)) State of Victoria 2014 This work, 2014-15 Budget Information Paper Regional and Rural Victoria , is licensed under a Creative Commons Attribution 3.0 Australia licence. You are free to re-use the work under that licence, on the condition that you credit the State of Victoria (Department of Treasury and Finance) as author and comply with the other licence terms. The licence does not apply to any images, photographs or branding, including the Victorian Coat of Arms, the Victorian Government logo and the Department of Treasury and Finance logo. Copyright queries may be directed to IPpolicy@dtf.vic.gov.au ISSN 1440-6969 Published May 2014 Printed on recycled paper Regional and Rural Victoria 1 02 Introduction 03 Strong population and employment growth 04 State-shaping infrastructure to build a better Victoria 04 Regional rail investments 06 Regional road investments 07 Major projects 10 Regional Growth Fund: investing in regional and rural development 10 Strategic projects 11 Local initiatives 12 Investing in our future: boosting skills, education and training 12 Upgrading our schools 13 Building solid foundations for learning in the early years 13 Assisting children with a disability to learn and achieve 13 Investing in the skills that lead to jobs 14 Building a stronger Victorian economy 14 Investing in food and agriculture 15 Supporting regional business 16 Reducing the cost of doing business 17 Promoting investment in tourism 18 Strengthening health care 18 Investing in regional health infrastructure 19 Enhancing access to health services 20 Supporting liveability and the environment 20 Planning for future liveability in regions 20 Maximising our natural assets 20 Securing our water resources 21 Protecting a growing Victoria 21 Responding to emergencies 23 Protecting our community 24 Strengthening a growing Victoria 24 Commemoration of the Anzac centenary 24 Celebrating our diverse community 24 A vibrant sporting and community life 25 Supporting Aboriginal communities 26 Helping vulnerable and disadvantaged Victorians 27 Initiatives by region 27 Barwon South West 28 Gippsland 29 Grampians 30 Goulburn-Ovens Murray 31 Loddon Mallee"
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h1", 
+            "id": "5595c3a1-3886-4ef0-b438-ea437f932a93"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Contents", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "2 2014-15 Budget Information Paper"
+                }
+            ], 
+            "parent_id": "5595c3a1-3886-4ef0-b438-ea437f932a93", 
+            "type": "h2", 
+            "id": "709d9bc1-662f-44a2-8e0d-d0c4d10e1512"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Introduction", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Across regional and rural areas of Victoria, businesses and communities are shaping the competitiveness and prosperity of the State. The Government recognises this contribution and is working to deliver new prosperity, more opportunites, and a better quality of life for regional and rural Victorians. The Government's economic strategy to drive growth and employment, and cater for the State's growing population, is focused on boosting productivity and strengthening Victoria's economic fundamentals. This includes investing in major economic infrastructure for the future, creating a responsive education and training system, ensuring Victoria is a competitive and attractive place to do business, growing new markets, and investing in services to support liveability and population growth. Victoria is Australia's largest food and fibre exporting state, and our agricultural exports make up 29 per cent of the national total for this sector, earning around $9 billion each year. Regional economies provide attractive locations for businesses, support a diverse range of industries, and offer significant lifestyle benefits. Victoria's regions benefit from compact geography, natural resources and quality transport networks. As a result, Victoria's regional economies are among the healthiest in the nation. Victoria has the lowest regional unemployment rate of all the states. Over 2012-13, regional population growth in Victoria was equal highest among the non-mining states. Adjusted for household composition, disposable incomes in regional Victoria show less inequality than any other state. With Victoria's population projected to rise significantly from its current level of 5.8 million to 8.7 million by 2051, regional areas have an opportunity to benefit from a much greater share of future growth. Unlocking the growth potential of regional cities will allow them to support expected population growth and provide greater choice for people about where to live, work or start a business. The Government is committed to ensuring that regional cities and country communities will share in the prosperity, opportunities and better quality of life that future growth will bring. FMP Group Ballarat, manufacturing vehicle brake linings and disc pads. Regional and Rural Victoria 3"
+                }
+            ], 
+            "parent_id": "5595c3a1-3886-4ef0-b438-ea437f932a93", 
+            "type": "h2", 
+            "id": "87a457f2-d102-4d5d-bb93-88ac79221c7e"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Strong population and employment growth", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Regional and rural Victoria has enjoyed strong population growth in recent years. In the five years to 2012-13 the average annual regional population growth was 1 per cent compared with 0.7 per cent in the preceding five year period, with this trend evident in almost all regions. The number of people employed in regional Victoria grew by 31\u2009200 over the year to March 2014. AVERAGE ANNUAL POPULATION GROWTH 2002-03 TO 2012-13 2008-2013 2003-2008 REGIONAL VICTORIA MELBOURNE HUME GEELONG SHEPPARTON WARRNAMBOOL & SOUTH WEST BALLARAT LATROBE - GIPPSLAND BENDIGO NORTH WEST VICTORIA PER CENT 1.8 1.5 1.0 0.7 2.0 1.8 1.5 0.9 1.3 1.0 1.7 1.2 0.7 0.5 1.2 0.9 -0.1 0.6 0.6 0.3 -0.1 0.0 Source: Australian Bureau of Statistics. Original data, 12 month average to March 2014. Source: Australian Bureau of Statistics REGIONAL UNEMPLOYMENT RATES 5.8 6.0 8.5 6. 0% A U ST R A LI A N A V ER A G E 6.2 6.6 P ER  C EN T W A Q LD TA S N SW SAV IC 5.4 4 2014-15 Budget Information Paper"
+                }
+            ], 
+            "parent_id": "5595c3a1-3886-4ef0-b438-ea437f932a93", 
+            "type": "h2", 
+            "id": "78385ebf-d424-48f5-af24-63708f476629"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "State-shaping infrastructure to build a better Victoria", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Infrastructure projects included in the 2014-15 Budget , together with those already announced, are staged to create a program of infrastructure investment that builds a better Victoria and creates jobs. In the 2014-15 Budget the Government is committing to an unprecedented infrastructure investment program of up to $27 billion including $1.2 billion specifically in regional Victoria. This investment will drive economic growth, support jobs growth and boost productivity in Victoria. This will ensure Victoria's rail and road networks are enhanced and well positioned to meet the population growth challenges. Improving the connectivity of the regions to Melbourne, across regions and to interstate destinations is critical for maintaining the competitiveness of Victoria's regional industries. It also cements the future liveability and prosperity of key regional centres. An efficient freight system will drive productivity throughout the broader economy, including Victoria's regions. An important source of funding for the Government's infrastructure program is the recycling of existing assets. The Government will enter into a medium-term lease over the operations of the Port of Melbourne and will divest the Rural Finance Corporation. The proceeds of leasing the Port of Melbourne will be invested in new productive economic infrastructure including East West Link - Western Section and Melbourne Rail Link. The proceeds from divestment of the Rural Finance Corporation will facilitate additional investment in key regional and rural infrastructure."
+                }
+            ], 
+            "parent_id": "5595c3a1-3886-4ef0-b438-ea437f932a93", 
+            "type": "h2", 
+            "id": "8b1db438-69e2-4771-a1b5-2fbb3882be31"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Regional rail investments", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Good project management means that the Government will deliver the Regional Rail Link at a reduced total estimated investment of $4.1 billion. This project is a vital piece of infrastructure for regional Victoria that will transform regional rail services, acting as an important foundation for future growth in capacity and reliability of Victoria's train network. The 2014-15 Budget provides an additional $100.5 million over five years for the ongoing maintenance of new stations, bridges and other infrastructure, including operational control and power systems to maximise the benefit from this major infrastructure investment. The Government is also funding several projects to improve the efficiency and effectiveness of rail services in regional Victoria, ensuring that maximum value is gained from existing transport assets. The efficiency of freight movement will be improved through a commitment of $58 million for an important intermodal initiative in line with Victoria - The Freight State . The Port-Rail Shuttle Project will provide targeted infrastructure works to support the development of a Metropolitan Intermodal System. This will ensure that privately-owned intermodal terminals in strategic locations across Melbourne are better linked by rail to the Port of Melbourne. Transport link to Avalon Transport links to Avalon will be improved with an additional $1.3 million to enable continued planning for the Avalon Airport Rail Link transport corridor. Avalon Airport is increasingly important as a general aviation hub and this investment will support its future as Victoria's second international airport. Bus interchange in Geelong The bus interchanges at North Shore and Moorabool Street, Geelong, will be upgraded. This will improve links to train services and access to the Regional Rail link, and reduce travel times. The Geelong Station will also be upgraded with an additional $5 million to improve disability access. Ballan crossing loop An additional $14.1 million will enable a new railway crossing loop to be constructed at Rowsley, which will improve train reliability and increase the number of trains able to operate in the Ballarat corridor. This investment will also provide an additional 45 car parking spaces at Ballan Station. \u2022 INCREASING TRANSPORT CAPACITY AND RELIABILITY \u2022 BOOSTING WORLD\u2011CLASS FREIGHT AND LOGISTICS \u2022 BETTER ACCESS TO HEALTH AND EDUCATION \u2022 ENSURING A SAFE AND SECURE ENVIRONMENT IMPROVING SERVICES AND CHANGING THE WAY PEOPLE AND GOODS MOVE AND CONNECT THROUGHOUT VICTORIA FOR NEW INFRASTRUCTURE PROJECTS $ 27"
+                }
+            ], 
+            "parent_id": "8b1db438-69e2-4771-a1b5-2fbb3882be31", 
+            "type": "h3", 
+            "id": "67a79b72-b5a8-4d14-95cb-4e72e313236f"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "BILLION", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "5595c3a1-3886-4ef0-b438-ea437f932a93", 
+            "type": "h2", 
+            "id": "664c90ec-ce2b-45e7-b999-8ca853bc8fea"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "UP TO", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Regional and Rural Victoria 5 Regional Connectivity program The Government will invest $39.7 million for the Regional Connectivity program initiative. Travellers on V/Line's VLocity carriages operating between Melbourne and Ballarat, Bendigo, Geelong, Seymour and Traralgon will be able to access a free public Wi-Fi service. Commuters will have uninterrupted access to the internet for the duration of their journey, supporting more productive travel time. Rail commuters and small regional communities will also benefit from improvements to mobile phone coverage as part of the mobile black spots program. Extra train carriages The VLocity train fleet will be boosted by more than 30 per cent following the purchase of 43 new carriages. Due to efficient project management of the Government's commitment of $261 million for 40 new train carriages, the Government announced in March 2014 that an additional three carriages have been purchased within the original budget. Additional jobs in western Victoria have been created through the Government's purchase of 15 new X'Trapolis trains, which Ballarat train manufacturer Alstom is fitting out. Constructing dedicated regional rail tracks Dedicated regional tracks from West Werribee Junction to Southern Cross Station continue to be built as part of the Regional Rail Link. When completed, Geelong, Bendigo and Ballarat line commuters will have an uninterrupted journey through the metropolitan system with more reliable and more frequent connections to central Melbourne to get them to and from the CBD for work, study, business and recreation. \" SEA LAKE DUNOLLY SHEPPARTON DOOKIE BENALLA ROBINVALE TO MILDURA KORONG VALE INGLEWOOD ALBURY WODONGA HEYWOOD GEELONG BALLARAT HORSHAM LEONGATHA MORWELL WARRNAMBOOL ECHUCA HASTINGS HAMILTON MURTOA DIMBOOLA DANDENONG MARYBOROUGH MELBOURNE HOPETOUN RAINBOW TO MURRAYVILLE YARRAWONGA TOOLAMBA MANGALORE BENDIGO CASTLEMAINE ARARAT MAROONA BAIRNSDALE TOCUMWAL OAKLANDS DENILIQUIN PORTLAND TO SERVICETON SWAN HILL MOULAMEIN OUYEN PIANGIL MANANGATANG DONALD TO MT GAMBIER Non PFN features Active rail Rail under construction Rail not in service/tourist Industrial node Urban area N Potential future PFN additions/upgrades Nationally significant standard/dual gauge Options for standard gauge connection to Mildura Other standard gauge Broad gauge Intermodal terminal Existing Principal Freight Network (PFN) - Rail Nationally significant standard gauge link Other standard gauge Broad gauge Broad gauge reopening Intermodal terminal Interstate rail network connection Port Airport VICTORIA - THE FREIGHT STATE Victoria - The Freight State (the Plan) outlines the long-term strategy to improve freight efficiency, increase productivity and better connect Victorian businesses with their markets, whether local, national or international. Agricultural exports contribute 29 per cent to the national total of this sector, making Victoria the largest food and fibre exporting state, with exports worth $9 billion. The plan addresses regional rail freight network capacity, improved efficiency for access to export markets, enhanced connections (rail and road), and management of freight impacts on regional communities. VICTORIA'S RAIL FREIGHT NETWORK 6 2014-15 Budget Information Paper"
+                }
+            ], 
+            "parent_id": "664c90ec-ce2b-45e7-b999-8ca853bc8fea", 
+            "type": "h3", 
+            "id": "ad766a34-3bcb-43d6-b00c-30c541fdfbae"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "State-shaping infrastructure", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "5595c3a1-3886-4ef0-b438-ea437f932a93", 
+            "type": "h2", 
+            "id": "bcd42f74-f436-4902-b3c2-66ca81bf9328"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "to build a better Victoria (cont)", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "5595c3a1-3886-4ef0-b438-ea437f932a93", 
+            "type": "h2", 
+            "id": "aaffca5c-0683-49c3-bcd9-c833a49b2f3c"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Regional road investments", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Princes Highway The Princes Highway is the key east-west route in southern Victoria, providing a strategic transport link between East Gippsland, Melbourne, south-west Victoria and South Australia. In the 2014-15 Budget , the Government has committed funding to improve the safe, efficient use of the highway, providing benefits to primary industries and tourism in the Gippsland region. These projects are: - $362 million for the Princes Highway West duplication project - Winchelsea to Colac. This project will improve safety and reliability for commuters and enhance amenity to south-west tourist destinations. Currently thousands of vehicles use this vital stretch of 37 kilometres per day, with a large number being heavy vehicles. This project continues the duplication of the Princes Highway currently under construction from Waurn Ponds to Winchelsea. The Princes Highway West duplication project will support around 250 jobs at the peak of construction; - an additional $11 million for the construction of three overtaking lanes on the Princes Highway between Nowa Nowa and Orbost (Hospital Creek, Dinner Creek and Wombat Creek); and - an upgrade to the Princes Highway and Sand Road intersection with an additional $32 million to improve safety and amenity. Calder Highway The Calder Highway will also be enhanced with an additional $86 million to rebuild the interchange at Ravenswood, and will include an overpass to replace the stop signs at this intersection. This investment will improve the efficiency of one of the State's busiest freight corridors as well as improve safety for motorists. The Calder Highway interchange project will support around 100 jobs during construction. Transport solutions initiatives The transport solutions initiative is a road package providing $56 million for a range of projects to improve regional road capacity and safety. Key projects include: - Beaufort and Ararat - preconstruction work for Western Highway bypasses; - Leongatha - upgrade of the Leongatha heavy vehicle alternative route; - Shepparton East - roundabout widening at Doyles Road/Midland Highway; and - Princes Highway, Murrungowar - rest area improvements. Great Ocean Road The Great Ocean Road will be upgraded with funding of $50 million to enhance the road and bridges, improving safety along the entire length of this road, from Torquay through to Allansford, east of Warrnambool. Pioneer Road Grovedale Funding of $13 million will enable Pioneer Road, Grovedale to be duplicated from Waurn Ponds shopping centre to Meadowvale Drive. This will improve the capacity and safety of Pioneer Road and the amenity for local residents. Road maintenance and restoration Regional Victoria will also benefit from an extra $130 million for the repair and restoration of roads across Victoria. This funding includes $50 million of capital restoration works and $80 million of road maintenance and resealing. Victoria's road management budget has risen from $384 million in the 2010-11 Budget , to more than $500 million in 2014-15, including road restoration funding. EXPANDING OUR PORTS The development of an expanded Port of Hastings is under way following the allocation of $110 million in the 2013-14 Budget , including major planning and design work and marine geotechnical surveys. Expansion of the port will relieve bottlenecks and congestion, delivering economic and employment benefits to regional and rural Victoria. The Port of Melbourne Port Capacity Expansion project continues, providing $1.6 billion expansion in container and automotive capacity. Redevelopment of the Webb Dock precinct includes a new international container terminal at Webb Dock East, a new automotive terminal at Webb Dock West, and facilitating an expansion of Swanson Dock. Swanson Dock, Port of Melbourne Regional and Rural Victoria 7"
+                }
+            ], 
+            "parent_id": "aaffca5c-0683-49c3-bcd9-c833a49b2f3c", 
+            "type": "h3", 
+            "id": "c5f69d2d-7243-4202-a08c-ed38ee1e72f2"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Major projects", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Murray Basin Rail Project Up to an additional $220 million will be provided for the Murray Basin Rail Project, which involves rail standardisation and upgrade of country rail lines, including the Mildura line. This project is a major step towards improving the efficiency of freight movements, which will benefit businesses and residents of the Mildura area. The Murray Basin Rail Project will support around 300 jobs during the peak of construction. East West Link - Western Section Freight industries, businesses and commuters across the State will benefit from the completion of the East West Link. The Government will provide $8-$10 billion for delivery of the western section of the East West Link which will complete the full East West Link. This investment will, for the first time, provide and alternative to the Monash and West Gate Freeways for commuters from Victoria's regional centres in Geelong and Ballarat. This project will save motorists significant travel time. This investment will provide additional capacity and improve the connectivity and reliability of the road network. Regional industries accessing the Port of Melbourne - the nation's major container port - will also benefit. This project will create 3\u2009000 jobs at the peak of construction. Melbourne Rail Link The Melbourne Rail Link will transform our rail network and create 3\u2009700 jobs at its peak of construction. A new rail tunnel from South Yarra to Southern Cross Station will deliver 30 additional peak-hour services across the network. With the addition of new high-capacity trains, it will also increase capacity within the City Loop to upgrade services on other rail lines. The Coalition Government will also commence construction on the Airport Rail Link. The Airport Rail Link will introduce a new electrified service running along dedicated tracks from a new station at Melbourne Airport to Albion in Melbourne's west, where it will join the existing rail network and run through to Southern Cross Station. The Coalition Government's record investment of up to $11 billion is delivering an integrated and modern rail network. CityLink - Tulla widening Sections of the CityLink and Tullamarine Freeway will be upgraded and widened with an additional investment of up to $850 million. This enhancement will increase the capacity of the upgraged sections by 30 per cent, which will improve safety and significantly reduce congestion and travel times, leading to improved productivity. In addition, the Government is in discussion with the Commonwealth to complete the widening of the Tullamarine Freeway to the Melbourne Airport. This enhancement would deliver further benefits to business and commuters. Cranbourne-Pakenham Rail Corridor project Regional Victoria will benefit from the Cranbourne-Pakenham Rail Corridor project which will increase rail capacity by 30 per cent on the corridor and provide more reliable freight movements. The Cranbourne-Pakenham Rail Corridor is a critical connection between the Latrobe Valley and Melbourne. The initiative includes 25 high\u2011capacity trains, which will complete the Government's election commitment to deliver 40 new metropolitan trains. The initiative also includes high-capacity signalling, power upgrades, delivery of four grade separations and planning for a further five. This means the journey through the metropolitan area for V/Line commuters from Gippsland will be smoother and more reliable. The Cranbourne\u2011Pakenham Rail Corridor project will support significant employment during construction. Works are anticipated to start in 2015 and conclude by 2019. IMPROVING RAIL FREIGHT PRODUCTIVITY The Murray Basin Rail Project will commit up to $220 million over four years to undertake major country rail freight upgrades and standardise the key Mildura to Geelong rail link. The first stage of the Murray Basin Rail Project will undertake immediate upgrades on the Mildura to Maryborough and Murtoa to Hopetoun rail lines and finalise the business case for the Mildura to Geelong standardisation. The final cost and alignment of the full Mildura to Geelong rail standardisation will be guided by the final business case to be delivered before the end of 2014. The Murray Basin Rail Project is a transformational initiative that will unlock new economic opportunities for Victoria associated with agriculture, mineral sands, freight and logistics, and tourism. The project will form the first step of a broader vision to create a new 'transcontinental link' near Broken Hill, connecting to the Sydney - Perth rail line. The Mildura - Geelong rail line is on the Commonwealth Government's National Land Transport Network and is Victoria's busiest intrastate rail line for freight. This investment will capitalise on the rapid growth in Asia's 'middle class' identified in the Government's Food and Agriculture into Asia plan through increasing Victoria's food and fibre commodity exports to Asian markets. Moving product as efficiently and cost-effectively as possible is integral to the international competitiveness of Victorian products, especially for price sensitive commodities such as grains. 8 2014-15 Budget Information Paper"
+                }
+            ], 
+            "parent_id": "aaffca5c-0683-49c3-bcd9-c833a49b2f3c", 
+            "type": "h3", 
+            "id": "397809e5-a96b-42b6-b85c-4497c4329e1a"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "State-shaping infrastructure", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "5595c3a1-3886-4ef0-b438-ea437f932a93", 
+            "type": "h2", 
+            "id": "4e4bed63-b4fd-45e0-85b3-c761011f6019"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "to build a better Victoria (cont)", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "BARWON AREA National Disability Insurance Scheme trial in Barwon area, and NDIS national headquarters in Geelong. PIONEER ROAD, WAURN PONDS DUPLICATION $13 million to duplicate Pioneer Road from Waurn Ponds shopping centre to Meadowvale Drive. BOORT HOSPITAL $14 million for redevelopment, including a new 32 bed facility. EMERGENCY SERVICES PRECINCT $8 million for a new police station and new emergency services precinct at Ballarat West. EMPLOYMENT ZONE $30 million for a Ballarat West Employment Zone. BALLARAT HIGH SCHOOL $7.8 million upgrade. MURRAY BASIN RAIL PROJECT $180-$220 million to upgrade and standardise country rail freight lines in western Victoria. PRINCES HIGHWAY WEST DUPLICATION $362 million to duplicate 37 kilometres between Winchelsea and Colac. GREAT OCEAN ROAD UPGRADE $50 million to enhance the road and bridges from Torquay to Allansford, east of Warrnambool. CALDER HIGHWAY REDEVELOPMENT $86 million to rebuild the interchange at Ravenswood. ECHUCA POLICE STATION $14 million replacement. EAGLEHAWK PRIMARY SCHOOL $1.6 million upgrade. BENDIGO AQUATIC CENTRE $15 million contribution for a new pool facility. Regional and Rural Victoria 9 SHEPPARTON COURTS $73 million for the Shepparton courts precinct development. WODONGA WEST PRIMARY SCHOOL $3.8 million upgrade. YARRAWONGA COLLEGE $7.6 million upgrade. LATROBE REGIONAL HOSPITAL $73 million redevelopment. INITIATIVES TO SUPPORT REGIONAL VICTORIA $13 million to improve tourism in national parks, state forests and on public land. More than $730 million in total to maintain, restore and improve Victoria's regional road networks. $13 million for Tasers for all 24-hour regional police stations. $35 million for Food and Agriculture into Asia. $2 million to improve wild dog control. $4 million for a coal development strategy to maximise market opportunities and economic benefits to the State. $9 million to provide planning support for regional councils to ensure investment opportunities are maximised. $3 million to provide support for regional councils to assess infrastructure demand, develop business cases and manage projects. $29 million for 78 vehicles for Country Fire Authority brigades across Victoria. $24 million for a Bushfire and Hazelwood Mine Fire Recovery Package. STATEWIDE Over $1.2 billion a year for vocational education and training funding. $2.8 billion for school intiatives and growth over five years. $500 million for school infrastructure funding including upgrades and 12 new schools. $447 million to increase prison capacity across Victoria. WI-FI AND REMOVING MOBILE PHONE BLACKSPOTS $40 million to deliver free Wi-Fi on V/Line trains and removing mobile phone blackspots. EAST WEST LINK $6-$8 billion to build the Eastern Section, and $8-$10 billion to build the Western Section, providing an alternative route to the West Gate Bridge for commuters from Ballarat to Geelong. CRANBOURNE-PAKENHAM RAIL CORRIDOR PROJECT $2-$2.5 billion. This program will deliver benefits for V/Line Gippsland commuters for a more reliable journey through metropolitan areas. PRINCES HIGHWAY EAST $11 million for three new overtaking lanes on Princes Highway East between Nowa Nowa and Orbost. REGIONAL RAIL LINK $4.1 billion to build dedicated regional tracks from West Werribee to Southern Cross Station, removing major bottlenecks in Victoria's rail network. BARWON HEALTH-NORTH FACILITY $28 million to provide an urgent care centre and co-location of GP services. NEW REGIONAL SCHOOLS $210 million statewide to build new schools, including North Geelong Special Developmental School and Torquay North P-6, and re-locating the existing Bannockburn Primary School. 10 2014-15 Budget Information Paper"
+                }
+            ], 
+            "parent_id": "5595c3a1-3886-4ef0-b438-ea437f932a93", 
+            "type": "h2", 
+            "id": "187ba724-42da-4329-94a1-9e34283b520c"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Regional Growth Fund:", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "5595c3a1-3886-4ef0-b438-ea437f932a93", 
+            "type": "h2", 
+            "id": "9e9813ad-abf6-4773-b205-1604d9f4328d"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "investing in regional and rural development", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Regional Growth Fund was established following the 2010 state election as a $1 billion program to address regional infrastructure and service gaps, and drive business growth and innovation over eight years. To date the Regional Growth Fund has delivered almost $400 million in direct funding support for regional projects, generating over $1.6 billion of total investment across more than 1\u2009400 projects. The Regional Growth Fund has supported an array of enabling infrastructure, energy and water projects. It has helped communities facing economic challenges and encouraged local solutions that improve services, community infrastructure, skills and leadership. The Regional Growth Fund comprises two funding streams - local initiatives and strategic projects."
+                }
+            ], 
+            "parent_id": "5595c3a1-3886-4ef0-b438-ea437f932a93", 
+            "type": "h2", 
+            "id": "49ce22cc-0612-4585-aab5-8a9dbf1bf8df"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Strategic projects", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Strategic project funding supports major projects of regional and statewide significance that strengthen the economic base of communities and create new jobs. At the end of February 2014, more than $240 million had been allocated for 444 projects, generating over $1.1 billion of total investment. The Economic Infrastructure Program, a key element of the strategic funding stream, unlocks the productive potential of regional Victoria by strengthening regional industries, supporting and growing local economies, and providing opportunities for regional Victoria through investment in strategic infrastructure. Projects supported include the development of the new $277 million Epworth Geelong hospital. A grant of $2.85 million enabled construction of essential infrastructure such as new roads, sewerage, gas electricity and communications infrastructure. At the end of February 2014, the Regional Growth Fund Economic Infrastructure Program has delivered more than $175 million, generating over $1 billion of total investment across 88 projects. These projects are expected to help create significant additional employment and the retention of existing jobs. A key program within the Economic Infrastructure Program is the Energy for the Regions Program. Natural gas provides cheaper energy for homes, businesses and local industries, relieving pressure on family budgets and encouraging industry to expand. The Energy for the Regions program allocates $100 million over four years to extend natural gas to more country communities. This initiative helps deliver the Government's commitment to improve the economic prosperity and liveability of regional and rural Victoria. Regional and Rural Victoria 11 The Government is supporting a $10 million project to upgrade Mildura's gas supply. Demand for Mildura's natural gas is nearing current supply capacity. The Regional Growth Fund investment will increase the Mildura transmission pipeline's capacity by 50 per cent, unlocking opportunities for future business and residential development. Gas distribution network upgrades at Huntly, Avoca, Bannockburn, Winchelsea, Wandong-Heathcote Junction and Koo Wee Rup have also started."
+                }
+            ], 
+            "parent_id": "49ce22cc-0612-4585-aab5-8a9dbf1bf8df", 
+            "type": "h3", 
+            "id": "5b5057e4-7905-460f-8d75-b29870612883"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Local initiatives", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Local initiatives support smaller locally based projects prioritised by communities and local councils. To date over $157 million has been allocated, generating more than $440 million of total investment across 962 projects. The $100 million Putting Locals First program is designed to assist communities develop local solutions for local priorities. To date the program has supported around 560 projects with grants totalling $62 million, generating more than $165 million of total investment. The Wodonga Rural City Council received a grant of $455\u2009000 to redevelop the Bonegilla Migrant Experience in Wodonga. Bonegilla was the largest and longest operating reception centre in the post-war era and has national significance as a place associated with Australia's immigration policy. The Bonegilla Migrant Experience has become a major tourist destination. The Regional Growth Fund also provides direct financial support to 48 eligible regional and rural councils through the $100 million Local Government Infrastructure Program. This program supports infrastructure projects such as roads, bridges, new community assets - including halls and theatres, sporting grounds, grandstands, pools, libraries, and upgrading existing facilities. Almost 400 projects have been funded to date, benefiting regional communities through a downward pressure on local rates. 12 2014-15 Budget Information Paper"
+                }
+            ], 
+            "parent_id": "49ce22cc-0612-4585-aab5-8a9dbf1bf8df", 
+            "type": "h3", 
+            "id": "8d1293e5-9dc7-4558-943c-917163db525c"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Investing in our future:", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "5595c3a1-3886-4ef0-b438-ea437f932a93", 
+            "type": "h2", 
+            "id": "af9f8598-91a9-4a76-9203-df7c9130933a"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "boosting skills, education and training", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Coalition Government is investing an additional $5.4 billion for schools to deliver high-quality education over six years. In the 2014-15 Budget , the Coalition Government will deliver $1.6 million over five years (including an initial contribution from the Commonwealth) for initiatives and enrolment funding, together with State funding growth of $1.2 billion. The bulk of this funding is provided directly to government and non\u2011government schools, which are best placed to ensure resources are allocated where they are most needed for their school community."
+                }
+            ], 
+            "parent_id": "5595c3a1-3886-4ef0-b438-ea437f932a93", 
+            "type": "h2", 
+            "id": "40e04be2-6f92-4317-9dad-852dd89e26c9"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Upgrading our schools", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "This year, regional and rural Victoria will benefit from the Government's continued investment to upgrade the quality of school infrastructure around the State. The 2014-15 Budget provides a $500 million package of capital works for schools across the State to build new schools, and to upgrade and modernise schools across Victoria. The budget provides $211 million for 12 new schools, including: - Bannockburn Primary School; - North Geelong Special Development School; and - Torquay North P-6. Further progress is being undertaken at Sale Specialist School (planning and Stage 1) ($4 million). In addition, $112 million will support schools across regional Victoria to be modernised including: - Alexandra Secondary College ($0.9 million); - Ballarat High School ($7.8 million); - Barwon Heads Primary School ($3.4 million); - Benalla High School ($5 million); - Castlemaine Secondary College ($5.5 million); - Charlton College ($0.6 million); - Clifton Springs Primary School ($1.1 million); - Eaglehawk Primary School ($1.6 million); - Geelong High School ($8.5 million); - Horsham College ($10 million); - Kerang Technical High School ($2.8 million); - Kinglake Primary School ($0.1 million); - Korumburra Secondary College ($5.6 million); - Kyneton Secondary College ($5.3 million); - Kyneton Primary School ($3.5 million); - Maldon Primary School ($0.5 million); - Merbein P-10 College ($1.15 million); - Montpellier Primary School ($4.8 million); - Narrawong District Primary School ($2.3 million); - Portarlington Primary School ($5.7 million); - Quarry Hill Primary School ($1.9 million); - Robinvale P-12 College ($0.9 million); - Roslyn Primary School ($2.1 million); - Timboon P-12 ($5.2 million); - Wallan Primary School ($1.6 million); - Wangaratta High School ($4.7 million); - Winters Flat Primary School ($1.1 million); - Wodonga West Primary School ($3.8 million); - Yarrawonga College P-12 ($7.6 million); and - Yea High School ($1.3 million). Mirboo North Secondary College Regional and Rural Victoria 13"
+                }
+            ], 
+            "parent_id": "40e04be2-6f92-4317-9dad-852dd89e26c9", 
+            "type": "h3", 
+            "id": "3105b82a-ab38-4496-96e9-e52054bbed09"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Building solid foundations for learning in the early years", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Government is ensuring that families in regional and rural areas have access to quality early childhood services and care, with $8.4 million to support the implementation of the Early Years Strategic Plan and a further $3.8 million over two years for workforce improvements across the early childhood sector. Additional grant funding of $15 million will provide upgrades and build new community-based kindergartens and children's services across Victoria."
+                }
+            ], 
+            "parent_id": "40e04be2-6f92-4317-9dad-852dd89e26c9", 
+            "type": "h3", 
+            "id": "2b6f9380-c8d8-4042-bd6c-7294c7c5184e"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Assisting children with a disability to learn and achieve", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Government is providing $273 million over four years to increase support for students with moderate to severe disabilities in mainstream and specialist government schools. The Students with Disabilities Transport Program will also receive funding of $32.1 million over four years to cater for demand growth and operational requirements. An additional $1.2 million is provided to improve early childhood intervention services, allowing more timely and effective support for children with a disability or developmental delay."
+                }
+            ], 
+            "parent_id": "40e04be2-6f92-4317-9dad-852dd89e26c9", 
+            "type": "h3", 
+            "id": "bab130ea-ab33-46c4-8c6c-8939c94cac3d"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Investing in the skills that lead to jobs", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Access to training in regional Victoria has increased, with the number of students up by more than 20 per cent since 2010. The funding for skills amounts to $1.2 billion per year. The Coalition Government is also investing $30 million in training for automotive workers and those in the supply chain. Investing in vocational education and training will boost Victoria's workforce capability and assist workers to transition into new and growing industry sectors. Victoria is enabling the higher qualifications required by modern industries, and achieving this faster than the rest of Australia. With the Coalition Government's support, workers seeking to upgrade their skills will have more opportunities to secure jobs in the growth sectors of Victoria's economy. The Government has supported TAFEs that have pursued business transformation or structural change to improve delivery of training to their communities and industries. The Government has provided $200 million for the TAFE Structural Adjustment Fund to support TAFEs that need additional resources to make these changes. Source: Department of Education and Early Childhood Development (unpublished) VOCATIONAL EDUCATION AND TRAINING ENROLMENTS IN REGIONAL VICTORIA 20 09 20 10 20 13 20 11 20 12 20 08 STRONGER CONNECTIONS BETWEEN REGIONAL VOCATIONAL EDUCATION AND TRAINING INSTITUTIONS AND UNIVERSITIES The $20 million Regional Partnerships Facilitation Fund, funded through the Regional Growth Fund, supports alliances between higher education institutions and vocational education organisations to deliver a better range of educational programs and pathways in regional Victoria. This gives regional students more opportunity to enrol in the course of their choice at a locally based education institution. Projects funded include $3 million for the Federation University Australia (formerly University of Ballarat) to assist teachers at six regional TAFEs upgrade their qualifications, and to deliver components of higher education programs. 0 50 100 150 200 T H O U SA N D 14 2014-15 Budget Information Paper"
+                }
+            ], 
+            "parent_id": "40e04be2-6f92-4317-9dad-852dd89e26c9", 
+            "type": "h3", 
+            "id": "34ee7c21-4d7a-4cf7-9155-304115701f71"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Building a stronger Victorian economy", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Victoria's regional businesses continue to compete successfully in dynamic markets and develop skills to meet evolving business requirements. The Government's planning zone reforms announced in July 2012 will increase flexibility and improve competitiveness by removing unnecessary restrictions on the growth and productivity of Victoria's industries, farmers and builders. Reformed rural zones will support expanded agricultural activity, allow more tourism-related uses and support population growth to sustain rural communities. The Government's international engagement strategies, including recent trade missions to China, India, Japan and the Gulf States have helped regional Victorian businesses capitalise on international market opportunities. A record increase of 39 per cent since 2009-10 in Victoria's food and fibre exports is evidence that the Government's approach is working."
+                }
+            ], 
+            "parent_id": "5595c3a1-3886-4ef0-b438-ea437f932a93", 
+            "type": "h2", 
+            "id": "5aa98831-06c3-4292-8c41-535119e91588"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Investing in food and agriculture", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The agriculture and food security industries are critical to the economies of regional and rural Victoria. The Government is providing support to enable internationally competitive primary industries to thrive in Victoria. Despite having only 3 per cent of Australia's arable land base, Victoria is the nation's largest food and fibre exporter. Victoria exported $9.4 billion worth of food and fibre in 2012-13, which accounted for 29 per cent of the Australian total. The Government is investing $35.4 million to boost exports of premium food and beverage products to Asian markets as part of the Government's Food and Agriculture into Asia . This will embed long-term economic growth and sustainable jobs in regional and rural Victoria. This funding builds on existing commitments, including $61.4 million invested in the Growing Food and Fibre program to double the production by 2030, and $62.6 million for the International Engagement Strategy. Source: Victorian Food and Fibre Export Performance (DEPI). Note 5.3 per cent due to cross jurisdictional markets STATE SHARE OF AUSTRALIAN FOOD AND FIBRE EXPORTS (PER CENT) 2012-13 18.0 17.4 1.7 15.9 13.1 28.7 P ER  C EN T N SW Q LD TA S W A SAV IC FOOD AND AGRICULTURE INTO ASIA - PUTTING VICTORIAN FOOD AND BEVERAGES ON ASIAN TABLES Over the coming decades, Asia's demand for food will double and consumer preference will change. More people in Asia will seek out high-quality, safe and reliable produce from trusted sources. Victoria's reputation for safe produce, our long record of excellence in agricultural research and innovation, our skilled workforce and our close ties with Asia give us a distinct advantage in meeting these demands. The Food and Agriculture into Asia investment will support Victoria's food and agriculture sector to become a key driver of economic growth and jobs. Over the next four years the Government will work with industry across seven critical areas to grow exports of premium, safe and reliable food and beverage products to Asia. This will include: - improved access to Asian markets; - new markets for premium products; - the right workforce to supply Asia; - more efficient movement of products to Asian markets; - better targeted research and development, extension and innovation; - streamlined regulation and reduced red tape; and - increased capital investment. Regional and Rural Victoria 15"
+                }
+            ], 
+            "parent_id": "5aa98831-06c3-4292-8c41-535119e91588", 
+            "type": "h3", 
+            "id": "0350f418-f60a-4146-a8ea-ffc3300d2cc6"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Supporting regional businesses", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Industries seeking to locate in Ballarat will be assisted through an increase in the availability of sites capable of supporting their requirements. Funding of $30.2 million will deliver trunk infrastructure, including subdivision of the initial land release to provide appropriate sites as part of Stage 1 of the Ballarat West Employment Zone. A concessional loans program valued at $1.6 million will be established to assist farmers affected by the recent downturn in the Goulburn Valley region along side a broader $22 million support package. The program will facilitate structural adjustment in the region by transitioning land to more productive uses, and provide a viable exit strategy for struggling producers. The Government is investing $2.3 million to establish a poppy industry in Victoria to help meet increasing global demand for therapeutic drugs, while ensuring the industry is scrutinised effectively. Stock losses for rural landholders will be minimised through baiting in remote areas of Gippsland and north-east Victoria as part of the ongoing management of wild dogs. ATTRACTING BUSINESS TO BALLARAT The Ballarat West Employment Zone comprises 438 hectares of Crown land located on the western urban fringe of Ballarat, adjacent to the Western Highway, the Ballarat Airport and the Ballarat-Ararat rail line. The precinct is designed to accommodate high performance freight vehicles, and provide support services to service freight movements, including a truck service centre. The location has a direct connection to the Western Highway, which enables quick access to the Port of Melbourne. The site will also provide services not usually available in industrial parks, including high speed data and mains gas. The project targets private sector investment from industries such as: - freight and logistics; - advanced manufacturing (such as food, mining equipment and bio materials); - research and development; and - construction. The 2014-15 Budget provides $30.2 million to deliver the initial stage works including: - construction of the main entry road to the precinct (the Boulevard) and connector roads; - construction of a service road to provide access to highway frontage land; - provision of all trunk infrastructure to the precinct; and - services reticulation (electricity, gas, water, sewer, data) along all roads. This funding builds on the Government's previous allocation of $38 million for the construction of the Ballarat Western Link Road between Western Freeway and Ballarat-Burrumbeet Road, which supports economic development in western Ballarat. SPC ARDMONA SHEPPARTON The Government has contributed $22 million towards a $100 million co-investment with Coca-Cola Amatil to support SPC Ardmona's long-term future in Shepparton, securing thousands of jobs. This assistance will empower SPC Ardmona to move forward with confidence and grow its export opportunities, particularly in Asian markets. It will enable SPC Ardmona to transform its operations, modernise food processing and increase its global and domestic product range. This investment aligns with the Government's aim to create export opportunities for regional businesses in growing markets, support business to grow and thrive in the domestic and international markets, and to support regional communities. 16 2014-15 Budget Information Paper"
+                }
+            ], 
+            "parent_id": "5aa98831-06c3-4292-8c41-535119e91588", 
+            "type": "h3", 
+            "id": "3a42f763-b689-49c0-8d37-ae4ff2a0dee0"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Building a stronger Victorian economy (cont)", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "5595c3a1-3886-4ef0-b438-ea437f932a93", 
+            "type": "h2", 
+            "id": "742a4b2d-15ee-4921-8de5-c1830d59d7c5"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Reducing the cost of doing business", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Government is reducing regulatory costs imposed on businesses, not-for-profit organisations, individuals and government service providers. The Government has targeted to reduce red tape by 25 per cent. The Government has already implemented a number of reforms that will directly benefit rural and regional Victoria. The 2014-15 Budget introduces a payroll tax rate cut from 4.9 per cent to 4.85 per cent from 1 July 2014. This will reduce costs for 39\u2009000 employers right across Victoria, making Victorian businesses more competitive. Reducing red tape In August 2013, the Government cut unnecessary red tape imposed by local councils on volunteers who manage rural public halls and sporting grounds, and set a clear expectation that councils should exempt community volunteers from bureaucratic red tape. In addition, the Government is implementing a number of regulatory improvements. Wildlife control (kangaroos) The current application process for a permit to control wildlife is complex and time consuming. This reform will modernise the permit application process reducing costs and delays. Farm machinery crossing railways Currently all vehicles and machinery with a width over 3 metres require a permit to cross a railway. This reform will increase the width dimension for vehicles and machinery that may cross a railway without a permit from 3 metres to 5 metres. Stock crossing of arterial roads The system for stock crossings on arterial roads is complex and confusing. This reform will clarify the authority responsible for stock crossing decisions, the roads they can use, how stock crossing opportunities are accommodated, and permit requirements and processes. Native vegetation offsets Current native vegetation offsetting rules are inflexible. This reform will establish new rules and changes to the way the offset market functions, making meeting offset obligations more straight forward and reducing delays. SUPPORTING DYNAMIC REGIONS The Government adopts a place-based approach to support individual regions address specific economic and social challenges. In July 2012, the Victorian Government launched the Latrobe Valley Industry and Employment Roadmap, a long-term plan to build a stronger and more resilient economy in the Latrobe Valley. Accordingly, the Regional Growth Fund has established a $15 million Latrobe Valley Industry and Infrastructure Fund. This fund is enhancing the competitiveness of investment in the Latrobe Valley and to date has provided almost $10 million across more than 23 projects. Funding projects include $280\u2009000 to support Hydro Australia based in Morwell. The grant assisted the company to install new equipment enabling it to expand its market. A similar place-based approach has been adopted to support other regional economies in transition. In February 2014, the Government launched the Goulburn Valley Industry and Employment Plan supported by a $5 million Goulburn Valley Industry and Infrastructure Fund to support industries and facilitate investment in the Goulburn Valley. Regional and Rural Victoria 17"
+                }
+            ], 
+            "parent_id": "742a4b2d-15ee-4921-8de5-c1830d59d7c5", 
+            "type": "h3", 
+            "id": "8033c761-3702-4f84-bbb5-597302ad94ce"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Promoting investment in tourism", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Almost half of all domestic tourism expenditure in the State occurs in regional areas. Tourism provides opportunities for regional areas to diversify their economies and generate new employment opportunities that use a broad range of skills. Tourism has also helped fuel investment in new infrastructure and attractions in regional Victoria. The Government is committed to further exploring ways to strengthen this vital industry in regional and rural Victoria. An additional $14 million will be directed to increasing the number of visitors to regional Victoria to support local economic development. Major campaign activity will be undertaken in interstate markets to maintain awareness and visitation to regional Victoria. This builds on the investment previously made by Government over the past two years ($21.2 million). Upgrades to the visitor amenities in Victorian national parks, state forests and public land, supported by an additional $13.4 million over four years, will encourage tourism, while leveraging private sector investment. VICTORIA'S REGIONAL TOURISM STRATEGY 2013-2016 Victoria's Regional Tourism Strategy outlines priorities for each region together with five strategies for strengthening overall regional tourism including: - marketing activities tailored to international and domestic markets; - digital excellence across a range of platforms to enhance marketing and support better engagement with potential tourists; - major events and business events investment attraction, building on the Government's support of a number of major international events in regional Victoria, including the Bendigo International Collections at Bendigo Art Gallery, the Australian Motorcycle Grand Prix, and World Superbikes Championships at Phillip Island; - infrastructure support including strategies aimed at expanding existing, and attracting new tourism investment and infrastructure and attractions to Victoria; and - industry development including support for regional tourism boards in undertaking strategic planning for their areas, as well as skilling the tourism workforce. 18 2014-15 Budget Information Paper"
+                }
+            ], 
+            "parent_id": "742a4b2d-15ee-4921-8de5-c1830d59d7c5", 
+            "type": "h3", 
+            "id": "189d13a6-6044-40cd-af91-69340126ac6f"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Strengthening health care", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The 2014-15 Budget provides an additional $1.4 billion to Victoria's hospitals and health system over four years to help meet demand for essential hospital services. This enhancement targets key services such as emergency inpatient bed capacity, renal dialysis, chemotherapy and radiotherapy services, as well as cost-effective substitutes for acute care and additional critical care capacity in intensive care units, as well as additional maternity and neonatal service care funding. This additional investment takes the total health service delivery spend in 2014-15 to almost $15 billion. A further $223 million will be invested in upgrading health infrastructure across the State to ensure that services remain responsive to their communities' needs, including $131 million for regional and rural health services."
+                }
+            ], 
+            "parent_id": "5595c3a1-3886-4ef0-b438-ea437f932a93", 
+            "type": "h2", 
+            "id": "31361afb-39ff-4bf9-9d99-d713eefabdaa"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Investing in regional health infrastructure", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The 2014-15 Budget is providing a substantial investment in vital capital works in regional and rural Victoria, with many projects responding to population growth in regional areas. Key investments include: - $73 million for the Latrobe Regional Hospital including construction of a new emergency department, a new 30 bed acute inpatient ward and a 12 bed short-stay unit. This upgrade will increase the hospital's ability to respond to the needs of people living and working in the Gippsland region. The Latrobe Regional Hospital redevelopment will support around 150 jobs during the peak of construction; - $28 million for Barwon Health-North to meet the needs of the growing population of Geelong. This project will support around 50 jobs during the peak of construction; - $14 million for redevelopment of the Boort Health Service, including a new 32-bed facility providing new residential aged care facility and acute facilities. The upgrade will also enable a range of primary care and community-based health services to operate from the site; - New Prevention and Recovery Care (PARC) services will be built with an additional $8.6 million, including services in Mildura and Warrnambool, and the PARC service at Wodonga Health Service will become operational in 2014 with funding of $7 million over four years. These facilities increase the range of mental health services available to people living in regional Victoria with mental illness and enable people to be better assisted within their communities; and - the Moyne Health Service will benefit from a $3 million investment to construct a community health building to improve responsiveness to local needs and priorities. Regional and Rural Victoria 19"
+                }
+            ], 
+            "parent_id": "31361afb-39ff-4bf9-9d99-d713eefabdaa", 
+            "type": "h3", 
+            "id": "ffd0b91e-cbd8-4fe7-9494-486a597bc904"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Enhancing access to health services", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Additional funding of $13.8 million is provided to expand Victorian Patient Transport Assistance Scheme (VPTAS). VPTAS provides financial subsidies to eligible patients living in regional and rural Victoria who need to travel long distances to access medical specialist services. The additional funding will enable this program to provide increased travel accommodation subsidies as well as meet increasing demand. This initiative will improve the range of health care options that can be accessed by people living in regional Victoria. An additional $35 million will be provided to assist health facilities across the state, including acute hospitals, dental health services, mental health services and aged care services, to update and replace vital medical equipment. A further $25 million for health system infrastructure replacement will improve health services assets, such as lifts, generators and fire safety equipment. An additional $30.9 million will expand drug treatment services to treat more than 2\u2009000 extra people each year and support more effective education and treatment responses. This investment includes services in Gippsland, Grampians and Loddon Mallee as well as services across Melbourne. $550 MILLION FOR AMBULANCE HELICOPTERS Rural communities will have enhanced access to care with the replacement of Ambulance Victoria's helicopter fleet with a set of faster, larger aircraft that can travel longer distances without refuelling. Patients more than 250 kilometres away can be in Melbourne in less than one hour, providing rapid transport to major trauma, cardiac and specialist hospitals. The five new helicopters will be operational from January 2016. The helicopters will replace the existing aircraft that operate out of Bendigo, Latrobe Valley, Warrnambool and Essendon. EXPANDING LATROBE REGIONAL HOSPITAL The Government is providing $73 million to upgrade and expand the Latrobe Regional Hospital. This is the principal hospital for the Gippsland region, which has a population of 240\u2009000 across a catchment area of more than 41\u2009000 square kilometres ranging from the Bunyip River in the west to the NSW border in the east and from Omeo in the north to Phillip Island in the south. This is a large and geographically diverse region, including parts of Victoria's alpine areas, some remote farming communities, coastal communities and the regional centres of Wonthaggi, Warragul, Leongatha, Moe, Morwell, Traralgon, Sale and Bairnsdale. The people of Gippsland region will benefit from this significant investment as additional capactity will enable the expansion of services with upgraded systems and technology to support new and expanded specialist health services. The project will support around 150 jobs during the peak of construction. 20 2014-15 Budget Information Paper"
+                }
+            ], 
+            "parent_id": "31361afb-39ff-4bf9-9d99-d713eefabdaa", 
+            "type": "h3", 
+            "id": "3aaa7d0b-97ed-47b7-818f-b1dcac9817d5"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Supporting liveability and the environment", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Victoria's regional cities and country towns will grow faster as more people are attracted to lifestyle and cost advantages, and more diverse job and investment opportunities. Regional cities and peri-urban centres are well positioned to accommodate significant population growth. The Government is investing in services to facilitate this growth and support the liveability and the environment in rural and regional Victoria."
+                }
+            ], 
+            "parent_id": "5595c3a1-3886-4ef0-b438-ea437f932a93", 
+            "type": "h2", 
+            "id": "7277a538-73e4-4ae8-9ddc-e65d9f3a112a"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Planning for future liveability in regions", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Regional Growth Plans are the next stage in planning for growth and change in regional Victoria, developed as a partnership between local government and the State, with significant input from the community. Regional Growth Plans provide a 20 to 30 year settlement strategy for each of Victoria's regions by articulating how they will accommodate a greater share of Victoria's future population. The plans provide land-use direction and settlement frameworks to inform future investment decisions at all levels of government about infrastructure and investment. They also give investors more certainty and help identify long-term market opportunities. The Government is supporting delivery of Regional Growth Plans through assistance to councils with the next stage focused on detailed strategic planning. Funding of $3.1 million over three years will provide a specialist project team to assist regional councils to assess infrastructure demands, develop business cases and manage key projects. The ongoing vital planning and strategic work undertaken by regional councils will be assisted with an additional $9.2 million to extend the Rural Council Planning Flying Squad, expanding the capacity of rural councils to address the backlog of core planning work and support infrastructure planning. This innovative approach will assist councils to minimise delays, complete important strategic work, and maximise development and investment opportunities for regional Victoria."
+                }
+            ], 
+            "parent_id": "7277a538-73e4-4ae8-9ddc-e65d9f3a112a", 
+            "type": "h3", 
+            "id": "96d646a2-84eb-423c-8ba1-12c2a7d9f0a9"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Maximising our natural assets", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Government is committed to protecting Victoria's natural resources while also identifying how these assets can be used responsibly to support local economies. Victoria's minerals and resources sector will be enhanced with $15 million for grants towards the cost of minerals exploration. This assistance will reduce the barriers for attracting new exploration investment into the State, benefiting regional Victoria in particular. The Victorian Coal Development Strategy will be progressed with an additional $4 million. This strategy will continue to explore options for securing medium to long-term economic development, investment and employment benefits for the Latrobe Valley through the development of its brown coal resources. Funding of $3.2 million will enable a conservation area to be established at Yellingbo Nature Conservation Reserve to protect biodiversity and habitat for the Leadbeater's Possum and the Helmeted Honeyeater, Victoria's faunal emblems."
+                }
+            ], 
+            "parent_id": "7277a538-73e4-4ae8-9ddc-e65d9f3a112a", 
+            "type": "h3", 
+            "id": "c849b0c8-c626-4b71-b041-12846ebeb47b"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Securing our water resources", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "In 2014-15 the Government will provide additional funding for a range of rural water management initiatives. Funding of $1.9 million is provided for rural water management initiatives including appropriate governance for the Sunraysia Modernisation Project to upgrade the irrigation network in the area. This funding will also support ongoing monitoring of the Basin Salinity Management Strategy to address salinity issues in the Murray Darling Basin. Victoria will continue to meet its commitment to provide annual contributions to the operating costs of the Murray Darling Basin Authority. Funding of $7.6 million will go towards the construction of levees and other flood mitigation works to help improve community resilience to flooding and inundation. Regional and Rural Victoria 21"
+                }
+            ], 
+            "parent_id": "7277a538-73e4-4ae8-9ddc-e65d9f3a112a", 
+            "type": "h3", 
+            "id": "0c8d04ba-83f3-4311-a1ea-4e2684d6be80"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Protecting a growing Victoria", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Government is investing in services to support the liveability and population growth in rural and regional Victoria and enhance the wellbeing, community life and safety of rural and regional communities."
+                }
+            ], 
+            "parent_id": "5595c3a1-3886-4ef0-b438-ea437f932a93", 
+            "type": "h2", 
+            "id": "e52a798e-6774-44e6-9723-d4bc96a6fe07"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Responding to emergencies", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Enhancing our emergency services Emergency services play a vital role in regional Victoria. The Government is investing in emergency services through a range of new measures. Funding of $14.4 million has been committed to replace the Echuca Police Station. A further $8.4 million will establish an emergency services precinct in Ballarat West which will include a police station and sites for future co-location of fire and ambulance stations to meet current and future emergency services' needs. The Country Fire Authority's capacity to respond effectively to fire incidents in regional Victoria will be improved with an additional $17.2 million for the purchase of an extra 49 medium tankers, bringing the total to be purchased to 74, along with four prototype vehicles. Safe delivery of emergency fire services will be supported through an additional $20.5 million to replace existing respiratory protection equipment. This will enable interoperability amongst agencies in significant emergencies. The Emergency Services Telecommunication Authority's statewide emergency call-taking and dispatch service will be upgraded with an additional $14.9 million, enabling these vital services to respond to the needs of regional and rural Victorians at times of need. First response operational police units in key regional locations will be equipped with conducted energy devices, commonly known as Tasers, to provide police with an alternative response to safety threats, through an additional $13 million. On days of high bushfire risk, pre\u2011formed incident management teams will be available to ensure that Victorian communities are better protected. An investment of $11.6 million will enable the Government to respond to the recommendations made by the 2009 Victorian Bushfire Royal Commission, improving the quality and timeliness of bushfire responses. The Government has committed $10 million to upgrade infrastructure to support fire suppression efforts and the planned burning program. Funding of $39.7 million for the regional connectivity program includes improvemens to mobile phone coverage in black spot areas. This will increase the safety of residents in fire and flood-prone areas in regional Victoria. 22 2014-15 Budget Information Paper"
+                }
+            ], 
+            "parent_id": "e52a798e-6774-44e6-9723-d4bc96a6fe07", 
+            "type": "h3", 
+            "id": "90cc18a2-3895-492c-aebd-14927c52f549"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Protecting a growing Victoria (cont)", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Bushfire recovery The Government is providing significant support to victims of the early 2014 bushfires beyond the initial disaster relief provided under the State-Commonwealth Natural Disaster Relief and Recovery Arrangements. Support for individuals and households includes: - $2.32 million for a range of psychosocial and community support measures across bushfire-affected communities, including counselling, and local government recovery support; and - $150\u2009000 to hold small events in fire-affected communities to help build the resilience of communities. Support for primary producers, small businesses and not-for-profit organisations includes: - low-interest concessional loans of up to $200\u2009000 for eligible parties directly affected by the January 2014 bushfires in eight local government areas - Ararat, Hindmarsh, Horsham, Mildura, Northern Grampians, Southern Grampians, West Wimmera and Yarriambiack; - low-interest concessional loans of up to $200\u2009000 for parties directly affected by the February 2014 bushfires in 12 local government areas; and - $2.2 million to stimulate economic activity in bushfire-affected communities through 'buy-local' marketing campaigns, tourism promotion, and fast tracking projects in fire-affected communities. This includes $1 million to fast track regional development projects in fire-affected communities. Damaged essential public infrastructure will be restored, including the repair of arterial roads, and $2 million will be allocated for repairs to the regional rail network. The Government will also assist local councils to undertake counter disaster activities and the repair and restoration of essential local infrastructure to be provided under the State-Commonwealth Natural Disaster Relief and Recovery Arrangements. Victoria's natural environment in key affected areas will be restored, including $585\u2009000 for the protection of waterways that have been exposed or put at risk following the bushfires. HAZELWOOD MINE FIRE The Government has committed $11.5 million specifically to assist those affected by the Hazelwood mine fire. Eligible Morwell residents have been provided with access to around $3.7 million for personal hardship, respite and relocation grants. Funding of $2 million will assist Morwell residents clean up after the impact of the fire. This includes access to clean-up equipment through Latrobe City Council, as well as vouchers for the cleaning of clothes and cars. Support for students and schools includes $1.3 million to help with the temporary relocation of students and the clean up of affected kindergartens and school sites. Eligible primary producers, small businesses and not-for-profit organisations are provided with access to low interest concessional loans of up to $100\u2009000. In addition, businesses that suffered a loss of income as a result of reduced local trade are assisted through a business relief fund of $2.1 million. The ongoing health of communities in the Morwell area will be protected with an additional $2.4 million for monitoring of the air and water quality levels by the Environment Protection Authority, while also assessing potential long-term environmental impacts. The Government has also committed $5 million over two years for the Hazelwood fire inquiry. Regional and Rural Victoria 23"
+                }
+            ], 
+            "parent_id": "5595c3a1-3886-4ef0-b438-ea437f932a93", 
+            "type": "h2", 
+            "id": "7bc3be6b-2172-4204-a5be-967c8801d54a"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Protecting our community", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Community safety is a major priority for the Government. The 2014-15 Budget builds on the steps already taken to ensure a safe and just community for all Victorians. The Government is supporting people living in regional and rural communities to feel safe in their homes, on the road, on public transport and in public spaces. The Government is investing $73 million to redevelop the Shepparton Law Courts into a new multijurisdiction court complex to meet future demand in the Shepparton area as well as additional staffing. This investment will improve the management of cases by expanding capacity for five new courts (three Magistrates' Courts and two higher jurisdiction courts) in a contemporary court environment. The Shepparton Law Courts project will support around 100 jobs during the peak of construction. The Government expects that all Victorians have appropriate access to justice and related support services. The 2014-15 Budget provides funding for additional staff across the State as part of a strategy to manage demand for personal safety intervention orders (PSIO), including PSIO Registrars in the Magistrates' Courts in Bendigo and Dandenong. The Government's prison expansion has seen significant increases in investments in prisons located in regional and rural locations, benefiting communities in the regions of Goulburn-Ovens Murray, Gippsland, Grampians and Loddon Mallee. The Government has allocated $140.8 million to undertake critical capital upgrades to male and female prisons to create capacity for an additional 871 beds. This initiative will provide employment opportunities for regional Victorians through construction and prison officer roles. Creating additional prison capacity will support around 150 jobs during the peak of construction. This expanded capacity will be supported with an additional $306.6 million over five years for staffing and operating costs across the prison system. Mooroopna Police Station 24 2014-15 Budget Information Paper"
+                }
+            ], 
+            "parent_id": "7bc3be6b-2172-4204-a5be-967c8801d54a", 
+            "type": "h3", 
+            "id": "24eaeb72-9038-43f1-b0b9-ad1795955a0f"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Strengthening a growing Victoria", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "5595c3a1-3886-4ef0-b438-ea437f932a93", 
+            "type": "h2", 
+            "id": "4586dbf9-f2b5-4ad1-8698-ea5d43ffd766"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Commemoration of the Anzac centenary", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Government has committed $6 million over four years to ensure that Victoria's commemoration of the Anzac centenary is meaningful and accessible for all Victorians, including regional areas. This will deliver key events and commemorative programs including support for Anzac Remembrance Days, opportunities for Victorian students to attend the Dawn Service at Gallipoli on Anzac Day 2015, and continued support for commemorative, educational and infrastructure projects across the State. In addition, $200\u2009000 is committed to provide grants for local community events that recognise and celebrate the contributions of Australian soldiers who served in the first world war."
+                }
+            ], 
+            "parent_id": "4586dbf9-f2b5-4ad1-8698-ea5d43ffd766", 
+            "type": "h3", 
+            "id": "ea3b4b51-cb78-4131-b431-5d8307870614"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Celebrating our diverse community", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Rural and regional Victoria benefits from the rich and varied backgrounds of the people within its communities. An additional $6 million over two years for the Multicultural Community Infrastructure Fund will help build new, or enhance existing community facilities, and to revitalise cultural precincts across the State. This grants program mainly targets not-for-profit community organisations from culturally and linguistically diverse communities."
+                }
+            ], 
+            "parent_id": "4586dbf9-f2b5-4ad1-8698-ea5d43ffd766", 
+            "type": "h3", 
+            "id": "e5355b6d-7956-4519-bf5b-af6b4789ad5e"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "A vibrant sporting and community life", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Community facilities are often at the centre of regional and rural communities, providing opportunities for participation in community events and enjoying shared experiences. The Government continues to make significant investment in regional and rural community and sporting events and infrastructure. An additional $4.8 million for the Significant Sporting Events program will help sporting, community and event organisations deliver significant sporting events such as the Stawell Gift and the Melbourne to Warrnambool Cycling Classic. Holding such events builds on Victoria's reputation as a host while also contributing to the economic prosperity of regional and rural host townships. The Government's investment in important community sporting and recreational facilities will be enhanced with $35 million for a grant program for upgrading existing and delivering new facilities across Victoria. This includes $15 million for the Bendigo Aquatic Centre. SUPPORTING REGIONAL RACING Racing is a major economic driver for Victoria, generating more than $2 billion annually. More than two-thirds of all racing participants reside in regional Victoria and more than 55 per cent of all economic and employment impacts are generated in regional Victoria. The three racing codes' breeding industries are significant employers particularly in regions outside of Melbourne. Ensuring that the Victorian racing industry experiences long-term growth will foster stronger economic benefits and jobs across the state. Government has allocated $79.5 million from July 2011 for the Victorian Racing Industry Fund. This grant funding supports improvements at racing and training venues and for key programs designed to further stimulate industry growth and development. Regional and Rural Victoria 25"
+                }
+            ], 
+            "parent_id": "4586dbf9-f2b5-4ad1-8698-ea5d43ffd766", 
+            "type": "h3", 
+            "id": "61977ef4-17f4-4665-affe-a847374c7701"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Supporting Aboriginal communities", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Government is committed to providing support for Victoria's Aboriginal population living in regional and rural Victoria. The Lake Tyers community in Gippsland will be assisted to transition to community self-governance through the appointment of a Committee of Management during 2015 with the support of an administrator. An additional $0.5 million will improve Aboriginal Victorian's outcomes through the Victorian Aboriginal Economic Strategy, which will grow Aboriginal business enterprise and investment, and support employment opportunities with enhanced career pathways. Funding of $3.1 million will continue for Victoria's Aboriginal cultural heritage management system and to implement the Government response to the Parliamentary Inquiry into the establishment and effectiveness of Registered Aboriginal Parties and the recommendations of the review of the Aboriginal Heritage Act 2006 . STRENGTHENING SPORTING AND COMMUNITY FACILITIES The Community Facility Funding Program (CFFP) is a major contributor to the delivery of quality, accessible community sport and recreation facilities across Victoria. Program funding enables communities to leverage further investment in valuable community assets. Between 2011 and 2014 the CFFP has provided $25.5 million for 203 projects in regional and rural areas, with these projects having a total project cost of $80.9 million. Examples of funded projects include: - $650\u2009000 to Ararat Rural City Council as part of a $3.3 million project to develop a new community and recreation centre at the Alexandra Oval precinct, which caters for football, cricket and netball as well as providing a community multipurpose meeting space and public amenities; - $3 million to Baw Baw Shire Council as part of a $14.2 million project to redevelop the Warragul Leisure Centre to create the Baw Baw Recreation, Aquatic and Community Centre. The project will provide an accessible, state-of-the-art multi-use aquatic, health and leisure facility that will meet the current and future needs of residents and visitors to the area; - $80\u2009000 to Corangamite Shire Council as part of a $217\u2009730 project to redevelop the existing Apex Park playground into a multifunctional destination and community park and play space. This development will provide integrated and seamless connections between natural sensory settings and built play equipment, which promotes play for all ages; and - $38\u2009182 to Central Goldfield Shire Council as part of a $57\u2009273 project to develop an equestrian cross-country course at the Dunolly Horse Activity Club to enable horse trials to be conducted at the club. This will add an exciting new element to the club's facilities and activities, and cement the club's future viability. 26 2014-15 Budget Information Paper"
+                }
+            ], 
+            "parent_id": "4586dbf9-f2b5-4ad1-8698-ea5d43ffd766", 
+            "type": "h3", 
+            "id": "3f55b605-b65b-4c8d-a8d3-7a767197b5a4"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Strengthening a growing Victoria (cont)", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "5595c3a1-3886-4ef0-b438-ea437f932a93", 
+            "type": "h2", 
+            "id": "c2562e5e-c072-4aa4-b83d-9c2d29d345be"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Helping vulnerable and disadvantaged Victorians", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Government continues to provide targeted support to Victorians in need. Homelessness Victoria has committed $124.4 million over four years to support a new National Partnership Agreement on Homelessness. This funding will support vulnerable Victorians who are homeless or at risk of homelessness, including rough sleepers, people with a mental illness, women with children experiencing family violence, and young people who have experienced family breakdown. Funding of $5 million is provided for the Government's third Youth Foyer, to be located in Shepparton, opening in 2015. This innovative model provides young people who are homeless, or at risk of homelessness, with integrated accommodation and support. Young people will be offered accommodation for up to two years and can access onsite and community support to participate in education, employment and training. Sustaining support for vulnerable children and families Additional funding will enable a number of critical support services to better respond to demand for assistance by vulnerable individuals and families across Victoria. An additional $12.8 million over four years includes funding for extra services across Victoria to better assist those who have experienced sexual assault. An additional $24.1 million over four years will provide extra family services and child protection workers to respond to demand pressures in the child protection system. This includes a better response to families who are the subject of multiple child protection reports. Strengthening the youth justice response Funding of $17.1 million will enable youth workers across the State to continue to provide early intervention and support to vulnerable young people engaging in risky behaviours. The focus will be on addressing the underlying causes of offending behaviour before the risky behaviours escalate or become entrenched, preventing the progression of young people into the youth justice or criminal justice systems. The capacity of the Youth Justice Centre in Malmsbury will be expanded in 2015-16. Funding of $1.6 million is provided to prepare for this expansion. Disability services An additional $121 million will be provided to boost services for people with a disability, their families and carers. In addition the National Disability Insurance Agency national headquarters located in Geelong will receive $25 million over three years for its establishment costs. This is in line with the Government's support for the National Disability Insurance Scheme (NDIS) trial and full scheme roll-out and builds on the $300 million already provided. Up to 658 additional individual support packages will be available across Victoria. These packages provide care and support for Victorians with a disability, their families and carers, while providing choice about the types of support they access and greater control over their own lives. A number of these packages will be available to meet the needs of students with a disability currently exiting the school system, and those exiting the Futures for Young Adults program. This will ensure that young people with high ongoing needs are provided with the assistance they require. This funding will also support some individuals in the Barwon area during the ongoing transition to the NDIS. ENCOURAGING FUTURE REGIONAL LEADERS The Government's Regional Growth Fund helps nurture emerging regional leaders through Regional Community Leadership Programs to enable individuals to respond to local opportunities and challenges in their community. These programs have helped more than 260 participants in the past 12 months to develop the necessary skills to engage in issues relevant to their local area. Recent evaluations for two of the programs (in the Loddon Mallee and Wimmera regions) confirmed positive outcomes for participants and their regional communities by increasing the self-confidence and empowerment levels of individuals, strengthening networks and community collaboration and increasing involvement in the community at local, state and national levels. Regional and Rural Victoria 27"
+                }
+            ], 
+            "parent_id": "c2562e5e-c072-4aa4-b83d-9c2d29d345be", 
+            "type": "h3", 
+            "id": "073f33dd-7376-4996-96fd-f48c38308d13"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Initiatives by region", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "5595c3a1-3886-4ef0-b438-ea437f932a93", 
+            "type": "h2", 
+            "id": "16aa94a1-094c-45ee-80e7-1915a8d2ce22"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Barwon South West", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Barwon South West includes: - Colac Otway Shire; - Corangamite Shire; - Glenelg Shire; - City of Greater Geelong; - Moyne Shire; - Borough of Queenscliffe; - Southern Grampians Shire; - Surf Coast Shire; and - Warrnambool City. Through the 2014-15 Budget , the Government is implementing the following initiatives for the Barwon South West region: - funding of $362 million for the Princes Highway duplication project - Winchelsea to Colac; - funding of $11 million for three passing lanes on Princes Highway East (Hospital Creek, Dinner Creek and Wombat Creek); - funding of $50 million for upgrades to the Great Ocean Road; - funding of $12 million for duplication of Pioneer Road; - funding of $0.4 million for upgrades to the Geelong bus interchange; - funding of $5.0 million to improve disability access at Geelong Railway Station; - funding for the construction of a Prevention and Recovery Care Service in Warrnambool; - funding for three new schools: Bannockburn Primary School, North Geelong Special Development School and Torquay North; - funding of $25 million for the establishment costs of the National Disability Insurance Agency national headquarters in Geelong; - funding of $1.3 million for planning for the Avalon Airport Rail Link - transport corridor protection; - funding of $14.1 million for Ballan crossing loop and carpark upgrade; - funding of $1.7 million to continue three community finance hubs, one of which is located in Geelong; - funding of $28 million for Barwon Health - North to meet the needs of Geelong's growing population; - funding of $3 million to construct a community health service in Moyne; - funding for modernising of the following schools: > Barwon Heads Primary School ($3.4 million); > Clifton Springs Primary School ($1.1 million); > Geelong High School ($8.5 million); > Montpellier Primary School ($4.8 million); > Narrawong District Primary School ($2.3 million); > Portarlington Primary School ($5.7 million); > Roslyn Primary School ($2.1 million); and > Timboon P-12 ($5.2 million). This builds on the Government's previous investment including: - funding of $300 million for the launch site of the National Disability Insurance Scheme in the Barwon area; - funding of $93 million to a major upgrade of the Geelong Hospital; - funding of $6.3 million to Apollo Bay P-12 College; - funding of $5 million to develop a radiotherapy service for South West Victoria in Warrnambool; - funding of $16.3 million for regeneration of Northern Bay College; - funding of $2.5 million for modernisation of Woolsthorpe Primary School; - funding of $5.1 million for planning the Lara to Avalon airport rail link; - funding of $2 million for renewal of the Geelong Performing Arts Centre; - a new police station at Waurn Ponds; - funding of $27 million for a new secondary college at Torquay; - funding of $27 million for the third stage of the redevelopment of Skilled Stadium (now Simonds Stadium); - funding of $8.3 million to support the upgrade of the Geelong Hospital; Simonds Stadium redevelopment 28 2014-15 Budget Information Paper"
+                }
+            ], 
+            "parent_id": "16aa94a1-094c-45ee-80e7-1915a8d2ce22", 
+            "type": "h3", 
+            "id": "d8db8a04-c5f0-41b4-98be-c67899671354"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Initiatives by region (cont)", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "- funding of $11 million to support the regeneration of Colac Secondary College; - funding of $10 million for the improvement of the Warrnambool to Geelong rail link; - funding of $5 million to begin work on Princes Highway West between Colac and Winchelsea; - funding of $3 million for the Geelong Ring Road Noise Walls initiative; - funding of $2 million for planned upgrades at the Geelong Campus of the Gordon Institute of TAFE; - the opening of the new Geelong SES headquarters; - funding of $22 million to build and operate the new train station at Grovedale Station; - funding of $50 million for the Waurn Ponds Community Hospital; - funding of 10 million for the Radiotherapy services in South West Victoria; and - investigating the viability of rail services between South Geelong to Drysdale and Grovedale to Torquay."
+                }
+            ], 
+            "parent_id": "5595c3a1-3886-4ef0-b438-ea437f932a93", 
+            "type": "h2", 
+            "id": "b9bf2ba4-7aa2-4775-b531-1cf9c39a7dcb"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Gippsland", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Gippsland region includes: - Bass Coast Shire; - Baw Baw Shire; - East Gisppsland Shire; - Latrobe City; - South Gippsland Shire; and - Wellington Shire. Through the 2014-15 Budget , the Government is implementing the following initiatives for the Gippsland region: - $73 million for expansion and upgrade of the Latrobe Regional Hospital; - $4 million to progress works at Sale Specialist School; - funding for modernising of the Korumburra Secondary College ($5.6 million). - funding of $0.5 million for Lake Tyers transition to self-governance; - funding of $2.0 million for a clean up package in Morwell; - f unding of $2.4 million for Hazelwood environmental and water monitoring; - funding of $1.3 million for bushfire response and recovery - schools and early childhood centres; - funding of $2.1 million for Morwell Business Relief Fund; - funding of $3.7 million for personal hardship respite and relocation assistance for Morwell residents; - funding of $32 million for the Sand Road interchange of Princes Highway East; - funding of $4.0 million for implementation of the Victorian coal development strategy; - funding for upgrading the Leongatha heavy vehicle alternative; and - funding for rest area improvements on Princes Highway at Murrungowar. This builds on the Government's previous investment including: - funding of $10 million for modernisation of Bairnsdale Secondary College; - funding of $7.5 million for modernisation of Mirboo North Secondary College; - funding for overtaking lanes on the Strzelecki and Hyland highways; - a new Multi-Disciplinary Centre for the Latrobe Valley to improve responses to sexual assault; - the provision of extra early childhood development workers; - funding of $30 million to support the Latrobe Valley transition to a more diversified economy to meet the challenges brought about by the introduction of the Commonwealth Government's national carbon price; Regional and Rural Victoria 29 - funding of $8 million for the first stage of sealing the Omeo highway; - funding of $6 million for repair of the road to Tidal River; - the establishment of 800 new weekly bus services in the Latrobe Valley; - the establishment of the Gippsland Lakes Ministerial Advisory Committee with funding of $10 million over four years for environmental projects; - funding of $2 million towards the Great Southern Rail Trail extension; - funding of $10 million for regeneration of Leongatha Secondary College; - funding of $3 million for modernisation of Toorloo Arm Primary School; - investigating the potential for carbon capture storage in the Latrobe Valley; - funding of $2 million towards the Warragul Hospital emergency department upgrade; - funding of $1.5 million to upgrade the East Gippsland Institute of TAFE; - funding of $1.1 million towards the enhancement of Wonthaggi town entrance; - funding of $1 million to complete stage 1 of the Lindenow Valley Water Security project; - funding of $1 million to connect Alberton to a pressured sewerage system; - a new 24-hour staffed ambulance station for Grantville; - funding of $16 million for the Macalister Irrigation District upgrades; - funding of $110 million for the Port of Hastings development; - funding of $15 million for the Sale Police Station; - funding of $7 million to complete the sealing of Omeo Highway; - funding of $8.3 million for Clean Coal Victoria; - funding of $4.2 million for mine stability; - funding new mental health beds in Latrobe Regional Hospital (Traralgon); and - funding for an enhanced new Mental Health and Wellbeing Centre in Bairnsdale, which will coordinate access to mental health, welfare and social services in East Gippsland."
+                }
+            ], 
+            "parent_id": "b9bf2ba4-7aa2-4775-b531-1cf9c39a7dcb", 
+            "type": "h3", 
+            "id": "bce9e2ec-eb6a-4b5a-9321-6110e8b11ed6"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Grampians", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Grampians region includes: - Ararat Rural City; - City of Ballarat; - Golden Plains Shire; - Hepburn Shire; - Hindmarsh Shire; - Horsham Rural city; - Moorabool Shire; - Northern Grampians; - Pyrenees Shire; - West Wimmera Shire; and - Yarriambiack Shire. Through the 2014-15 Budget , the Government is implementing the following initiatives for the Grampians region: - funding of $30.2 million for the first stage of developing the Ballarat West Employment Zone; - funding of $8.4 million to build a new police station and emergency services hub in Ballarat West; - funding for preconstruction work for Western Highway bypass at Beaufort and Ararat; and - funding for modernising of the following schools: > Ballarat High School ($7.8 million); and > Horsham College ($10 million). National grains genebank in Horsham 30 2014-15 Budget Information Paper"
+                }
+            ], 
+            "parent_id": "b9bf2ba4-7aa2-4775-b531-1cf9c39a7dcb", 
+            "type": "h3", 
+            "id": "10309788-36c1-4866-9a2b-97be8b195770"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Initiatives by region (cont)", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "This builds on the Government's previous investments including: - funding of $42 million to duplicate approximately 18 kilometres of the Western Highway between Beaufort and Buangor; - funding of $36 million for the Ballarat West Link Road; - funding of $46 million for an upgrade of the Ballarat Hospital; - funding of $18 million for modernisation of Phoenix Community College; - provision of extra early childhood development workers; - funding of $1 million to return the health of the Yarrowee River; - funding of $73 million for additional health services in Ballarat, including support for the recruitment of ten general practitioners to fill vacancies in the Ballarat area and an additional 20 doctors and 80 nurses at Ballarat Base Hospital; - funding of $50 million to duplicate the Western Highway between Burrumbeet and Beaufort; - funding of $4.5 million for the Ballarat Buninyong Road upgrade; - funding of $2.5 million to start work on the Ballarat Western Link Road; - funding of $1.6 million to provide an additional 68 services each week to and from Wendouree Station; - funding of $1.2 million towards the replacement of the Magpie Bridge in Ballarat; - funding of $3.4 million to establish a national grains genebank in Horsham; - funding of $7 million for regeneration of Horsham Special School; - funding of $2 million towards redevelopment of the Ballan Hospital; - funding of $1.8 million over two years for the refurbishment and expansion of Ballarat District Nursing and Healthcare facilities; - a new 24-hour staffed ambulance station for Beaufort; - funding of $179 million for eight new trains to be fitted out in Ballarat; and - funding of $17 million for the remediation of Fiskville and regional training colleges."
+                }
+            ], 
+            "parent_id": "5595c3a1-3886-4ef0-b438-ea437f932a93", 
+            "type": "h2", 
+            "id": "a5cdf95a-36b2-419d-b8c5-e64d1d6d9f79"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Goulburn-Ovens Murray", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Goulburn-Ovens Murray region includes: - Alpine Shire; - Benalla Rural City; - City of Wodonga; - Greater Shepparton City; - Indigo Shire; - Mansfield Shire; - Mitchell Shire; - Moira Shire; - Murrindindi Shire; - Strathbogie Shire; - Towong Shire; and - Wangaratta Rural city. Through the 2014-15 Budget , the Government is implementing the following initiatives for the Goulburn-Ovens Murray region: - funding of $14.4 million for the construction of a new 24-hour police station in Echuca; - funding of $73 million for a new multi-court complex in Shepparton; - funding of $5 million to operate the 40-bed Youth Foyer in Shepparton; - funding for roundabout widening at Doyles Rd/Midland Highway in Shepparton East; and - funding for modernising of the following schools: > Alexandra Secondary College ($0.9 million); > Benalla High School ($5 million); Horsham Special School Regional and Rural Victoria 31 > Kinglake Primary School ($0.1 million); > Wodonga West Primary School ($3.8 million); > Yarrawonga College P-12 ($7.6 million) > Wangaratta High School ($4.7 million); and > Yea High School ($1.4 million). - funding of $7.0 million for operating the Prevention and Recovery Care Service in Wodonga; and - funding of $1.6 million for concessional loans for farmers affected by the reduced fruit contracts in the Goulburn Valley region. This builds on the Government's previous investments, including: - delivering the $2 billion Goulburn\u2011Murray Water Connections Project; - funding of $20 million to redevelop and expand the Kilmore and District Hospital; - funding of $10 million for regeneration of Wodonga Senior Secondary College; - funding of $12 million for modernisation of Belvoir Wodonga Special Development School; - funding of $2 million to develop chemotherapy services at Seymour District Memorial Hospital; and - funding of $6 million for rest area upgrades from the Hume Highway; - funding of $7 million for the regeneration of Seymour College; - funding of $5.2 million to support economic recovery in Marysville and surrounding communities; - funding of up to $19 million towards the development of a hotel and conference centre in Marysville; - funding of $2.1 million towards the redevelopment of the Indigo Shire Civic Centres; - funding of $2.2 million toward a new wastewater management system at Bruck Textiles plant in Wangaratta; - funding of $3.4 million to start work on the Kilmore Wallan Bypass; - funding of $1 million to connect Moyhu to a sewerage system; - a new 24-hour staffed ambulance station for Wallan; - funding of $18 million for the Numurkah Hospital; - funding of $10 million for the Kilmore Wallan Bypass; and - funding of $2.5 million for the Shepparton Court redevelopment."
+                }
+            ], 
+            "parent_id": "a5cdf95a-36b2-419d-b8c5-e64d1d6d9f79", 
+            "type": "h3", 
+            "id": "7795c4a7-c1ca-459d-b35e-49af004a8402"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Loddon Mallee", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Loddon Mallee region includes: - Buloke Shire; - Campaspe Shire; - Central Goldfields Shire; - City of Greater Bendigo; - Gannawarra Shire; - Loddon Shire; - Macedon Ranges Shire; - Mildura Rural City; - Mount Alexander Shire; and - Swan Hill Rural City. Through the 2014-15 Budget , the Government is implementing the following initiatives for the Loddon Mallee region: - funding of up to $220 million for the Murray Basin Rail Project including upgrade of the Mildura line; - funding of $86 million for upgrades to the Calder Highway interchange at Ravenswood to improve safety and efficiency; - funding of $14 million for redevelopment of the Boort Hospital; - funding for modernising of the following schools: > Castlemaine Secondary College ($5.5 million); > Charlton College ($0.6 million); > Eaglehawk Primary School ($1.6 million); Shepparton Law Courts 32 2014-15 Budget Information Paper"
+                }
+            ], 
+            "parent_id": "a5cdf95a-36b2-419d-b8c5-e64d1d6d9f79", 
+            "type": "h3", 
+            "id": "02ca25d9-3917-4f15-bffa-8b805ae7235d"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Initiatives by region (cont)", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "> Kerang Technical High School ($2.8 million); > Kyneton Secondary College ($5.3 million); > Kyneton Primary School ($3.5 million); > Maldon Primary School ($0.5 million); > Merbein P-10 College ($1.15 million); > Quarry Hill Primary School ($1.9 million); > Robinvale P-12 College ($0.9 million); > Winters Flat Primary School ($1.1 milliom). - funding of $1.6 million for preparation for the expansion of the Youth Justice Centre in Malmsbury; - funding of $15 million for the Bendigo Aquatic Centre; - funding for the construction of a Prevention and Recovery Care Service in Mildura; - funding of $1.9 million for the Basin Salinity Management Strategy and the Sunraysia Modernisation project; This builds on the Government's previous investment, including: - funding of $55 million to create an additional 45 beds at the Malmsbury Youth Justice Centre; - funding of $23 million to reconstruct the Charlton Hospital; - funding of $10 million to upgrade the Castlemaine Hospital; - funding of $18 million to redevelop the Swan Hill Hospital aged care facilities; - funding of $7 million for modernisation of Castlemaine Secondary College; - funding of $11.5 million for regeneration of Golden Square Primary School; - funding of $5 million for regeneration of Ouyen College; - a new multidisciplinary centre for Bendigo to improve responses to sexual assault; - the provision of extra early childhood development workers; - funding for the $630 million Bendigo Hospital redevelopment project; - funding of $40 million towards the Echuca Hospital redevelopment and expansion; - funding of $18 million towards the Kerang District Hospital residential aged care redevelopment; - funding of $5 million is being provided for the Mildura Base Hospital expansion; - funding of $5.2 million for two rural overtaking lanes for the Melbourne Lancefield Road; - delivering the $2 billion Goulburn\u2011Murray Water Connections Project; - providing broad support for flood affected communities including $18 million for a Lower Loddon Irrigators Recovery package, and - $5.1 million for Lower Loddon floodplain and groundwater bore works; - funding of $2.8 million for the upgrade of the Talbot Train Station; - funding of $2 million towards redevelopment of the Bendigo Library and Community Hub; - funding of $7 million towards the Mildura Riverfront Development project; - funding of $5.2 million towards the upgrade of the Mildura Airport Terminal; - funding of $4 million over four years to establish a Centre of Expertise in Smoke Taint in Mildura; - funding of $2 million for infrastructure works at Hazeldene's Lockwood site; - funding of $2 million for the refurbishment of Eaglehawk Primary School; - funding of $1 million for a new water treatment plant at Wycheproof; - upgrade of the Maryborough and Castlemaine ambulance stations to 24 hour rostered coverage; - funding of $9 million for the new train station at Epsom; - funding of $7.9 million for the redevelopment of Sandhurst residential services; and - funding of $4 million for the 26 unit medium-density social housing project in Bendigo. Echuca Hospital redevelopment If you would like to receive this publication in an accessible format please telephone 9651 0909 or email information@dtf.vic.gov.au. This document is also available in PDF and WORD at budget.vic.gov.au. 2014-15 Victorian Budget Regional and Rural Victoria Budget Information Paper budget.vic.gov.au"
+                }
+            ], 
+            "parent_id": "5595c3a1-3886-4ef0-b438-ea437f932a93", 
+            "type": "h2", 
+            "id": "f7d0da35-2b42-4c21-899f-44ee7aadf03e"
+        }
+    ], 
+    "metadata": [
+        {
+            "content": "2014-05-02", 
+            "name": "publicationdate"
+        }
+    ]
+}

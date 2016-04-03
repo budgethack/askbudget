@@ -1,0 +1,781 @@
+{
+    "source_document_id": "", 
+    "media_type_detected": "application/pdf", 
+    "timestamp": "2016-04-03T09:19:47.344Z", 
+    "warnings": [], 
+    "answer_units": [
+        {
+            "direction": "ltr", 
+            "title": "Victorian Budget", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h1", 
+            "id": "93c4c948-33b3-4489-ab1b-541e1596f569"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "2011-12 Budget Overview", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Secretary Department of Treasury and Finance 1 Treasury Place Melbourne, Victoria, 3002 Australia Telephone: +61 3 9651 5111 Facsimile: +61 3 9651 5298 Website: www.budget.vic.gov.au Authorised by the Victorian Government 1 Treasury Place, Melbourne, 3002 Printed by Stream Solutions, Level 3, 157 Spring Street, Melbourne, 3000 This publication makes reference to the 2011-12 Budget Paper set which includes: Budget Paper No. 1 - Treasurer's Speech Budget Paper No. 2 - Strategy and Outlook Budget Paper No. 3 - Service Delivery Budget Paper No. 4 - State Capital Program Budget Paper No. 5 - Statement of Finances (incorporating Quarterly Financial Report No. 3) Victorian Budget Overview ((c)) Copyright State of Victoria 2011 This book is copyright. No part may be reproduced by any process except in accordance with the provisions of the Copyright Act 1968 . ISSN 1440-6969 Published May 2011 Printed on recycled paper"
+                }
+            ], 
+            "parent_id": "93c4c948-33b3-4489-ab1b-541e1596f569", 
+            "type": "h2", 
+            "id": "622a6050-b513-44cc-985f-542d3754c438"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Treasurer's message", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The 2011-12 Victorian Budget delivers on the Government's election commitments despite challenging financial circumstances. It builds a more sustainable budget position, improves services and plans for future growth. The Coalition Government's first budget delivers our election commitments to: \u2022 ease the burden on families; \u2022 restore community safety, deliver quality health services, invest in our children's education; \u2022 improve and rebuild our transport infrastructure; and \u2022 rebuild regional and country Victoria. The Coalition is delivering this budget against the backdrop of significant financial challenges. This year, the Commonwealth Grants Commission announced an unprecedented $2.5 billion cut to Victoria's GST revenue, and combined with the influence of a slowing national economy, Victoria is now forecast to receive $4.1 billion less in GST revenue than expected. The Commonwealth has also announced the deferral of $550 million in promised infrastructure payments. In addition, a number of key projects announced by the previous government face significant cost overruns due to poor management and under funding. The exposure for Victoria's finances is $2 billion. Importantly, the Coalition is undertaking the necessary work to put these projects on to a sustainable financial footing, with strong management, and to be delivered on time and on budget. Over a number of years, Victoria's underlying budget position has deteriorated and public debt has grown significantly. The Coalition is implementing a clear and comprehensive plan to improve Victoria's finances and foster a stronger, more competitive, growing economy. In its first budget the Coalition is delivering on our commitments to Victoria, prioritising vital community services, and investing in the infrastructure that will deliver a higher quality of living for Victoria's future such as: \u2022 Making the community safer through a record commitment to additional police and protective services officers, as well as supporting communities to tackle local crime, reduce violence and address anti-social behaviour. \u2022 Improving and rebuilding our transport infrastructure by upgrading public transport services, planning and building new rail services, removing metropolitan and rural level crossings, upgrading local and major roads across metropolitan and regional Victoria, and improving our taxi services. \u2022 Improving our health system by delivering new hospital beds, expanding and upgrading hospital facilities, providing extra ambulance stations and officers and funding a substantial expansion of mental health services. \u2022 Supporting regional and country Victoria by building new hospitals, upgrading infrastructure and boosting regional businesses. \u2022 Protecting vulnerable Victorians through increases to frontline child protection personnel, delivering additional supported accommodation places, respite care and support for Victorians with a disability, their families and carers. \u2022 Delivering new education opportunities by building and upgrading our schools including a record investment in upgrading special schools, providing new programs to improve learning outcomes and new initiatives to improve student safety. \u2022 Helping households manage the cost of living by reducing the cost of ambulance membership, extending electricity and other concessions, and cutting stamp duty for first homebuyers, young farmers and seniors. \u2022 Restoring confidence in government by providing modern, open and accountable government institutions with higher standards of integrity. The Coalition is beginning a program of major reforms and implementing practical initiatives to assist the most vulnerable in our community, those who need a helping hand, and the organisations that do so much to improve local communities. We are lifting service delivery, building the infrastructure to meet tomorrow's community needs and securing our future economic prosperity to provide a higher standard of living for all Victorians. Kim Wells Treasurer The 2011-12 Budget lays out the state of Victoria's finances and takes initial steps to achieve a more sustainable budget position. Since coming to office, the Government has faced a number of issues which have significant implications for the budget. In particular: \u2022 A number of existing projects face cost pressures, with an aggregate cost overrun in the order of $2 billion. \u2022 The Commonwealth Grants Commission's assessment has cut Victoria's share of GST revenue by $2.5 billion over four years and this has been compounded by a further $1.6 billion reduction in revenue from softer overall GST receipts. The combined effect of this GST reduction is to cut revenue by nearly $1 billion a year over the forward estimates. \u2022 The Commonwealth's decision to delay funding for projects, including the Regional Rail Link and the Victorian Comprehensive Cancer Centre has reduced revenue by $550 million. These emerging issues have exposed the vulnerabilities in the underlying budget position inherited by the Government. The Independent Review of State Finances has found in its interim report that Victoria's finances were on an unsustainable path. Specifically: \u2022 over the past decade, spending growth has outstripped revenue growth; \u2022 the operating surplus has relied on temporary Commonwealth stimulus payments; \u2022 public debt has risen substantially; and \u2022 there is a need to increase infrastructure spending overall. Addressing these challenges will not be achieved overnight. The impact of project cost pressures and reduced GST revenue has resulted in a lower operating surplus and increased debt relative to the levels forecast in the 2010-11 Budget Update."
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h1", 
+            "id": "a164fc07-da19-4931-b330-755eb4bf1704"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Strengthening Victoria's finances", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h1", 
+            "id": "3478d315-d1e9-4ad3-9d87-e804080bf0b7"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "A sustainable fiscal strategy", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The budget takes important steps to improve the financial situation and pave the way for further efforts to make Victoria's public finances more sustainable. The Government will deliver on its commitment to have surpluses of at least $100 million a year, with a surplus of $140 million in 2011-12 and averaging $164 million over the forward estimates. Significant efficiency savings will be achieved, totalling around $2.2 billion over five years - equivalent to just over half of the GST revenue lost. Expenditure growth has been curtailed, with spending forecast to rise by an average of 3.2 per cent a year over the forward estimates. Debt as a percentage of gross state product (GSP) will stabilise, and net financial liabilities will fall as a percentage of GSP by 2014-15 and remain consistent with retaining Victoria's triple-A credit rating. To address the issue of project cost overruns, the introduction of more rigorous oversight by the Department of Treasury and Finance will ensure major projects are delivered on time and on budget. Existing programs will be refocused to achieve greater efficiency and effectiveness. The fiscal strategy emphasises the importance of the Government's policy of having no wage outcomes greater than 2.5 per cent, unless they are funded by productivity gains."
+                }
+            ], 
+            "parent_id": "3478d315-d1e9-4ad3-9d87-e804080bf0b7", 
+            "type": "h3", 
+            "id": "b84da4ca-cd15-439e-9afe-578ba2ef88ee"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Net debt", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Net debt is projected to increase as a proportion of GSP from 2.6 per cent in 2009-10 and then to remain stable at 5.9 per cent between 2012-13 and 2014 -15. The growth in net debt relative to the 2010-11 Budget Update is primarily attributed to the decrease in GST revenue. It is also attributed to cost overruns in various capital projects, including the Regional Rail Link. The Government will manage the net debt position to ensure it remains consistent with the State's current triple-A credit rating. Net debt $ bi lli on 25 20 15 10 5 0 General government sector net debt to GSP (RHS) pe r ce nt o f G SP General government sector net debt (LHS) 10 8 6 4 2 0 19 99 -0 0 20 00 -0 1 20 01 -0 2 20 02 -0 3 20 03 -0 4 20 04 -0 5 20 05 -0 6 20 06 -0 7 20 07 -0 8 20 08 -0 9 20 09 -1 0 20 10 -1 1 20 11 -1 2 20 12 -1 3 20 13 -1 4 20 14 -1 5 Sources: Australian Bureau of Statistics; Department of Treasury and Finance."
+                }
+            ], 
+            "parent_id": "3478d315-d1e9-4ad3-9d87-e804080bf0b7", 
+            "type": "h3", 
+            "id": "c893d641-a7dd-4a61-afd7-68ebaa8af3fb"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Budget surplus", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "In 2011-12, and over the forward estimates period the Government will, consistent with its election commitments, manage challenges to achieve surpluses of at least $100 million a year. The Government forecasts a net result from transactions for the general government sector of $140 million surplus in 2011-12, with surpluses averaging $164 million over the forward estimates. Chart 'Expenses 2011-12' has been amended from that included in the Budget Overview publication to reflect the final GPC amounts consistent with BP5 Statement of Finances, Note 12(a) of Chapter 1. Revenue 2011-12Expenses 2011-12 Source: Department of Treasury and Finance. Source: Department of Treasury and Finance. $ bi lli on 25 20 15 10 5 0 G ra nt s Ta xa t i on r ev en ue Sa le s of g oo ds a nd s er vi ce s In ve st m en t in co m e O th er r ev en ue 22.5 b 15.4 b 6.5 b 1.2 b 1.9 b $ bi lli on 15 12 9 6 3 0 H ea lth Ed uc ati on Tr an sp or t an d co m m un ic ati on s Co m m un ity s af et y O th er e xp en se s 12.7 b 12.8 b 4.7 b 5.1 b 11.9 b"
+                }
+            ], 
+            "parent_id": "3478d315-d1e9-4ad3-9d87-e804080bf0b7", 
+            "type": "h3", 
+            "id": "6c57a2eb-01da-41e7-b85a-a791323ee1d5"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Boosting Victoria's economy", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Victoria's economy is diverse and strong, but faces challenges with implications for the fiscal outlook. The Victorian economy has performed relatively well since the global financial crisis, but is now experiencing slower growth due to delayed recovery in business investment, slower population growth and pressures on important sectors due to the high Australian dollar. A prolonged and uneven global economic recovery, rising oil prices and capacity constraints in the national economy may affect the short-term economic outlook. Forecast GSP growth has been downgraded to 2.5 per cent in 2010-11, rising to 3 per cent in 2011-12, with an expected return to growth in business investment partially offset by the wind-down of the fiscal stimulus. While the renewed resources boom provides many economic opportunities, it has placed upward pressure on the Australian dollar, presenting a major challenge for Victoria's traditional exporters, particularly in the education, tourism and manufacturing industries. Victorian businesses have reduced investment activities since the wind-down of Commonwealth Government stimulus policies. Recent weakness in non-dwelling construction activity has been partially due to weather-related delays. Despite this, Victoria's labour market remains strong, with employment during the year ending March 2011 growing by 3.5 per cent. Housing approvals remain at above average levels, with Victoria accounting for more than a third of national approvals. With the right policy settings, Victoria has the ability to lead other Australian states and territories in the area of housing supply and the ability to manage population growth. Victoria's recent economic growth has been underpinned by an increasing population. Population growth is now slowing, largely due to declining net overseas migration - although business visa applications have recently increased. Over the medium term, the Victorian economy needs to adjust to the change in relative prices caused by high terms of trade and the strong Australian dollar. This can only be achieved through efforts to boost productivity. To boost Victoria's productivity and competitiveness and ensure the economy remains robust, the Government is implementing a comprehensive reform agenda focused on reducing business costs and regulatory burdens and more efficient, responsive and transparent public services. Annual employment growth, Victoria and Australia (a) Source: Australian Bureau of Statistics. Note: (a) Trend data. March 03 March 05 March 07 March 09 March 11 pe r ce nt Victoria Australia 5 4 3 2 1 0 -1 March 01"
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h1", 
+            "id": "06fef117-8637-4bfb-8d67-bcbbce365c14"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Reducing the burden of regulation", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Victoria has long been recognised as a national leader in competition and regulation reform, but feedback from business and not-for-profit organisations indicates that Victorian regulation is becoming increasingly complex and costly. For this reason, the Government is placing renewed emphasis on competition and regulation reform to reduce costs for businesses and households. The Government will cut the regulatory burden from current levels by 25 per cent over three years. It is implementing this commitment through an ambitious program that: \u2022 sets a target for reduction in regulatory costs to be achieved by July 2014; and \u2022 requires all reductions to be measured under the Victorian Regulatory Change Measurement manual and independently verified by the Victorian Competition and Efficiency Commission. More rigorous and transparent processes will deliver regulation that is risk-based, imposes minimal burdens and protects the interests of the broader community. Victorian economic projections (a) 2009-10 2010-11 2011-12 2012-13 2013-14 2014 -15 Actual Forecast Forecast Forecast Forecast Forecast Real gross state product 2.0 2.50 3.00 2.75 2.75 2.75 Employment 2.8 3.50 1.75 1.75 1.75 1.75 Unemployment rate (b) 5.5 5.25 5.00 5.00 4.75 4.75 Consumer price index 2.1 3.00 2.75 2.50 2.50 2.50 Wage price index (c) 2.8 3.75 3.75 3.50 3.50 3.50 Population (d) 1.8 1.70 1.50 1.50 1.50 1.50 Sources: Australian Bureau of Statistics; Department of Treasury and Finance. Notes: (a) Year-average per cent change on previous year unless otherwise indicated. All economic projections are rounded to the nearest 0.25 percentage point, except population projections which are rounded to the nearest 0.1 percentage point. (b) Year-average level, per cent. (c) Total hourly rate excluding bonuses. (d) June quarter, per cent change on previous June quarter."
+                }
+            ], 
+            "parent_id": "06fef117-8637-4bfb-8d67-bcbbce365c14", 
+            "type": "h3", 
+            "id": "8f6a3f0a-0bff-424f-961c-34e65a2dcc81"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Productivity reform agenda", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Government has commissioned a Victorian Competition and Efficiency Commission inquiry to identify the main elements of a state-based reform agenda. The inquiry will focus on promoting productivity, competitiveness and labour force participation. The inquiry incorporates the Government's election commitment to benchmarking - an exercise which compares Victoria's competitive position to other jurisdictions and helps identify reform priorities in areas including state taxes and regulation, infrastructure services, and Victoria's education and skills base. The Government will work with other states and territories on reform processes to boost Australia's productivity and competitiveness, but only where there are demonstrable benefits for Victoria."
+                }
+            ], 
+            "parent_id": "06fef117-8637-4bfb-8d67-bcbbce365c14", 
+            "type": "h3", 
+            "id": "e311b696-e4b1-42f0-bea9-e4d4037acf84"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "The productivity challenge", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Productivity growth is the main driver of higher living standards and economic prosperity. But on an average annual basis, Victoria's productivity growth has been falling in the past decade. In the five years to 1999-2000, average annual productivity growth of 2.8 per cent was achieved, but this dropped to an average annual rate of 0.7 per cent in the five years to 2009-10 - well below the national average. The Government's economic reform agenda is designed to reverse this trend. Victoria 19 89 -9 0 to 1 99 4- 95 19 94 -9 5 to 1 99 9- 00 19 99 -0 0 to 2 00 4- 05 20 04 -0 5 to 2 00 9- 10 3.0 2.5 2.0 1.5 1.0 0.5 0.0 av er ag e an nu al p er ce nt ag e ch an ge Australia Victorian and Australian average annual labour productivity growth Sources: Australian Bureau of Statistics; Department of Treasury and Finance. The floods of late 2010 and early 2011 affected more than 20 per cent of the State, including 5 000 people in 83 towns. The Government is committed to supporting these communities to recover and rebuild, and to build greater capacity to respond to future emergencies."
+                }
+            ], 
+            "parent_id": "06fef117-8637-4bfb-8d67-bcbbce365c14", 
+            "type": "h3", 
+            "id": "411d251a-e92f-47b4-ae82-f19b636a3a4f"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Repairing flood-affected assets", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The total cost of emergency response, repairs to state-owned assets and support for community recovery from floods is estimated at $676 million with $115 million to be recovered from insurance. It is anticipated that the Government will spend over $200 million on flood recovery before 30 June 2011. The budget provides vital funding to rebuild infrastructure, including: \u2022 $122 million over two years in repairs to arterial roads; \u2022 $49 million in 2011-12 to re-open national and regional parks, and replace damaged assets; \u2022 $34 million in 2011-12 to repair public land assets and ecological habitats; \u2022 $20 million to repair Victoria's flood-damaged regional rail network; \u2022 $17 million to repair the flood-damaged Wilsons Promontory National Park; \u2022 $3.4 million in 2011-12 to offset the costs of responding to water inundation in the lower Loddon floodplain; and \u2022 $1.7 million to repair the water-damaged groundwater monitoring bore network. Some of these costs will be covered by government insurance funding. The Government will also establish a $30 million program to help committees of management and local councils repair or rebuild flood-impacted community assets."
+                }
+            ], 
+            "parent_id": "06fef117-8637-4bfb-8d67-bcbbce365c14", 
+            "type": "h3", 
+            "id": "ba276abd-af02-4daa-8e3d-2b78ba5ad7fa"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Assisting flood-affected families, businesses and communities", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The budget provides assistance to flood-affected Victorians and their communities, including: \u2022 support for apprentices employed in primary production businesses located in flood-affected areas, including businesses that service primary producers; \u2022 the Catchment Management Authority Flood Employment Program, which will provide local environmental work to skilled people who lost their jobs on flood-affected farms; \u2022 engagement of up to nine rural coordination officers for six months; \u2022 support for rural financial counselling services to farmers; \u2022 the Business Flood Recovery Fund will allocate $10 million over two years to support regional companies in flood-affected areas which demonstrate strong business growth or investment potential; \u2022 grants of up to $50 000 and concessional loans of up to $600 000 to eligible primary producers, small and medium businesses, and not-for-profit organisations; \u2022 $1.5 million for medium-term marketing activities to help the flood-affected regional tourism industry; \u2022 $700 000 over two years for a business recovery program that offers mentoring services from a panel of business advisers; \u2022 grants of up to $10 000 to eligible kindergarten and maternal child health service providers to offset costs not covered by insurance, and to extend the kindergarten fee subsidy to families who have received emergency or disaster recovery grants; and \u2022 financial assistance to flood-affected irrigators in the Goulburn Murray Irrigation District."
+                }
+            ], 
+            "parent_id": "06fef117-8637-4bfb-8d67-bcbbce365c14", 
+            "type": "h3", 
+            "id": "39261107-ab3c-459e-95d9-d39e249305c5"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Flood response", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Government responded immediately to provide assistance to the communities across Victoria that were impacted by the major flood events in late 2010 and early 2011. Building Victoria's preparedness and resilience to natural disasters Victoria's emergency response strategy and capability must be strengthened in response to the recommendations of the Victorian Bushfires Royal Commission, as well as lessons learned from recent floods. Accordingly, the budget provides: \u2022 $13 million over four years for Victorian State Emergency Service (SES) staff to fill leadership roles in incident management teams and improve SES capacity to discharge its lead agency responsibilities during major events; \u2022 $9.6 million to support SES volunteers and SES operational costs; \u2022 $9.3 million over four years for the SES to implement a new training model; \u2022 $1.4 million for the Bushfire Response Planning Unit; and \u2022 $6 million in capital funding for the SES in 2011-12 to buy new mobile command and control vehicles, and to replace critical emergency response assets, including communications equipment. Funding is provided for the first stage of the Government's commitment to enhance the capacity of emergency services to respond to bushfires through investment in infrastructure in the Country Fire Authority and SES. Sixty stations will be upgraded and a total of 101 fire fighting vehicles will be purchased as part of the Government's commitment to upgrade more than 250 stations and purchase additional fire fighting equipment over the first term of government. The Government will invest $19 million over five years to repair and restore parts of Victoria's flood warning network, and improve the system by developing a web-based flood intelligence platform. The Government will provide $50 million to fund safer electricity assets following recommendations of the Victorian Bushfires Royal Commission. This will reduce the number of bushfires started by ageing electricity assets. The Government is delivering much-needed financial assistance to ease cost of living pressures on Victorian households."
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h1", 
+            "id": "65bbd0bd-cf55-47f5-b7c0-2188a03d33cc"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Assisting low income households", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Government has fast tracked the year-round discounts on electricity bills for Victorians on low incomes. The provision of a $382 million boost in concessions means more than 815 000 Victorians (including aged pensioners, veterans, sole parents, people with disabilities and carers) will benefit from an extension of the concession that provides a 17.5 per cent reduction on their electricity bills to cover the full year. This initiative promises much-needed financial assistance to Victorians on low incomes through the approaching winter and summer to follow. The budget also provides $63 million to increase the cap for water and sewerage concessions to help eligible Victorians keep pace with increases in the cost of water."
+                }
+            ], 
+            "parent_id": "65bbd0bd-cf55-47f5-b7c0-2188a03d33cc", 
+            "type": "h3", 
+            "id": "eb225caf-d3b5-4e4f-ba7f-3135e957c78e"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Making ambulance membership more affordable", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Government has also reduced ambulance membership fees by 50 per cent to provide more affordable access to ambulance services for Victorians at a cost of $242 million over four years."
+                }
+            ], 
+            "parent_id": "65bbd0bd-cf55-47f5-b7c0-2188a03d33cc", 
+            "type": "h3", 
+            "id": "f611b497-550f-46f1-8afc-b23484c34313"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Cost of living", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h1", 
+            "id": "464dbed8-a624-4eb0-98b4-7b473405a665"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Housing affordability", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Government understands that Victorian housing is among the least affordable in Australia, to such an extent that many first homebuyers are priced out of the market. The budget tackles this issue head on, as well as addressing housing-related issues that affect elderly Victorians and young farmers buying their first property. Stamp duty will be progressively reduced by 50 per cent for first homebuyers purchasing principal places of residence valued up to $600 000. The budget also provides funding to maintain assistance currently available to first homebuyers through the First Home Owner Grant, and extends the First Home Bonus (including the Regional Bonus) to 30 June 2012. Eligible applicants will receive the First Home Owner Grant of $7 000 when buying homes valued up to $750 000. First homebuyers purchasing or building a newly-constructed home worth up to $600 000 can also access the First Home Bonus which provides $19 500 for a home in a regional area and $13 000 for a home in metropolitan Melbourne. The budget increases the current pensioner and concession card holder's stamp duty concession threshold from $440 000 to $750 000 from 1 July 2011. The concession will be available to self-funded retirees who hold a Commonwealth Seniors Health Card. Eligible pensioners and concession card holders will continue to receive a full stamp duty exemption for residential properties valued up to $330 000 purchased and used as their principal place of residence. Young farmers aged under 35 who buy their first farmland property valued up to $300 000 will be exempt from paying stamp duty. The budget also introduces a stamp duty concession for farmland properties valued between $300 000 and $400 000."
+                }
+            ], 
+            "parent_id": "464dbed8-a624-4eb0-98b4-7b473405a665", 
+            "type": "h3", 
+            "id": "11786559-30cc-42c9-bcf5-67324d80b908"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Supporting families", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Government acted on a commitment to support families with the January 2011 release of its 2011 Victorian Families Statement - Starting the discussion on what matters to families. This statement represents a new approach to how the Government engages with families and reports on factors affecting family life. Future families statements will incorporate key data to enable the Government to understand how families are managing, which areas of government action help them and most importantly, how the Government can do more to help Victorian families. To help families, the budget provides: \u2022 $41 million to continue funding free kindergarten for eligible low income families; \u2022 $18 million to support children in early childhood settings who have a disability, including the provision of an additional 246 new kindergarten inclusion support packages; \u2022 $14 million for 700 existing kindergarten cluster management locations and an additional 160 locations; and \u2022 $6 million to help small rural kindergarten services with their operational costs. The budget provides $93 million over four years for additional supported accommodation places, respite care and aids and equipment for people with a disability, their families and carers. The budget allocates $23 million over four years for community activities targeted at young people, such as youth parliament, regional and rural community radio, Rock Eisteddfod, scouts and girl guides. The budget also allocates $20 million over four years for the diversion and rehabilitation of young offenders."
+                }
+            ], 
+            "parent_id": "464dbed8-a624-4eb0-98b4-7b473405a665", 
+            "type": "h3", 
+            "id": "75097425-92af-4bb6-a65c-e1e8172afb27"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Child protection", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Government's commitment to child protection is demonstrated by investing: \u2022 $98 million over four years for additional out of home care placements and to improve the child protection system, including additional child protection workers, an independent children's commissioner, more intensive ante and post natal support and increased funding for the Foster Care Association; and \u2022 $2.4 million over two years to conduct the Protecting Victoria's Children - Child Protection Judicial Review."
+                }
+            ], 
+            "parent_id": "464dbed8-a624-4eb0-98b4-7b473405a665", 
+            "type": "h3", 
+            "id": "4030b5cc-ba21-4406-b2db-c5c649b7ed27"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Appropriate sentences and an expanded corrections system", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Serious crime should be punished and criminals deterred through tougher sentences, which reflect community views. The budget includes a range of initiatives to support the Government's sentencing policies and improve the effective management of offenders. The budget provides: \u2022 $66 million over four years for an additional 108 beds in the male prison system, which delivers the first phase of the Government's election commitment for an extra 500 beds. Planning for a new male prison will also commence to improve the long-term management of the male prison population; \u2022 $5 million over four years for global positioning system (GPS) monitoring of serious offenders to improve community safety and reduce the risk of re-offending; \u2022 $7 million over four years to improve the electronic monitoring of serious offenders and offenders subject to community correction orders; and \u2022 $5.5 million in 2011-12 for the management of serious sex offenders to reduce the risk of re-offending through identification, management and rehabilitation. The Government will support the legal and operational requirements of the post-sentence detention and supervision scheme for sex offenders where the courts are satisfied that they pose an unacceptable risk of re-offending. Community safety is fundamental to maintaining a high quality of life for all Victorians. This budget delivers a significant investment in frontline police numbers and provides funding to support the Government's sentencing reforms, with total spending in 2011-12 of $2.1 billion on public safety and crime reduction."
+                }
+            ], 
+            "parent_id": "464dbed8-a624-4eb0-98b4-7b473405a665", 
+            "type": "h3", 
+            "id": "c24a61e3-08e7-44b5-8cc0-289a7f5bce3c"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Strengthening police presence", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "A stronger and more visible police presence is fundamental to reducing violent crime and enhancing the safety of streets and public places. The budget provides: \u2022 $602 million to fund an additional 1 600 frontline police and 100 transit safety police; \u2022 $212 million over four years to deploy 940 protective services officers to patrol all metropolitan railway stations and four major regional railway stations (Ballarat, Bendigo, Traralgon and Geelong); \u2022 $30 million in capital funding over three years for: - police station upgrades at Ashburton, North Ballarat, Sebastapol, Mooroolbark and Mooroopna; - new police stations to be constructed at Forest Hill and Heywood, and planning for Paynesville; and - land acquisition and planning for police stations at Emerald, Waurn Ponds, Sale, Somerville, and for the Essendon Operational Safety Tactics Training facility. \u2022 $1.2 million to fund nine new brawler vans to help address violent and anti-social behaviour in public places."
+                }
+            ], 
+            "parent_id": "464dbed8-a624-4eb0-98b4-7b473405a665", 
+            "type": "h3", 
+            "id": "4088781a-2536-4af5-bdb4-7e231e6805b2"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Community safety", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h1", 
+            "id": "67ee2bcd-1b69-4e4d-87fb-93f5a825bcd4"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Community crime prevention", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Enhancing safety is a shared responsibility. The Government will support local communities to develop tailored and innovative approaches to reducing crime in their local area. The budget includes: \u2022 $25 million over four years to establish the Public Infrastructure Safety Fund and the Community Safety Fund: - the Public Infrastructure Safety Fund will allocate grants of up to $250 000 to local communities to help fund the implementation of major security and infrastructure systems; and - the Community Safety Fund will allocate grants of up to $10 000 to community groups, sporting clubs, businesses and local government to implement practical community safety initiatives; \u2022 a renewed partnership with local government to reduce graffiti, with $4 million over four years to remove graffiti from state and local government assets and $9.5 million over four years to support graffiti prevention initiatives; \u2022 restoring the ability of Neighbourhood Watch to access local crime statistics and providing $600 000 for a new Neighbourhood Watch state headquarters; and \u2022 $800 000 over four years for the Step Back, Think program to address alcohol-related violence among young people."
+                }
+            ], 
+            "parent_id": "67ee2bcd-1b69-4e4d-87fb-93f5a825bcd4", 
+            "type": "h3", 
+            "id": "1dfebcf9-524a-4152-adf1-a12e004c5122"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Rebuilding our transport system", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Victoria's transport system has not kept pace with our growing population. The Government is investing heavily in infrastructure and service expansions, and undertaking long overdue reform of Victoria's taxi services."
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h1", 
+            "id": "a4a09a22-7322-4a3e-970a-0650f8fd4c82"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "New authority to lead transport planning and investment", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "A new Public Transport Development Authority will plan, coordinate and manage the public transport program, including metropolitan trains, trams and buses, and regional trains and buses. The Authority will ensure that planning and service delivery is coordinated, independent and evidence based."
+                }
+            ], 
+            "parent_id": "a4a09a22-7322-4a3e-970a-0650f8fd4c82", 
+            "type": "h3", 
+            "id": "a0b9a48c-9727-4d34-91ff-7597fca59d59"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Investing in public transport", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Government is delivering a significant investment of $484 million to begin a major renewal of Victoria's public transport network including: \u2022 $222 million for seven new trains (the first of 40 new trains for Melbourne commuters), train stabling at Calder Park and business case development funding for the remaining 33 new trains; \u2022 $100 million towards the Rail Network Fund over four years for an ongoing maintenance and renewal program; \u2022 planning for new stations at Grovedale and Southland, upgrading Ballan and Balaclava stations and reopening Talbot station; \u2022 $10 million over two years for the South West passing loop on the Warrnambool train line; and \u2022 $8 million over four years to restore W-class trams and to introduce restored trams to selected tram routes. In addition, the Government will provide additional funding for the Regional Rail Link project, which provides vital infrastructure for Melbourne's western growth corridor and regional Victoria. The project will deliver additional train services for up to 9 000 extra passengers across the Melbourne and country rail networks during weekday peak periods. The budget will also fund an international design competition to restore Flinders Street Station administration building which is in disrepair. Planning for the next wave of rail investment The budget provides funding to investigate and plan a number of rail extensions and new lines. These include the: \u2022 Lara to Avalon rail link; \u2022 Doncaster rail feasibility study; \u2022 rail link to Melbourne airport; \u2022 inter-capital high speed rail planning; and \u2022 Rowville rail feasibility study."
+                }
+            ], 
+            "parent_id": "a4a09a22-7322-4a3e-970a-0650f8fd4c82", 
+            "type": "h3", 
+            "id": "16511267-163e-4d90-9eb8-a227ba7aecf7"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Fixing level crossings", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Level crossings are a major safety issue, and contribute to significant traffic congestion in metropolitan Melbourne. Where metropolitan level crossings slow traffic flows, they are also an impediment to providing additional train services. The 2011-12 Budget commits funding to improve regional level crossings and takes initial steps toward addressing some of Melbourne's worst level crossings. In particular, the budget commits: \u2022 $47 million over four years to improve regional level crossings (including Warragul) and upgrade up to 75 level crossings; and \u2022 $17 million to remove metropolitan level crossings. This will include pre-construction works at Mitcham and Rooks Roads, and accelerated project development at Springvale Road."
+                }
+            ], 
+            "parent_id": "a4a09a22-7322-4a3e-970a-0650f8fd4c82", 
+            "type": "h3", 
+            "id": "fd541e58-69e9-4865-ac89-8056ab4204ae"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Better roads", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The budget allocates $601 million to fund key road projects, with a strong focus on upgrades to roads which have seen large increases in traffic due to population growth. These include: \u2022 $160 million over four years for country roads and bridges; \u2022 $20 million for planning and early works for the Dingley bypass between Warrigal and Westall Roads (to link new residential growth areas to employment hubs and provide an east-west route for motorists and freight operators); \u2022 $50 million for the Koo Wee Rup bypass, a new single carriageway road to reduce travel times between the Princes Highway and South Gippsland Highway; \u2022 $23 million to increase maintenance funding for arterial roads; \u2022 $50 million for the Western Highway duplication between Burrumbeet and Beaufort, and $93 million for the next stage of the M80 upgrade (Edgars Road to Plenty Road), as part of Nation Building projects; \u2022 $2.5 million to start work on the $38 million Ballarat Western Link Road which will provide a key transport connection to the region; \u2022 $21 million over two years to fund local road infrastructure and traffic improvement projects; \u2022 $15 million over three years for new overtaking lanes on the Princes Highway west of Colac; \u2022 $8 million over two years for Omeo Highway sealing; \u2022 $6.7 million over three years for rural overtaking lanes, including the Melbourne-Lancefield Road, and Hyland and Strzelecki Highways; and \u2022 $5 million to start planning for the duplication of Princes Highway West from Winchelsea to Colac."
+                }
+            ], 
+            "parent_id": "a4a09a22-7322-4a3e-970a-0650f8fd4c82", 
+            "type": "h3", 
+            "id": "53ed52b4-9691-4b24-b0e4-80583f293e05"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Reforming our taxi services", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Government has commissioned a new Taxi Industry Inquiry to recommend and implement sweeping reforms to Victoria's troubled taxi industry. To be chaired by Professor Allan Fels, the inquiry will review the sector and its performance against key sustainability principles."
+                }
+            ], 
+            "parent_id": "a4a09a22-7322-4a3e-970a-0650f8fd4c82", 
+            "type": "h3", 
+            "id": "1473786b-0766-44a4-8215-d11a857d0d66"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Supporting regional businesses", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The budget establishes a new $1 billion Regional Growth Fund. The fund will be used to create jobs, build and upgrade local services and infrastructure, and invest in local skills and industries in regional Victoria. The Fund's first allocation of $500 million will be made over the next four years. Initiatives include $100 million to the Energy for the Regions program, $100 million to the Local Government Infrastructure program and $100 million to the Putting Locals First fund. The budget also makes a $20 million investment over four years into the Regional Aviation Fund. This fund will be used to upgrade aviation infrastructure at a number of regional public-use airports throughout Victoria. Victoria's internationally renowned wine-making industry will receive $4 million over four years to establish a centre for expertise that addresses the threat of smoke taint in wine. The First Farm Grant will be extended through additional funding of $1.2 million in 2011-12 providing support to young farmers who have recently made, or are about to make, a commitment to farming. Additionally, young farmers will receive an exemption from paying stamp duty when they purchase their first farm property up to the value of $300 000."
+                }
+            ], 
+            "parent_id": "a4a09a22-7322-4a3e-970a-0650f8fd4c82", 
+            "type": "h3", 
+            "id": "24dae36e-4ad2-4f40-9cea-c5665f990c64"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Regional health", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Government will improve the quality of health care in regional areas. This is supported in the budget by the provision of: \u2022 $259 million to upgrade regional health services, including $67 million for country hospital upgrades at Ballan, Echuca, Kerang, Mildura and Warragul Hospitals, to be funded from the Government's new Country Hospitals Fund; \u2022 $56 million for the establishment of the Rural Capital Support Fund to enable rural and regional health services to maintain and expand high quality services; \u2022 $12 million over four years to attract and retain medical professionals in rural areas; and \u2022 $16 million to upgrade and build rural ambulance stations in Victoria."
+                }
+            ], 
+            "parent_id": "a4a09a22-7322-4a3e-970a-0650f8fd4c82", 
+            "type": "h3", 
+            "id": "0cfe6674-20a3-4b6c-9092-f81ed77c3a68"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Regional and country Victoria", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Government is delivering on its commitment to provide greater prosperity, new opportunities and a better quality of life to our regional cities and country communities."
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h1", 
+            "id": "9b3762f2-7621-49ea-9022-b01b311db5ec"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Regional tourism", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Government will invest $3.5 million over three years to help address a recent decline in tourism visits to regional Victoria. This will incorporate: \u2022 $1 million for a tourism fund; \u2022 $1.5 million for a flood recovery package; and \u2022 $1 million for regional and country tourism. This investment will contribute to building Victoria's competitive position as a premier food and wine destination, and provide support to maintain and build key events in regional Victoria. The Government will also invest $500 000 in a feasibility study to secure the rights to the Red Bull Air Race for Geelong."
+                }
+            ], 
+            "parent_id": "9b3762f2-7621-49ea-9022-b01b311db5ec", 
+            "type": "h3", 
+            "id": "1729f9ea-749c-405a-94c5-0e02df6e9905"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Regional transport", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "This budget provides: \u2022 $160 million over four years for country roads and bridges; \u2022 $50 million for the Koo Wee Rup bypass; \u2022 $50 million for the Western Highway duplication between Burrumbeet and Beaufort; \u2022 $15 million over three years for new overtaking lanes on the Princes Highway west of Colac; \u2022 $8 million over two years for Omeo Highway sealing; \u2022 $6.7 million over three years for rural overtaking lanes; and \u2022 $10 million over two years for the South West passing loop on the Warrnambool train line."
+                }
+            ], 
+            "parent_id": "9b3762f2-7621-49ea-9022-b01b311db5ec", 
+            "type": "h3", 
+            "id": "dc7bd49e-22b7-42c8-b157-84a6f2c650a8"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Other regional initiatives", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The budget also provides: \u2022 $6.8 million over four years for the Regional Victoria Living Expo to promote lifestyle, employment, education and business opportunities in regional and country Victoria; \u2022 $4 million over four years to undertake a bounty program to control wild dogs and foxes; and \u2022 $2 million over four years for the Farmers Markets Support Program to expand existing markets and establish new ones in regional and country areas. The Government will make a significant investment of more than $13 billion in 2011-12 to improve Victoria's health system including mental health services, ambulance services, aged care services and dental health services."
+                }
+            ], 
+            "parent_id": "9b3762f2-7621-49ea-9022-b01b311db5ec", 
+            "type": "h3", 
+            "id": "688bd45c-ea98-4994-9b5e-af7803b794d6"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Improving hospitals", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Substantial funding has been allocated to the health system including the delivery of the first stage of the Government's commitment to provide 800 new hospital beds. Funding of a number of infrastructure projects will address pressing demand on hospital and health services across metropolitan and regional Victoria. This includes the expansion of Box Hill and Bendigo hospitals, funding for Frankston Hospital inpatient facilities, Maroondah Hospital expansion to increase bed capacity, Northern Hospital emergency department expansion, Olivia Newton-John Cancer and Wellness Centre, Royal Children's Hospital ICT upgrade, Echuca Hospital redevelopment, Mildura Base Hospital expansion, Geelong Hospital upgrade and land for the new Monash Children's Hospital. Funding of $56 million is also provided for the establishment of the Rural Capital Support Fund to enable rural and regional health services to maintain and expand high quality services. The Government will provide $55 million to upgrade vital medical equipment and hospital infrastructure across Victoria's health services. The $90 million waiting list and emergency department reform package to be funded over four years will increase the accountability, transparency and performance of Victoria's hospitals. Together with the Rural and Regional Health Overhaul package, it will support the retention of doctors and other health professionals across regional and country Victoria. This will deliver on the Coalition's election commitment to improve health services in Victoria."
+                }
+            ], 
+            "parent_id": "9b3762f2-7621-49ea-9022-b01b311db5ec", 
+            "type": "h3", 
+            "id": "e4a8e0f8-d9f8-4456-9407-2305870367e0"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Supporting our mental health system", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Mental health will be supported through a comprehensive mental health package of $88 million for prevention, support and treatment. This package includes funding to improve education completion and employment participation for people with a mental illness, and to increase access to primary and secondary mental health and substance abuse treatment. The budget provides: \u2022 $10 million over four years for the new Mental Illness Research Fund; \u2022 $12 million over four years to expand psychiatric disability rehabilitation and support services; \u2022 $27 million over four years to expand specialist clinical community mental health services; \u2022 $6 million over four years for support for Headspace youth services facilities; and \u2022 $3.5 million over three years for enhancement and redevelopment of community-based mental health infrastructure."
+                }
+            ], 
+            "parent_id": "9b3762f2-7621-49ea-9022-b01b311db5ec", 
+            "type": "h3", 
+            "id": "7a1b48e8-3fdd-4cc1-91b0-aeb091b59258"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Health and hospitals", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Coalition Government's first budget delivers on its election commitments to improve the health and wellbeing of Victorians."
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h1", 
+            "id": "356dc903-0645-4128-9e73-a73448c76fdf"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Health services", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Government is delivering on its election commitments to improve palliative care services with funding of $34 million for service improvements including the establishment of a flexible funding pool to assist carers with costs, improved access to after hours palliative care services, and a range of workforce initiatives to develop employee capacity in palliative care services. The Government will improve Victoria's dental services with funding of $11 million for key initiatives to improve the oral hygiene of children 0-3 years, provide more graduate opportunities for dental clinicians within the public sector, assist with the relocation of dental clinicians to rural areas, and deliver three new mobile dental clinics in regional and country Victoria. Funding of $7.3 million is also provided to continue dental programs in areas of high-need and at risk patients."
+                }
+            ], 
+            "parent_id": "356dc903-0645-4128-9e73-a73448c76fdf", 
+            "type": "h3", 
+            "id": "6456c850-b30b-4baa-9d89-afded5bc1139"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Ambulances", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Government is delivering on its election commitment to improve the availability and affordability of ambulance services through the implementation of key initiatives including: \u2022 $151 million for the employment of 340 new ambulance officers; \u2022 $242 million for families to receive cost of living relief through the halving of ambulance subscriptions; \u2022 $16 million to upgrade and build rural ambulance stations in Victoria; and \u2022 $4.2 million for innovative approaches to emergency response through the implementation of a motorcycle paramedic unit and MICA single response units."
+                }
+            ], 
+            "parent_id": "356dc903-0645-4128-9e73-a73448c76fdf", 
+            "type": "h3", 
+            "id": "2dc0d35d-688b-4833-8700-86dc554db794"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Health science", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Government is committed to growing Victoria's international reputation as a hub of innovation and expertise in the fields of health and medical research. The Government will support Victoria's health and medical community to lead the development of new medical treatments and technologies using cutting-edge science, research and development, and targeted preventative health programs. The Government is delivering on its election commitments in this budget through the establishment of an Office of the Lead Scientist, the new Collaborative Networks for Technology Transfer, and funding the Victorian Biotechnology Advisory Council."
+                }
+            ], 
+            "parent_id": "356dc903-0645-4128-9e73-a73448c76fdf", 
+            "type": "h3", 
+            "id": "37a4f994-6c01-4563-bcd1-05ad7bb1a063"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Education and skills", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Government is focused on delivering new education opportunities by improving learning outcomes, student safety and building and upgrading our schools, including a record investment in special and autistic schools. In 2011-12, the Government will invest $11 billion to improve Victoria's education system, skills and early childhood development."
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h1", 
+            "id": "3a43638c-2d5a-46dc-b588-ea747a6989f9"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Improving learning outcomes", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Maths and science education will receive a major boost. $24 million will be provided over five years to the end of 2015 for 100 maths and science specialists in government primary schools, $5 million for 400 teaching scholarships for science graduates, and $400 000 for a science, maths and entrepreneurship collaborative network. The Government will provide additional support to government schools and students through professional development of government school teachers and school specialisation grants. The budget allocates $240 million over five years to help lift non-government school funding levels, starting in the 2011 school year. The non-government school sector educates about 37 per cent of all Victorian school students and is also a significant employer of teaching and non-teaching staff."
+                }
+            ], 
+            "parent_id": "3a43638c-2d5a-46dc-b588-ea747a6989f9", 
+            "type": "h3", 
+            "id": "89280518-d8c8-49c5-970f-36f009a391be"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Increasing student safety and wellbeing", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The budget includes a number of major funding initiatives under the Government's broader plan to make Victorian government schools safer including: \u2022 $124 million over four years to continue the employment of 256 Primary Welfare Officers and employ 150 new Primary Welfare Officers; \u2022 $2 million over four years for teachers to train in more effective student behaviour management practices; \u2022 additional funds to review, upgrade and expand anti-bullying programs across Victoria; \u2022 $1 million over three years to pilot alternative settings for disengaged students; and \u2022 a major overhaul of service provision for students in alternative school settings. These major funding initiatives support a number of other reforms to legislation and principal powers, which will give school leaders the capacity to protect every Victorian student including: \u2022 increased powers for principals to ban, search and seize dangerous items; and \u2022 powers for principals to suspend and expel students."
+                }
+            ], 
+            "parent_id": "3a43638c-2d5a-46dc-b588-ea747a6989f9", 
+            "type": "h3", 
+            "id": "0f483a01-4bcc-4572-a583-948224db022d"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Building new schools and upgrading existing facilities", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Government will provide $208 million to renovate existing government schools, build new ones and acquire more land. This investment includes $92 million to deliver election commitments, $81 million for other priority works and $36 million for associated land purchases (including for Torquay Secondary College and Officer Special School). In addition, the budget provides $100 million to establish a School Maintenance Fund. To support the school life of students with disabilities, the budget provides $156 million for the Students with Disabilities program. The budget also provides $2.1 million for equipment to help establish an Insight Education Centre for blind and vision impaired students. The budget provides funding for upgrading 10 existing special and autistic schools including: \u2022 Broadmeadows Special Development School; \u2022 Horsham Special School; \u2022 Hume Valley School; \u2022 Nepean Special School; \u2022 Northern School for Autism; \u2022 Rosamond Special School; \u2022 Eastern Autistic School; \u2022 Western Autistic School; \u2022 Yarrabah School; and \u2022 planning for the redevelopment of Belvoir Special Developmental School. Additionally, the Government is committed to building a new special school in Officer. This represents the largest single year investment in special and autistic schools in over a decade."
+                }
+            ], 
+            "parent_id": "3a43638c-2d5a-46dc-b588-ea747a6989f9", 
+            "type": "h3", 
+            "id": "15d1b13a-157b-48c0-b467-5d22f359ca23"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Boosting skills", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Government will ensure more students have access to the TAFE sector, by providing $103 million to reintroduce concession fee places for young people aged between 15 and 24 years who are undertaking diploma and advanced diploma courses. It will also expand exemptions for students to access government-subsidised vocational education and training. The Government will invest $35 million for TAFE upgrades. This funding includes $9.5 million to TAFE institutes to update and align teaching equipment with industry standards, and $22 million for the Chisholm Institute of TAFE."
+                }
+            ], 
+            "parent_id": "3a43638c-2d5a-46dc-b588-ea747a6989f9", 
+            "type": "h3", 
+            "id": "41f516c8-4390-49f4-bc8b-e4b9c43dfab4"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Supporting our volunteers and not-for-profit groups", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Government is providing $4.6 million over four years to support the sustainability of Victoria's not-for-profit sector. The budget allocates $42 million over four years as part of a Community Support and Recreation Sports Package. This initiative will provide small scale grants to boost participation in civic activities and contribute to the cost of community infrastructure and amenities, particularly in growing areas. A further $5.2 million will support the efforts of volunteers through ongoing management of the volunteering portal and grants. The allocation will also fund the new Multicultural Volunteer Awards and establish a volunteer coordination unit to manage volunteer services during crises."
+                }
+            ], 
+            "parent_id": "3a43638c-2d5a-46dc-b588-ea747a6989f9", 
+            "type": "h3", 
+            "id": "7ce073bd-4ee8-4fde-932a-8f72308acdfd"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Building community assets", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The budget allocates $160 million over four years for the maintenance and restoration of country roads and bridges. This funding will make 40 rural councils eligible for funding of up to $1 million a year over four years. The budget provides $17 million over four years for the Public Libraries Capital Works program which will offer grants to upgrade existing libraries, build new libraries and replace or refurbish mobile libraries. The budget will provide $20 million over four years for the Green Light Plan to Save Money and Cut Emissions. This will support councils to convert existing outmoded mercury vapour streetlamps to energy-efficient fluorescent lighting, reducing greenhouse emissions and costs. The Government is committed to supporting local communities through efforts to encourage volunteers, build community assets and help families with the cost of living."
+                }
+            ], 
+            "parent_id": "3a43638c-2d5a-46dc-b588-ea747a6989f9", 
+            "type": "h3", 
+            "id": "c810d1e9-9746-4a44-8d60-377c8f456132"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Supporting local communities", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h1", 
+            "id": "9beebb6c-1706-43d3-b3d9-210ceae7bdd0"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Enhancing urban liveability", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Government will provide $9.7 million over four years to deliver a new metropolitan planning strategy for Melbourne. Underpinned by substantial community engagement, the strategy will also enable the development of adaptation plans for Victoria's coastal settlements. Additional budget allocations include: \u2022 $6.9 million over three years for the Changing Places program to encourage local development and investment in metropolitan and regional activity areas; \u2022 $5 million over four years for the Frankston Activities Area Revitalisation initiative; and \u2022 $10 million over four years to help Heritage Victoria, the Heritage Council and local councils meet ongoing regulatory responsibilities."
+                }
+            ], 
+            "parent_id": "9beebb6c-1706-43d3-b3d9-210ceae7bdd0", 
+            "type": "h3", 
+            "id": "aec67bfb-592f-421c-80ab-7e39bc816df8"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Boosting local sport and recreation opportunities", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The budget boosts opportunities for participation in sport, as a key contributor to building strong and healthy communities. The budget provides: \u2022 $800 000 over four years for the Active Sports Partnership program to encourage participation by senior Victorians and Victorians with a disability; \u2022 $2 million over four years to help maximise elite athlete sport performance and support sporting codes and schools in their efforts to eliminate drugs in sports; \u2022 $1.8 million over four years to attract, retain and build the capacity of volunteers, to provide supplementary coach training across Victoria, and a web-based resource for sporting clubs and volunteers; \u2022 $1.6 million over four years for the VICSWIM Summer Kidz learn-to-swim holiday program; and \u2022 $530 000 over four years to support the Stawell Gift, a world-renowned footrace event held in the Victorian regional town of Stawell since 1878. The Government recognises the need to encourage sport at the community level through the provision of high quality infrastructure. To help achieve this, the budget commits: \u2022 $13 million over four years to increase sporting participation in targeted locations or for targeted groups in the community and provide sporting uniform grants of up to $1 000 to grassroots sports and recreation clubs; \u2022 $5 million over four years to address the backlog of upgrades to smaller sport and recreation facilities; \u2022 $25 million over two years to support the Skilled Stadium Stage 3 redevelopment at Kardinia Park in Geelong; and \u2022 $15 million for the State Sports Facilities Project to complete the State Athletics Centre and update sports facilities at Lakeside Oval in Albert Park."
+                }
+            ], 
+            "parent_id": "9beebb6c-1706-43d3-b3d9-210ceae7bdd0", 
+            "type": "h3", 
+            "id": "62cc5dec-788d-4ba3-ae24-2670f7686d01"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Multicultural communities", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Government is focused on promoting social cohesion and celebrating the many different cultures which help make Victoria such a vibrant state. The budget affirms the Government's commitment to celebrating Victoria's unique cultural, linguistic and religious diversity. The budget allocates an additional $24 million over four years to strengthen Victoria's multicultural community and support newly-arrived migrants and refugees. To meet election commitments, the budget will deliver $9.3 million over four years for new multicultural grants programs. These include: \u2022 $4.4 million for a calendar of major events to support new and expanded multicultural festivals and events; \u2022 $2 million for new multicultural language services to improve access to government services for people with limited English language proficiency by increasing the number of quality interpreters and translators, and enhancing the use of language services; \u2022 $650 000 for a South Asian Building Fund to improve and construct spaces and facilities for South Asian community organisations; \u2022 $500 000 for the Victorian Multicultural Honour Roll to recognise newly-arrived migrants and refugees who have played a leadership role in the community; \u2022 $400 000 a year ongoing for marketing strategies, grants and the increased use of interpreters to help seniors from culturally and linguistically diverse backgrounds access health services, particularly in country areas; and \u2022 $150 000 for Victoria's African community to develop leadership skills aimed at increasing community confidence and self-sufficiency."
+                }
+            ], 
+            "parent_id": "9beebb6c-1706-43d3-b3d9-210ceae7bdd0", 
+            "type": "h3", 
+            "id": "a457c2a6-aaf0-4a5e-9bed-1ebe42d21f23"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Veterans", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Government respects the enormous sacrifices made by veterans. To help increase community recognition of veterans, the budget allocates $2.1 million over four years to support preparations for the 2014 commemoration of the centenary of the beginning of the First World War and to extend commemorative grants. This funding will enable the continuation of grants, restoration of war memorials, commemorative events and educational activities. The Government will fund the redevelopment of the Shrine of Remembrance website to support commemoration activities and education to bring Victoria's rich military history to life."
+                }
+            ], 
+            "parent_id": "9beebb6c-1706-43d3-b3d9-210ceae7bdd0", 
+            "type": "h3", 
+            "id": "989a893b-ff43-4530-8597-89d2268a8993"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Indigenous Victorians", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Government understands that many Indigenous Victorians work tirelessly on behalf of their communities to address Indigenous disadvantage. To recognise those who have contributed at the local, state or national level, the budget provides funding to establish and maintain an honour roll for Indigenous Victorians. The Government will enable Reconciliation Victoria to continue promoting reconciliation between Indigenous and non-Indigenous Victorians through an allocation of $800 000 over four years. The provision of $2.2 million over four years will enable Indigenous governance training to continue to help Indigenous organisations meet statutory obligations and organisational challenges. The budget also provides funding to facilitate planning approvals on Aboriginal heritage issues. This will help increase the statutory capabilities of key Indigenous organisations so they can meet their requirements as Registered Aboriginal Parties under the Aboriginal Heritage Act 2006."
+                }
+            ], 
+            "parent_id": "9beebb6c-1706-43d3-b3d9-210ceae7bdd0", 
+            "type": "h3", 
+            "id": "03041864-4aa5-48cf-b541-0178a5ea3a76"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Supporting the local environment", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The budget supports communities to care for their local environment, through a comprehensive investment program to better manage Victoria's state and national parks, improve community health by promoting outdoor recreation, and better management of the State's water resources. The budget demonstrates the Government's commitment to Victoria's parks and lands by providing: \u2022 $31 million over four years to secure 65 park ranger positions in regional Victoria; \u2022 $20 million over four years in environment management grants for community groups; \u2022 $17 million over four years to manage weeds and pests on public land; \u2022 $12 million over four years for additional Landcare coordinators; and \u2022 $9.5 million over four years for beaches and foreshore management around Port Phillip Bay. Victorians need to be aware of the importance of using our environment in a sensible and sustainable way to preserve it for future generations. The Government encourages Victorians to engage with the environment in a sustainable way, preserving our lifestyle for future generations. The budget provides: \u2022 $50 million over four years to create an integrated water projects fund; \u2022 $40 million over four years for rebates to encourage households and small businesses to use water-efficient products; \u2022 $5 million over two years for rebates to encourage low income households to use energy-efficient appliances; \u2022 $5 million over two years to develop an accreditation program for small businesses which act sustainably; and \u2022 $1 million over two years to look into the feasibility of integrated water management in Ballarat. The Government will provide $21 million over four years to allow better enforcement capability of the Department of Primary Industries staff to ensure private property owners manage weeds and pests on private land."
+                }
+            ], 
+            "parent_id": "9beebb6c-1706-43d3-b3d9-210ceae7bdd0", 
+            "type": "h3", 
+            "id": "181ad086-0975-478f-adb5-d5d503ea1184"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Arts", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Victoria is widely recognised as the arts capital of Australia. To maintain this well-deserved status, the budget provides more than $45 million for a range of initiatives. The Government will expand community access to and participation in the arts through initiatives such as Regional Arts Transformation and the Victorian Sculpture Initiative. Through these programs, regional and rural communities across Victoria will have access to tours by large and small performing arts companies and be able to engage in the development of artistic works. The budget will provide $32 million to a range of Victorian arts institutions, including the Victorian College of the Arts, the State Library and the Melbourne Recital Centre. Additional funding for the Melbourne International Comedy Festival will ensure it remains one of Victoria's iconic major events. Support will also continue for the Melbourne Writers Festival. The Government will provide $600 000 over four years for the screen industry to boost ties with Bollywood by developing the Indian Film Festival. This funding includes establishing a training course in film making for school students. The budget will provide funding to establish an Independent Broad-based Anti-corruption Commission (IBAC). The IBAC will investigate, expose and prevent corruption across the entire public sector. It will also educate the public sector and the community about corruption and its harmful effects on public administration and the community. Any citizen will be able to make a complaint to the IBAC about corruption. The IBAC will have jurisdiction over all members of the Government, their staff, the judiciary, local government, members of Parliament and their staff, police and the public service. Its function will be to investigate allegations or complaints of corrupt conduct, including matters referred to it by either House of Parliament. The IBAC will also have a strong prevention and education function, and will take over the functions of the Office of Police Integrity. The IBAC is a key part of the Government's commitment to restore honest, transparent and accountable government in Victoria. The Government will provide $7.9 million to establish an independent Office of the Freedom of Information (FOI) Commissioner. Providing public access to government information is an important mechanism to enhance government accountability in a representative democracy. The Freedom of Information Act 1982 provides a key means by which the public may access documents held by government. However, there are a number of issues with the current FOI regime, including excessive and unreasonable delays, and limited assistance to FOI applicants pursuing documents of interest."
+                }
+            ], 
+            "parent_id": "9beebb6c-1706-43d3-b3d9-210ceae7bdd0", 
+            "type": "h3", 
+            "id": "d93ee437-5669-4af8-90cd-c574959abba1"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Integrity of government", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Government is determined to improve transparency and accountability across all its activities. To achieve this, it is funding a number of independently-administered initiatives. The Office of the FOI Commissioner will act as an independent body overseeing FOI governance, and increasing government accountability and transparency. The Commissioner will also be able to streamline FOI processes to facilitate greater community access and contribution to democratic processes. Funding will be provided to establish an independent government advertising review panel to improve public accountability, along with greater oversight and scrutiny of government advertising campaigns. As part of better managing State finances, the Government's reform agenda will focus on improving the efficiency and responsiveness of the government sector through a range of initiatives designed to cut costs and improve the quality of frontline government services for all Victorians. These initiatives include reducing ministerial office staff numbers and unnecessary government advertising and opinion polling, improving procurement processes, and consolidating back-office functions through shared services. If you would like to receive this publication in an accessible format please telephone 9651 0909 or email information@dtf.vic.gov.au. This document is also available in PDF at www.budget.vic.gov.au."
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h1", 
+            "id": "1baad98d-d1eb-419b-a8f4-a9f6b1620f32"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "2011-12 Victorian Budget Overview www.budget.vic.gov.au", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "1baad98d-d1eb-419b-a8f4-a9f6b1620f32", 
+            "type": "h3", 
+            "id": "99c4181c-be49-4996-bdbe-e32c8e64650d"
+        }
+    ], 
+    "metadata": [
+        {
+            "content": "2011-05-11", 
+            "name": "publicationdate"
+        }
+    ]
+}
