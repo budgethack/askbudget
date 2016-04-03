@@ -1,0 +1,1145 @@
+{
+    "source_document_id": "", 
+    "media_type_detected": "application/pdf", 
+    "timestamp": "2016-03-31T07:36:33.792Z", 
+    "warnings": [], 
+    "answer_units": [
+        {
+            "direction": "ltr", 
+            "title": "no-title", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "</head>"
+                }
+            ], 
+            "parent_id": "", 
+            "type": "body", 
+            "id": "b8ddbea7-75a9-4328-b6c2-7daa9f24b67c"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Budget Overview", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h2", 
+            "id": "8cd47f64-4b94-4283-938c-15f511dd0160"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Victorian Budget 2014|15 Building a Better Victoria", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Secretary Department of Treasury and Finance 1 Treasury Place Melbourne Victoria, 3002 Australia Telephone: +61 3 9651 5111 Facsimile: +61 3 9651 2062 Website: budget.vic.gov.au Authorised by the Victorian Government 1 Treasury Place, Melbourne, 3002 Printed by Impact Digital, Brunswick This publication makes reference to the 2014-15 Budget Paper set which includes: Budget Paper No. 1 - Treasurer's Speech Budget Paper No. 2 - Strategy and Outlook Budget Paper No. 3 - Service Delivery Budget Paper No. 4 - State Capital Program Budget Paper No. 5 - Statement of Finances (incorporating Quarterly Financial Report No. 3) ((c)) State of Victoria 2014 This work, 2014-15 Budget Overview , is licensed under a Creative Commons Attribution 3.0 Australia licence. You are free to re-use the work under that licence, on the condition that you credit the State of Victoria (Department of Treasury and Finance) as author and comply with the other licence terms. The licence does not apply to any images, photographs or branding, including the Victorian Coat of Arms, the Victorian Government logo and the Department of Treasury and Finance logo. Copyright queries may be directed to IPpolicy@dtf.vic.gov.au ISSN 1440-6969 Published May 2014 Printed on recycled paper"
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h1", 
+            "id": "d7ef7773-fe84-4a94-9f81-d45a6c6debad"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Contents", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "01 Budget at a glance 02 Strengthening Victoria's finances 03 Building a stronger Victorian economy 04 State-shaping infrastructure to build a better Victoria 05 State-shaping infrastructure to build a better Victoria - Rail 08 State-shaping infrastructure to build a better Victoria - Integrating road and rail 09 State-shaping infrastructure to build a better Victoria - Road 10 Victoria's infrastructure program 12 I nvesting in our future - Boosting skills, education and training 13 Strengthening health care and community services 14 Building a better regional Victoria 16 Building a safer Victoria"
+                }
+            ], 
+            "parent_id": "d7ef7773-fe84-4a94-9f81-d45a6c6debad", 
+            "type": "h2", 
+            "id": "15287a3b-0f26-4554-8233-2381712423eb"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "STRONG ECONOMY, STRONG SURPLUSES, MAJOR NEW JOB-CREATING INFRASTRUCTURE", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "d7ef7773-fe84-4a94-9f81-d45a6c6debad", 
+            "type": "h2", 
+            "id": "b3d06034-3d9a-455e-a7d0-d3b416634015"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "BUILDING A BETTER VICTORIA", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "d7ef7773-fe84-4a94-9f81-d45a6c6debad", 
+            "type": "h2", 
+            "id": "289b5157-d48a-4953-937f-397affe6d854"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "SCHOOLS", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "RECORD STATE-SHAPING INFRASTRUCTURE INVESTMENT TO BETTER INTEGRATE VICTORIA'S RAIL AND ROAD NETWORKS, AND SOCIAL INFRASTRUCTURE - MELBOURNE RAIL LINK - THE CRANBOURNE-PAKENHAM RAIL CORRIDOR PROJECT - EAST WEST LINK - WESTERN SECTION - NEW SCHOOLS AND UPGRADES OPERATING SURPLUS OF $1.3 BILLION IN 2014\u201115 GROWING TO $3.3 BILLION IN 2017\u201118 FUNDING MAJOR INFRASTRUCTURE PROJECTS NET DEBT OF 6.3 PER CENT OF GROSS STATE PRODUCT IN 2014\u201115 FALLING TO 4.5 PER CENT IN 2017-18 $1.4 BILLION IN NEW HEALTH SPENDING OVER FOUR YEARS"
+                }
+            ], 
+            "parent_id": "289b5157-d48a-4953-937f-397affe6d854", 
+            "type": "h3", 
+            "id": "27fb496d-b198-4e6b-b2bb-8497b4f617a8"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "DEBT", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h1", 
+            "id": "ed6faf3a-db42-4037-8322-97d951bea5cf"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "$2.8", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h1", 
+            "id": "afb5465c-b886-4afc-8e7a-f3169c29a879"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "BILLION", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "INITIATIVES AND GROWTH OVER FIVE YEARS FUNDING FOR VOCATIONAL EDUCATION AND TRAINING THAT HELPS WORKERS ADAPT TO CHANGES IN OUR ECONOMY MORE FRONTLINE SERVICES CONTRIBUTING TO THE COALITION GOVERNMENT'S COMMITMENT OF $5.4 BILLION OF ADDITIONAL INVESTMENT IN SCHOOL EDUCATION OVER SIX YEARS"
+                }
+            ], 
+            "parent_id": "afb5465c-b886-4afc-8e7a-f3169c29a879", 
+            "type": "h3", 
+            "id": "7878954d-18d7-4e80-937a-f1ca505efa2b"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "$1.2", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "BILLION PER YEAR"
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h1", 
+            "id": "59b4f34a-eef4-420e-9721-6400c098d50d"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "$27", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h1", 
+            "id": "574dc400-8319-4398-9a02-ecb9231e5c25"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "BILLION", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "UP TO"
+                }
+            ], 
+            "parent_id": "574dc400-8319-4398-9a02-ecb9231e5c25", 
+            "type": "h3", 
+            "id": "69809117-e178-4101-bb49-9577e08dd7c8"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "INFRASTRUCTURE", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "$1.2 BILLION INVESTMENT IN REGIONAL INFRASTRUCTURE, INCLUDING:"
+                }
+            ], 
+            "parent_id": "69809117-e178-4101-bb49-9577e08dd7c8", 
+            "type": "h4", 
+            "id": "0fd12cd3-7d3e-4174-bb13-366b9fff2d39"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "REDUCED TO", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "FROM 1 JULY 2014, TO BENEFIT 39 000 VICTORIAN EMPLOYERS"
+                }
+            ], 
+            "parent_id": "69809117-e178-4101-bb49-9577e08dd7c8", 
+            "type": "h4", 
+            "id": "a415e263-7dc0-43c9-96d4-8886619c83f6"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "PAYROLL TAX RATE", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "574dc400-8319-4398-9a02-ecb9231e5c25", 
+            "type": "h3", 
+            "id": "3a667aee-9d9a-4405-a59b-07a6e8e41943"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "MELBOURNE RAIL LINK", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "$ 28 $ 180- $ 220 $ 362 MILLION MILLION MILLION MILLION MILLION MILLION MILLION MILLION PRINCES HIGHWAY WEST DUPLICATION PROJECT MURRAY BASIN RAIL PROJECT $ 40 $ 15 $ 73 $ 73 $ 86 NEW INTERSECTION ON THE CALDER HIGHWAY AT RAVENSWOOD NEAR BENDIGO BARWON HEALTH-NORTH FACILITY SHEPPARTON COURTS PRECINCT BENDIGO AQUATIC CENTRE FREE WI-FI ON V/LINE TRAINS AND TO REMOVE MOBILE PHONE BLACKSPOTS LATROBE REGIONAL HOSPITAL REDEVELOPMENT"
+                }
+            ], 
+            "parent_id": "3a667aee-9d9a-4405-a59b-07a6e8e41943", 
+            "type": "h4", 
+            "id": "381698b4-abb3-4dcd-a60d-47a8da230440"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "4.85%", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h1", 
+            "id": "e729fd19-2914-4243-8b50-c0d355b0005f"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "JOBS AND TRAINING", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "e729fd19-2914-4243-8b50-c0d355b0005f", 
+            "type": "h3", 
+            "id": "b773301a-9f36-49af-aae0-86914dc50dd9"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "JOB-CREATING", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "e729fd19-2914-4243-8b50-c0d355b0005f", 
+            "type": "h3", 
+            "id": "0dbe5e82-d7e3-42b7-add6-01d9549dda5b"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "INFRASTRUCTURE", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "MELBOURNE RAIL LINK EAST WEST LINK - WESTERN SECTION CITYLINK - TULLA WIDENING 3 700 JOBS 700 JOBS 3 000 JOBS 30 MORE PEAK-HOUR SERVICES INCREASE NETWORK CAPACITY BY 30 PER CENT 3 NEW STATIONS 2014-15 Budget Overview 1"
+                }
+            ], 
+            "parent_id": "e729fd19-2914-4243-8b50-c0d355b0005f", 
+            "type": "h3", 
+            "id": "fad9a5b8-8f99-4b6b-a993-4557373ce570"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Budget at a glance", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "INCLUDING AIRPORT RAIL LINK $ 1.3 BILLION 2014-15 $ 3.0 BILLION 2015-16 BILLION 2017-18 $ 3.3 $ 3.2 BILLION 2016-17 Strong budget discipline over four consecutive budgets has allowed the Coalition Government to fund a record infrastructure program of up to $27 billion and deliver high-quality frontline services. The Coalition Government is continuing to responsibly manage net debt. Net debt is falling over the next four years as a percentage of gross state product, and net infrastructure spending is forecast to be fully funded by cash from operations from 2015-16. To maintain Victoria's triple-A credit rating, the strongest amongst the states, the Coalition Government has acted decisively to bring spending under control while growing frontline services. Victoria is the only state or territory to forecast surpluses for each of the next four years. In 2014\u201115, the Victorian economy is expected to grow by 2.5 per cent, rising to 2.75 per cent over the forecast period. Employment growth is expected to be near trend of 1.5 per cent, while the unemployment rate is expected to remain stable at 6.25 per cent, before gradually declining to 5.5 per cent over the forecast period.  20 01 -0 2 20 02 -0 3 20 03 -0 4 20 04 -0 5 20 05 -0 6 20 06 -0 7 20 07 -0 8 20 08 -0 9 20 09 -1 0 20 17 -1 8 20 16 -1 7 20 15 -1 6 BUDGET AND FORWARD ESTIMATES 20 14 -1 5 20 10 -1 1 3.6 2.7 2 4.0 2.1 20 13 -1 4 0.7 3.9 20 11 -1 2 20 12 -1 3 20 00 -0 1 10.5 5.9 6.8 5.9 6.4 9.4 12.6 AV ER A G EPE R CE N T EXPENSES GROWTH ( a ) 7.3 7.77.7 .8 3.1 per cent 2012-13 Actual 2013-14 Forecast 2014-15 Forecast 2015-16 Forecast 2016-17 Forecast 2017-18 Forecast Real gross state product 1.6 2.00 2.50 2.75 2.75 2.75 Employment 0.8 0.75 1.25 1.50 1.50 1.50 Unemployment rate 5.7 6.25 6.25 6.00 5.75 5.50 Consumer price index 2.2 2.75 2.25 2.50 2.50 2.50 Wage price index 3.3 2.75 3.25 3.50 3.50 3.50 Population 1.9 1.8 1.8 1.8 1.8 1.8 VICTORIA'S ECONOMIC FORECASTS P E R C E N T O F G SP (a) The expenses growth for 2013-14 excludes the impact of the revised AASB119 Employee Benefits . 2 2014-15 Budget Overview"
+                }
+            ], 
+            "parent_id": "e729fd19-2914-4243-8b50-c0d355b0005f", 
+            "type": "h2", 
+            "id": "7785af2f-10d8-4274-8417-b9152e97e8bf"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Strengthening Victoria's finances", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "\u2022 ACTION TO MAINTAIN VICTORIA'S TRIPLE-A CREDIT RATING \u2022 MANAGING FINANCES TO HELP FUND RECORD INFRASTRUCTURE FORECAST GROWTH IN SURPLUS NET DEBT FORECAST TO DECLINE 20 01 -0 2 20 02 -0 3 20 03 -0 4 20 04 -0 5 20 05 -0 6 20 06 -0 7 20 07 -0 8 20 08 -0 9 20 09 -1 0 20 17 -1 8 20 16 -1 7 20 15 -1 6 BUDGET AND FORWARD ESTIMATES 20 14 -1 5 20 10 -1 1 3.6 2.7 2 4.0 2.1 20 13 -1 4 0.7 3.9 20 11 -1 2 20 12 -1 3 20 00 -0 1 10.5 5.9 6.8 5.9 6.4 9.4 12.6 AV ER A G EPE R CE N T EXPENSES GROWTH ( a ) 7.3 7.77.7 B IL LI O N 3.0 3.2 3.3 1.3 0.9 20 14 -1 5 20 13 -1 4 20 15 -1 6 20 16 -1 7 20 17 -1 8 4.7 4.6 4.5 6.3 6.1 20 14 -1 5 20 13 -1 4 20 15 -1 6 20 16 -1 7 20 17 -1 8 The Coalition Government's record investment on transformational new infrastructure projects and funding for education and training will create new opportunities and jobs, and increase productivity and economic growth. Victoria has a diverse and flexible economy and is well positioned to take advantage of new and growing sectors to drive economic growth both domestically and internationally, including in: - food and fibre exports; - international education; - tourism; - financial and insurance services; and - freight and logistics. The agricultural industry is critical to regional Victoria, and the Coalition Government's $35 million Food and Agriculture into Asia will support emerging export opportunities created by the increasing demand from the growing consumer class in Asia."
+                }
+            ], 
+            "parent_id": "e729fd19-2914-4243-8b50-c0d355b0005f", 
+            "type": "h2", 
+            "id": "29a8d94a-e3c6-4730-be59-d389e9d9a9f6"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Building a stronger Victorian economy", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "2014-15 Budget Overview 3 \u2022 INVESTING IN INFRASTRUCTURE, TRAINING AND EDUCATION TO CREATE JOBS, INCREASE PRODUCTIVITY AND GROW THE ECONOMY STRONG AND DIVERSE GROWTH INDUSTRIES SOLID GROWTH IN GROSS STATE PRODUCT FOOD & FIBRE INTERNATIONAL EDUCATION TOURISM FINANCIAL & INSURANCE SERVICES FREIGHT & LOGISTICS"
+                }
+            ], 
+            "parent_id": "e729fd19-2914-4243-8b50-c0d355b0005f", 
+            "type": "h2", 
+            "id": "844ecb1a-08f1-46e0-bf1c-1c6dc3464a99"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "2.5%", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "IN 2014-15 UP FROM 2 PER CENT IN 2013-14 HIGHEST NET INTERSTATE MIGRATION IN 30 YEARS DECEMBER 2012 - SEPTEMBER 2013"
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h1", 
+            "id": "3a402319-a6cb-4311-aa97-35c1d1c0946c"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "A growing Victoria", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Victoria is one of the fastest-growing states with near record population growth at 1.8 per cent annually. This reflects Victoria's liveability driven by strong economic management and sound investment opportunities for business and industry. Overall, population growth is expected to remain high by historical standards, easing slightly from 1.9 per cent in 2012-13 to 1.8 per cent over the forecast period."
+                }
+            ], 
+            "parent_id": "3a402319-a6cb-4311-aa97-35c1d1c0946c", 
+            "type": "h3", 
+            "id": "f0536618-525f-4474-b7b5-1e308df67aff"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "902", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "3a402319-a6cb-4311-aa97-35c1d1c0946c", 
+            "type": "h2", 
+            "id": "38410283-4b58-42a9-8671-3ee76a4ffc28"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "TAS", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "38410283-4b58-42a9-8671-3ee76a4ffc28", 
+            "type": "h4", 
+            "id": "5d8cbee8-2ebd-4b2e-a5f8-8ee780b4c4b4"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "-601", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "3a402319-a6cb-4311-aa97-35c1d1c0946c", 
+            "type": "h2", 
+            "id": "7e92128d-16eb-4c9b-88bb-6c0c9af3dcf4"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "WA", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "7e92128d-16eb-4c9b-88bb-6c0c9af3dcf4", 
+            "type": "h4", 
+            "id": "c7a8e725-28af-4e65-b2b9-df35d0dfbbc3"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "1\u200a632", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "3a402319-a6cb-4311-aa97-35c1d1c0946c", 
+            "type": "h2", 
+            "id": "a76196f5-db50-4668-b193-3445f4493275"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "SA", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "a76196f5-db50-4668-b193-3445f4493275", 
+            "type": "h4", 
+            "id": "a28e82a5-f98f-4574-8f8f-d673b4e757cd"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "-363", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "3a402319-a6cb-4311-aa97-35c1d1c0946c", 
+            "type": "h2", 
+            "id": "d7400e96-4a76-4ea5-abfd-d07bd62796ff"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "NT", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "d7400e96-4a76-4ea5-abfd-d07bd62796ff", 
+            "type": "h4", 
+            "id": "1617b00c-9303-4b7f-8fa1-87fa54736132"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "796", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "3a402319-a6cb-4311-aa97-35c1d1c0946c", 
+            "type": "h2", 
+            "id": "21b14352-2491-455e-a0b8-5314dd778c0a"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "QLD", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "21b14352-2491-455e-a0b8-5314dd778c0a", 
+            "type": "h4", 
+            "id": "5deea6ed-d7e3-4ce3-a28b-765fc57069d6"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "3\u200a818", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "3a402319-a6cb-4311-aa97-35c1d1c0946c", 
+            "type": "h2", 
+            "id": "b52718ce-5447-4a9c-ae17-6e23dc2ea55c"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "NSW", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "b52718ce-5447-4a9c-ae17-6e23dc2ea55c", 
+            "type": "h4", 
+            "id": "b43f90ab-0abf-404d-a849-cc98dca47309"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "719", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "3a402319-a6cb-4311-aa97-35c1d1c0946c", 
+            "type": "h2", 
+            "id": "8d9570d9-6b29-4068-9db7-134af719bc3f"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "ACT", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "8d9570d9-6b29-4068-9db7-134af719bc3f", 
+            "type": "h4", 
+            "id": "ca6ff53e-de3d-4cef-9d43-642f23f5c609"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "NET 6 903 INCREASE IN VICTORIA'S POPULATION", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Coalition Government is delivering a program of job-creating major infrastructure projects that will transform Victoria. The Coalition Government's infrastructure program delivers planned and targeted initiatives that will build a better Victoria by improving liveability, creating new jobs and boosting the productivity of our local industries as they compete globally. In total, Victoria's transport infrastructure program of up to $24 billion of new projects will deliver jobs, from office-based engineering and design roles to onsite roadworks and building and construction jobs, plus the small businesses that support them. State-shaping projects across the rail, road and freight networks will dramatically change the way people, goods and services move right throughout Victoria. Transforming the way Victoria moves will grow the economy, create jobs, improve efficiency and the scale of freight and logistics, increase productivity and better link people, products and markets. $ $ \u2022 INCREASING TRANSPORT CAPACITY AND RELIABILITY \u2022 BOOSTING WORLD\u2011CLASS FREIGHT AND LOGISTICS \u2022 PROVIDING BETTER ACCESS TO SERVICES CHANGING THE WAY PEOPLE, GOODS AND SERVICES MOVE AND CONNECT THROUGHOUT VICTORIA FOR NEW TRANSPORT INFRASTRUCTURE PROJECTS $ 24"
+                }
+            ], 
+            "parent_id": "8d9570d9-6b29-4068-9db7-134af719bc3f", 
+            "type": "h3", 
+            "id": "cc9d9e7a-31ab-4f3a-87ee-ba089518f0b3"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "BILLION", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "3a402319-a6cb-4311-aa97-35c1d1c0946c", 
+            "type": "h2", 
+            "id": "a860f700-6dfd-4980-8816-2c406cd315bc"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "UP TO", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "a860f700-6dfd-4980-8816-2c406cd315bc", 
+            "type": "h3", 
+            "id": "d6825a80-53ad-4f01-b64f-27d7e47c0ce5"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Asset recycling opportunities", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Coalition Government will enter into a medium-term lease over the operations of the Port of Melbourne to create capacity on the State's balance sheet. The Commonwealth and Victorian Coalition Governments are working together to deliver significant projects for Victoria. Victoria stands to benefit from the Commonwealth's new asset recycling initiative, which aims to encourage and support States to divest existing assets such as ports and reinvest the proceeds in major new economic infrastructure. 4 2014-15 Budget Overview"
+                }
+            ], 
+            "parent_id": "a860f700-6dfd-4980-8816-2c406cd315bc", 
+            "type": "h3", 
+            "id": "56675ab9-0756-402f-a962-dcf1f6a82d86"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "State-shaping infrastructure to build a better Victoria", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "GOVERNMENT INFRASTRUCTURE INVESTMENT 20 01 -0 2 20 02 -0 3 20 03 -0 4 20 04 -0 5 20 05 -0 6 20 06 -0 7 20 07 -0 8 20 08 -0 9 20 09 -1 0 20 17 -1 8 20 16 -1 7 20 15 -1 6 20 14 -1 5 20 10 -1 1 5.4 5.4 5.2 20 13 -1 4 7.5 20 11 -1 2 20 12 -1 3 20 00 -0 1 3.1 3.3 1.6 2.0 2.2 AV ER A G E 2.7 5.3 B IL LI O N PORT OF MELBOURNE-ASSET RECYCLING 5.8 6.4 6.4 7.1 4.4 5.0 4.5 2014-15 Budget Overview 5"
+                }
+            ], 
+            "parent_id": "3a402319-a6cb-4311-aa97-35c1d1c0946c", 
+            "type": "h2", 
+            "id": "430fa386-0abe-429a-a4e3-1a767b05d3ac"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Rail Network", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Melbourne Rail Link The Melbourne Rail Link will transform our rail network and create 3\u2009700 jobs at its peak of construction. A new rail tunnel from South Yarra to Southern Cross Station will deliver 30 additional peak-hour services across the network. With the addition of new high-capacity trains, it will also increase capacity within the City Loop to upgrade services on other rail lines. Construction of a tunnel from South Yarra to Southern Cross Station will significantly increase transport capacity and reliability for Melbourne's growth areas, better connecting people to jobs. The Coalition Government will also commence construction on the Airport Rail Link. The Airport Rail Link will introduce a new electrified service running along dedicated tracks from a new station at Melbourne Airport to Albion in Melbourne's west, where it will join the existing rail network and run through to Southern Cross Station. The Airport Rail Link will cement Melbourne's status as a global city by providing a fast, frequent and reliable train service every 10 minutes during the day. The Melbourne Rail Link will deliver improvements to public transport services to support the continued growth of Melbourne's inner north and its expansion as a key economic cluster. This will include enhancing and re-aligning the tram network and improving bus services to the precinct. Detailed planning and project development is under way with early works commencing in mid-2016 and construction in mid-2017. The Coalition Government's record investment of up to $11 billion is delivering an integrated and modern rail network."
+                }
+            ], 
+            "parent_id": "430fa386-0abe-429a-a4e3-1a767b05d3ac", 
+            "type": "h3", 
+            "id": "a733a7e7-9237-4f67-a171-90fe19c2b774"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "State-shaping infrastructure to build a better Victoria - Rail", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Ro ya l P de Pu nt R d Ho dd le S t Victoria St St Kilda Rd King St Latro be St Domain Rd NORTH MELBOURNE RICHMOND SOUTH KENSINGTON SOUTH YARRA JOLIMONT FLINDERS STREET SOUTHERN CROSS TO SANDRINGHAM DOMAIN FISHERMANS BEND (MONTAGUE) West G ate Fw y CBDCi ty lin k Melbourne Rail Link Existing rail TO UPFIELD TO AIRPORT TO SOUTH MORANG/HURSTBRIDGE \u2022 MEETING GROWING POPULATION TRANSPORT NEEDS \u2022 EASING CONGESTION \u2022 IMPROVING TRAVEL TIMES \u2022 INCREASING RELIABILITY \u2022 CONNECTING PEOPLE TO JOBS MELBOURNE RAIL LINK INCLUDING AIRPORT RAIL LINK $ 8.5- $ 11"
+                }
+            ], 
+            "parent_id": "3a402319-a6cb-4311-aa97-35c1d1c0946c", 
+            "type": "h2", 
+            "id": "0da3241f-ab06-4697-8180-33d96b5f0a02"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "BILLION", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "\u2022 MELBOURNE AIRPORT \u2022 DOMAIN (UNDERGROUND) \u2022 FISHERMANS BEND/MONTAGUE (UNDERGROUND) NEW STATIONS TRAVEL TIME BETWEEN THE CBD AND MELBOURNE AIRPORT EXTRA CAPACITY 30 MORE PEAK-HOUR SERVICES INCREASE NETWORK CAPACITY BY 30 PER CENT 3 NEW STATIONS"
+                }
+            ], 
+            "parent_id": "0da3241f-ab06-4697-8180-33d96b5f0a02", 
+            "type": "h3", 
+            "id": "42712e3c-8264-4d70-978e-d69fb08ce9e1"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "3 700 JOBS", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "MINUTES"
+                }
+            ], 
+            "parent_id": "0da3241f-ab06-4697-8180-33d96b5f0a02", 
+            "type": "h3", 
+            "id": "dfa82eef-9f40-4f94-a200-c40847b4a615"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "25", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "AT THE PEAK OF CONSTRUCTION 6 2014-15 Budget Overview BELGRAVE GLEN WAVERLEY TO SUNBURY TO CRAIGIEBURN TO UPFIELD WILLIAMSTOWN Regional Rail Link (under construction) Existing Rail Level Crossings removals completed Level Crossings removals underway Level Crossings removals planned Grade separations being delivered as part of the Regional Rail Link project SANDRINGHAM TO PAKENHAM TO CRANBOURNE Springvale Rd Corrigan Rd Heatherton Rd Chandler Rd MELTON LILYDALE TO SOUTH MORANG TO HURSTBRIDGE WERRIBEE ALAMEIN PORT OF MELBOURNE Mi tch am Rd Mountain Rd Scoresby Rd Clayton Rd Centre Rd Poath Rd North Rd Ro ok s R d Bla ckb urn Rd Main Rd Anderson Rd NorthAnderson Rd South Grange Rd Koornang Rd Murrumbeena Rd Burke Rd Deer Park Bypass Da vi s Rd Tarneit Rd Christies Rd Greens Rd Ballan Rd Leakes Rd Derrimut Rd Bulban Rd Manor Lakes Bvd Dohertys Rd Black Forrest Rd Boundary Rd Cranbourne-Pakenham Rail Corridor project The $2-$2.5 billion Cranbourne-Pakenham Rail Corridor project will significantly improve rail services for one in every 10 Melburnians. This project will: - boost services by 30 per cent on Melbourne's busiest suburban line; - provide 25 next-generation, high-capacity trains that, combined with additional services, will provide room for an additional 4\u2009500 passengers in the peak hour; - deliver two additional services in the peak hour; - install high-capacity signalling enabling more trains to run more reliably; - remove four congested level crossings at: > Murrumbeena Road, Murrumbeena; > Koornang Road, Carnegie; > Clayton Road, Clayton; and > Centre Road, Clayton. - plan for the removal of an additional five level crossings at: > Corrigan, Heatherton and Chandler roads, Noble Park; > Grange Road, Carnegie; and > Poath Road, Murrumbeena. - rebuild stations at Clayton, Carnegie and Murrumbeena; and - build a new depot. V/Line Gippsland commuters will also benefit from a more reliable journey through the metropolitan area. Removing level crossings The Coalition Government has now allocated planning and/or construction funding for 40 level crossing removals and grade separations - the largest such program on record. The program has already removed level crossings at: - Mitcham Road, Mitcham; - Rooks Road, Mitcham; - Springvale Road, Springvale; and - Anderson Road South, Sunshine as part of the Regional Rail Link project, with the Anderson Road North level crossing removal close to completion. Planning and early works were funded in the 2013-14 Budget for the removal of level crossings at Mountain Highway and Scoresby Road, Bayswater. CRANBOURNE-PAKENHAM RAIL CORRIDOR PROJECT \u2022 EASING CONGESTION AND IMPROVING SAFETY OF THE TRANSPORT NETWORK \u2022 1 IN 10 MELBURNIANS TO BENEFIT FROM IMPROVED SERVICES \u2022 GIPPSLAND V/LINE SERVICES TO BENEFIT FROM IMPROVED RELIABILITY REMOVING FOUR MORE LEVEL CROSSINGS BRINGING TOTAL INVESTMENT IN THE 2014-15 BUDGET TO MORE THAN $1 BILLION $ 2- $ 2.5 BILLION MILLION"
+                }
+            ], 
+            "parent_id": "0da3241f-ab06-4697-8180-33d96b5f0a02", 
+            "type": "h3", 
+            "id": "dce5df64-3740-47bb-8e29-6a0c8c70503f"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "$685", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h1", 
+            "id": "070918e8-07d3-40fe-8d63-a4a02980f2de"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "30%", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "BOOST TO SERVICES OVER FOUR YEARS 2014-15 Budget Overview 7 The 2014-15 Budget invests $685 million to remove four level crossings, supporting around 1 000 jobs during the peak of construction. These level crossings are at: - Main Road, St Albans (as part of the Regional Rail Link project); - Blackburn Road, Blackburn; - North Road, Ormond; and - Burke Road, Glen Iris. The Coalition Government has now funded removal of eight of the 10 level crossings identified as priorities in its Metro Level Crossing Blitz election commitment. The 2014-15 Budget provides an additional $21 million to plan for the next seven priority level crossing removal projects. Murray Basin Rail Project The Murray Basin Rail Project will commit up to $220 million over four years to undertake major country rail freight upgrades and standardise the key Mildura to Geelong rail link. The first stage of the Murray Basin Rail Project will undertake immediate MURRAY BASIN RAIL PROJECT MORE AFFORDABLE PUBLIC TRANSPORT City Loop upgrade The Coalition Government will invest $44 million to upgrade fire and emergency equipment within the City Loop. Upgrades will include water hydrants, emergency lighting, fire detection systems, and improvements to automation for power shutdown, escalators and platform announcements. More affordable public transport The Coalition Government is helping to ease cost of living pressures by: - providing free tram travel in Melbourne's CBD and Docklands; - enabling bus, train and tram commuters to travel in Zones 1 and 2 for the price of a Zone 1 fare; - enabling full-fare commuters who currently buy a Zone 1 and 2 fare to save about $5 per day, equating to savings of around $1\u2009200 each year, and commuters who currently use an annual myki pass to save more than $750; - allowing commuters who currently travel in Zone 2 only, to benefit from Zone 2 fares remaining at their lower rate; and - easing daily traffic congestion in the suburbs. upgrades on the Mildura to Maryborough and Murtoa to Hopetoun rail lines, and finalise the business case for the Mildura to Geelong standardisation. The final cost and alignment of the Mildura to Geelong rail standardisation will be guided by the final business case to be delivered before the end of 2014. Regional Rail Link Construction of the Regional Rail Link is currently ahead of schedule. The first service to use this new rail line is expected to start by mid-2015, and the St Albans level crossing removal is due to be completed in 2017. The project created around 3 600 jobs at the peak of construction. Through dedicated regional tracks from West Werribee Junction to Southern Cross Station, this landmark project will remove major bottlenecks in Victoria's rail network. V/Line commuters from Ballarat, Bendigo and Geelong will see improved travel times and reliability by separating the regional and metro rail network. COMMUTER SAVINGS ON RAIL TRAVEL BENEFITS TO REGIONAL INDUSTRY $ 180- $ 220"
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h1", 
+            "id": "c84c2619-8627-4c38-9a1e-2bb72422b23a"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "MILLION", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "$ 5 PER DAY MAKING PUBLIC TRANSPORT MORE AFFORDABLE FOR CBD AND DOCKLANDS FREE TRAM TRAVEL"
+                }
+            ], 
+            "parent_id": "c84c2619-8627-4c38-9a1e-2bb72422b23a", 
+            "type": "h4", 
+            "id": "f6b7e7d2-aa16-4150-bf0e-12987d4d82fe"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "300", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "JOBS AT PEAK OF CONSTRUCTION FOR ZONE 1 & 2 TRAVELLERS MURRAY BASIN RAIL PROJECT $ 180- $ 220 MILLION UPGRADE"
+                }
+            ], 
+            "parent_id": "c84c2619-8627-4c38-9a1e-2bb72422b23a", 
+            "type": "h3", 
+            "id": "539215e3-c9c5-4ca0-967d-0dd44438cdef"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "SAVING", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "8 2014-15 Budget Overview Nepean Hwy Pu nt R d Toorak Rd East West Link Victoria St PORT PHILLIP Prin ces Hw y Bell St English St Sy dn ey R d Metro Ring Rd Hu m e Fw y TO SOUTH MORANG TO HURSTBRIDGE MELBOURNE RAIL LINK - Construction from mid-2016 - $8.5-$11 billion - 3 700 jobs created during the peak of construction EAST WEST L INK - EASTERN SECTION - Construction from late\u20112014 - $6-$8 billion - 3 200 jobs created during the peak of construction EAST WEST L INK - WESTERN SECTION - Construction from late-2015 - $8-$10 billion - 3 000 jobs created during the peak of construction CITYLINK - TULLA WIDENING - Construction from early-2015 - up to $850 million - 700 jobs created during the peak of construction CRA NBOURNE-PAKENHAM RAIL CORRIDOR PROJECT - Construction from early-2015 - $2-$2.5 billion Calder Fwy Tullamarine Fwy Ci ty Li nk Ballarat Rd W es ter n R ing Rd Western Ring Rd Melbourne Airport WILLIAMSTOWN AIRPORT UPFIELD TO CRAIGIEBURN TO SUNBURY TO MELTON TO WERRIBEE TO SANDRINGHAM TO GLEN WAVERLEY TO BELGRAVE LILYDALE TO CRANBOURNE/ PAKENHAM TO FRANKSTON East West Link - Eastern Section East West Link - Western Section Melbourne Rail Link Existing rail CityLink - Tulla widening Cranbourne-Pakenham Rail Corridor project DOMAIN FISHERMANS BEND (MONTAGUE) SOUTH YARRA N"
+                }
+            ], 
+            "parent_id": "539215e3-c9c5-4ca0-967d-0dd44438cdef", 
+            "type": "h4", 
+            "id": "65239292-4fee-4131-9802-0ec12914b23e"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "State-shaping infrastructure to build a better Victoria - Integrating road and rail", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Nepean Hwy Pu nt R d Toorak Rd East West Link Victoria St PORT PHILLIP Prin ces Hw y Bell St English St Sy dn ey R d Metro Ring Rd Hu m e Fw y TO SOUTH MORANG TO HURSTBRIDGE MELBOURNE RAIL LINK - Construction from mid-2016 - $8.5-$11 billion - 3 700 jobs created during the peak of construction EAST WEST L INK - EASTERN SECTION - Construction from late\u20112014 - $6-$8 billion - 3 200 jobs created during the peak of construction EAST WEST L INK - WESTERN SECTION - Construction from late-2015 - $8-$10 billion - 3 000 jobs created during the peak of construction CITYLINK - TULLA WIDENING - Construction from early-2015 - up to $850 million - 700 jobs created during the peak of construction CRA NBOURNE-PAKENHAM RAIL CORRIDOR PROJECT - Construction from early-2015 - $2-$2.5 billion Calder Fwy Tullamarine Fwy Ci ty Li nk Ballarat Rd W es ter n R ing Rd Western Ring Rd Melbourne Airport WILLIAMSTOWN AIRPORT UPFIELD TO CRAIGIEBURN TO SUNBURY TO MELTON TO WERRIBEE TO SANDRINGHAM TO GLEN WAVERLEY TO BELGRAVE LILYDALE TO CRANBOURNE/ PAKENHAM TO FRANKSTON East West Link - Eastern Section East West Link - Western Section Melbourne Rail Link Existing rail CityLink - Tulla widening Cranbourne-Pakenham Rail Corridor project DOMAIN FISHERMANS BEND (MONTAGUE) SOUTH YARRA N East West Link - completing the Western Section The Coalition Government will complete the East West Link to relieve chronic traffic congestion in Melbourne's inner north and west, unlocking the western suburbs growth corridor. Commuters from Victoria's regional centres in Geelong and Ballarat will benefit from a reduced reliance on the West Gate Freeway. The reliability of Victoria's transport network will be improved by a much-needed alternate route to the current river crossing. Tendering for the Eastern Section is already under way with works expected to commence in late 2014. The Western Section, delivering the much needed alternate route to the West Gate Bridge, will commence construction in late 2015, creating 3\u2009000 jobs at the peak of construction. CityLink - Tulla widening Up to $850 million will be invested in partnership with the private sector to widen the Western Section of Melbourne's integral CityLink network. This project will create around 700 jobs during the peak of construction. This project will complement the Airport Rail Link with new lanes and improved operations, getting people and goods from the CBD and the Port of Melbourne to the airport faster, as well as supporting Victoria's growing tourism sector. A minimum of one extra lane will be added to each side of the freeway, as well as an additional lane for traffic heading inbound from the Tullamarine Freeway, just north of English Street, to the Bolte Bridge."
+                }
+            ], 
+            "parent_id": "c84c2619-8627-4c38-9a1e-2bb72422b23a", 
+            "type": "h2", 
+            "id": "6eb006ae-7d16-431e-9cf8-356677657fc7"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "State-shaping infrastructure to build a better Victoria - Road", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "\u2022 EASING CONGESTION \u2022 BENEFITING REGIONAL AND URBAN COMMUTERS \u2022 SECURING THE FREIGHT TRANSPORT NETWORK \u2022 INCREASING PRODUCTIVITY EAST WEST LINK - WESTERN SECTION CITYLINK - TULLA WIDENING PRINCES HIGHWAY WEST DUPLICATION PROJECT DURING THE PEAK OF CONSTRUCTION TO DUPLICATE 37 KM OF HIGHWAY BETWEEN WINCHELSEA AND COLAC 700 JOBS CREATED"
+                }
+            ], 
+            "parent_id": "c84c2619-8627-4c38-9a1e-2bb72422b23a", 
+            "type": "h2", 
+            "id": "9b720526-38de-4d4b-8b63-22a759522360"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "$8-$10", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h1", 
+            "id": "23803116-0a9f-4911-9506-bb5981ddd766"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "BILLION", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "$ 362 MILLION The Princes Highway West duplication project - Winchelsea to Colac The Princes Highway is the key east-west route in south-western Victoria, and the Coalition Government will provide $362 million to duplicate 37 kilometres of highway between Winchelsea and Colac. This will support around 250 jobs during the peak of construction. In addition, $11 million has been allocated to deliver three new overtaking lanes on Gippsland's Princes Highway East between Nowa Nowa and Orbost, and $32 million will be provided to upgrade the Sand Road and Princes Highway intersection. The Commonwealth Government is contributing $209 million to these projects. Enhancing Victoria's roads The Coalition Government is investing in road infrastructure in metropolitan Melbourne and regional Victoria to improve overall road safety and access, and ease congestion. In 2014\u201115, the Coalition Government will provide an additional $370 million to maintain, restore and improve other parts of our road network. This includes new funding of $50 million for capital restoration works and an extra $80 million for road maintenance and resealing. COMPLETE WESTERN SECTION 2014-15 Budget Overview 9 AT THE PEAK OF CONSTRUCTION"
+                }
+            ], 
+            "parent_id": "23803116-0a9f-4911-9506-bb5981ddd766", 
+            "type": "h3", 
+            "id": "c4ee28f7-fb2a-438d-80f5-12667c8b5d3f"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "3\u200a000", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h1", 
+            "id": "9374b5b0-344a-47f9-9c6d-c6e1d21962b2"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "JOBS", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "EAST WEST LINK - WESTERN SECTION JOBS East West Link - Eastern Section East West Link - Western Section Melbourne Rail Link Cranbourne-Pakenham Rail Corridor CityLink - Tulla widening Monash Children's Hospital Box Hill Hospital Royal Victorian Eye and Ear Hospital New Bendigo Hospital Victorian Comprehensive Cancer Centre Murray Basin Rail Project Regional Rail Link Latrobe Regional Hospital Additional prison capacity 12 new schools"
+                }
+            ], 
+            "parent_id": "9374b5b0-344a-47f9-9c6d-c6e1d21962b2", 
+            "type": "h4", 
+            "id": "61fc99f8-3bb7-4c0f-a379-66ecbe292dea"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Victoria's infrastructure program", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "2011 2012 2013 2014 2015 2016 late 2014 2015 2015 mid 2014 mid 2014 late 2015 mid 2014 late 2013 late 2012 2013 mid 2012 2011 mid 2012 2011 10 2014-15 Budget Overview Procurement and project delivery Project already under way Construction expected to commence 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026 mid 2016 2014-15 Budget Overview 11"
+                }
+            ], 
+            "parent_id": "9374b5b0-344a-47f9-9c6d-c6e1d21962b2", 
+            "type": "h2", 
+            "id": "4856d6fa-dd5c-40c1-b027-85d327617fb8"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Investing in the skills that lead to jobs", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Funding for skills amounts to $1.2 billion per year. The Coalition Government is also investing $30 million in training for automotive workers. Investing in vocational education and training will boost Victoria's workforce capability and assist workers to transition into new and growing industry sectors. Victoria is enabling the higher qualifications required by modern industries, and achieving this faster than the rest of Australia. With the Coalition Government's support, workers seeking to upgrade their skills will have more opportunities to secure jobs in the growth sectors of Victoria's economy."
+                }
+            ], 
+            "parent_id": "4856d6fa-dd5c-40c1-b027-85d327617fb8", 
+            "type": "h3", 
+            "id": "ff058bbc-79ef-46b9-917d-2a140bd1b0a5"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Record investment in our schools for the future", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Coalition Government is investing an additional $5.4 billion for schools to deliver high-quality education over six years. In the 2014-15 Budget , the Coalition Government will deliver $1.6 billion over five years (including an initial contribution from the Commonwealth) for initiatives and enrolment funding, together with State funding growth of $1.2 billion. The bulk of this funding is provided directly to government and non-government schools, which are best placed to ensure resources are allocated where they are most needed for their school community. Additional funding will be provided in future budgets to deliver on the full six year commitment. The Coalition Government's schools package supports students, investing: - $564 million for schools to raise performance with targeted funding for disadvantaged students; - $273 million for more resources for students with disabilities; - $32 million for bus services to transport students with disabilities; and - $691 million for increased enrolment demand from Victoria's population growth. In addition, the Coalition Government will provide $500 million to build and upgrade government school facilities, including: - 12 new schools, of which three schools will be built in regional Victoria; and - $271 million for school upgrades and improvements. The private sector will be invited to deliver components of the school capital program under a public-private partnership arrangement. 12 2014-15 Budget Overview"
+                }
+            ], 
+            "parent_id": "4856d6fa-dd5c-40c1-b027-85d327617fb8", 
+            "type": "h3", 
+            "id": "d9a472ef-f4e1-4a78-b302-7afa5e597c00"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Investing in our future - Boosting skills, education and training", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "\u2022 RESKILLING WORKERS TO TRANSITION INTO NEW AND GROWING INDUSTRY SECTORS \u2022 MAJOR INVESTMENT IN SCHOOLS \u2022 FURTHER SUPPORT FOR STUDENTS WITH DISABILITIES 2013 2012 2011 2010 90\u200a300 154\u200a300 79\u200a500 151\u200a800 71\u200a100 127\u200a600 64\u200a200 105\u200a300 IN-SHORTAGE SPECIALISED INCREASE IN GOVERNMENT-SUBSIDISED ENROLMENTS IN SPECIALISED AND IN-SHORTAGE OCCUPATIONS MAJOR COMMITMENT IN SCHOOLS FOR THE FUTURE SIGNIFICANT VOCATIONAL EDUCATION AND TRAINING FUNDING"
+                }
+            ], 
+            "parent_id": "9374b5b0-344a-47f9-9c6d-c6e1d21962b2", 
+            "type": "h2", 
+            "id": "eef3832b-dad5-4ced-9404-0e6530769871"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "BILLION BILLION", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "eef3832b-dad5-4ced-9404-0e6530769871", 
+            "type": "h3", 
+            "id": "8cf68e7d-4953-449f-b0db-7471181298c9"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "$2.8 $1.2", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "INITIATIVES AND GROWTH OVER FIVE YEARS PER YEAR RECEIVE UPGRADES AND WORKS MORE THAN"
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h1", 
+            "id": "243be5de-b4c5-4534-8610-87a7f552fe53"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "12 70", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "NEW SCHOOLS SCHOOLS To support a growing population and increased demand for services, the Coalition Government has a clear plan to provide quality health care for all Victorians. Improving patient access to health services is fundamental to Victorians' quality of life. The 2014-15 Budget delivers an additional $1.4 billion over four years to support hospitals, including $60 million to boost health service capacity in 2014-15 over the winter peak. This is in addition to the record investment in 2013\u201114 of $1.8 billion over four years to Victoria's hospitals and health system. The Coalition Government's investment includes an additional $156 million over four years to better support Victorians with a mental illness or drug and alcohol addiction. The Coalition Government will spend $73 million on the Latrobe Regional Hospital redevelopment. In addition, $28 million will be provided to develop the new Barwon Health-North Facility,"
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h1", 
+            "id": "dac35621-dc44-4abb-9841-7c5a6e01924c"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Strengthening health care and community services", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "and $14 million for the Boort Hospital redevelopment, which will include a new 32 bed facility. These investments will provide a range of essential services to growing regional communities. In the past four years the Coalition Government has invested billions of dollars in health infrastructure programs that includes: - the $1 billion Victorian Comprehensive Cancer Centre; - the $630 million Bendigo Hospital; - $448 million for the Box Hill Hospital redevelopment; - $250 million for the Monash Children's Hospital; - $55 million for the Peter Doherty Institute; - $165 million for the redevelopment of the Royal Victorian Eye and Ear Hospital; - $81 million for the Frankston Hospital in-patient expansion, emergency department and sub-acute beds; - $98 million for the Geelong Hospital major upgrade and sub-acute beds; - $14 million for the new Melton Community Health Centre (including $5 million funded through the Growth Areas Infrastructure Contribution); - $9 million for the Austin Short Stay Unit expansion; and - $5 million for the expansion of the Healesville Hospital. The Coalition Government is investing $200 million over four years to support Victorians with a serious disability to make choices about the services that best suit their needs. Investment in disability services in 2014-15 is now $300 million more than when the Coalition came to government. The Coalition Government has also made a significant contribution to establish the National Disability Insurance Scheme. Victoria has a leading role in trialling the NDIS in the Barwon area and the national headquarters will be located in Geelong, creating 300 jobs in the region. The Coalition Government will continue to support a new National Partnership Agreement on Homelessness over the next four years. This Agreement will support vulnerable Victorians who are homeless or at risk of homelessness, including rough sleepers, people with a mental illness, women with children experiencing family violence, and young people who have experienced family breakdown. 2014-15 Budget Overview 13 HEALTH SERVICES MENTAL HEALTH AND DRUG SERVICES SUPPORT FOR PEOPLE WITH A DISABILITY \u2022 QUALITY SERVICES TO MEET DEMANDS OF A GROWING POPULATION \u2022 SUPPORT FOR GROWING REGIONAL COMMUNITIES BOOST TO HEALTH OVER FOUR YEARS TO BOOST ELECTIVE SURGERY OVER FOUR YEARS OVER FOUR YEARS OVER FOUR YEARS"
+                }
+            ], 
+            "parent_id": "dac35621-dc44-4abb-9841-7c5a6e01924c", 
+            "type": "h2", 
+            "id": "828ea335-de69-44ae-a68a-06cf1b41fab1"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "BILLION MILLION", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "828ea335-de69-44ae-a68a-06cf1b41fab1", 
+            "type": "h4", 
+            "id": "3725a493-7a3d-464a-957f-ed0406d43e1d"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "$156", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h1", 
+            "id": "d1928cfc-98ea-4bb1-8519-7180201a77d2"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "MILLION", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "d1928cfc-98ea-4bb1-8519-7180201a77d2", 
+            "type": "h4", 
+            "id": "5afe14f6-5ecf-4427-8c3b-3df7fb89b36c"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "$200", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h1", 
+            "id": "eb865480-665f-45a9-b8ec-a2f16d977924"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "MILLION", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "MORE HEALTH PROFESSIONALS 2014-15 BETWEEN 30 JUNE 2010-2013 $ 15"
+                }
+            ], 
+            "parent_id": "eb865480-665f-45a9-b8ec-a2f16d977924", 
+            "type": "h4", 
+            "id": "4df5f1f7-e532-470c-8d72-69f3f513755c"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "BILLION", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "HEALTH SYSTEM FUNDING"
+                }
+            ], 
+            "parent_id": "eb865480-665f-45a9-b8ec-a2f16d977924", 
+            "type": "h4", 
+            "id": "db1a06e7-ab13-4a5e-804a-557dd2a3a63b"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "$1.4 $190", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "961 1 748 856 MORE DOCTORS MORE NURSES MORE ALLIED HEALTH PROFESSIONALS"
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h1", 
+            "id": "7f901395-f403-459b-b73c-39b4279c5cf7"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Building a better regional Victoria", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "14 2014-15 Budget Overview BARWON AREA National Disability Insurance Scheme trial in Barwon area, and NDIS national headquarters in Geelong. PIONEER ROAD, WAURN PONDS DUPLICATION $13 million to duplicate Pioneer Road from Waurn Ponds shopping centre to Meadowvale Drive. BOORT HOSPITAL $14 million for redevelopment, including a new 32 bed facility. EMERGENCY SERVICES PRECINCT $8 million for a new police station and new emergency services precinct at Ballarat West. EMPLOYMENT ZONE $30 million for a Ballarat West Employment Zone. BALLARAT HIGH SCHOOL $7.8 million upgrade. MURRAY BASIN RAIL PROJECT $180-$220 million to upgrade and standardise country rail freight lines in western Victoria. PRINCES HIGHWAY WEST DUPLICATION $362 million to duplicate 37 kilometres between Winchelsea and Colac. GREAT OCEAN ROAD UPGRADE $50 million to enhance the road and bridges from Torquay to Allansford, east of Warrnambool. CALDER HIGHWAY REDEVELOPMENT $86 million to rebuild the interchange at Ravenswood. ECHUCA POLICE STATION $14 million replacement. EAGLEHAWK PRIMARY SCHOOL $1.6 million upgrade. BENDIGO AQUATIC CENTRE $15 million contribution for a new pool facility. 2014-15 Budget Overview 15 SHEPPARTON COURTS $73 million for the Shepparton courts precinct development. WODONGA WEST PRIMARY SCHOOL $3.8 million upgrade. YARRAWONGA COLLEGE $7.6 million upgrade. LATROBE REGIONAL HOSPITAL $73 million redevelopment. INITIATIVES TO SUPPORT REGIONAL VICTORIA $13 million to improve tourism in national parks, state forests and on public land. More than $730 million in total to maintain, restore and improve Victoria's regional road networks. $13 million for Tasers for all 24-hour regional police stations. $35 million for Food and Agriculture into Asia. $2 million to improve wild dog control. $4 million for a coal development strategy to maximise market opportunities and economic benefits to the state. $9 million to provide planning support for regional councils to ensure investment opportunities are maximised. $3 million to provide support for regional councils to assess infrastructure demand, develop business cases and manage projects. $29 million for 78 vehicles for Country Fire Authority brigades across Victoria. $24 million for a Bushfire and Hazelwood Mine Fire Recovery Package. STATEWIDE Over $1.2 billion a year for vocational education and training funding. $2.8 billion for school intiatives and growth over five years. $500 million for school infrastructure funding including upgrades and 12 new schools. $447 million to increase prison capacity across Victoria. WI-FI AND REMOVING MOBILE PHONE BLACKSPOTS $40 million to deliver free Wi-Fi on V/Line trains and removing mobile phone blackspots. EAST WEST LINK $6-$8 billion to build the Eastern Section, and $8-$10 billion to build the Western Section, providing an alternative route to the West Gate Bridge for commuters from Ballarat to Geelong. CRANBOURNE-PAKENHAM RAIL CORRIDOR PROJECT $2-$2.5 billion. This program will deliver benefits for V/Line Gippsland commuters for a more reliable journey through metropolitan areas. PRINCES HIGHWAY EAST $11 million for three new overtaking lanes on Princes Highway East between Nowa Nowa and Orbost. REGIONAL RAIL LINK $4.1 billion to build dedicated regional tracks from West Werribee to Southern Cross Station, removing major bottlenecks in Victoria's rail network. BARWON HEALTH-NORTH FACILITY $28 million to provide an urgent care centre and co-location of GP services. NEW REGIONAL SCHOOLS $210 million statewide to build new schools, including North Geelong Special Developmental School and Torquay North P-6, and re-locating the existing Bannockburn Primary School."
+                }
+            ], 
+            "parent_id": "7f901395-f403-459b-b73c-39b4279c5cf7", 
+            "type": "h2", 
+            "id": "7e0f055a-3dcb-4b15-9a6a-81b6a42dda2f"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Building a safer Victoria", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Building a safer Victoria remains a key priority for the Coalition Government. The 2014-15 Budget builds on the comprehensive package provided over the past three years to ensure Victorians are safer."
+                }
+            ], 
+            "parent_id": "7f901395-f403-459b-b73c-39b4279c5cf7", 
+            "type": "h2", 
+            "id": "14bc6c08-32fb-4262-8529-15992da779e9"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Increasing prison capacity", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "In 2014\u201115, the Coalition Government will invest $447 million to expand Victoria's prison capacity, supporting important sentencing and parole reforms. The Coalition Government's commitments will employ an additional 110 ongoing prison jobs across Victoria. Since the start of 2011, more than 1\u2009200 new beds have been opened with more than 2\u2009900 in the pipeline. These include the new 1\u2009000 bed medium-security prison in Ravenhall, which will support around 650 jobs at the peak of construction, and a new 40 bed unit at Barwon Prison. The 2014-15 Budget increases prison capacity by 871 beds, and provides new units, relocatable units and infrastructure upgrades across the prison system, including at Dame Phyllis Frost Centre, Beechworth Correctional Centre and Langi Kal Kal Prison."
+                }
+            ], 
+            "parent_id": "14bc6c08-32fb-4262-8529-15992da779e9", 
+            "type": "h3", 
+            "id": "f215ae76-fc7f-43c1-b16a-44fcb59f57c0"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Building and upgrading Victoria's police stations", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Coalition Government is completing the largest recruitment in Victoria Police's history with 1\u2009700 additional police officers and 940 Protective Services Officers. The 2014-15 Budget delivers $13 million for taser equipment for 24 hour police units in regional Victoria, and $12 million to re-locate the Victoria Police Mounted Branch from South Melbourne to redeveloped stables in Attwood. Building on previous commitments to build and refurbish 11 police stations, $33 million is being invested in: - a new Echuca Police Station; - the St Kilda Road Station replacement; and - a new police station and emergency services precinct at Ballarat West. TOTAL FUNDING IN 2014-15 FROM 2013-14 FROM 2013-14 TOTAL FUNDING IN 2014-15 $ 457 $ 326 MILLION MILLION 2.5% 3.1% INCREASE INCREASE COUNTRY FIRE AUTHORITY METROPOLITAN FIRE BRIGADE SUPPORTING TOUGHER SENTENCING AND PAROLE LAWS COUNTRY FIRE AUTHORITY INVESTMENT"
+                }
+            ], 
+            "parent_id": "14bc6c08-32fb-4262-8529-15992da779e9", 
+            "type": "h3", 
+            "id": "459ac2f8-2666-499a-b514-8aa7106a070c"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "78", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h1", 
+            "id": "20c67be4-89e2-4d87-beac-498d8e387e3c"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "NEW VEHICLES", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "This is in addition to the Coalition Government's previous commitments of $56 million to upgrade more than 100 police stations."
+                }
+            ], 
+            "parent_id": "20c67be4-89e2-4d87-beac-498d8e387e3c", 
+            "type": "h4", 
+            "id": "6c006912-9c5a-4ba2-b486-d37a4cce7a74"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Fire services", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Since 2011\u201112, the Coalition Government has invested more than $3.1 billion in Victoria's fire services. In 2014\u201115, a $783 million investment in fire services will: - increase the Country Fire Authority's budget by 2.5 per cent; - increase the Metropolitan Fire Brigade's budget by 3.1 per cent; - purchase 78 new vehicles for Country Fire Authority brigades across the State; and - replace all existing respiratory protection equipment to support fire engagement and improve occupational health and safety for firefighters. NEW POLICE STATIONS"
+                }
+            ], 
+            "parent_id": "20c67be4-89e2-4d87-beac-498d8e387e3c", 
+            "type": "h3", 
+            "id": "3b9cfb9b-99cb-48e4-909f-63d576038999"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "$33", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h1", 
+            "id": "f050408a-8b80-4df5-8e59-7deaa1c61574"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "MILLION", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "FOR NEW POLICE STATIONS 16 2014-15 Budget Overview"
+                }
+            ], 
+            "parent_id": "f050408a-8b80-4df5-8e59-7deaa1c61574", 
+            "type": "h4", 
+            "id": "9d6ceac7-d5dd-440f-aae9-8a08263f12d4"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "$447", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "EXPANDING PRISON CAPACITY"
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h1", 
+            "id": "76ce713d-9c7e-4336-a56c-cbf0d0a33597"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "MILLION", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "If you would like to receive this publication in an accessible format please telephone 9651 0909 or email information@dtf.vic.gov.au. This document is also available in PDF and WORD at budget.vic.gov.au. 2014-15 Victorian Budget Budget Overview budget.vic.gov.au"
+                }
+            ], 
+            "parent_id": "76ce713d-9c7e-4336-a56c-cbf0d0a33597", 
+            "type": "h4", 
+            "id": "c1bb07b2-8a02-4836-8b3d-014ad3f93a29"
+        }
+    ], 
+    "metadata": [
+        {
+            "content": "2014-05-02", 
+            "name": "publicationdate"
+        }
+    ]
+}

@@ -6,7 +6,8 @@ BudgetDocument = namedtuple('BudgetDocument', ['name', 'path', 'url'])
 INDEX_NAME = 'budgethack'
 DATASET_DIR = 'datasets'
 
-DOCS = [
+DOCS = {
+    '2015-16': [
     BudgetDocument(
         name='Budget Overview',
         path='datasets/2015-16/BudgetOverview.pdf',
@@ -31,4 +32,11 @@ DOCS = [
         name='Suburban Growth',
         path='datasets/2015-16/BIP_SuburbanGrowth.pdf',
         url='http://www.dtf.vic.gov.au/files/98ec13c0-9e77-4f48-9716-a48200c802ee/SuburbanGrowth.pdf')  # noqa
-]
+    ],
+    '2014-15': [
+    BudgetDocument(
+        name='Budget Overview',
+        path='datasets/2014-15/BudgetOverview.pdf',
+        url='http://www.dtf.vic.gov.au/files/90f08639-26b1-45b9-957e-a49c00a46994/Budget-Overview-2014-15.pdf')   
+    ]
+}

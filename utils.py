@@ -48,9 +48,9 @@ def handle_agg(text=None):
     output['related_things'] = parse_related_things(result)
     output['related_spend'] = parse_related_spend(result)
     output['main_concepts'] = parse_main_concepts(result)
-
+    print parse_word_count(result) 
+    
     return output
-
 
 def parse_related_things(result):
     output = {}
@@ -97,5 +97,13 @@ def parse_main_concepts(result):
 
     for agg in result['aggregations']['main_concepts']['buckets']:
         output['docs'].append({'text': agg['key'], 'count': agg['doc_count']})
+
+    return output
+
+
+def parse_word_count(result):
+    output = {}
+    print result 
+    output = result 
 
     return output

@@ -1,25 +1,11 @@
 #!/usr/bin/python
 from flask import Flask, request, render_template, g
 import json
-import sqlite3
 
 import utils
 
 
 app = Flask(__name__)
-
-
-# for database connection
-@app.before_request
-def before_request():
-    g.db = sqlite3.connect("data/askbudget_db")
-
-
-# for database close connection
-@app.teardown_request
-def teardown_request(excpection):
-    if hasattr(g, 'db'):
-        g.db.close()
 
 
 @app.route("/")
@@ -47,6 +33,7 @@ def get_concepts():
 def create_question():
     text = request.json.get('question', '')
     answer = utils.handle_agg(text)
+    
     return json.dumps({'answer': answer})
 
 
