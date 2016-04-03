@@ -51,13 +51,8 @@
     <div id="answer_container">
       <div id="answer_body">
         <img id="answer_icon" src="../static/img/icon_1024.png">
-        <!-- Histrogram Start -->
-            <div google-chart chart="chart" style="{{chart.cssStyle}}"/>
-            <pre>{{chart | json}}</pre>
         
-        <!---->  
-
-        <div ng-if="words && !answer">
+          <div ng-if="words && !answer">
 
           <div id="word_cloud">
             <jqcloud words="words" weight="600" height="300" steps="10" auto-resize="true" shape="rectangular"></jqcloud>
@@ -98,6 +93,11 @@
              <span ng-repeat="keyword in answer.related_things.keywords"><a ng-href="/#!?question={{ keyword.name }}">{{ keyword.name }}</a><span ng-show="!$last">, </span>
           </span>
         </div>
+        <!-- Histrogram Start -->
+            <div google-chart chart="chart" style="{{chart.cssStyle}}"/>
+            <pre>{{chart | json}}</pre>
+        
+        <!---->  
       </div>
     </div>
 </div>
