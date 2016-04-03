@@ -22,8 +22,9 @@ app.controller('QueryCtrl', function($scope, $rootScope) {
 
 app.controller('HomeCtrl', ['$scope', '$http', function($scope, $http) {
   console.log('AT HOME');
-  $scope.dataLoaded = false;
-  
+  $scope.loading = true;
+  console.log($scope.loading);
+
   $http.get('/api/get_concepts').then(function successCallback(response) {
     words = [];
 
@@ -32,7 +33,8 @@ app.controller('HomeCtrl', ['$scope', '$http', function($scope, $http) {
         "text": value.text, "weight": value.weight,
         "link": "#/answer?question=" + value.text})
     });
-    $scope.dataLoaded = true;
+    $scope.loading = false;
+    console.log($scope.loading)
     $scope.words = words;
   });
 
