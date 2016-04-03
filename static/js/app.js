@@ -47,6 +47,9 @@ app.controller(
         'question': question
       }).then(function successCallback(response) {
           $scope.answer = response.data.answer;
+          if ($scope.answer.historic_mentions) {
+            buildChart();
+          }
       });
   }
 
@@ -55,38 +58,37 @@ app.controller(
     sendQuestion($routeParams.question);
   };
 
-  var chart1 = {};
-  chart1.type = "ColumnChart";
-  chart1.cssStyle = "height:300px; width:100%";
-  chart1.data = {"cols": [
-    {id: 'year', label: 'Year', type: 'string'},
-    {id: 'mentions', label: 'Mentions', type: 'number'}
-  ], "rows": [
-      {c: [
-          {v: "2011"},
-          {v: 100},
-      ]},
-      {c: [
-          {v: "2012"},
-          {v: 130},
-      ]},
-      {c: [
-          {v: "2011"},
-          {v: 90},
-      ]}
-  ]};
+  buildChart = function() {
+    var historyChart = {};
+    historyChart.type = "ColumnChart";
+    historyChart.cssStyle = "height:300px; width:100%";
+    historyChart.data = {
+      "cols": [
+        {id: 'year', label: 'Year', type: 'string'},
+        {id: 'mentions', label: 'Mentions', type: 'number'}
+      ]
+    };
 
-  chart1.options = {
-      "isStacked": "true",
-      "fill": 20,
-      "displayExactValues": true,
-      "hAxis": {
-          "title": "Year"
-      }
-  };
+    rows = [];
+    angular.forEach($scope.answer.historic_mentions, function(value, key) {
+      rows.push({c: [{v: value.year}, {v: value.count}]});
+    });
+    console.log("ROWS");
+    console.log(rows);
+    historyChart.data['rows'] = rows;
+
+    historyChart.options = {
+        "isStacked": "true",
+        "fill": 20,
+        "displayExactValues": true,
+        "hAxis": {
+            "title": "Year"
+        }
+    };
   
-  chart1.formatters = {};
-  $scope.chart = chart1;
-  //Reference https://bouil.github.io/angular-google-chart/#/fat
+    historyChart.formatters = {};
+    $scope.chart = historyChart;
+  }
 
+    
 });
