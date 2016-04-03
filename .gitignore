@@ -6,3 +6,4 @@ askbudget_db
 *.swp
 .DS_Store
 static/bower_components
+venv

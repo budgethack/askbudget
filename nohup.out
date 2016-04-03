@@ -1717,3 +1717,27 @@ Traceback (most recent call last):
 127.0.0.1 - - [03/Apr/2016 03:01:18] "GET / HTTP/1.1" 200 -
 127.0.0.1 - - [03/Apr/2016 03:01:29] "POST /api/post_question HTTP/1.1" 200 -
 127.0.0.1 - - [03/Apr/2016 03:02:09] "POST /api/post_question HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 03:03:45] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 03:04:25] "GET /project HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 03:08:40] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 03:09:15] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 03:09:32] "GET /project HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 03:09:42] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 03:09:53] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 03:09:53] "GET /static/bower_components/jqcloud2/dist/jqcloud.min.css HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 03:09:54] "GET /static/css/main.css HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 03:09:54] "GET /static/bower_components/jquery/dist/jquery.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 03:09:54] "GET /static/js/app.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 03:09:54] "GET /static/bower_components/jqcloud2/dist/jqcloud.min.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 03:09:54] "GET /static/bower_components/angular-jqcloud/angular-jqcloud.js HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 03:09:54] "GET /static/img/icon_1024.png HTTP/1.1" 304 -
+127.0.0.1 - - [03/Apr/2016 03:09:54] "GET /static/img/SearchButton.png HTTP/1.1" 304 -
+127.0.0.1 - - [03/Apr/2016 03:09:56] "GET /static/img/BodyBg.png HTTP/1.1" 304 -
+127.0.0.1 - - [03/Apr/2016 03:09:56] "GET /static/img/Header_01.png HTTP/1.1" 304 -
+127.0.0.1 - - [03/Apr/2016 03:09:59] "GET /project HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 03:12:45] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [03/Apr/2016 03:18:10] "GET / HTTP/1.1" 200 -
+ * Detected change in '/var/www/askbudget/app.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger pin code: 248-647-145

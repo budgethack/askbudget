@@ -9,25 +9,19 @@
         <!-- load bootstrap via CDN -->
         <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" />
         <link rel="stylesheet" href="/static/bower_components/jqcloud2/dist/jqcloud.min.css">
-
-        <!-- load angular via CDN -->
-        <script src="/static/bower_components/jquery/dist/jquery.min.js"></script>
-        <script src="/static/bower_components/jqcloud2/dist/jqcloud.min.js"></script>
-        <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.2/angular.min.js"></script>
-        <script src="/static/bower_components/angular-jqcloud/angular-jqcloud.js"></script>
         
-        <!-- load local js -->
-        <script src="/static/js/app.js"></script>    
-
         <link rel="stylesheet" href="static/css/main.css" />
+        
         <!-- load fonts -->
         <link href='https://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
         <link href='https://fonts.googleapis.com/css?family=Raleway:900' rel='stylesheet' type='text/css'>
+        
+        
 </head>
 
 <body ng-app="search">
 {% raw %}
-<div ng-controller="queryListCtrl">            
+<div ng-controller="QueryCtrl">
     <!-- Header -->
     <header>
         <nav class="navbar navbar-default" id="nav">
@@ -43,44 +37,31 @@
     <!-- Body -->
     <div id="blue_box">
       <div id="question_container">
-        <form id="form_container" ng-submit="submit()">
-          <input type="text" ng-model="question" name="text" placeholder="I WANT TO KNOW ABOUT ....." id="question_input"/>
+        <form id="form_container" ng-submit="sendQuestion()">
+          <input type="text" ng-model="$root.question" name="text" placeholder="I want to know about..." id="question_input"/>
           <input type="image"  src="/static/img/SearchButton.png" width="25px" id="question_img"/>
         </form>
       </div>
     </div>
     
     <div id="answer_container">
+      <div id="answer_body">
         <img id="answer_icon" src="../static/img/icon_1024.png">
-
-        <div ng-show="related_spend">
-            <h3>TLDR:</h3>
-
-            <ul ng-repeat="doc in related_spend.docs">
-                <li>{{ doc.text }}</li>
-            </ul>
-        </div>
-
-        <hr> 
-
-        <div ng-show="top_mentions">
-            Mentioned <span ng-repeat="doc in top_mentions.docs"><strong>{{ doc.count}}</strong> 
-                         {{doc.count != 1 ? 'times' : 'time' }} in <a ng-href="?doc_name={{ doc.name }}">{{ doc.name }}</a>
-                         <span ng-show="!$last">, </span>
-                      </span>.
-        </div>
-
-        <hr> 
-
-        <div ng-show="main_concepts">
-            See also: <span ng-repeat="doc in main_concepts.docs"><a ng-href="?concept={{ doc.text }}">{{ doc.text }}</a>, </span>
-                        <span ng-repeat="keyword in related_things.keywords"><a ng-href="?keyword={{ keyword.name }}">{{ keyword.name }}</a><span ng-show="!$last">, </span>
-                      </span>
-        </div>
-
+          <div ng-view></div>
+      </div>
     </div>
-
 </div>
 {% endraw %}
+<!-- load angular via CDN -->
+<script src="/static/bower_components/jquery/dist/jquery.min.js"></script>
+<script src="/static/bower_components/jqcloud2/dist/jqcloud.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.2/angular.min.js"></script>
+<script src="/static/bower_components/angular-route/angular-route.js"></script>
+<script src="/static/bower_components/angular-jqcloud/angular-jqcloud.js"></script>
+
+<!-- load local js -->
+<script src="/static/js/app.js"></script>    
+<script type="text/javascript" src="/static/js/ng-google-chart.js"></script>
 </body>
+
 </html>

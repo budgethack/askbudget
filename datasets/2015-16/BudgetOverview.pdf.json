@@ -1,22 +1,9 @@
 {
     "source_document_id": "", 
     "media_type_detected": "application/pdf", 
-    "timestamp": "2016-03-28T07:23:14.570Z", 
+    "timestamp": "2016-04-03T04:59:50.775Z", 
     "warnings": [], 
     "answer_units": [
-        {
-            "direction": "ltr", 
-            "title": "no-title", 
-            "content": [
-                {
-                    "media_type": "text/plain", 
-                    "text": "</head>"
-                }
-            ], 
-            "parent_id": "", 
-            "type": "body", 
-            "id": "2c3b4a49-2e90-4d12-a707-2f59dc7fbb9d"
-        }, 
         {
             "direction": "ltr", 
             "title": "For Families", 
@@ -28,7 +15,33 @@
             ], 
             "parent_id": "", 
             "type": "h1", 
-            "id": "74cf14fb-b4ad-4ebb-83da-994ae739d92e"
+            "id": "311d0181-5523-4876-b6ad-d4f4dee55fac"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Victorian Budget 15 I16", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Budget Overview The Secretary Department of Treasury and Finance 1 Treasury Place Melbourne, Victoria, 3002 Australia Tel: +61 3 9651 5111 Fax: +61 3 9651 2062 Website: budget.vic.gov.au Authorised by the Victorian Government 1 Treasury Place, Melbourne, 3002 Printed by On Demand, Port Melbourne Printed on recycled paper This publication makes reference to the 2015-16 Budget paper set which includes: Budget Paper No. 1 - Treasurer's Speech Budget Paper No. 2 - Strategy and Outlook Budget Paper No. 3 - Service Delivery Budget Paper No. 4 - State Capital Program Budget Paper No. 5 - Statement of Finances (incorporating Quarterly Financial Report No. 3) ((c)) State of Victoria (Department of Treasury and Finance) 2015 You are free to re-use this work under a Creative Commons Attribution 4.0 licence, provided you credit the State of Victoria (Department of Treasury and Finance) as author, indicate if changes were made and comply with the other licence terms. The licence does not apply to any images, photographs or branding, including Government logos. Copyright queries may be directed to IPpolicy@dtf.vic.gov.au ISSN 2204-7174 Published May 2015 The 2015-16 Victorian Budget: For Families gets on with the projects our state needs and puts people first. It delivers on Labor's election promises. We've maintained Victoria's triple-A credit rating and reduced net debt. Our stable finances mean we can build more projects and provide more services for families in growing areas. And with Victoria emerging from a jobs crisis, we're supporting businesses and industries and boosting the skills of the next generation of Victorian workers, to help create 100,000 new jobs. This is a Budget for families because it gets Victoria back to work. Everyone in our state has a right to the dignity and security of a stable job in a growing industry. This is a Budget for families because it invests in schools and hospitals, giving our loved ones the care they need and giving every young Victorian the chance they deserve. This is a Budget for families because it invests in the transport projects that Victoria needs, so people can get to work and get back home safer and sooner. We're investing in hospitals, schools, jobs and transport because these are the things that matter to us all. These are basic building blocks of our society that keep families together, keep communities safe and keep our state growing. Our Budget is fair. It will help struggling families through some of the toughest times of their lives, because no Victorian should ever be left behind. It will help a generation of young people get the training they need for the jobs they want, because every child deserves every chance in life. It will protect the people who protect us, giving our paramedics, police and emergency services the resources they need to do their job and look after the people we love. Our Budget will keep Victoria number one. Victoria is the creative capital, home to arts, music, culture and sport, some of the world's best major events and the most liveable and multicultural city on earth. We want to stay that way. We are proud to present the 2015-16 Victorian Budget: For Families. We're getting on with the projects our state needs. We're putting people first. We're taking our state into the future - and leaving no one behind."
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h1", 
+            "id": "28e37756-ba17-4409-94fa-fa69b692bcca"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Treasurer's message", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Tim Pallas MP Treasurer of the State of Victoria Biggest ever education budget Massive boost for hospitals Record funding for public transport 100,000 jobs $1.2 billion operating surplus in 2015-16 Net debt reduced to 4.4% of GSP over 4 years Maintaining Victoria's triple-A credit rating The 2015-16 Victorian Budget: For Families is built on a strong, sound and sustainable financial footing and invests in the projects and services that families need in our fast-growing state. Victoria's economic environment is improving, reflecting its resilience despite recent challenging economic conditions. Victoria has significant economic strengths that will help to capitalise on new growth opportunities, including a highly skilled workforce, diverse industry base, liveable cities and regions and strong transport links. As promised, the Budget produces a strong operating surplus of $1.2 billion and it reduces net debt to 4.4 per cent of gross state product (GSP) by June 2019 - lower than the last year under the previous government. International ratings agencies recently confirmed Victoria's triple-A credit rating, which will be maintained and preserved under this Budget. Economic growth is forecast to rise to 2.5 per cent in 2015-16 from 2.25 per cent in 2014-15. This is on the back of improved household consumption and stronger export growth. Victorian businesses are responding to the lower Australian dollar and increasing demand from Asia. The Victorian labour market has improved since late 2014 and is expected to consolidate in 2015-16. Employment is forecast to grow around its long-run average of 1.5 per cent, supported by the Andrews Labor Government's Back to Work plan. The operating surplus is expected to grow to $1.8 billion in 2018-19, with accumulated surpluses of $5.8 billion over the Budget and forward estimates period. The higher operating surpluses forecast by the previous government could only be achieved by restricting expenditure growth to 2.5 per cent. That's not sustainable. With such low expenditure, the Government could not provide the projects that our state needs to grow or services that families need."
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h1", 
+            "id": "120d07cb-ea78-4a46-95e2-8301ba676e6d"
         }, 
         {
             "direction": "ltr", 
@@ -36,12 +49,12 @@
             "content": [
                 {
                     "media_type": "text/plain", 
-                    "text": "With inflation averaging 2.6 per cent, and population growing by 1.8 per cent every year, such low expenditure growth would not provide the vital funds needed for schools and hospitals across our state. The Labor Government's modest growth in operating expenses to 3 per cent per year, on average, is low by contemporary standards. It remains well below forecast revenue growth of 3.4 per cent. Families need more funding for health, education, transport and job creation. Not proceeding with the East West Link has made considerable savings, allowing the Labor Government to get on with the projects that deliver an economic return. Net debt is projected to decrease to 4.4 per cent of GSP by June 2019, lower than the last year under the previous government. Our promises have been kept. Each initiative in Labor's 2014 Financial Statement has been accounted for. The Labor Government is keeping our finances stable, our services strong and our projects rolling, so we can keep up with growth in our outer suburbs and regions. We're proud to deliver for schools, hospitals, jobs and transport. These are investments we can afford - for the things our communities need. $2.1 billion for our health system 4 upgraded hospitals for the suburbs 60,000 extra patients New Western Women's and Children's Hospital The Andrews Labor Government is increasing investment in our health system, so families in Australia's fastest-growing state can get the care and peace of mind they deserve. The 2015-16 Victorian Budget provides significant funding to our hospitals, ambulances and mental health system, and gives our best medical minds the resources they need to save more lives. It's about fairness. Everyone should have the care they need, not just the care they can afford."
+                    "text": "With inflation averaging 2.6 per cent, and population growing by 1.8 per cent every year, such low expenditure growth would not provide the vital funds needed for schools and hospitals across our state. The Labor Government's modest growth in operating expenses to 3 per cent per year, on average, is low by contemporary standards. It remains well below forecast revenue growth of 3.4 per cent. Families need more funding for health, education, transport and job creation. Not proceeding with the East West Link has made considerable savings, allowing the Labor Government to get on with the projects that deliver an economic return. Net debt is projected to decrease to 4.4 per cent of GSP by June 2019, lower than the last year under the previous government. Our promises have been kept. Each initiative in Labor's 2014 Financial Statement has been accounted for. The Labor Government is keeping our finances stable, our services strong and our projects rolling, so we can keep up with growth in our outer suburbs and regions. We're proud to deliver for schools, hospitals, jobs and transport. These are investments we can afford - for the things our communities need. VICTORIA'S ECONOMIC FORECASTS (%) 2013-14 actual 2014-15 forecast 2015-16 forecast 2016-17 forecast 2017-18 projection 2018-19 projection Real gross state product 1.7 2.25 2.50 2.75 2.75 2.75 Employment 0.6 2.00 1.50 1.50 1.50 1.50 Unemployment rate 6.2 6.50 6.25 6.25 6.00 5.75 Consumer price index 2.8 1.50 2.75 2.75 2.50 2.50 Wage price index 2.7 2.75 3.25 3.50 3.50 3.50 Population 1.9 1.8 1.8 1.8 1.8 1.8 Sources: Australian Bureau of Statistics; Department of Treasury and Finance 6 NET DEBT TO GSP P E R C E N T 20 18 -1 9 es tim at e 4.4 20 17 -1 8 es tim at e 4.6 20 16 -1 7 es tim at e 4.8 20 15 -1 6 bu dg et 4.4 20 14 -1 5 re vi se d 5.8 20 13 -1 4 ac tu al 5.5 GOVERNMENT INFRASTRUCTURE INVESTMENT $ B IL LI O N 20 18 -1 9 es tim at e 5.1 20 17 -1 8 es tim at e 4.5 20 16 -1 7 es tim at e 6.5 20 15 -1 6 bu dg et 5.2 20 14 -1 5 re vi se d 4.2 20 13 -1 4 ac tu al OPERATING SURPLUSES $ B IL LI O N 20 18 -1 9 es tim at e 1.8 20 17 -1 8 es tim at e 1.4 20 16 -1 7 es tim at e 1.4 20 15 -1 6 bu dg et 1.2 20 14 -1 5 re vi se d 0.9 20 13 -1 4 ac tu al 2 $2.1 billion for our health system 4 upgraded hospitals for the suburbs 60,000 extra patients New Western Women's and Children's Hospital The Andrews Labor Government is increasing investment in our health system, so families in Australia's fastest-growing state can get the care and peace of mind they deserve. The 2015-16 Victorian Budget provides significant funding to our hospitals, ambulances and mental health system, and gives our best medical minds the resources they need to save more lives. It's about fairness. Everyone should have the care they need, not just the care they can afford."
                 }
             ], 
             "parent_id": "", 
             "type": "h1", 
-            "id": "a64f5bc3-4187-45d4-8f7b-dfa92405a519"
+            "id": "4798a281-7187-43f5-b1fc-fd4f67185a08"
         }, 
         {
             "direction": "ltr", 
@@ -52,9 +65,9 @@
                     "text": "The Budget provides $200 million to increase hospital capacity - in line with the recommendations of respected surgeon and former AMA Victoria President, Dr Doug Travis - and $60 million for an elective surgery boost to cut waiting lists. With this funding, hospitals can admit an extra 60,000 patients and treat an extra 40,000 emergency patients."
                 }
             ], 
-            "parent_id": "a64f5bc3-4187-45d4-8f7b-dfa92405a519", 
+            "parent_id": "4798a281-7187-43f5-b1fc-fd4f67185a08", 
             "type": "h3", 
-            "id": "5a5d203b-bd96-4e75-ace3-afa56a8652fd"
+            "id": "a608dd48-94d6-4098-ab18-235d88867c25"
         }, 
         {
             "direction": "ltr", 
@@ -62,12 +75,12 @@
             "content": [
                 {
                     "media_type": "text/plain", 
-                    "text": "Research institutes, hospitals and universities in Victoria will receive $25 million to work together and develop cutting-edge treatments for our most debilitating genetic diseases. Super Pharmacies across our state will stay open for extended hours, in a  $28.7 million plan to help families during late night emergencies. A National Centre for Farmer Health will support the wellbeing of the men and women who work on the land. The free whooping cough vaccine for parents of newborns will return, because we can't take any risks with the health of our youngest Victorians."
+                    "text": "MORE PROGRAMS Research institutes, hospitals and universities in Victoria will receive $25 million to work together and develop cutting-edge treatments for our most debilitating genetic diseases. Super Pharmacies across our state will stay open for extended hours, in a  $28.7 million plan to help families during late night emergencies. A National Centre for Farmer Health will support the wellbeing of the men and women who work on the land. The free whooping cough vaccine for parents of newborns will return, because we can't take any risks with the health of our youngest Victorians."
                 }
             ], 
             "parent_id": "", 
             "type": "h1", 
-            "id": "308e9cb1-956c-4480-a861-90443cf89014"
+            "id": "7cdd02c4-feda-417f-a697-e0163e3e41e3"
         }, 
         {
             "direction": "ltr", 
@@ -75,12 +88,12 @@
             "content": [
                 {
                     "media_type": "text/plain", 
-                    "text": "The Budget provides over $560 million to build - and rebuild - hospitals in fast-growing areas across Victoria. This includes: $200 million for a dedicated Western Women's and Children's Hospital, with 237 beds, 39 special care nursery cots and four theatres for families in the west. By 2026, the number of births at Sunshine Hospital is expected to exceed 7000 per year. The fastest growing area of Australia needs more services so no young family is left behind. $106.3   million to expand Casey Hospital, in Melbourne's south east, so it can treat 12,000 more patients, conduct 8000 more surgeries and support 500 more births. The project will provide four new operating theatres, a surgery recovery centre and 96 extra beds, including an intensive care unit - expanding the size of the hospital by more than a third. $85   million to expand the Werribee Mercy Hospital, delivering six extra operating theatres and 64 new inpatient beds in this fast-growing area of Melbourne. $20   million for an intensive care unit and short stay unit at the Angliss Hospital in Melbourne's outer east, reducing the distance families have to travel in a medical emergency. $10   million to bring urgent heart assessment, treatment and care to Ballarat, with funding for a new cardiac catheterisation laboratory at Ballarat Base Hospital. The Victorian Heart Hospital - Australia's first specialist heart facility - is one step closer, with $15 million for planning and development. It will be built at Monash University in Clayton, treating cardiac diseases from early childhood to later life, undertaking ground-breaking research and training the next generation of heart specialists. The Monash Children's Hospital gets a helipad, the Moorabbin Hospital gets a significant upgrade and hospitals across the state get the vital equipment they need."
+                    "text": "The Budget provides over $560 million to build - and rebuild - hospitals in fast-growing areas across Victoria. This includes: $200   million for a dedicated Western Women's and Children's Hospital, with 237 beds, 39 special care nursery cots and four theatres for families in the west. By 2026, the number of births at Sunshine Hospital is expected to exceed 7000 per year. The fastest growing area of Australia needs more services so no young family is left behind. $106.3   million to expand Casey Hospital, in Melbourne's south east, so it can treat 12,000 more patients, conduct 8000 more surgeries and support 500 more births. The project will provide four new operating theatres, a surgery recovery centre and 96 extra beds, including an intensive care unit - expanding the size of the hospital by more than a third. $85   million to expand the Werribee Mercy Hospital, delivering six extra operating theatres and 64 new inpatient beds in this fast-growing area of Melbourne. $20   million for an intensive care unit and short stay unit at the Angliss Hospital in Melbourne's outer east, reducing the distance families have to travel in a medical emergency. $10   million to bring urgent heart assessment, treatment and care to Ballarat, with funding for a new cardiac catheterisation laboratory at Ballarat Base Hospital. The Victorian Heart Hospital - Australia's first specialist heart facility - is one step closer, with $15 million for planning and development. It will be built at Monash University in Clayton, treating cardiac diseases from early childhood to later life, undertaking ground-breaking research and training the next generation of heart specialists. The Monash Children's Hospital gets a helipad, the Moorabbin Hospital gets a significant upgrade and hospitals across the state get the vital equipment they need."
                 }
             ], 
-            "parent_id": "308e9cb1-956c-4480-a861-90443cf89014", 
+            "parent_id": "7cdd02c4-feda-417f-a697-e0163e3e41e3", 
             "type": "h3", 
-            "id": "17ce44a1-6f61-4128-a0c1-59382f9df271"
+            "id": "52f20290-339f-4745-94d1-25c91308cab0"
         }, 
         {
             "direction": "ltr", 
@@ -91,9 +104,9 @@
                     "text": "The ongoing dispute with Victoria's hardworking paramedics is over. Now the work begins to fix our ambulance system, so families get the help they need in an emergency - when they need it. The Budget provides $99 million to improve ambulance services and give our paramedics the resources they need to do their job and save more lives. This includes: $40 million to upgrade ambulance branches across the state and provide new vehicles and equipment, so paramedics have the most up-to-date technology at their hands. $59 million to cut emergency response times and speed up the transfer of patients to emergency departments, so 'ramping' becomes a thing of the past."
                 }
             ], 
-            "parent_id": "308e9cb1-956c-4480-a861-90443cf89014", 
+            "parent_id": "7cdd02c4-feda-417f-a697-e0163e3e41e3", 
             "type": "h3", 
-            "id": "4cdc813c-d532-4a0f-adcc-a4dd1599d151"
+            "id": "4a5d0571-9352-4bd6-90af-960f6c1867b0"
         }, 
         {
             "direction": "ltr", 
@@ -101,12 +114,12 @@
             "content": [
                 {
                     "media_type": "text/plain", 
-                    "text": "The Andrews Labor Government is increasing funding to treat and support people with a mental illness - helping their families and giving them hope. The Budget provides: $118 million for mental health, including $88.2 million to provide 80 adults and up to 500 older people with the intensive, specialist support they need. Funding will help young people who are suffering eating disorders and also support young people who are same-sex attracted and gender-diverse to combat homophobia and transphobia. The mental health system is under serious pressure. Projects in the Budget will help fill the gaps and meet the demand in mental health catchments across the state. All kids deserve the best start, no matter what their background. The Budget invests $2.9 billion in schools over four years, making it the biggest education budget in Victoria's history. Through this Budget, the Andrews Labor Government reconfirms its commitment to the Gonski Agreement, the principles of which are central to making Victoria the Education State. The Abbott Government has failed to commit to its share of school funding for 2018 and 2019, but the Andrews Labor Government will keep standing up for our state and our schools. For the first time, this Budget sees Victoria fully deliver on its obligation under the Gonski Agreement for the 2015, 2016 and 2017 school years. Education investment will grow by 3.4 per cent on average over the next three years compared to growth of 2.0 per cent over the last three years."
+                    "text": "The Andrews Labor Government is increasing funding to treat and support people with a mental illness - helping their families and giving them hope. The Budget provides: $118 million for mental health, including $88.2 million to provide 80 adults and up to 500 older people with the intensive, specialist support they need. Funding will help young people who are suffering eating disorders and also support young people who are same-sex attracted and gender-diverse to combat homophobia and transphobia. The mental health system is under serious pressure. Projects in the Budget will help fill the gaps and meet the demand in mental health catchments across the state. Biggest education budget in Victorian history Upgrades to 67 run down and crowded schools $111.1 million for 10 new schools across the State All kids deserve the best start, no matter what their background. The Budget invests $2.9 billion in schools over four years, making it the biggest education budget in Victoria's history. Through this Budget, the Andrews Labor Government reconfirms its commitment to the Gonski Agreement, the principles of which are central to making Victoria the Education State. The Abbott Government has failed to commit to its share of school funding for 2018 and 2019, but the Andrews Labor Government will keep standing up for our state and our schools. For the first time, this Budget sees Victoria fully deliver on its obligation under the Gonski Agreement for the 2015, 2016 and 2017 school years. Education investment will grow by 3.4 per cent on average over the next three years compared to growth of 2.0 per cent over the last three years."
                 }
             ], 
-            "parent_id": "308e9cb1-956c-4480-a861-90443cf89014", 
+            "parent_id": "7cdd02c4-feda-417f-a697-e0163e3e41e3", 
             "type": "h3", 
-            "id": "8ebb1934-0edb-4fd5-8d4a-157a94e47f53"
+            "id": "4a50878f-ddc5-4477-affc-8631a5f28a64"
         }, 
         {
             "direction": "ltr", 
@@ -117,9 +130,9 @@
                     "text": "Too many kids are learning in run down and overcrowded classrooms. The Budget invests $688 million for new and upgraded schools. This includes: $325 million to renovate, refurbish and rebuild 67 schools, with nine receiving major rebuilds of $10 million or more. $111.1 million to support the delivery of 10 new schools, in Craigieburn, Sale, Doreen, Tarneit, South Melbourne, Footscray, Richmond, Albert Park as well as Mernda and Bannockburn which are part of a public private partnership. $42 million to conduct the first stage of a statewide school asbestos removal program. $40 million to purchase land for new schools in more of Melbourne's fast-growing suburbs, where increasing population puts pressure on the services that families rely on."
                 }
             ], 
-            "parent_id": "308e9cb1-956c-4480-a861-90443cf89014", 
+            "parent_id": "7cdd02c4-feda-417f-a697-e0163e3e41e3", 
             "type": "h3", 
-            "id": "c1df6f34-5263-4faf-91d3-dbcc090a4679"
+            "id": "aea58aea-4bca-43b2-b58a-4b0e894fb0f0"
         }, 
         {
             "direction": "ltr", 
@@ -132,7 +145,7 @@
             ], 
             "parent_id": "", 
             "type": "h1", 
-            "id": "16499524-28b2-46ff-afe9-ec978793e7d2"
+            "id": "283f0985-00e7-4dcb-854c-4906ff1260d9"
         }, 
         {
             "direction": "ltr", 
@@ -143,9 +156,9 @@
                     "text": "Too many kids are finding out what disadvantage means the hard way, when they don't have the right uniform, can't see the whiteboard or don't get to go on school camp with their friends. The Budget also helps families who are struggling to afford the extra costs of education, providing $178 million to give students the things they need to fit in and thrive. A $148.3 million Camps, Sports and Excursions Fund will help over 200,000 disadvantaged students receive these expensive but essential parts of an education. Prep to Grade 3 students in 250 disadvantaged government schools will get free eye tests and glasses if they need them. Breakfast Clubs at disadvantaged schools will serve up the most important meal of the day to 25,000 students. The Budget also expands a free uniform, shoes and books program run by State Schools' Relief, so it can assist more than twice as many students every year. Music is part of a modern curriculum, and the Budget funds quality music programs in all government schools and help for students to buy musical instruments."
                 }
             ], 
-            "parent_id": "16499524-28b2-46ff-afe9-ec978793e7d2", 
+            "parent_id": "283f0985-00e7-4dcb-854c-4906ff1260d9", 
             "type": "h3", 
-            "id": "743406a8-be46-4b3b-8af6-b031773d8ab1"
+            "id": "a2469f87-e08b-4a55-b372-5f18b97bfda9"
         }, 
         {
             "direction": "ltr", 
@@ -153,12 +166,12 @@
             "content": [
                 {
                     "media_type": "text/plain", 
-                    "text": "Cuts took our training system to the brink of collapse. The Andrews Labor Government will invest in training and save TAFE, so all kids have the chance to get a job, start a career and have a decent life. The Budget includes: $300 million to complete the $320 million TAFE Rescue Fund, helping campuses across the state reopen closed buildings, upgrade workshops and classrooms and get back in the black. $50 million for the TAFE Back to Work fund, which will help campuses meet the needs of local employers, creating new, dedicated training courses. $32 million for Local Learning and Employment Networks, providing jobs and skills advice to people across Victoria to get them back on track. All skills start at school, and all secondary students deserve a head start on a hands-on vocation - a chance to build their career early while maintaining their enrolment at secondary school. $12 million will establish Tech Schools across the state, which will be open to students from Years 7 to 12 who will learn skills alongside a comprehensive secondary education. Everyone in our state deserves the dignity and security of a stable job in a growing industry. Over the last few years, too many Victorians missed out on that basic right. The Andrews Labor Government is getting Victoria Back to Work, helping create 100,000 new jobs and giving young people the skills they need for the jobs they want. We're also supporting Victoria's industries, helping them grow and targeting Government investment in the sectors where our state has the potential to lead the world. The Budget includes: $100 million to fund the Back to Work Scheme, offering relief to companies who hire unemployed young people, the long-term unemployed and retrenched workers to help create 100,000 jobs."
+                    "text": "Cuts took our training system to the brink of collapse. The Andrews Labor Government will invest in training and save TAFE, so all kids have the chance to get a job, start a career and have a decent life. The Budget includes: $300 million to complete the $320 million TAFE Rescue Fund, helping campuses across the state reopen closed buildings, upgrade workshops and classrooms and get back in the black. $50 million for the TAFE Back to Work fund, which will help campuses meet the needs of local employers, creating new, dedicated training courses. $32 million for Local Learning and Employment Networks, providing jobs and skills advice to people across Victoria to get them back on track. All skills start at school, and all secondary students deserve a head start on a hands-on vocation - a chance to build their career early while maintaining their enrolment at secondary school. $12 million will establish Tech Schools across the state, which will be open to students from Years 7 to 12 who will learn skills alongside a comprehensive secondary education. $178 million boost for disadvantaged families Gonski funding levels met to the end of 2017 $350 million to save our struggling TAFE system FIRST YEAR BUDGET INITIATIVES: SERVICES AND PROJECTS $ B IL LI O N 0.21 0.57 0.32 0.62 Roads and Road SafetyEducation 2011-12 Budget 2015-16 Budget Everyone in our state deserves the dignity and security of a stable job in a growing industry. Over the last few years, too many Victorians missed out on that basic right. The Andrews Labor Government is getting Victoria Back to Work, helping create 100,000 new jobs and giving young people the skills they need for the jobs they want. We're also supporting Victoria's industries, helping them grow and targeting Government investment in the sectors where our state has the potential to lead the world. The Budget includes: $100 million to fund the Back to Work Scheme, offering relief to companies who hire unemployed young people, the long-term unemployed and retrenched workers to help create 100,000 jobs."
                 }
             ], 
-            "parent_id": "16499524-28b2-46ff-afe9-ec978793e7d2", 
+            "parent_id": "283f0985-00e7-4dcb-854c-4906ff1260d9", 
             "type": "h3", 
-            "id": "15abf407-f9be-40f2-89d2-aaab511b4226"
+            "id": "1f823cfe-2602-48a0-a456-ce67ac6ae814"
         }, 
         {
             "direction": "ltr", 
@@ -169,9 +182,9 @@
                     "text": "$508 million for the Premier's Jobs and Investment Fund (including the 'start-up' initiative), which will give our most senior economic and business leaders a real say at the heart of the Government, creating high-skill, high-wage jobs. This Fund will be reserved for strategic, job-creating investments, and the Jobs and Investment Panel will provide direct advice to the Premier on its expenditure. $60 million is included for a 'start-up' initiative that matches our brightest entrepreneurs with our best ideas to get them off the ground. By developing business cases, dealing with governments, providing Intellectual Property and patent advice and helping manage finances, the new start-ups centre will power Victorian entrepreneurship."
                 }
             ], 
-            "parent_id": "16499524-28b2-46ff-afe9-ec978793e7d2", 
+            "parent_id": "283f0985-00e7-4dcb-854c-4906ff1260d9", 
             "type": "h3", 
-            "id": "55895f61-76b5-44cc-86cb-23c4f556a178"
+            "id": "c325caf7-efc7-42d1-ac2a-f8f1764b0a10"
         }, 
         {
             "direction": "ltr", 
@@ -179,12 +192,12 @@
             "content": [
                 {
                     "media_type": "text/plain", 
-                    "text": "$200 million to establish the Future Industries Fund, offering grants of up to $1 million to companies working in the six industries poised for extraordinary growth and primed for Victorian expertise: \uf034 Medical technology and pharmaceuticals \uf034 New energy technology \uf034 Food and fibre processing \uf034 Transport, defence and construction technology \uf034 International education \uf034 Professional services $10.5 million in additional funds for Melbourne's North Innovation and Investment Fund to continue support for job-creating projects in an area recovering from automotive industry closure. $7.5 million for the Geelong Regional Innovation and Investment Fund as part of the  Regional Jobs Fund."
+                    "text": "Helping create 100,000 new jobs Giving business a $508 million voice $60 million for a 'start-up' initiative $200 million for high-growth industries Support for the northern suburbs and Geelong Creating 16,000 new jobs in construction $200 million to establish the Future Industries Fund, offering grants of up to $1 million to companies working in the six industries poised for extraordinary growth and primed for Victorian expertise: \uf034 Medical technology and pharmaceuticals \uf034 New energy technology \uf034 Food and fibre processing \uf034 Transport, defence and construction technology \uf034 International education \uf034 Professional services $10.5 million in additional funds for Melbourne's North Innovation and Investment Fund to continue support for job-creating projects in an area recovering from automotive industry closure. $7.5 million for the Geelong Regional Innovation and Investment Fund as part of the  Regional Jobs Fund."
                 }
             ], 
             "parent_id": "", 
             "type": "h1", 
-            "id": "3e312d52-243c-4460-a517-fa3007f68c13"
+            "id": "7afddda9-9fd0-40d3-a741-87197b8a3944"
         }, 
         {
             "direction": "ltr", 
@@ -195,9 +208,9 @@
                     "text": "Trade missions aren't just about transactions. They're about building partnerships that link Victorian businesses with major economies and provide opportunities for our industries. The Budget provides: $12 million for inbound trade mission programs, bringing investors from around the world to our doorstep to see what we do best and invest in our strengths. $6 million to establish more Victorian Government Business Offices (VGBO) in key trading countries. Three VGBOs will be opened in South America, Singapore and Turkey."
                 }
             ], 
-            "parent_id": "3e312d52-243c-4460-a517-fa3007f68c13", 
+            "parent_id": "7afddda9-9fd0-40d3-a741-87197b8a3944", 
             "type": "h3", 
-            "id": "3496d607-f25d-4468-8994-e88c0436ee70"
+            "id": "288fd4f8-3885-45a2-9cea-43a7063f8696"
         }, 
         {
             "direction": "ltr", 
@@ -208,9 +221,9 @@
                     "text": "Small businesses are the heart and soul of our economy, but they need confidence to grow and take risks and assistance to cut through red tape. The Budget provides: $10.4 million to the Victorian Small Business Commission, helping it sustain a competitive and fair business environment, and provide vital information and assistance. $11.4 million for stamp duty exemptions for small businesses purchasing mobile plant equipment such as tractors. $2 million to Ethical Clothing Australia to help businesses in the textile and garment industries eliminate unfair exploitation among homeworkers and employees throughout their supply chain. The Andrews Labor Government is getting on with the projects our state needs, so we can get people home to their families safer and sooner. The 2015-16 Victorian Budget funds projects that will transform our public transport system, reduce congestion on our roads and improve safety and services for everyone. It fast-tracks planning, development and construction of the road and rail upgrades that families and businesses need - creating jobs, driving growth and getting our state back on track. The Budget is delivering record investment in public transport, with a 41 per cent increase over 2014-15. As a proportion of the Budget's total new asset investment, public transport is receiving 37 per cent more than in 2014-15. The Labor Government is laying the foundations for a public transport system that can move millions of people every day, in Australia's fastest growing capital."
                 }
             ], 
-            "parent_id": "3e312d52-243c-4460-a517-fa3007f68c13", 
+            "parent_id": "7afddda9-9fd0-40d3-a741-87197b8a3944", 
             "type": "h3", 
-            "id": "d8859ba9-8689-4d16-aa09-752f09860b00"
+            "id": "18b051b5-dfed-4fa7-b9e0-9be7513268f4"
         }, 
         {
             "direction": "ltr", 
@@ -221,9 +234,22 @@
                     "text": "The Budget commits $5-$6 billion , including $2-$2.4 billion over four years to implement the Government's plan to remove 50 of our most dangerous and congested level crossings over eight years. Removing all nine level crossings between Dandenong and Caulfield on Melbourne's busiest train line is a key priority. A further four level crossing removal projects are already out to market. The Labor Government will also improve safety at 52 high-risk country level crossings and 25 high-risk rail pedestrian crossings in the regions - because the road toll touches our whole state."
                 }
             ], 
-            "parent_id": "3e312d52-243c-4460-a517-fa3007f68c13", 
+            "parent_id": "7afddda9-9fd0-40d3-a741-87197b8a3944", 
             "type": "h3", 
-            "id": "f3be61d2-94bd-4c51-9bf8-2dfa549e4ed7"
+            "id": "cffe1def-8e83-4e52-8f2a-120419be896f"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Transport", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Biggest ever investment in public transport $5-$6 billion to remove our worst level crossings $9-$11 billion for Melbourne Metro $574 million to reduce congestion on busy roads More trains, more trams, and more new jobs"
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h1", 
+            "id": "575acdfb-7160-467c-ab90-3be8617abf55"
         }, 
         {
             "direction": "ltr", 
@@ -234,9 +260,9 @@
                     "text": "The Budget commits $9-$11 billion to deliver the Melbourne Metro Rail Project, including $1.5 billion over four years, to complete the planning and design of the project and to commence construction by 2018. The project will build two nine-kilometre underground rail tunnels through the heart of Melbourne, stretching from South Kensington to South Yarra. It's the biggest overhaul to the train network since the construction of the City Loop, creating space for more trains across the network and serving 20,000 extra passengers during peak times every day."
                 }
             ], 
-            "parent_id": "39365f9f-ecae-4292-a15b-fdbe302f3a34", 
+            "parent_id": "575acdfb-7160-467c-ab90-3be8617abf55", 
             "type": "h3", 
-            "id": "4a72a5b0-3574-4d2e-bf3c-c2b7ab3d865b"
+            "id": "428a956f-f916-483b-819e-d30bd2cbd4f0"
         }, 
         {
             "direction": "ltr", 
@@ -247,9 +273,9 @@
                     "text": "The Budget provides more than $600 million to build 20 new E-Class trams, build 21 new VLocity train carriages, and refurbish the Comeng train fleet and B-Class trams. REMOVING LEVEL CROSSINGS: \uf034 Reduces congestion. Level crossings make up almost half of the RACV's traffic hotspots in Melbourne. Boom gates can stay down for up to 80 minutes over the morning peak. \uf034 Means more trains can run on every line. At present, the addition of services on major train lines would cause traffic chaos on surrounding streets. \uf034 Helps reduce the road toll. There were over 240 crashes at level crossings over the decade to 2013. That's not good enough in the road safety capital. This is part of Victoria's first long-term rolling stock strategy and it will directly support jobs in rolling stock manufacturing and maintenance, and boost the entire supply chain. Immediate investments include: \uf034 21 new VLocity regional carriages to be built in Dandenong \uf034 20 new E-Class trams and upgrades and urgent works on 25 B-Class trams \uf034 Extending the life of Comeng trains in the existing metropolitan fleet Ordering 37 trains for the Cranbourne-Pakenham line, upgrading signalling and removing every level crossing between Caulfield and Dandenong will transform Melbourne's busiest train line, boosting capacity by up to 42 per cent and accommodating an extra 11,000 passengers in the morning peak. In addition, $90 million is provided for five new X'Trapolis trains to be built in Ballarat."
                 }
             ], 
-            "parent_id": "39365f9f-ecae-4292-a15b-fdbe302f3a34", 
+            "parent_id": "575acdfb-7160-467c-ab90-3be8617abf55", 
             "type": "h3", 
-            "id": "12787efa-0ee4-48a5-9323-6d23dd7537e4"
+            "id": "d8d385c6-9901-4169-a97a-a0a5dd398bd8"
         }, 
         {
             "direction": "ltr", 
@@ -257,12 +283,12 @@
             "content": [
                 {
                     "media_type": "text/plain", 
-                    "text": "The Budget provides $50 million to trial all-night public transport on weekends to get shift workers and late night revellers home safely. Homesafe will begin on 1 January next year. The Budget also provides $100 million to improve bus services by introducing new and expanded routes, restoring services and fixing missing links in growth areas. This includes: $15 million for better integration of the bus network, so students can get to uni more easily and families in growing suburbs have services they can rely on. In addition, $7.6 million is allocated for a new bus interchange and improved car parking at Huntingdale Station, assisting students at Monash University. Families in Mernda - one of Australia's fastest growing areas - deserve better public transport. For years, locals have campaigned for the extension of the South Morang Line to serve their community. The Budget provides $9 million to develop and plan the Mernda Rail Link project, so public transport becomes a real option for local residents."
+                    "text": "The Budget provides $50 million to trial all-night public transport on weekends to get shift workers and late night revellers home safely. Homesafe will begin on 1 January next year. The Budget also provides $100 million to improve bus services by introducing new and expanded routes, restoring services and fixing missing links in growth areas. This includes: $15 million for better integration of the bus network, so students can get to uni more easily and families in growing suburbs have services they can rely on. In addition, $7.6 million is allocated for a new bus interchange and improved car parking at Huntingdale Station, assisting students at Monash University. Families in Mernda - one of Australia's fastest growing areas - deserve better public transport. For years, locals have campaigned for the extension of the South Morang Line to serve their community. The Budget provides $9 million to develop and plan the Mernda Rail Link project, so public transport becomes a real option for local residents. 42% boost in capacity on Cranbourne-Pakenham line $50 million to trial all-night public transport on weekends $100 million to improve bus services"
                 }
             ], 
-            "parent_id": "39365f9f-ecae-4292-a15b-fdbe302f3a34", 
+            "parent_id": "575acdfb-7160-467c-ab90-3be8617abf55", 
             "type": "h3", 
-            "id": "5b3635af-9872-476e-982f-7ef3cbb6eff5"
+            "id": "530b48f8-a142-444b-94de-9be915647283"
         }, 
         {
             "direction": "ltr", 
@@ -273,9 +299,9 @@
                     "text": "The Budget invests $574 million to fix the congested roads that Victorians use to get to work, get back home and get around their community. This includes: $150 million to undertake the next stage of the M80 upgrade, to widen the road and install traffic management equipment from Sunshine Avenue to the EJ Whitten Bridge. $110 million to duplicate the Chandler Highway bridge over the Yarra River, easing congestion for the thousands of motorists who use it daily. $90 million for smaller initiatives that will make a big difference, including intelligent transport system technology and upgrades to congested chokepoints in suburban and regional areas. $86.7 million to resurface unsafe, deteriorating roads around the state, so families in the outer suburbs and regional Victoria can get around safely. $40 million for the first stage of the West Gate Distributor project, which will take 5000 trucks off the West Gate Bridge every day when completed. In addition, $273 million is provided towards a project to widen CityLink and the Tullamarine Freeway, speeding up travel times to and from the airport for businesses and families. A further $76 million is provided for 23 projects on key freight corridors so heavy vehicles can take more direct routes to our farms, towns and communities."
                 }
             ], 
-            "parent_id": "39365f9f-ecae-4292-a15b-fdbe302f3a34", 
+            "parent_id": "575acdfb-7160-467c-ab90-3be8617abf55", 
             "type": "h3", 
-            "id": "e3d90f9e-c729-4758-b23f-91abcc6146ed"
+            "id": "375aef18-f804-4ae0-9419-8a2337c683c6"
         }, 
         {
             "direction": "ltr", 
@@ -286,9 +312,9 @@
                     "text": "Victoria is the road safety capital of the world, and the Andrews Labor Government is investing $131 million to make our roads even safer, so families have peace of mind. The Budget includes: $80 million to open the first dedicated road safety complex in the world: a Crash and Trauma Education Centre that will educate young drivers about the consequences of poor decisions on the road and help repeat driving offenders. $24.4 million for free defensive driving courses for Year 10 students, because young people need to know how to handle a vehicle in all conditions and situations. $16 million to continue the L2P driver mentor program, so those who don't have access to a car can still get their licence if they need it for work. Victoria is the creative capital, home to arts, music, culture and sport, blockbuster major events, a pristine natural environment and the most liveable and multicultural city in the world. This is what sets us apart and this is what makes us strong. We're the leading state for new visitors, new events and new families - and the Budget will keep Victoria number one."
                 }
             ], 
-            "parent_id": "39365f9f-ecae-4292-a15b-fdbe302f3a34", 
+            "parent_id": "575acdfb-7160-467c-ab90-3be8617abf55", 
             "type": "h3", 
-            "id": "86c2c59f-e736-4dc2-aa4c-74e1b62a1eb8"
+            "id": "6fc40287-a77d-41bf-a010-d6dd3e255d01"
         }, 
         {
             "direction": "ltr", 
@@ -299,9 +325,9 @@
                     "text": "Major events create local jobs, grow our economy and give Victorian families something to do and something to see, together. The Andrews Labor Government will grow Victoria's visitor economy and make sure we never lose our edge. $80 million is provided to sponsor more major events across Victoria, attracting more visitors and growing our tourism industry. In addition the Stage 2 development of the Melbourne Exhibition and Convention Centre will establish Victoria as an international home for business and industry tourism."
                 }
             ], 
-            "parent_id": "39365f9f-ecae-4292-a15b-fdbe302f3a34", 
+            "parent_id": "575acdfb-7160-467c-ab90-3be8617abf55", 
             "type": "h3", 
-            "id": "09ef9447-54b2-4a12-a40e-02232bc61da7"
+            "id": "62f6e541-d556-4dc3-9a72-2ebb08ad5ff6"
         }, 
         {
             "direction": "ltr", 
@@ -312,9 +338,9 @@
                     "text": "Victoria's creative industries support thousands of jobs and inject hundreds of millions into our economy every year. The Budget provides more than $200 million to support Victorian arts, culture, film, television, music and design and give our creative industries a new life. This includes: $55.4 million towards an $83.1 million redevelopment of the State Library of Victoria, increasing the library's public spaces by 40 per cent and upgrading technology so lessons and workshops can be broadcast. $30 million to redevelop the Geelong Performing Arts Centre, a much loved facility at the heart of the region which needs a new life to attract more events."
                 }
             ], 
-            "parent_id": "39365f9f-ecae-4292-a15b-fdbe302f3a34", 
+            "parent_id": "575acdfb-7160-467c-ab90-3be8617abf55", 
             "type": "h3", 
-            "id": "8cd3e146-1e83-43a4-b620-4ad77eba6379"
+            "id": "02711a56-04d5-434b-b013-5ca3d3bcc81f"
         }, 
         {
             "direction": "ltr", 
@@ -322,12 +348,12 @@
             "content": [
                 {
                     "media_type": "text/plain", 
-                    "text": "$13.4 million to restore and refurbish the crumbling Palais Theatre - the spiritual home of Australian live music - so performances can continue. The Budget also includes funding to: \uf034 Invest in the independent arts sector so more people can get involved. \uf034 Support regional galleries and help bring the arts to new regional audiences. \uf034 Continue the National Gallery's Summer Program for modern art and design. \uf034 Start Music Works to boost Victorian contemporary music and support local jobs. \uf034 Support the Victorian screen industry, including Film Victoria."
+                    "text": "$80 million to bring more major events to Victoria $70 million to boost Simonds Stadium capacity $13.4 million to restore the Palais Theatre $13.4 million to restore and refurbish the crumbling Palais Theatre - the spiritual home of Australian live music - so performances can continue. The Budget also includes funding to: \uf034 Invest in the independent arts sector so more people can get involved \uf034 Support regional galleries and help bring the arts to new regional audiences \uf034 Continue the National Gallery's Summer Program for modern art and design \uf034 Start Music Works to boost Victorian contemporary music and support local jobs \uf034 Support the Victorian screen industry, including Film Victoria"
                 }
             ], 
             "parent_id": "", 
             "type": "h1", 
-            "id": "99ca1a3c-d368-4eb0-a365-40f5554224ca"
+            "id": "0a02ff75-6afb-4b8c-a985-64d7641bf415"
         }, 
         {
             "direction": "ltr", 
@@ -338,9 +364,9 @@
                     "text": "The Andrews Labor Government will upgrade Victoria's stadiums so they can host more events, more spectators, and join the MCG in the league of great sporting arenas. The Budget provides: $70 million to build a new grandstand at Geelong's Simonds Stadium, improving facilities and increasing the ground's capacity to 36,000 - a new life for Australia's proudest regional stadium. $25 million to redevelop the historic Junction Oval in St Kilda to create an additional first-class cricket venue, building the new home of Victorian cricket, for families and professional players alike. The Andrews Labor Government wants to encourage more families to get active, get out on the pitch and get together in club rooms that are clean and comfortable. The Budget provides: $100 million for a Community Sports Infrastructure Fund, helping local clubs upgrade tired grounds and build the facilities they need to grow their membership. $10 million from the Fund will be used to build decent, functional female change rooms at local grounds, because no one should have to get changed in the car park. $14.1 million will encourage more people to get outdoors, take up sport and maintain an active, healthy lifestyle. $9.6 million will build 64 new netball courts in inner-city areas, supporting one of Melbourne's fastest growing sports. Credit: Courtesy of City of Greater Geelong"
                 }
             ], 
-            "parent_id": "99ca1a3c-d368-4eb0-a365-40f5554224ca", 
+            "parent_id": "0a02ff75-6afb-4b8c-a985-64d7641bf415", 
             "type": "h3", 
-            "id": "ca2cace3-3e53-4343-ab6c-4b882084b871"
+            "id": "19441c50-3617-41e9-9be7-075118e14648"
         }, 
         {
             "direction": "ltr", 
@@ -351,9 +377,9 @@
                     "text": "We live in the most diverse society in the world. The Andrews Labor Government wants to make sure all Victorians, no matter their background, can feel at home in our state. The Budget includes: $37.9 million in community projects to build relationships, promote harmony and make our state even stronger and $11 million to support our state's bustling cultural precincts."
                 }
             ], 
-            "parent_id": "99ca1a3c-d368-4eb0-a365-40f5554224ca", 
+            "parent_id": "0a02ff75-6afb-4b8c-a985-64d7641bf415", 
             "type": "h3", 
-            "id": "eed48403-6c8a-4cb7-9d24-ef102be672b4"
+            "id": "7d17a6c2-c453-4d7c-bf83-a14cf2cae762"
         }, 
         {
             "direction": "ltr", 
@@ -361,12 +387,12 @@
             "content": [
                 {
                     "media_type": "text/plain", 
-                    "text": "The Andrews Labor Government is investing in the future of our pristine natural environment so more families can get outdoors and experience it together. The Budget provides $118 million to give families a safe, enjoyable and comfortable way to see our natural assets. This includes: $11 million to upgrade dilapidated buildings, toilets, paths and roads and build new facilities in national and state parks across Victoria. $5.8 million to continue free entry at Victoria's zoos for children under 16 on weekends, public holidays and during school holidays, and $9 million to complete the new and exciting Predator Prey precinct at Melbourne Zoo. $13.5 million to complete the Portarlington Safe Harbour project, giving the pier a new life as a hub for boating, recreation and the local aquaculture industry. $50 million to continue planned burning on public land, which reduces bushfire risk, and $7 million to remove hazardous trees next to roads and tracks. A new mountain bike facility at Harcourt, and a 144 kilometre trail through the Grampians National Park, will also be funded to bring more tourists to our regions. Climate change is back on the agenda. Schools, businesses and farmers will get the support they need to become more sustainable. The Budget also includes $45 million to protect our rivers and waterways, improve the health of agricultural land and help farmers manage water use more efficiently. All families deserve fairness and every child deserves every chance. The 2015-16 Victorian Budget focuses on the building blocks of our safe, just and fair society, providing support to families when they need it."
+                    "text": "The Andrews Labor Government is investing in the future of our pristine natural environment so more families can get outdoors and experience it together. The Budget provides $118 million to give families a safe, enjoyable and comfortable way to see our natural assets. This includes: $11 million to upgrade dilapidated buildings, toilets, paths and roads and build new facilities in national and state parks across Victoria. $5.8 million to continue free entry at Victoria's zoos for children under 16 on weekends, public holidays and during school holidays, and $9 million to complete the new and exciting Predator Prey precinct at Melbourne Zoo. $13.5 million to complete the Portarlington Safe Harbour project, giving the pier a new life as a hub for boating, recreation and the local aquaculture industry. $50 million to continue planned burning on public land, which reduces bushfire risk, and $7 million to remove hazardous trees next to roads and tracks. A new mountain bike facility at Harcourt, and a 144 kilometre trail through the Grampians National Park, will also be funded to bring more tourists to our regions. Climate change is back on the agenda. Schools, businesses and farmers will get the support they need to become more sustainable. The Budget also includes $45 million to protect our rivers and waterways, improve the health of agricultural land and help farmers manage water use more efficiently. $11 million to improve facilities in national and state parks $9 million for Melbourne Zoo's Predator Prey precinct All families deserve fairness and every child deserves every chance. The 2015-16 Victorian Budget focuses on the building blocks of our safe, just and fair society, providing support to families when they need it."
                 }
             ], 
-            "parent_id": "99ca1a3c-d368-4eb0-a365-40f5554224ca", 
+            "parent_id": "0a02ff75-6afb-4b8c-a985-64d7641bf415", 
             "type": "h3", 
-            "id": "efa1ec31-c1fb-488c-b012-fcb8b3ec4450"
+            "id": "dfa673b8-56fa-45c0-97a8-39bcfd5761e2"
         }, 
         {
             "direction": "ltr", 
@@ -377,9 +403,9 @@
                     "text": "One Australian woman is killed by her current or former partner every week. This is our number one law and order issue and Australia's first Royal Commission into Family Violence will give us the answers. The Budget provides $81.3 million to support the work of the Royal Commission, and to take immediate action to protect women and children and hold perpetrators accountable. This funding will relieve the pressure on strained family violence support services until the Royal Commission reports back to the community in early 2016. The Labor Government will be guided by the recommendations of the Royal Commission in the future."
                 }
             ], 
-            "parent_id": "99ca1a3c-d368-4eb0-a365-40f5554224ca", 
+            "parent_id": "0a02ff75-6afb-4b8c-a985-64d7641bf415", 
             "type": "h3", 
-            "id": "93957195-145b-49a5-8c49-fb9b94595cf9"
+            "id": "4d284436-06e2-4fdd-a6a1-e505b8b37bbe"
         }, 
         {
             "direction": "ltr", 
@@ -390,9 +416,9 @@
                     "text": "The safety of Victoria's children is a shared responsibility. When the most vulnerable members of our population are at risk of danger, it is the Government's duty to step in and protect them. Investment in children and family services will grow by 14.4 per cent in 2015-16, compared to growth of 6.6 per cent on average over the last four years. The Andrews Labor Government is investing $257 million in Victoria's child protection system, so children, their families and their carers get the support they need. The Budget invests $48.1 million for Child FIRST and Family Services to improve early intervention, to help prevent abuse and neglect before it occurs, or before it gets worse. The Budget also provides $65.4 million to employ more than 110 child protection workers to respond to reports of abuse and neglect and expand child protection capacity statewide. Foster carers make a great sacrifice to care for our most vulnerable children. The Budget invests $31.4 million to consolidate allowances to provide greater support to carers, helping them meet their costs."
                 }
             ], 
-            "parent_id": "99ca1a3c-d368-4eb0-a365-40f5554224ca", 
+            "parent_id": "0a02ff75-6afb-4b8c-a985-64d7641bf415", 
             "type": "h3", 
-            "id": "341bfd03-66cc-46b9-9de7-2ae06b61599c"
+            "id": "0eb43c97-5781-46ec-9358-5e67e80435d0"
         }, 
         {
             "direction": "ltr", 
@@ -400,12 +426,12 @@
             "content": [
                 {
                     "media_type": "text/plain", 
-                    "text": "The Andrews Labor Government will remove barriers in the system, helping children transitioning to permanent care and providing pathways for those who are leaving care. The Budget also includes: \uf034 $21.3 million to help young people leave out-of-home care and gain independence \uf034 $20.8 million to help families who are at risk of having their children placed in out-of-home care and help children in out-of-home care reunite with their families \uf034 $11.7 million to support permanent care services, securing places for more children \uf034 $39 million to expand out-of-home care placements and a further $6.3 million to upgrade residential care homes across Victoria"
+                    "text": "Urgent support for strained family violence services Additional funding to protect our most vulnerable children $45.5 million to help families and communities overcome ice addiction The Andrews Labor Government will remove barriers in the system, helping children transitioning to permanent care and providing pathways for those who are leaving care. The Budget also includes: \uf034 $21.3 million to help young people leave out-of-home care and gain independence \uf034 $20.8 million to help families who are at risk of having their children placed in out-of-home care and help children in out-of-home care reunite with their families \uf034 $11.7 million to support permanent care services, securing places for more children \uf034 $39 million to expand out-of-home care placements and a further $6.3 million to upgrade residential care homes across Victoria"
                 }
             ], 
             "parent_id": "", 
             "type": "h1", 
-            "id": "b282121b-015d-4fee-b869-1fb5d0f4f312"
+            "id": "1b375fc2-b57e-4e7c-8c8b-198d2cc7d6f2"
         }, 
         {
             "direction": "ltr", 
@@ -416,9 +442,9 @@
                     "text": "In communities across our state, ice is on the rise and it's ruining people's lives. If users go without treatment, and families go without support, more lives will be lost. The Budget provides $45.5 million to fund the Andrews Labor Government's Ice Action Plan, which was developed alongside Victoria Police and health experts. This includes: \uf034 $4.6 million to help families identify and manage ice users \uf034 $400,000  to help frontline workers deal with the risk of getting attacked at work \uf034 $18 million to expand drug treatment and rehabilitation so users can get the help they need"
                 }
             ], 
-            "parent_id": "b282121b-015d-4fee-b869-1fb5d0f4f312", 
+            "parent_id": "1b375fc2-b57e-4e7c-8c8b-198d2cc7d6f2", 
             "type": "h3", 
-            "id": "a723a75b-aa63-44b0-8aab-d2f761e6dd3e"
+            "id": "77d4be84-4096-469b-b28d-85934b769afc"
         }, 
         {
             "direction": "ltr", 
@@ -429,9 +455,9 @@
                     "text": "The Andrews Labor Government is taking action to help Victorian families stay in their home, stay in their community and stay together. The Budget invests: $40.3 million for innovative early intervention projects, reducing homelessness by helping struggling families secure affordable housing or maintain their tenancy. These projects currently support approximately 2000 clients every year. $6.6 million to expand training and employment centres near public housing estates across the state, and upgrade community and rooming houses."
                 }
             ], 
-            "parent_id": "b282121b-015d-4fee-b869-1fb5d0f4f312", 
+            "parent_id": "1b375fc2-b57e-4e7c-8c8b-198d2cc7d6f2", 
             "type": "h3", 
-            "id": "ef58e1a9-a6c6-4da4-8284-a04d2383b13e"
+            "id": "d3048561-1a51-4082-a0ed-627c1b11b837"
         }, 
         {
             "direction": "ltr", 
@@ -442,9 +468,9 @@
                     "text": "Aboriginal Victorians face institutional disadvantage. They deserve a better standard of living, a fair helping hand and the freedom to live as they choose. The Budget provides $28.9 million to address Aboriginal disadvantage by improving access to employment, continuing support for Aboriginal cultural heritage management and supporting Aboriginal families. The Budget also provides $1.8 million to respond to the findings of Taskforce 1000 and support Aboriginal children and their families. Taskforce 1000 is investigating the experiences of Aboriginal children in out-of-home care - monitoring their development within society and the connection to their community. Giving police and emergency services men and women the resources they need to do their job keeps them safe at work and keeps us safe at home."
                 }
             ], 
-            "parent_id": "b282121b-015d-4fee-b869-1fb5d0f4f312", 
+            "parent_id": "1b375fc2-b57e-4e7c-8c8b-198d2cc7d6f2", 
             "type": "h3", 
-            "id": "e2db15f8-2644-416a-b5ac-deba9fd4cd49"
+            "id": "22381eff-22b6-4a0a-b8ea-0db6e687f846"
         }, 
         {
             "direction": "ltr", 
@@ -455,9 +481,9 @@
                     "text": "The Andrews Labor Government is investing $78 million in our emergency services, increasing funding to support and recruit more firefighters. The Budget provides: Funding to commence the recruitment of 450 additional career firefighters. $9.6 million for a program that dispatches firefighters at the same time as paramedics, increasing survival chances for heart attack patients. $33.5 million to purchase 70 new CFA trucks with modern, up-to-date firefighting technology to boost the capability and safety of the volunteers who crew them. $11 million to give firefighters a safe and comfortable place to meet and train and help their units grow, upgrading rundown and threadbare CFA stations and amenities. New stations will be built in Huntly, Buninyong, Plenty and Edithvale, and toilets and bathroom facilities will be installed at up to 100 CFA stations. $200,000 to expand support services for firefighters suffering post traumatic stress disorder, because they can be exposed to horrific scenes any time they're on shift. In addition $30 million will be provided to implement all recommendations of the Hazelwood Coal Mine Fire Inquiry."
                 }
             ], 
-            "parent_id": "b282121b-015d-4fee-b869-1fb5d0f4f312", 
+            "parent_id": "1b375fc2-b57e-4e7c-8c8b-198d2cc7d6f2", 
             "type": "h3", 
-            "id": "2861a7d9-d9b2-45bf-b690-a7ec6b25737d"
+            "id": "a2d019da-d516-4750-8c85-f4f41b14c046"
         }, 
         {
             "direction": "ltr", 
@@ -465,12 +491,12 @@
             "content": [
                 {
                     "media_type": "text/plain", 
-                    "text": "The Labor Government has started a new CFA district, is conducting a long-term health study of the fire and implementing better procedures to manage smoke if such an event ever occurs again. A new emergency services hub for fire and ambulance services will also be established at Morwell, to strengthen the emergency response in the Latrobe Valley."
+                    "text": "70 CFA trucks The answers that Latrobe Valley locals deserve 400 more police officers out on the beat The Labor Government has started a new CFA district, is conducting a long-term health study of the fire and implementing better procedures to manage smoke if such an event ever occurs again. A new emergency services hub for fire and ambulance services will also be established at Morwell, to strengthen the emergency response in the Latrobe Valley."
                 }
             ], 
             "parent_id": "", 
             "type": "h1", 
-            "id": "9b091f12-7e54-4456-8f47-6f1b5951c1e9"
+            "id": "796d56b5-e05c-4905-b16e-a26bfd00e3bf"
         }, 
         {
             "direction": "ltr", 
@@ -481,9 +507,9 @@
                     "text": "The Andrews Labor Government will put hundreds more police on our streets, investing $226 million to keep our community safe and give families peace of mind. The Budget includes: $148.6 million to recruit 400 custody officers to guard prisoners at 20 police stations across Victoria, allowing 400 police officers to return to the front line. Victoria's police officers are among the best in the world, but too many are stuck babysitting petty criminals in the local police lock-up instead of getting out on the beat where they belong. $35.4 million to upgrade the regional police radio system from the outdated analogue network to a secure, encrypted digital network to prevent eavesdroppers picking up details of police operations. $15 million to build a new police station in Mernda to give this growing area a permanent police presence. More police will also be stationed in Bellarine and Geelong. $15 million as part of the Ice Action Plan, to provide Victoria Police with new booze and drug buses to improve road safety. The new fleet will let police drug test 100,000 people a year for drugs. Further funding will also help police track down and close clandestine drug labs more quickly. In addition, $333 million is provided to increase the capacity of Victoria's prisons, including upgrades to women's and men's correctional facilities and expanded Community Correctional Services. Businesses in regional Victoria need confidence and support to grow. Young people want skills and jobs to stay in their hometown. Families deserve the freedom of the country with access to the services they need. Victoria's rural communities and regional cities matter, and the Andrews Labor Government is investing in their future so families and businesses get the support they need to live and prosper."
                 }
             ], 
-            "parent_id": "9b091f12-7e54-4456-8f47-6f1b5951c1e9", 
+            "parent_id": "796d56b5-e05c-4905-b16e-a26bfd00e3bf", 
             "type": "h3", 
-            "id": "8f8901d7-87d8-40e4-827f-e22203377681"
+            "id": "2dc0a531-2f89-43cc-9a87-f8396384a7bb"
         }, 
         {
             "direction": "ltr", 
@@ -494,9 +520,22 @@
                     "text": "Nothing is more important to families than the health and wellbeing of their loved ones. The 2015-16 Victorian Budget provides $2.1 billion to fix our hospitals and grow our health system. The Budget includes: $40 million to fix our ambulance system and upgrade ambulance stations, vehicles and equipment across the state. This includes a new ambulance station at Wendouree in Ballarat. $59 million to cut ambulance response times, reduce the long, agonising wait for paramedics in regional areas, and speed up the transfer of patients to emergency departments. $10 million to bring urgent heart treatment and care to Ballarat, funding a new cardiac catheterisation laboratory at Ballarat Base Hospital, so families in need don't have to travel to Melbourne. $4 million for the National Centre for Farmer Health, to support the wellbeing of the men and women who work on the land and $1.5 million for the Rural Financial Counselling Services."
                 }
             ], 
-            "parent_id": "9b091f12-7e54-4456-8f47-6f1b5951c1e9", 
+            "parent_id": "796d56b5-e05c-4905-b16e-a26bfd00e3bf", 
             "type": "h3", 
-            "id": "b470499d-96d6-436f-a3d8-1d2a0747e0e0"
+            "id": "18cc0d6d-7130-446f-a64b-8b16b4c22b5c"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Rural and regional Victoria", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "$10 million for Ballarat Base Hospital's cardiac services $1.5 million for Rural Financial Counselling Services Credit: Grindstone Creative"
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h1", 
+            "id": "938dd0a4-72ca-41cc-a0b6-6b798915decf"
         }, 
         {
             "direction": "ltr", 
@@ -507,9 +546,9 @@
                     "text": "The Andrews Labor Government is fixing schools across Victoria, supporting our kids and giving struggling regional families the help they need during the most important years of their child's life. The Budget provides: $117 million to rebuild, renovate or refurbish 21 crowded and outdated schools and buildings in regional Victoria, because kids can't get a first-rate education in a second-rate classroom. Funding to build new schools across the state for areas with a growing population, including two in regional Victoria: Sale Specialist School and Bannockburn 7-12. $12 million to plan the establishment of new Tech Schools including Gippsland, Ballarat, Bendigo and Geelong, so secondary students can get a head start on a hands-on vocation. $300 million to complete the $320 million TAFE Rescue Fund, bringing regional campuses back from the brink, helping them run more courses to train more students and give locals the skills they need."
                 }
             ], 
-            "parent_id": "cd1e44ff-6d74-420f-a020-469e70e9a07a", 
+            "parent_id": "938dd0a4-72ca-41cc-a0b6-6b798915decf", 
             "type": "h3", 
-            "id": "3f10c918-6b40-4a0a-917b-493cbb980c94"
+            "id": "b6e1cb5c-dee6-4091-aeef-359e89227370"
         }, 
         {
             "direction": "ltr", 
@@ -517,12 +556,12 @@
             "content": [
                 {
                     "media_type": "text/plain", 
-                    "text": "The jobs crisis hit regional Victoria the hardest. Iconic businesses closed down, young people left home and support for our oldest and proudest industries dried up. But the Andrews Labor Government is getting Victoria back to work, helping create 100,000 new jobs and giving industries and businesses the confidence to grow. The Budget includes: Funding for the Premier's Jobs and Investment Panel, which will give our most senior economic and business leaders a real say at the heart of the Government, creating high-skill, high-wage jobs. $508 million will be provided for strategic, job-creating investments, and the Panel will provide direct advice to the Premier on its expenditure. A $200 million Future Industries Fund will turbocharge investment in six high-growth emerging sectors in which Victoria is poised to lead the world. Two of the high-growth sectors - new energy technology and food and fibre processing - have a home in regional Victoria, and other sectors have room to grow in regional cities and communities. A $500 million Regional Jobs and Infrastructure Fund will be used to back regional businesses and get on with the projects that local families and industries need. This Fund includes $200 million to assist regional businesses to grow their workforce, expand markets and create jobs of the future and $250 million to invest in the projects that will help local industries grow. The Back to Work Act 2015 has already established a $100 million fund for payroll tax relief to companies who hire unemployed young people, the long-term unemployed and retrenched workers to help create 100,000 jobs."
+                    "text": "The jobs crisis hit regional Victoria the hardest. Iconic businesses closed down, young people left home and support for our oldest and proudest industries dried up. But the Andrews Labor Government is getting Victoria back to work, helping create 100,000 new jobs and giving industries and businesses the confidence to grow. The Budget includes: Funding for the Premier's Jobs and Investment Panel, which will give our most senior economic and business leaders a real say at the heart of the Government, creating high-skill, high-wage jobs. $508 million will be provided for strategic, job-creating investments, and the Panel will provide direct advice to the Premier on its expenditure. A $200 million Future Industries Fund will turbocharge investment in six high-growth emerging sectors in which Victoria is poised to lead the world. $117 million to upgrade regional schools $500 million Regional Jobs and Infrastructure Fund Two of the high-growth sectors - new energy technology and food and fibre processing - have a home in regional Victoria, and other sectors have room to grow in regional cities and communities. A $500 million Regional Jobs and Infrastructure Fund will be used to back regional businesses and get on with the projects that local families and industries need. This Fund includes $200 million to assist regional businesses to grow their workforce, expand markets and create jobs of the future and $250 million to invest in the projects that will help local industries grow. The Back to Work Act 2015 has already established a $100 million fund for payroll tax relief to companies who hire unemployed young people, the long-term unemployed and retrenched workers to help create 100,000 jobs."
                 }
             ], 
-            "parent_id": "cd1e44ff-6d74-420f-a020-469e70e9a07a", 
+            "parent_id": "938dd0a4-72ca-41cc-a0b6-6b798915decf", 
             "type": "h3", 
-            "id": "0ef5653d-3dd9-4809-9c1f-81e77e6ff74f"
+            "id": "f59acb34-8d38-4d66-b177-aa7fd0cf4dd2"
         }, 
         {
             "direction": "ltr", 
@@ -533,9 +572,9 @@
                     "text": "Country firefighters and police support every regional family. The Andrews Labor Government is giving them the resources they need to keep locals safe. The Budget includes: Funding to commence the recruitment of 450 additional career firefighters. $50 million to continue planned burning on public land, which reduces bushfire risk and $7 million to remove hazardous trees next to roads and tracks. $33.5 million to purchase 70 new CFA trucks with modern, up-to-date firefighting technology to boost the capability and safety of the volunteers who crew them. $11 million to give firefighters a safe and comfortable place to meet and train and help their units grow, upgrading rundown and threadbare CFA stations and amenities. New stations will be built in Huntly and Buninyong, and toilets and bathroom facilities will be installed at up to 100 CFA stations. $9.6 million to fund a program that dispatches firefighters at the same time as paramedics at 33 integrated CFA stations, increasing survival chances for heart attack patients. $200,000 to expand support services for firefighters suffering post-traumatic stress disorder, because they can be exposed to horrific scenes any time they're on shift. $30 million will be also provided to implement all the recommendations of the Hazelwood Coal Mine Fire Inquiry. The Andrews Labor Government has started a new CFA district, is conducting a long-term health study of the fire and implementing better procedures to manage smoke if such an event ever occurs again. A new emergency services hub for fire and ambulance services will be also be established at Morwell, to strengthen the emergency response in the Latrobe Valley. $35.4 million to upgrade the regional police radio system from the outdated analogue network to a secure, encrypted digital network to prevent eavesdroppers picking up details of police operations. $7.8 million for 15 new sworn police officers in the Bellarine Peninsula and Geelong area."
                 }
             ], 
-            "parent_id": "cd1e44ff-6d74-420f-a020-469e70e9a07a", 
+            "parent_id": "938dd0a4-72ca-41cc-a0b6-6b798915decf", 
             "type": "h3", 
-            "id": "72788c31-caae-4a5e-9776-202518fe9a4b"
+            "id": "fcc9acb0-07d8-4c93-ba17-858ccfd53ec0"
         }, 
         {
             "direction": "ltr", 
@@ -543,13 +582,26 @@
             "content": [
                 {
                     "media_type": "text/plain", 
-                    "text": "Safe, strong and thriving communities are the bedrock of regional Victoria, and the Andrews Labor Government will help cities and towns preserve their liveability. The Budget includes: A $50 million Stronger Regional Communities plan, helping towns attract more families and young people to live and work in regional Victoria. $20 million to bring the arts to our regions, build partnerships with local councils, support regional galleries and performing arts centres and shine a spotlight on creative industries across Victoria. $80 million to bring more major events to our state and attract more interstate and international visitors to regional Victoria and Melbourne. $70 million to build a new grandstand at Geelong's Simonds Stadium, improving facilities and increasing the ground's capacity to 36,000 - a new life for Australia's proudest regional stadium. $11 million to upgrade dilapidated buildings, toilets, paths and roads and build new facilities in national and state parks across Victoria. $13.5 million to complete the Portarlington Safe Harbour project, giving the pier a new life as a hub for boating, recreation and the local aquaculture industry. $45 million to protect our rivers and waterways, improve the health of agricultural land and help farmers manage water use more efficiently. Australia's governments need to work together to face up to our challenges as a nation. But working together means working in good faith and paying your fair share. The Commonwealth Government's cuts to our schools, hospitals and other services that every struggling family relies on, are simply unfair. These cuts include $8.9 billion from our education system and more than $13 billion from our health system over the next 10 years. Nor is Victoria getting our fair share of funding for the projects our state needs. Victoria's average share of national infrastructure funding has only been around 20 per cent since 2001-02. The Andrews Labor Government is investing in job-creating projects of national significance, transforming our public transport system and reducing the costs of congestion on busy roads. Victoria will keep standing up for our fair share of infrastructure funding so we can get on with these projects faster. Victoria opposes the cuts to our schools, hospitals and other services, and we will fight for our share of education funding. The Andrews Labor Government is prepared to work with the Commonwealth to help our state grow, but we will never work for them. We put Victorians first."
+                    "text": "Safe, strong and thriving communities are the bedrock of regional Victoria, and the Andrews Labor Government will help cities and towns preserve their liveability. The Budget includes: A $50 million Stronger Regional Communities plan, helping towns attract more families and young people to live and work in regional Victoria. $20 million to bring the arts to our regions, build partnerships with local councils, support regional galleries and performing arts centres and shine a spotlight on creative industries across Victoria. $80 million to bring more major events to our state and attract more interstate and international visitors to regional Victoria and Melbourne. $70 million to build a new grandstand at Geelong's Simonds Stadium, improving facilities and increasing the ground's capacity to 36,000 - a new life for Australia's proudest regional stadium. $11 million to upgrade dilapidated buildings, toilets, paths and roads and build new facilities in national and state parks across Victoria. $13.5 million to complete the Portarlington Safe Harbour project, giving the pier a new life as a hub for boating, recreation and the local aquaculture industry. $45 million to protect our rivers and waterways, improve the health of agricultural land and help farmers manage water use more efficiently. $20 million to bring the arts to regions $13.5 million to complete the Portarlington Safe Harbour project Australia's governments need to work together to face up to our challenges as a nation. But working together means working in good faith and paying your fair share. The Commonwealth Government's cuts to our schools, hospitals and other services that every struggling family relies on, are simply unfair. These cuts include $8.9 billion from our education system and more than $13 billion from our health system over the next 10 years. Nor is Victoria getting our fair share of funding for the projects our state needs. Victoria's average share of national infrastructure funding has only been around 20 per cent since 2001-02. The Andrews Labor Government is investing in job-creating projects of national significance, transforming our public transport system and reducing the costs of congestion on busy roads. Victoria will keep standing up for our fair share of infrastructure funding so we can get on with these projects faster. Victoria opposes the cuts to our schools, hospitals and other services, and we will fight for our share of education funding. The Andrews Labor Government is prepared to work with the Commonwealth to help our state grow, but we will never work for them. We put Victorians first."
                 }
             ], 
-            "parent_id": "cd1e44ff-6d74-420f-a020-469e70e9a07a", 
+            "parent_id": "938dd0a4-72ca-41cc-a0b6-6b798915decf", 
             "type": "h3", 
-            "id": "25d17a53-6095-47a4-927b-9c32cc06aacf"
-        } 
+            "id": "dee217e1-2cfc-4ec9-9f00-600ca7e06735"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Standing up for our state", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "If you would like to receive this publication in an accessible format please telephone 9651 0909 or email information@dtf.vic.gov.au. This document is also available in PDF and Word at budget.vic.gov.au. Victorian Budget 15 I 16 Budget Overview budget.vic.gov.au"
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h1", 
+            "id": "fefd48dc-e2da-4035-a820-a360426324cd"
+        }
     ], 
     "metadata": [
         {

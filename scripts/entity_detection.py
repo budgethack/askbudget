@@ -1,3 +1,5 @@
+import sys
+sys.path.append('..')
 import nltk.data
 
 from watson_developer_cloud import AlchemyLanguageV1
@@ -8,11 +10,19 @@ from elasticsearch import Elasticsearch
 import private
 
 if __name__ == '__main__':
-    tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
+    tokenizer = nltk.data.load('../scripts/nltk_data/tokenizers/punkt/english.pickle')
 
-    es = Elasticsearch()
+    print "first if"
+
+    es = Elasticsearch([private.ELASTICSEARCH_HOST])
+    print "es: "
+    print es
     al = AlchemyLanguageV1(api_key=private.ENTITY_API_KEY)
+    print "al: "
+    print al
     combined_operations = ['entity', 'keyword', 'taxonomy', 'concept']
+    print "combined ops"
+    print combined_operations
 
     for hit in scan(es, index='budgethack'):
         source = hit['_source']
@@ -21,6 +31,8 @@ if __name__ == '__main__':
             result = al.combined(
                 text=hit['_source']['text'], extract=combined_operations,
                 sentiment=True)
+            print "result: "
+            print result
             source.update(result)
             es.index(
                 id=hit['_id'], index='budgethack',
