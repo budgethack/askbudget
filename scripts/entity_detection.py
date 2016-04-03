@@ -18,7 +18,8 @@ if __name__ == '__main__':
 
     for hit in scan(es, index='budgethack'):
         source = hit['_source']
-
+        
+        print 'working...'
         if hit['_source']['text']:
             result = al.combined(
                 text=hit['_source']['text'], extract=combined_operations,
@@ -27,3 +28,4 @@ if __name__ == '__main__':
             es.index(
                 id=hit['_id'], index='budgethack',
                 doc_type=hit['_type'], body=source)
+        

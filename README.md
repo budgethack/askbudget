@@ -12,7 +12,7 @@ Team
 * Damon Toumbourou
 * Lucy Wood
 * Lex Toumbourou
-* Su Myat
+* Su Myat Noe Pwint
 * Ben Diep
 * Alex Cheong
 
