@@ -57,7 +57,7 @@ app.controller(
 
   var chart1 = {};
   chart1.type = "ColumnChart";
-  chart1.cssStyle = "height:500px; width:100%;border:1px solid red";
+  chart1.cssStyle = "height:300px; width:100%";
   chart1.data = {"cols": [
       {id: "category", label: "Year", type: "string"},
       {id: "families", label: "Families", type: "number"},
