@@ -16,8 +16,14 @@ app.config(['$routeProvider',
   }
 ]);
 
-app.controller('QueryCtrl', function($scope, $rootScope) {
-  console.log('Here I am');
+app.controller('QueryCtrl', function($scope, $rootScope, $location) {
+  $scope.sendQuestion = function(question) {
+    if (question) {
+      $location.path('/answer/').search({question: question});
+    } else {
+      $location.path('/')
+    }
+  }
 });
 
 app.controller('HomeCtrl', ['$scope', '$http', function($scope, $http) {

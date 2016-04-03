@@ -1,0 +1,807 @@
+{
+    "source_document_id": "", 
+    "media_type_detected": "application/pdf", 
+    "timestamp": "2016-04-03T09:33:58.077Z", 
+    "warnings": [], 
+    "answer_units": [
+        {
+            "direction": "ltr", 
+            "title": "Victorian Budget", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h1", 
+            "id": "16b9d813-65d4-42c1-b859-9f1690c248ff"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "2012-13 Budget Overview", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Secretary Department of Treasury and Finance 1 Treasury Place Melbourne, Victoria, 3002 Australia Telephone: +61 3 9651 5111 Facsimile: +61 3 9651 5298 Website: www.budget.vic.gov.au Authorised by the Victorian Government 1 Treasury Place, Melbourne, 3002 Printed managed by Finsbury Green, Level 9, 124 Exhibition Street, Melbourne 3000 This publication makes reference to the 2012-13 Budget Paper set which includes: Budget Paper No. 1 - Treasurer's Speech Budget Paper No. 2 - Strategy and Outlook Budget Paper No. 3 - Service Delivery Budget Paper No. 4 - State Capital Program Budget Paper No. 5 - Statement of Finances (incorporating Quarterly Financial Report No. 3) ((c)) Copyright State of Victoria 2012 This book is copyright. No part may be reproduced by any process except in accordance with the provisions of the Copyright Act 1968 . ISSN 1440-6969 Published May 2012 Printed on recycled paper"
+                }
+            ], 
+            "parent_id": "16b9d813-65d4-42c1-b859-9f1690c248ff", 
+            "type": "h2", 
+            "id": "dcf4661e-7489-4369-945a-5255be07a7af"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Treasurer's message", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The 2012-13 Budget drives economic growth, generates jobs and productivity, focusing on record infrastructure, frontline services and protecting the vulnerable. Victoria faces challenges - a high Australian dollar, weaker global and national economic conditions and a substantial reduction in GST and other revenue. Revenue from GST and stamp duty has fallen by $7.6 billion over four years - or almost $2 billion a year - relative to the levels predicted in late 2010. In the face of these challenges, the Government is taking decisive action to strengthen the State's finances, boost state-funded infrastructure to record levels (with a focus on productivity-enhancing infrastructure) while protecting the most vulnerable. We can only do this by keeping spending growth in check. Over the decade to 2010-11, state government spending grew by an average of 7.3 per cent per annum, outpacing revenue growth of 6.9 per cent. This left the budget exposed to falls in revenue. The 2012-13 Budget constrains spending growth to an average 2.9 per cent over the forward estimates period. Had spending continued at 7.3 per cent growth, the budget would now have a $4 billion deficit in 2012-13 and net debt would have risen to completely unsustainable levels. By keeping recurrent spending growth in check, the 2012-13 Budget delivers surpluses in every year and is able to fund a strong infrastructure spend. There are currently $41 billion worth of projects across the public sector. A strong infrastructure program is necessary to boost Victoria's productivity, the competitiveness of our industries, and to maintain liveability. This budget funds: \u2022 delivery of three major congestion initiatives in metropolitan Melbourne to cut travel times; \u2022 construction of the Dingley Bypass to improve traffic and freight movements in south east Melbourne; \u2022 purchase of new rolling stock for the regional rail network to improve the level of services across regional and rural Victoria; \u2022 major new periodic rail maintenance across the regional passenger and rail freight network; and \u2022 a number of important road upgrades including the Ballarat Western Link Road and the Koo Wee Rup Bypass. These are in addition to the major upgrade of Webb Dock to increase capacity and competition at the Port of Melbourne, and the Northern Victoria Irrigation Renewal project which is jointly funded with the Commonwealth. The budget also takes the next step in relation to a number of major transformational projects including the East West Link, Melbourne Metro rail and the Port of Hastings. To further drive economic activity and jobs, the budget keeps taxes competitive and cuts WorkCover premiums for employers. This will maintain Victoria's average workers' compensation premium rate as the lowest in Australia. It also invests heavily in skills and funds a $58 million manufacturing package, a new agriculture and food industry plan and a $50 million international engagement strategy to expand Victoria's export markets. Despite significant financial constraints, the budget includes additional funding to keep pace with demand in our public hospital system. In addition, the budget reflects the Government's focus on protecting the most vulnerable in our community. The budget makes a $336 million investment to assist vulnerable children and families, combining additional family services, maternal and child health funding, extra child protection workers and a less adversarial, more child friendly court process. A strong economy and strong government finances are fundamental to Victoria's ongoing prosperity. Without economic growth and a strong budget, important services and capital investments become unaffordable. For this reason, the 2012-13 Budget focuses squarely on reversing the legacy of excessive spending and project cost blow-outs, and addresses Victoria's current economic and fiscal challenges. Victoria has strong economic prospects in the years ahead. The 2012-13 Budget is a key step in meeting that potential. Kim Wells Treasurer Victoria has significant economic strengths, including a diverse industry base, competitive business environment, skilled workforce and liveable cities and regions. These strengths, together with the Government's economic strategy, positions Victoria to capitalise on the economic opportunities of the future, especially the unprecedented growth in the Asian middle class. However, Victoria faces significant immediate challenges. These include a high Australian dollar, the euro area recession and their impact on consumer and business confidence. Commonwealth policies like the carbon price will also impose new costs on the Victorian economy. Sectors including manufacturing, tourism, agriculture and international education are feeling these challenges acutely. Currently, output and employment growth are subdued, but are forecast to pick up beyond 2012-13. Despite current economic challenges, claims about a 'two-speed economy' are too simplistic. The mining boom has boosted demand for Victoria's knowledge-based industries, such as insurance and professional services. Agricultural prices and production volumes are high, and Victoria still leads Australia in dwelling investment and overall building construction activity."
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h1", 
+            "id": "fcb9f766-928b-4fd8-8875-7e58bdec652b"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "The Victorian economy", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Victorian economic projections (a)(b)(c) 2010-11 2011-12 2012-13 2013-14 2014-15 2015-16 Actual Forecast Forecast Forecast Forecast Forecast Real gross state product 2.5 1.50 1.75 2.75 2.75 2.75 Employment 3.5 0.00 0.25 2.00 1.75 1.75 Unemployment rate (d) 5.1 5.50 5.75 5.50 5.25 5.00 Consumer price index 3.3 2.25 2.75 2.50 2.50 2.50 Consumer price index (excluding carbon price) 3.3 2.25 2.25 2.25 2.50 2.50 Wage price index (e) 3.8 3.50 3.00 3.25 3.50 3.50 Population (f) 1.5 1.60 1.60 1.60 1.60 1.60 Sources: Australian Bureau of Statistics, Department of Treasury and Finance. Notes: (a) Year-average per cent change on previous year. All economic projections are rounded to the nearest 0.25 percentage point, except population projections, which are rounded to the nearest 0.1 percentage point. (b) All economic projections, except where otherwise indicated, include the impact from the Commonwealth Government's carbon price scheme commencing in 2012-13. (c) Key assumptions underlying the economic projections include interest rates following the forecasts prepared by the Treasury Corporation of Victoria up to the December quarter 2012 and held constant thereafter, constant exchange rates and oil prices follow the path suggested by oil futures. (d) Year-average, per cent. (e) Total hourly rate excluding bonuses. (f) June quarter, per cent change on previous June quarter. Dispersion of growth within federations (a)(b) Av er ag e an nu al g ro w th ra te (p er c en t) 5 4 3 2 1 0 -1 -2 Australia growth rates Victoria National average growth Range of sub-national Canada US Euro area Spain Germany Sources: Australian Bureau of Statistics, Statistics Canada, Bureau of Economic Analysis, Eurostat. Notes: (a) Dispersion of gross product growth rates at the sub-national level for a number of federations over 1999 to 2009. (b) Highest growth and lowest growth regions shown, along with the national average."
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h1", 
+            "id": "26bd1e4b-8c8b-4961-9c6b-b83429dde601"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "A plan to strengthen the economy", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Government's economic strategy focuses on strengthening Victoria's underlying economic fundamentals. Over the last decade, Victorian productivity growth has been falling, and became negative over the period 2005-06 to 2009-10. Having exceeded the national average growth rate in the second half of the 1990s, Victoria's productivity performance lagged Australia as a whole over the period 2000-01 to 2009-10. The 2012-13 Budget delivers on the Government's plan by: \u2022 generating stronger surpluses to fund major productivity-enhancing infrastructure; \u2022 cutting WorkCover premiums for Victorian employers by 3 per cent to drive down business costs; \u2022 delivering a $58 million manufacturing strategy focused on lifting individual firm productivity and investing in technological innovation; \u2022 funding a new international engagement strategy to expand Victoria's export markets, particularly in rapidly growing Asian economies; \u2022 investing in programs to boost agricultural industries, focusing on productivity and biosecurity; and \u2022 driving large investment and reform of the skills sector to boost apprenticeships and encourage students into high productivity, skill-shortage qualifications. A strong budget is fundamental to these efforts. Without a strong budget position, these vital investments - in infrastructure, skills and key industries - would be unaffordable."
+                }
+            ], 
+            "parent_id": "26bd1e4b-8c8b-4961-9c6b-b83429dde601", 
+            "type": "h3", 
+            "id": "646f1fbf-8961-467b-806c-ca33abd2e48c"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Economic reform agenda", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Government's economic reform agenda is founded on four pillars that will boost Victoria's economy. Creating significantly stronger budget capacity Strengthening the State's finances is vital to fund a substantial program of high quality infrastructure and deliver better quality frontline services without accumulating unsustainable levels of public debt and safeguarding against future adverse financial shocks. Improving productivity Productivity growth is the long-run determinant of economic prosperity and improved living standards. The Government's reform agenda promotes sustained productivity improvements through a more competitive business environment, more highly skilled workforce, and better delivery of infrastructure. Growing export markets International engagement is increasingly important and will enable Victorian businesses to capitalise on emerging global opportunities. The Government's economic strategy includes increasing trade engagement and expansion into new markets to create jobs and investment. Supporting industries and employees in transition Structural change is inevitable in Victoria's open and dynamic economy. The Government's role is to create an environment for existing and emerging businesses and industries to take advantage of opportunities provided by structural change. The Government will provide assistance geared towards helping companies and workers transition and adjust in response to changes in consumer demands and industry structures. Av er ag e an nu al p er ce nt ag e ch an ge 3.0 2.5 2.0 1.5 1.0 0.5 0.0 -0.5 -1.0 -1.5 1990-91 to 1994-95 1995-96 to 1999-2000 2000-01 to 2004-05 2005-06 to 2009-10 Australia Victoria Victorian and Australian average annual multifactor productivity growth Sources: Victorian Competition and Efficiency Commission, Department of Treasury and Finance."
+                }
+            ], 
+            "parent_id": "26bd1e4b-8c8b-4961-9c6b-b83429dde601", 
+            "type": "h3", 
+            "id": "2bae6904-8858-4b91-a978-10909cd6a95f"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Revenue shocks", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "State revenue has fallen significantly due to weaker economic conditions, combined with a flawed system of GST revenue distribution between the states. Weak national consumption and a fall in Victoria's share of GST have meant that total GST revenue to Victoria has been downgraded by $6.1 billion over the four-year budget period, relative to when the Government came to office. Revenue from property stamp duty has fallen by $1.5 billion over the same period. This means that revenue has been reduced by $7.6 billion over four years - or almost $2 billion annually - from these two sources alone. This is a larger revenue write-down than occurred during the global financial crisis of 2008. In addition, from 2008, the Commonwealth's stimulus package added significant revenue to Victoria. By contrast, the current revenue impacts are compounded by expiring stimulus programs and a lack of Commonwealth commitment to the renewal of expiring National Partnership payments."
+                }
+            ], 
+            "parent_id": "26bd1e4b-8c8b-4961-9c6b-b83429dde601", 
+            "type": "h3", 
+            "id": "a0231ea0-5e8d-418f-8822-23075b017bb2"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Need for action", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Victoria was not well positioned to deal with these revenue shocks. Over the decade to 2010-11, average annual expenditure growth (of 7.3 per cent per annum) outstripped annual revenue growth (6.9 per cent per annum). Debt was rising and the operating surplus was artificially boosted by temporary stimulus payments from the Commonwealth. If spending were to keep growing as it did over the past decade, this year's budget would be in deficit by $4 billion. In response, the Government has constrained expenditure growth to an average of 2.9 per cent each year from 2013-14 to 2015-16. The Government's restraint is driven by a further round of savings. Since late 2010, the Government has put in place almost $9 billion in measures to support a more sustainable budget position. These measures will deliver projected operating surpluses of $155 million in 2012-13 rising to $2.5 billion by 2015-16."
+                }
+            ], 
+            "parent_id": "26bd1e4b-8c8b-4961-9c6b-b83429dde601", 
+            "type": "h3", 
+            "id": "a60bbbbb-ddcd-43f7-8d72-9e35c84e731d"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Strengthening Victoria's finances", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Changes to GST revenue for 2012-13 to 2015-16 (since 2010-11 Budget Update ) Source: Department of Treasury and Finance. $ bi lli on 1.0 0.0 -1.0 -2.0 -3.0 -4.0 -5.0 -6.0 -7.0 2011-12 Budget (Share) 2011-12 Budget (Pool) Total downgrade over 18 months 2012-13 Budget -2.9 -1.3 -2.0 -6.1 Source: Department of Treasury and Finance. Annual expenditure growth (2001-02 to 2015-16) pe r ce nt 15 12 9 6 3 0 2001-02 2003-04 2005-06 2007-08 2009-10 2011-12 2013-14 2015-16 Annual change in expenditure: 2001-02 to 2009-10 Annual change in expenditure: 2010-11 to 2015-16 2012-13 Budget and forward estimates Budget surplus ($ million) 2011\u201112 2012\u201113 2013\u201114 2014\u201115 2015\u201116 Revised Budget Estimate Estimate Estimate Net result from transactions 126 155 861 1 076 2 528 Source: Department of Treasury and Finance."
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h1", 
+            "id": "d292b129-8acf-4dea-8ff0-d5e0bf20eedd"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Funding infrastructure", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Operating surpluses provide a source of funding from which the Government can deliver necessary infrastructure without unsustainable borrowing. In 2010-11, only 44 per cent of the Government's infrastructure spend was funded from the operating surplus. If this trend continued, debt would rapidly become unsustainable. With the actions taken in this budget, the proposed infrastructure spend funded by debt will decrease over the forward estimates. The Government's fiscal strategy will see net debt peak at 6.5 per cent of gross state product (GSP) and fall to 6.0 per cent by the end of the forward estimates period. Strong ongoing operating surpluses will allow further debt reduction over the longer term. Had the Government not taken corrective action, net debt would have risen to almost $60 billion or nearly 15 per cent of GSP by 2016. Capital expenditure funded from available sources Source: Department of Treasury and Finance. $ bi lli on % o f G SP8 6 4 2 0 4 3 2 1 0 20 00 20 01 20 02 20 03 20 04 20 05 20 06 20 07 20 08 20 09 20 10 20 11 20 12 20 13 20 14 20 15 20 16 Capital expenditure funding through cash surpluses (LHS) Capital expenditure funding through debt (LHS) Excess cash surpluses (LHS) Capital expenditure % GSP (RHS) Source: Department of Treasury and Finance. Notes: (a) Expenses assumed to grow at 7.3 per cent a year (this corresponds to the average annual historical growth from 2000-01 to 2010-11) from 2011-12 to 2015-16. (b) Revenues, capital expenditure, finance leases, other investment activities and non-cash income and expenses are assumed to be the same as in 2012-13 Budget . Net debt with no government actions (a)(b) $ m ill io n 70 000 60 000 50 000 40 000 30 000 20 000 % G SP 16 14 12 10 8 6 4 10 000 2 0 0 2011-12 2012-13 2013-14 2014-15 2015-16 Net debt (LHS) Net debt to GSP (RHS) Net debt no action to GSP (RHS) Net debt no action (LHS)"
+                }
+            ], 
+            "parent_id": "d292b129-8acf-4dea-8ff0-d5e0bf20eedd", 
+            "type": "h3", 
+            "id": "729e8cdc-2452-4e4c-a060-b0b60f0284d7"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Medium-term fiscal strategy", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Government's actions will meet or progress towards the following medium-term fiscal strategy and parameters: \u2022 Infrastructure investment of 1.3 per cent of GSP (calculated as a rolling five-year average). \u2022 General government net debt reduced as a percentage of GSP over the decade to 2022. \u2022 Fully fund the unfunded superannuation liability by 2035. \u2022 A net operating surplus of at least $100 million and consistent with the infrastructure and debt parameters. The Government is delivering a substantial capital program to boost productivity and improve the quality of life of all Victorians. Victorian general government sector infrastructure expenditure is expected to reach record levels in 2012-13, after excluding extraordinary capital expenditure associated with the Commonwealth Government's fiscal stimulus. The total value of public sector capital projects underway in 2012-13 is expected to exceed $41 billion. The Government is commencing new projects worth $2.7 billion. The quality, performance and capacity of the road, rail and port network will be improved to reduce bottlenecks in the transport supply chain, including: \u2022 the Port Capacity project at the Port of Melbourne, which will increase stevedoring capacity and competition in the sector by redeveloping Webb Dock as an international container terminal; and \u2022 development of the Victorian Freight and Logistics Plan to identify options to manage current and future freight demand, and to promote efficiency and minimise the environmental and amenity impacts of freight movement."
+                }
+            ], 
+            "parent_id": "d292b129-8acf-4dea-8ff0-d5e0bf20eedd", 
+            "type": "h3", 
+            "id": "6bd234bb-f792-4f8b-afba-81ef672283f0"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Road and rail upgrades", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The budget funds significant new road and rail infrastructure including: \u2022 eliminating level crossings at Springvale Road, Springvale, and Mitcham and Rooks Roads in Mitcham; \u2022 constructing the Dingley Bypass; \u2022 purchasing regional rolling stock; \u2022 funding the Koo Wee Rup Bypass and duplication of Narre Warren-Cranbourne Road; \u2022 funding the Ballarat Western Link Road and extending the duplication of the Western Highway between Beaufort and Buangor; \u2022 funding for Stud Road duplication from Boronia Road to Mountain Highway; \u2022 $171.9 million in rail renewal for the regional freight and passenger rail network; \u2022 additional maintenance funding for the West Gate bridge; and \u2022 land acquisition for the new Grovedale railway station and improved passenger access to Warragul Station."
+                }
+            ], 
+            "parent_id": "d292b129-8acf-4dea-8ff0-d5e0bf20eedd", 
+            "type": "h3", 
+            "id": "2163d587-5434-4db3-bddd-10183cc636de"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Infrastructure and productivity", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h1", 
+            "id": "5abd1708-231a-46e2-b7e2-1927b2eb58b1"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Cutting congestion", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Up to 39 trains travel through the Springvale Road level crossing during the morning peak, approximately 4 300 vehicles approach the intersection, and around 1 000 pedestrians cross the railway. The boom gates are closed for approximately 50 minutes of the two-hour peak period (around 40 per cent). Boom gates are closed for approximately 45 per cent of the time at the Mitcham Road level crossing during peak periods and are often down for up to seven minutes at a time (or around 54 minutes during the two-hour morning and afternoon peaks). Elimination of these level crossings will relieve congestion delays and reduce individual road user's trip times by up to 25 per cent."
+                }
+            ], 
+            "parent_id": "5abd1708-231a-46e2-b7e2-1927b2eb58b1", 
+            "type": "h3", 
+            "id": "ec96bc71-ee58-4546-8321-3a0a15c489ce"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Better regional rail services", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Patronage on V/Line services has grown by 100 per cent over the past six years and this growth is expected to continue. Procurement of additional carriages to be delivered between 2014 and 2017 will reduce overcrowding and allow more passengers to travel on each train service. General government capital program $ m ill io n 7 000 6 000 5 000 4 000 3 000 2 000 1 000 0 2008-09 2009-10 2010-11 2011-12 2012-13 2013-14 2014-15 2015-16 Infrastructure investment associated with Commonwealth fiscal stimulus ( Building the Education Revolution and Social Housing ) Infrastructure investment excluding Commonwealth fiscal stimulus Source: Department of Treasury and Finance."
+                }
+            ], 
+            "parent_id": "5abd1708-231a-46e2-b7e2-1927b2eb58b1", 
+            "type": "h3", 
+            "id": "ba89b37e-c7c7-431a-9133-4c5e28af7e7d"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Long-term major infrastructure projects", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "A key element of the Government's fiscal strategy is to constrain recurrent expenditure growth and build stronger surpluses to fund future infrastructure. The Government is committed to a medium-term infrastructure investment parameter of 1.3 per cent of GSP (calculated as a rolling five-year average). The 2012-13 Budget progresses a number of major projects which have the potential to transform Victoria's transport and freight network, including: \u2022 $15 million to deliver the business case for the East West Link. The Government will immediately commence engineering surveys and preliminary geotechnical drilling to inform development of the business case. The business case will consider funding options, including private sector involvement, and the Government will continue to seek a significant Commonwealth contribution to the project; \u2022 $49.7 million to progress the planning and development of the Melbourne Metro rail project; and \u2022 $4 million for the Port of Hastings Development Authority to commence preparations for the expansion of the Port of Hastings to handle international container trade within 10 to 15 years. In addition, the Government is continuing to progress a number of feasibility studies commenced in last year's budget. These include the Doncaster rail study, the feasibility study for the Rowville rail link and the airport rail link study. All of these major projects form part of Victoria's submission to Infrastructure Australia, and the Government will continue to seek Commonwealth contributions to reflect the macroeconomic significance of these potentially transformational investments. Source: Department of Treasury and Finance. Projected infrastructure investment $ m ill io n % o f G SP o ve r a ro lli ng fi ve -y ea r pe ri od7 000 6 000 5 000 4 000 3 000 2 000 1 000 0 2.1 1.8 1.5 1.2 0.9 0.6 0.3 0 2012-13 2014-152013-14 2015-16 2016-17 2017-18 2018-19 2019-20 2020-21 2021-22 f ive-year average infrastructure investment (budget and forward estimates) five-year average infrastructure investment (projection) % of GSP over a rolling five-year period (budget and forward estimates) % of GSP over a rolling five-year period (projections) Projections2012-13 Budget and forward estimates"
+                }
+            ], 
+            "parent_id": "5abd1708-231a-46e2-b7e2-1927b2eb58b1", 
+            "type": "h3", 
+            "id": "1736f703-bf32-4d2a-b1ae-51ddde932ebc"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Value for money and infrastructure funding", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "To ensure the best value for money and improve its ability to fund infrastructure, the Government: \u2022 has introduced a high degree of rigour into the planning and delivery of infrastructure projects to promote cost certainty; and \u2022 has established a Construction Code Compliance Unit to implement, monitor and uphold the new Implementation Guidelines to the Victorian Code of Practice for the Building and Construction Industry, which will be effective from 1 July 2012."
+                }
+            ], 
+            "parent_id": "5abd1708-231a-46e2-b7e2-1927b2eb58b1", 
+            "type": "h3", 
+            "id": "fed1ccda-0a85-48fd-82ad-9dae758b37a8"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Supporting and growing manufacturing", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Manufacturing is a vital contributor to Victoria's economy. It remains our single largest full-time employer. In the face of significant challenges - including the high Australian dollar and the impact of the carbon tax - the Victorian Government is acting to secure a stronger future for manufacturing. In December 2011, the Government released its manufacturing blueprint, A More Competitive Manufacturing Industry, outlining new policy directions based on raising productivity at the individual firm level, including through stronger grassroots business engagement. This more direct model of business engagement will see new Victorian Government Business Offices open in Ringwood and Tottenham. Unfortunately, over the past decade, labour productivity in Victoria's manufacturing industry has lagged behind other states. The 2012-13 Budget funds a $58 million manufacturing strategy to address these challenges. The strategy has five components: 1. $13.7 million over four years for the Specialist Manufacturing Service to work with medium-sized firms to achieve world-class service standards, including through certification of efficiency and supply reliability; 2. $24.8 million over four years to provide incentives for firms to invest in leap-ahead technologies to make their businesses more competitive; 3. $7.5 million over four years to support business-to-business networks to assist transfer of knowledge, information and technology;"
+                }
+            ], 
+            "parent_id": "5abd1708-231a-46e2-b7e2-1927b2eb58b1", 
+            "type": "h3", 
+            "id": "608082bf-e77b-46d9-93e8-7468bbc00ebf"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Growing Victorian businesses", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Dingley Bypass - connecting manufacturing hubs Sources: VicRoads, Department of Business and Innovation. N 0 5 10 Kilometres2.5 No. of Businesses 20 to 100 100 to 150 150 to 250 250 to 350 350 to 1,280 Source: ABS Cat No.9165.0 Dingley Bypass 2012-13 Budget funded section"
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h1", 
+            "id": "62db903b-99b3-434b-8dad-c13006fff919"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Manufacturing (2009)", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Moorabbin Dandenong 4. $9 million for Building Innovative Small Manufacturers, including more specialised workshops and improved access to government information and programs; and 5. $3 million over four years to deliver support and information to employees in transition. The Government will continue to support local manufacturing through its local content policies. In addition, the cut to WorkCover premiums and the Government's infrastructure agenda will help boost the competitiveness and productivity of Victorian manufacturing. For example, the construction of the Dingley Bypass will complete the arterial link between the manufacturing hubs of Moorabbin and Dandenong. Source: Department of Primary Industries. $ m ill io n 1 800 1 600 1 400 1 200 1 000 800 600 400 200 0 2006-07 2007-08 2008-09 2009-10 2010-11 China Japan US New Zealand Indonesia Top five markets for Victorian food and fibre exports"
+                }
+            ], 
+            "parent_id": "62db903b-99b3-434b-8dad-c13006fff919", 
+            "type": "h3", 
+            "id": "924c8508-0465-4401-8e13-b244bdd35f28"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Driving productivity and profitability in agriculture", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Higher prices and better climatic conditions have helped boost Victorian agricultural production and exports. The Government's Agriculture and Food Industry Program will focus on maximising these opportunities. The budget provides additional assistance to support and improve the productivity of Victoria's agricultural industries, including to: \u2022 increase the rate of genetic improvement in dairy cattle, develop new feeding systems and improve water use efficiency; \u2022 build industry capability in livestock disease surveillance, strengthen community-led action on the management of wild dogs and established weeds, provide enhanced traceability systems for horticulture industries and improve forestry biosecurity;"
+                }
+            ], 
+            "parent_id": "62db903b-99b3-434b-8dad-c13006fff919", 
+            "type": "h3", 
+            "id": "1c74762e-90db-4706-8f3f-10b948502328"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "International Engagement Strategy", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Through the Victorian International Engagement Strategy , the Government will support a larger number of businesses to engage with overseas markets, increase export sales and increase investment. Victoria has already strengthened its trade and investment relationships with India through a SuperTrade Mission in 2012 involving more than 200 Victorian companies and organisations, and will undertake a mission to China in the second half of 2012. Building on the successful trade mission to India, the strategy is a key response to significant challenges facing the Victorian economy and will increase the competitiveness and productivity of Victorian firms. \u2022 deliver enhanced technologies to improve yields and quality of cereal, oilseed and pulse crops, and establish a National Genetics Resources Centre in Horsham; \u2022 increase the supply of red meat by improving livestock fertility and lamb survival, establishing on-farm participatory research and demonstration trials to apply research findings in a commercial environment, and establish a National (Southern) Red Meat Innovation Centre in Hamilton; and \u2022 support the development of new varieties and orchard production systems for pears, stonefruit and almonds, to enhance access to priority markets in North and South East Asia."
+                }
+            ], 
+            "parent_id": "62db903b-99b3-434b-8dad-c13006fff919", 
+            "type": "h3", 
+            "id": "6e65023d-517f-4dfa-a50e-3a1fde2f017f"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Supporting small business", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The 2012-13 Budget reinforces the Government's strong commitment to small business. Despite fiscal challenges, the budget keeps Victoria's business taxes competitive, and cuts Workcover premiums for employers. The budget funds new programs for small business including $9 million for Building Innovative Small Manufacturers and continued funding for Business Victoria Online and SuccessMap for Small Business, which help small businesses become more resilient, competitive and productive. The Government will continue to reduce red tape and regulation, as well as oppose national measures such as the carbon price which increase costs for Victorian small businesses. The Government will continue to push back against any move to nationally harmonise occupational health and safety laws which penalise Victorian small businesses. Victoria's future economic growth will be underpinned by a better educated and skilled workforce, increasing productivity and workforce participation. The State has the most employer-responsive and market-driven training system in Australia, with expenditure on training subsidies up by 50 per cent over the past four years, and enrolments growing strongly. A strong and sustainable vocational education and training (VET) system is vital for Victoria's future. The Government is driving a more dynamic, innovative training system, with better quality oversight and stronger targeting of investment to tackle skills shortages and fuel economic growth. The 2012-13 Budget invests a further $1 billion in the skills sector. The Government is ensuring that funding returns to a sustainable level and is targeted to areas of greatest public benefit and future jobs growth. The hourly funding rate provided to many courses that offer the largest benefits to Victoria will increase, both for Technical and Further Education (TAFE) and private providers. Subsidy rates will rise for Certificate III and IV courses in areas like carpentry, bricklaying, engineering, plumbing, aged care, children's services and disability services. Funding rates for a number of other courses will fall, reflecting the need to achieve more sustainable outcomes in response to significant demand growth. All apprenticeship courses will see an increase in hourly rate funding. TAFE funding rates will be brought in line with private sector providers, boosting competition and choice. The Government will work with TAFEs to develop new business models and leverage their established strengths in a more competitive training market. New models of industry engagement are being implemented to ensure that VET is driven by and responsive to industry needs. This will include better information for employers about training providers. In addition, the Government is: \u2022 strengthening pathways into training with an expanded entitlement to allow Victorians of any age whose highest qualification is a Victorian Certificate of Education or Victorian Certificate of Applied Learning, to access a training place at Certificate II and above, and the continuation of funding for pre-accredited training through the Learn Local provider network; \u2022 protecting students by requiring providers to disclose prices upfront and establishing the new market monitoring unit to review prices; and \u2022 working with providers to make sure VET FEE-HELP loans are available to reduce upfront costs for students. The Government will continue to provide additional assistance for Indigenous students, regional students, vulnerable young people and people on low incomes to access training. These reforms will ensure enrolment growth is financially sustainable and government subsidies better target productivity-enhancing training."
+                }
+            ], 
+            "parent_id": "62db903b-99b3-434b-8dad-c13006fff919", 
+            "type": "h3", 
+            "id": "048bdd15-041d-44e4-937c-1ab3c5f2182d"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Skills and education", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Source: Department of Education and Early Childhood Development. Examples of increases in VET hourly subsidy rates for selected high benefit skill areas ($) Course Private Sector Public Sector New rates Increase (for Public Sector) Certificate IV \u2022 Children's services (outside school hours care) 6.16 6.93 8.00 15% \u2022 Disability 6.16 6.93 8.00 15% \u2022 Home and community care 6.16 6.93 8.50 23% \u2022 Electrical 8.47 9.53 10.50 10% Certificate III \u2022 Plumbing (Apprentice) 10.01 11.26 12.50 11% \u2022 Bricklaying/blocklaying (Apprentice) 9.24 10.39 11.50 11% Modernisation and regeneration includes: \u2022 Ashwood Secondary College \u2022 Bairnsdale Secondary College \u2022 Belvoir Wodonga Special Developmental School \u2022 Birralee Primary School \u2022 Boronia K-12 College \u2022 Castlemaine Secondary College \u2022 Dingley Primary School \u2022 Galvin Park Secondary College \u2022 Gisborne Secondary School \u2022 Golden Square Primary School \u2022 Laverton P-12 College \u2022 Mirboo North Secondary College \u2022 Mount Waverley North Primary School \u2022 Northern Bay P-12 College \u2022 Ouyen P-12 College \u2022 Phoenix P-12 Community College \u2022 Ringwood North Primary School \u2022 Seaford North Primary School \u2022 Seaford Primary School \u2022 Templestowe College \u2022 Wandin Yallock Primary School \u2022 Wodonga Senior Secondary College \u2022 Woolsthorpe Primary School Source: Department of Education and Early Childhood Development."
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h1", 
+            "id": "f2a7dce1-eafa-4998-a933-ed929bbf2fb5"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Schools", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Government is embarking on a reform program that empowers school leaders and teachers to work with their communities to drive improvement in education outcomes. The 2011-12 Budget started this reform program with a range of initiatives including increased funding for primary maths and science specialists, primary welfare officers and additional school maintenance funding. Fairer funding for non-government schools was delivered to support the choices of families and the sacrifices parents make. The Government has built on these investments with a reform plan to devolve more decision making to principals and school communities rather than head office. A key component of this agenda is an effort to boost teacher quality through school-level performance management recognition and reward for excellence and flexibility in employment arrangements. In addition to funding provided under the Protecting Victoria's Vulnerable Children package, $30 million over three years will: \u2022 strengthen languages education through teaching scholarships and start up grants for schools; and \u2022 increase funding to support students with disabilities, including for the students with a disability transport program. The budget also provides total school capital works worth $200 million (total estimated investment). This investment will fund a new school at Doreen South, land acquisition in growth areas, feasibility and planning studies, and a number of modernisation and regeneration projects across metropolitan and regional Victoria. Growth in government funded VET enrolments (excluding pre-accredited training) th ou sa nd 700 600 500 400 300 200 100 0 201020092008 2011 2012 2013 2014 2015 2016 Actual Projected Source: Department of Education and Early Childhood Development."
+                }
+            ], 
+            "parent_id": "f2a7dce1-eafa-4998-a933-ed929bbf2fb5", 
+            "type": "h3", 
+            "id": "a5772ef1-3822-4f37-9571-6d1460379899"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "The budget strengthens protection for Victoria's most vulnerable", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Government will respond to growing demand for child protection services and improve support for all vulnerable children and their families. Reforms to the child protection system aim to prevent child abuse, reduce its impact on children and deliver the best possible outcomes for children in the care of the State. A comprehensive strategy - Victoria's Vulnerable Children: Our Shared Responsibility - is being developed in response to the findings of the Protecting Victoria's Vulnerable Children Inquiry. This strategy will be released in 2013. It will be a comprehensive step forward for improvements to Victorian child protection services, from prevention and diversion, to early intervention, the courts, care, support and the transition to independence. A newly released Directions Paper outlines the Government's planned year one reforms and activities that will form part of this strategy, including a range of new initiatives being specifically funded in the 2012-13 Budget. The Government's additional investment of $336 million over five years together with a comprehensive range of other reforms outlined in the Directions Paper, will improve frontline services in the education, health, human services, and justice sectors, focusing on prevention, early intervention and response."
+                }
+            ], 
+            "parent_id": "f2a7dce1-eafa-4998-a933-ed929bbf2fb5", 
+            "type": "h3", 
+            "id": "a299ff98-390c-4951-996d-000b1109fe09"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Assisting in the early years", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Government recognises the importance of children's participation in universal services during their early years. Funding will support and strengthen early home learning and parenting through preventative interventions including supported playgroups and parenting groups, and the Smalltalk literacy and learning program. Three year old children who are known to child protection services will continue to receive free access to kindergarten as part of the Government's commitment to support improved outcomes for these children. The Government will also continue the Access to Early Learning program that is trialling a more intensive approach to engaging vulnerable children and their families in early childhood education and care programs. Ensuring that pregnant women receive the assistance to maximise their own and their baby's health and wellbeing, will be achieved through the Healthy Mothers, Healthy Babies program which offers community-based support, health education and care coordination."
+                }
+            ], 
+            "parent_id": "f2a7dce1-eafa-4998-a933-ed929bbf2fb5", 
+            "type": "h3", 
+            "id": "2983be67-10f2-470c-99a4-fa1c49820d26"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Timely and effective intervention", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Government will expand the Child FIRST and Integrated Family Services programs to assist an additional 1 400 families each year to better meet a range of parenting challenges. These programs continue to work in partnership with child protection services to ensure that problems are identified and remedied early and children can remain safely with their families. The Stronger Families program (formerly known as Family Coaching) will continue to provide additional intensive support to families who have come to the attention of the child protection system and whose children are at imminent risk of being placed in out-of-home care. The Government will also expand this program into two additional sites. Reforms to student support services will include devolving funding to principals in government school clusters to allow services to be provided where they are most needed, and responding more quickly to the most vulnerable students. The Government investment will also improve outcomes for victims of sexual abuse. Three new Multi-Disciplinary Centres, bringing the State total to six, will be established where police, child protection workers and specialist counsellors will be co-located and work closely to address the needs of victims of sexual abuse."
+                }
+            ], 
+            "parent_id": "f2a7dce1-eafa-4998-a933-ed929bbf2fb5", 
+            "type": "h3", 
+            "id": "3d6000b1-2309-4b1a-a563-b950e151ab9d"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Protecting Victoria's", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h1", 
+            "id": "94aa769c-306d-474a-aa24-d85274e267fa"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "vulnerable children", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h1", 
+            "id": "2b8cd773-4e96-4b9a-9638-747699cdcb97"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Protecting vulnerable Victorian children", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "$80 million over five years to strengthen the child protection system including: \u2713\u2713 an additional 42 child protection workers; \u2713\u2713 workforce reform to free up workers for more direct assistance to children; and \u2713\u2713 Principal Practitioners to guide workers with challenging cases. $52 million over five years to increase support for families by expanding: \u2713\u2713 Child FIRST and Family Services; and \u2713\u2713 Stronger Families to two further sites. $48 million over four years for services in the early years: \u2713\u2713 free access by Child Protection clients to 3-year old kindergarten; \u2713\u2713 continuation of the Enhanced Maternal and Child Health service for high risk children; and \u2713\u2713 support for programs that engage vulnerable families in their child's early learning experience. $41 million over four years to reform child protection court processes to be less adversarial and more child friendly: \u2713\u2713 statewide roll-out of the New Model Conferencing service as an alternative to adversarial court hearings; and \u2713\u2713 new Children's Court at Broadmeadows Court. $70 million over four years to increase capacity and improve outcomes for children in state care including: \u2713\u2713 additional residential care placements; and \u2713\u2713 expansion of Therapeutic Residential Care."
+                }
+            ], 
+            "parent_id": "2b8cd773-4e96-4b9a-9638-747699cdcb97", 
+            "type": "h3", 
+            "id": "5759256f-14ce-469c-b7b2-2084c8fb6920"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Child protection workforce", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "For those children requiring the involvement of child protection services, the Government is reforming the way in which the workforce operates. The new model will increase the number and experience of practitioners working directly with vulnerable children and their families. This will allow more experienced child protection professionals to pursue promotion and career advancement while remaining on the frontline with worker continuity to benefit children. Greater focus will be put on delivering services on a local area basis, strengthening links between local communities, child protection services and other key service providers. In addition, 42 extra child protection workers will be funded to support the child protection workforce and meet growth in demand."
+                }
+            ], 
+            "parent_id": "2b8cd773-4e96-4b9a-9638-747699cdcb97", 
+            "type": "h3", 
+            "id": "3bf61a7c-4ecb-49c0-abbb-a11f33fb4d6d"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "A child-friendly court system", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Government is committed to reforming the way child protection matters are handled in the Children's Court to ensure that it operates in a child-friendly way. The budget provides funding for: \u2022 expanded New Model Conferencing services across Victoria that provide a non-adversarial forum to resolve complex disputes on child protection matters; and \u2022 establishing an additional Children's Court facility at Broadmeadows Court that will implement less adversarial trial models and address pressures at the Melbourne Children's Court."
+                }
+            ], 
+            "parent_id": "2b8cd773-4e96-4b9a-9638-747699cdcb97", 
+            "type": "h3", 
+            "id": "f5389e7d-9832-421e-9a98-1552b40dc27a"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Improving outcomes for children in out-of-home care", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Increases in demand for residential care will be addressed with a further 34 placements. This will help ensure that placements are more stable and children in residential care are less likely to move around the system. This provides more stable access to peer groups as well as health and education services. In recognition of the need for improved and more specialised assistance for children and young people who have experienced trauma, the Government will support a phased expansion of the therapeutic residential care program to boost the total number of places. Trials of this model have demonstrated key benefits for young people involved including significant improvements in school success, social skills, and reducing anti-social behaviour and substance abuse. Recognising that timeliness is essential in establishing a permanent arrangement for those children unable to return to live with their families, dedicated teams will review the circumstances of children aged under 10 who have been in care for extended periods and resolve barriers to permanency."
+                }
+            ], 
+            "parent_id": "2b8cd773-4e96-4b9a-9638-747699cdcb97", 
+            "type": "h3", 
+            "id": "2fc17cd3-acd1-4b06-aecb-9fc1b4283af9"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Vulnerable children in Victoria", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Victorians made 55 000 reports of suspected child abuse and neglect to the Department of Human Services in 2010-11. This represents an increase of 49 per cent from 2000. Every week nearly 60 young Victorians are removed from their parents and placed in out-of-home care. On average, these children stay in the care of the State for about 18 months and some will move between three or more separate placements in a single year. For those children who will never be reunited with their parents, it takes an average of five years from the time of a child's first report for a permanent care order to be granted. Over the past decade, the number of children and young people in out-of-home care has increased by 44 per cent, an annual growth of around 4 per cent a year - bringing the total number of children and young people in care to approximately 5 700 at June 2011. Source: Protecting Victoria's Vulnerable Children Inquiry Report 2012. The Government is continuing to deliver on its election commitments and to meet demand for health services in the context of challenging economic conditions."
+                }
+            ], 
+            "parent_id": "2b8cd773-4e96-4b9a-9638-747699cdcb97", 
+            "type": "h3", 
+            "id": "108d63a6-eefd-4f06-87d9-1d55e6826e0d"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Investment in the health system", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The 2012-13 Budget provides $13.7 billion to Victoria's hospitals and health system. The Government's investment in the health system will be delivered efficiently and in a manner that best meets the community's needs."
+                }
+            ], 
+            "parent_id": "2b8cd773-4e96-4b9a-9638-747699cdcb97", 
+            "type": "h3", 
+            "id": "7ab743a4-c68c-4da6-8369-e7655e9e5771"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Treating additional patients", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Despite the fiscal challenges faced in this budget, significant new money will flow to public hospitals to treat more patients. This will include: \u2022 $883 million in increased funding for acute care services; and \u2022 $364 million in total estimated investment for health and aged care asset investments across Victoria. To boost child health services, the budget includes: \u2022 the new intensive day patient program at the Royal Children's Hospital for young people with severe eating disorders, preventing prolonged or repeated inpatient care and improving treatment outcomes; and \u2022 ongoing testing at the Royal Children's Hospital for primary ciliary dyskinesia."
+                }
+            ], 
+            "parent_id": "2b8cd773-4e96-4b9a-9638-747699cdcb97", 
+            "type": "h3", 
+            "id": "2bead239-41ab-4ea2-854b-19c0526680d1"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Health sciences", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Government will continue to support research infrastructure including for cancer research through the Victorian Cancer Agency."
+                }
+            ], 
+            "parent_id": "2b8cd773-4e96-4b9a-9638-747699cdcb97", 
+            "type": "h3", 
+            "id": "1fcf3dee-89f9-43d8-8a93-da336768155a"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Health and hospitals", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h1", 
+            "id": "2201cf6c-f302-4cda-962e-5cd6b5d260ef"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Health services", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Fulfilling an election commitment, the Government will continue and expand the Vision 2020 initiative which raises awareness of eye health and vision care, and aims to prevent avoidable blindness and reduce the impact of vision loss for all Victorians. The Government will provide more funding for the home and community care program to enable older people and younger people with a disability to remain living in their home. Residential aged care facilities at Swan Hill District Health will also be redeveloped to provide 45 residential aged care beds in a purpose built and upgraded facility."
+                }
+            ], 
+            "parent_id": "2201cf6c-f302-4cda-962e-5cd6b5d260ef", 
+            "type": "h3", 
+            "id": "7945c109-523f-46fb-b911-e0f05702f637"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Mental health services", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Mental health service capacity will be boosted through: \u2022 the opening of short-stay beds in a new Psychiatric Assessment and Planning Unit at Sunshine Hospital, which will provide accelerated access to specialist psychiatric assessments and short-term treatment; \u2022 funding for new acute adult mental health beds to ease demand pressures on emergency departments and the shortage of inpatient beds; and \u2022 funding to modify, refurbish and redevelop community-based mental health infrastructure, with priority given to works that support service delivery reform and innovation."
+                }
+            ], 
+            "parent_id": "2201cf6c-f302-4cda-962e-5cd6b5d260ef", 
+            "type": "h3", 
+            "id": "a8d2f554-8265-4343-a062-b15455ae9776"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Capital investment in hospitals and health services", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Health assets are critical in enabling and supporting the effective delivery of health services. Strategic asset investment helps drive innovation in health care, meet demand in health services and facilitate the attraction and retention of health workers. These investments in our health infrastructure are also critical to increase Victoria's long-term productivity and economic growth. The 2012-13 Budget provides a broad range of health investments from the Victorian health infrastructure fund, country hospital fund, and other general health investments. Key health projects include: \u2022 $93 million to expand Geelong Hospital by 64 beds and to increase its capacity to provide palliative care, and also care for patients with cancer and older patients with complex needs; \u2022 $46 million for an additional 60 beds at Ballarat Hospital to expand acute capacity and provide additional ambulatory care services. The redevelopment includes provision of a helipad on a new decked structure; \u2022 $15 million towards further development of the Sunshine Hospital to deliver critical care services and expand maternity services; \u2022 $23 million for a new purpose-built facility to replace the Charlton Hospital that was extensively damaged in the January 2011 floods; and \u2022 $40 million to expand and re-configure the Frankston Hospital Emergency Department to improve its capacity. The Government is providing funding in the budget for the following country hospital initiatives: \u2022 $10 million for Castlemaine Hospital, to relocate and refurbish the urgent care department, construct a second theatre and redesign the current day surgery ward and recovery area; \u2022 $20 million for the redevelopment and expansion of Kilmore and District Hospital with 30 new acute beds and a dedicated outpatients service; \u2022 $5 million for a new radiotherapy service in Warrnambool and the south west of Victoria; and \u2022 $2 million to introduce chemotherapy services at the Seymour Hospital. The Government will continue rolling out the Victorian health infrastructure fund including: \u2022 more than $7 million total estimated investment (TEI) to enable further planning and development for the new Monash Children's Hospital; \u2022 $2 million TEI to progress planning and development for the Royal Victorian Eye and Ear Hospital Redevelopment; \u2022 $6 million TEI for Regional Mother and Baby Units; and \u2022 more than $7 million TEI for the second stage of New Mental Health beds."
+                }
+            ], 
+            "parent_id": "2201cf6c-f302-4cda-962e-5cd6b5d260ef", 
+            "type": "h3", 
+            "id": "169b6645-0628-4f0e-9754-57c80a275709"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Supporting families", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The 2012-13 Budget underscores the Government's ongoing commitment to providing strong, responsive frontline services to families. This commitment, together with the Government's focus on strengthening the economy, will help Victorian families to meet their full potential. During challenging times, the Government has worked hard to maintain critical health services. In this budget, the Government is providing an additional $364 million in capital spending for hospitals and public health services, including key regional services in Geelong, Ballarat, Seymour, Kilmore and Charlton. In 2012-13 the Government has allocated more than $9.3 billion to maintain hospital service delivery. In addition, $59.6 million over four years will support the Victorian Cancer Agency, including its work to translate cancer research into treatments for patients. The budget continues high expenditure on education and skills, in recognition of their vital importance to Victorian youth. Significant additional spending of $1 billion over four years has been allocated to refocus the vocational education and training sector to meet the strong demand for training. Together with ongoing reform in this sector, this investment will support further growth in enrolments and a more responsive sector for students. The Government is also committed to ensuring that schools meet the needs of each family. As well as strengthening local decision-making in government schools, the Government is creating an ongoing 25 per cent link between government and non-government school funding so that families are treated fairly regardless of their school choice. So children can attend schools close to home, the Government is committing $200 million to building and modernising schools including in our fastest growing communities. A $63 million over four years investment for Victoria's maternal and child health services will ensure that Victorians continue to receive high levels of support into the future. This year's budget also protects the most vulnerable, responding to growing demand in child protection services and boosting support for all vulnerable children and their families. The Government is $336 million over five years for immediate frontline initiatives to focus on prevention and early intervention. This will complement a comprehensive future strategy that responds to the Protecting Victoria's Vulnerable Children Inquiry. Additionally, the Government is preparing for the introduction of a National Disability Insurance Scheme to improve support to Victorians with a disability, as well as their families and carers. The Government will continue to support low-income families that are most vulnerable to cost-of-living pressures. This year's budget provides additional concessions funding for energy, water and municipal rates. Families have a fundamental right to feel safe. Central to this is the Government's commitment to deliver the largest increase in police numbers during a single term of government in the State's history. The budget also provides significant additional investment to assist police and emergency services with much-needed infrastructure. The Government is also continuing to strengthen the justice system, through investments in new prison capacity, reforms abolishing suspended sentences for all serious crimes and tougher punishments to send the message that crime will not be tolerated."
+                }
+            ], 
+            "parent_id": "2201cf6c-f302-4cda-962e-5cd6b5d260ef", 
+            "type": "h3", 
+            "id": "01cf2005-1baa-4929-82ee-88ebbf00bbac"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Community safety", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The budget includes a range of measures to maintain a viable and sustainable volunteer firefighting force in rural areas, and safeguard communities from bushfires, including: \u2022 additional Country Fire Authority (CFA) vehicles including pumpers, tankers and specialist appliances; \u2022 construction or upgrade of CFA rural fire stations; \u2022 support for individuals and communities affected by the 2009 Victorian bushfires through continuation of the Fire Recovery Unit; \u2022 non-compulsory acquisition of properties in high-risk bushfire areas; \u2022 works and upgrades to ensure fire safety in supported accommodation facilities for people with a disability, children living in out-of-home care and Youth Justice Centres; and \u2022 staged replacement of high risk powerlines with insulated cables and installation of enhanced network protection and control equipment. The budget provides $54.2 million to further meet the recommendations of the 2009 Victorian Bushfires Royal Commission. The Government will expand the planned burning program to reduce fuel load and offer greater protection to communities and assets. The planned burn in 2012-13 will be 250 000 hectares. Budget funding will also provide mapping data free of charge to emergency response agencies and assist local governments to identify and maintain a list of vulnerable people who would be at risk in emergencies. Communications in emergencies will be enhanced through upgrades to computer-aided dispatch infrastructure to manage high demand for emergency call responses, and enable the Victorian State Emergency Service to interface into incident control centres. Capital works to support delivery of police and emergency services include: \u2022 a co-located 24 hour police station and Victorian State Emergency Services headquarters at Waurn Ponds; \u2022 a new 24 hour police station at Emerald; \u2022 a new police residence in Axedale; \u2022 the replacement of the Operational Tactics and Safety Training complex in Essendon; \u2022 planning and development for a new police station at Mount Waverley; and \u2022 police station upgrades to accommodate the additional 1 700 frontline police and 940 protective services officers funded in the 2011-12 Budget ."
+                }
+            ], 
+            "parent_id": "2201cf6c-f302-4cda-962e-5cd6b5d260ef", 
+            "type": "h3", 
+            "id": "839bab18-4a74-4535-94df-673cf960b0b9"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Improving access to justice", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Funding will strengthen access to the Victorian justice system by: \u2022 funding to Victoria Legal Aid to provide casework and duty lawyer services; \u2022 maintaining access to language services for Victorians from diverse cultural and linguistic backgrounds; \u2022 continuing support for non-adversarial resolution of disputes that also alleviates pressure in Victorian courts; \u2022 continuing efficiency reforms in the Court of Appeal that have resulted in reductions in the number of pending criminal cases; and \u2022 establishing the Victorian Inspectorate and the Public Interest Monitor to oversee the Independent Broad-based Anti-corruption Commission."
+                }
+            ], 
+            "parent_id": "2201cf6c-f302-4cda-962e-5cd6b5d260ef", 
+            "type": "h3", 
+            "id": "abeacbc6-5042-4f07-a5ac-fa0ea11fff15"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Justice and community safety", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h1", 
+            "id": "3621b818-9df2-4133-8498-b528b1bfd7a4"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Corrections", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "This budget provides funding to strengthen Victoria's correction system, including through: \u2022 an additional 395 permanent prison beds at existing correctional facilities across Victorian prisons; \u2022 a new 500 bed medium-security male prison; \u2022 strengthening security systems at Barwon Prison to better manage high security prisoners; \u2022 increased capacity and improved security infrastructure across Victoria's youth justice centres and establishment of supporting infrastructure at the Parkville site; and \u2022 strengthening the management of serious sex offenders with more than $113 million over four years to continue specialist response activities, increase capacity to manage and monitor registered sex offenders within the community, and to manage the increased workload of the Adult Parole Board."
+                }
+            ], 
+            "parent_id": "3621b818-9df2-4133-8498-b528b1bfd7a4", 
+            "type": "h3", 
+            "id": "08d551dc-36e4-4eff-9eb3-2f17231ad469"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Rural and regional Victoria", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Barwon South West Geelong Hospital South West Radiotherapy Geelong Performing Arts Centre Grovedale Station Waurn Ponds police station Woolsthorpe Primary School Northern Bay P-12 College Hume Belvoir Wodonga Special Development School Hume Freeway rest area upgrades Kilmore and District Hospital Seymour Hospital chemotherapy chairs Wodonga Senior Secondary College Loddon Mallee Castlemaine Hospital Charlton Hospital Golden Square Primary School Malmsbury Youth Justice Precinct Ouyen P-12 College Robinvale P-12 College Swan Hill residential aged care Gippsland Bairnsdale Secondary College Mirboo North Secondary College Warragul Station car park Grampians Ballarat Hospital and helipad Ballarat Western Link Road Phoenix P-12 Community College Western Highway: Beaufort to Buangor The Government is strongly committed to rural and regional Victoria, from our small towns to our larger regional centres. It is important to understand and acknowledge the very significant contribution which rural and regional Victoria is making to Victoria's economic performance, particularly through strong agricultural exports. Victoria's food and fibre exports were worth $8.1 billion in 2010-11, accounting for a quarter of the State's exports. Victoria is responsible for 86 per cent of Australia's dairy exports. The Government's vision is for regional communities which are driven by thriving and resilient local industries, strong local networks and served by high quality services and infrastructure. The centrepiece of this strategy is the Government's $1 billion Regional Growth Fund announced in the 2011-12 Budget . This fund is investing in better infrastructure, services and facilities through programs like the Local Government Infrastructure Program. This program provides councils with certainty to plan for and build new infrastructure or renew assets. allocated to 40 local councils to maintain roads and bridges. The Government is also delivering the Regional Rail Link project, which will provide improved rail services from Geelong, Ballarat and Bendigo into Melbourne. The 2012-13 Budget funds the purchase of additional rolling stock to increase the capacity of the regional rail network. In addition, $171.9 million is committed to regional rail maintenance for both passenger and freight infrastructure. The mode shift incentive scheme is being continued to encourage more freight onto rail and off the road network. The 2012-13 Budget delivers significant new economic infrastructure including road upgrades and the Northern Victoria Irrigation Renewal Program, funded with the Commonwealth. In addition to economic infrastructure the Government is committed to investing in important social infrastructure to improve the liveability of Victoria's regions. The Government is progressing the procurement of the new Bendigo Hospital which will be a major new health asset for central Victoria over the decades to come. This budget is committing $199 million towards redeveloping rural and regional hospitals. In the 2012-13 Budget , further school, hospital, and aged care upgrades are being delivered across rural and regional Victoria. Community safety will be improved through police station upgrades to accommodate the additional 1 700 police across Victoria, and a new police and SES station at Waurn Ponds. The budget also upgrades CFA stations and equipment, and funds further planned burning to reduce the risk of bushfires. In addition, a further $160 million was"
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h1", 
+            "id": "8d50ac61-bf63-4ca1-8417-a20d3c72660f"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Environment and water", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Funding of $179.3 million will promote the sustainable management of water and address adverse water-related environmental impacts as part of the Government's urban water reform agenda in the Coalition's Plan for Water . The budget provides: \u2022 $100 million to take practical steps to improve the environmental health of Victorian rivers and wetlands, through a 'whole of catchment management' approach to support social, economic and environmental values; \u2022 $50.4 million to provide mechanisms to fully understand and manage Victoria's water resources and provide information that will underpin project and policy outcomes; \u2022 $10 million to establish an Office of Living Victoria to promote improvements to Victoria's urban water usage; \u2022 $8.6 million to improve water security for food producers and reduce the adverse environmental impacts of irrigation; \u2022 $7.3 million for initiatives that strive to maximise water efficiency and coordinate Murray Darling Basin Plan activities; and \u2022 $3 million to improve recreational waterways in Ballarat and Mordialloc. The Government is committed to the security and reliability of Victoria's energy supply and to the development of cleaner coal technology that promotes economic development, while managing Victoria's response to the Commonwealth's Clean Energy Future reforms. The 2012-13 Budget provides almost $4.5 million over three years (including $1.5 million in 2011-12) to meet Victoria's contribution to the Australian Energy Market Commission."
+                }
+            ], 
+            "parent_id": "8d50ac61-bf63-4ca1-8417-a20d3c72660f", 
+            "type": "h3", 
+            "id": "7434bbaa-fc0f-4c7f-b930-d3ebc8af0cde"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Communities and natural assets", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h1", 
+            "id": "3bad692e-0f9b-4848-b2fa-0967deb101ad"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Community investment", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Government continues to support community services and facilities to get more people, more active, more often by providing: \u2022 funding for the State Sport Centres Trust to support the operations of the State Athletics Centre at Lakeside Stadium, and to maintain the Melbourne Sports and Aquatic Centre at Albert Park, and the State Netball and Hockey Centre at Royal Park; \u2022 grants to sporting, community and event organisations to assist in the delivery of significant sporting events in Victoria; \u2022 funding to upgrade and develop soccer facilities across Victoria; \u2022 funding for the initial design and scoping work for Stage 2 of the Melbourne Park Redevelopment to keep the Australian Open in Melbourne until 2036; and \u2022 further funding for public libraries."
+                }
+            ], 
+            "parent_id": "3bad692e-0f9b-4848-b2fa-0967deb101ad", 
+            "type": "h3", 
+            "id": "6eaa51c9-8382-4a90-8000-7afecc4b33b0"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Anzac Centenary Strategy and the Shrine: Galleries of Remembrance", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Government will expand facilities at the Shrine of Remembrance including a new Gallipoli Boat display, temporary exhibition space, an auditorium and additional education space. The facilities will meet growing interest in war history and increased demand from schools for education programs. This will also enhance capacity for commemorative activities ahead of the Centenary of Anzac and World War I during the period 2014 to 2018."
+                }
+            ], 
+            "parent_id": "3bad692e-0f9b-4848-b2fa-0967deb101ad", 
+            "type": "h3", 
+            "id": "c610c20b-d93c-47e8-82e2-a22ce126e1c8"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Zoos Victoria - Asset Management Strategy", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Building on the 2011-12 Budget initiative providing free entry for children to Victoria's Melbourne Zoo, Healesville Sanctuary and Werribee Open Range Zoo, the Government is providing $13.7 million towards the upgrade of Zoos Victoria assets. This funding will: \u2022 build a new entry display including a rainforest exhibit at Melbourne Zoo, commemorating the zoo's 150th year of operations; \u2022 begin an upgrade of the lion display at Melbourne Zoo; and \u2022 upgrade arrival facilities and procure additional vehicles to cater for increased demand for the safari tour at Werribee Open Range Zoo."
+                }
+            ], 
+            "parent_id": "3bad692e-0f9b-4848-b2fa-0967deb101ad", 
+            "type": "h3", 
+            "id": "ff228426-eadf-4631-bcca-c8fe7a5225f3"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Puffing Billy", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Government will improve the quality and safety of infrastructure on the Puffing Billy railway, which has become one of Victoria's major tourism attractions."
+                }
+            ], 
+            "parent_id": "3bad692e-0f9b-4848-b2fa-0967deb101ad", 
+            "type": "h3", 
+            "id": "b5fb9a1a-7308-4f73-b7a6-77f74831f9aa"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Standing up for Victoria", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Australia's federation is characterised by the Commonwealth Government's significantly greater revenue raising capacity and the states' role as primary providers of essential services and infrastructure, known as vertical fiscal imbalance. As a result, Victoria relies on the Commonwealth for almost half of its revenue. These financial transfers come in two broad forms - tied (Specific Purpose Payments and National Partnership Payments) and untied (GST revenue). Victoria supports a federation that recognises states as the primary service providers, and balances competition and cooperation across governments to promote innovation and sharing of best practice. The system of federal financial relations should support these objectives by minimising the conditions attached to tied funding and ensuring the distribution of the GST does not punish efficient states like Victoria. Since Federation, Victoria has been the only state to have received less than its population share of Commonwealth transfers each and every year to support financially weaker states - the principle of horizontal fiscal equalisation (HFE). Victoria recognises that these states need to be supported, but Victorians have been paying over and above their share for too long. In recent years, HFE has involved more redistribution to a smaller share of the population, despite the growing fiscal maturity of the Federation. The Commonwealth's comprehensive review of the system used to allocate the GST revenue between the states is a critical opportunity to redress the inefficiencies in the current system. On 23 April 2012 the Commonwealth Government released the interim report of the GST Distribution Review. The interim report identifies some positive areas for investigation and establishes a useful base for further discussion. Victoria is seeking a distribution of GST that ensures every Australian gets an equal share of the GST and the Commonwealth plays its role in taking targeted action to address entrenched disadvantage in some states and territories. The Victorian Government strongly opposes any proposal to use the GST distribution to influence state policy and service delivery. Converting any part of the GST to any form of tied revenue would impinge on states' autonomy, and severely reduce their capacity to undertake reforms, plan future investment and respond to changing conditions and local priorities."
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h1", 
+            "id": "5f65aac5-c70e-4aa3-886b-8fcecc4350d1"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "National Partnerships", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "National Partnership agreements (NPs) have allowed the Commonwealth and Victoria to jointly deliver projects and reforms of Victorian and national significance. A number of these agreements are approaching expiry, and ongoing funding is required to embed these successful reforms. Without an ongoing funding commitment from the Commonwealth for expiring NPs, Victorians will miss out on the types of services that they have come to rightfully expect. NPs which justify ongoing Commonwealth funding include: \u2022 Digital Education Revolution; \u2022 Low Socioeconomic School Communities; \u2022 Improving Teacher Quality; \u2022 Literacy and Numeracy; \u2022 Homelessness; and \u2022 Hospital and Health Workforce Reform. $ bi llio n, 2 01 1 do lla rs 60 40 20 0 -20 -40 -60 -80 -100 1901-02 1921-22 1941-42 1961-62 1981-82 2001-02 NSW VIC QLD WA Cumulative redistribution of Commonwealth grants Source: Department of Treasury and Finance. Business costs of Commonwealth Occupational Health and Safety laws (OHS) Any moves to harmonise OHS laws should adopt best practice in delivering a safe work environment while reducing costs for business. Victoria has the safest and most effective OHS system, the lowest rate of workplace injuries, illnesses and deaths, and the lowest workers' compensation premiums in Australia. Transitioning to the proposed new Commonwealth system would cost Victoria $812 million, while businesses would face ongoing costs of $587 million a year in the first five years."
+                }
+            ], 
+            "parent_id": "5f65aac5-c70e-4aa3-886b-8fcecc4350d1", 
+            "type": "h3", 
+            "id": "976f2830-d522-4509-b74e-e1c38fd39995"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "National Disability Insurance Scheme", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Victoria is supportive of the proposed National Disability Insurance Scheme. The Government is working with the Commonwealth and other states and territories to implement such a scheme in a way that does not expose Victoria to unreasonable budget risks. The Commonwealth's revenue raising capacity means that it is best placed to fund the additional costs of the scheme as recommended by the Productivity Commission."
+                }
+            ], 
+            "parent_id": "5f65aac5-c70e-4aa3-886b-8fcecc4350d1", 
+            "type": "h3", 
+            "id": "3a9c7f51-7bfb-4cb1-a9f3-fd71ebeff5f7"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Election commitments", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Government election commitments (a) Funding provided prior to 2012-13 Budget Funding provided in 2012-13 Budget Progress as at 2012-13 Budget (b) Output and revenue initiatives Funding ($ million) 5 213.1 5 001.6 183.3 5 184.9 Asset initiatives Funding ($ million) 2 403.6 1 040.1 1 154.6 2 194.8 Source: Department of Treasury and Finance. Notes: (a) Government election commitments refers to Liberal Nationals Coalition 2010 Election Commitments document. (b) Total includes adjustments for changes to policy parameters. The Government's election commitments included expenditure and revenue initiatives of more than $5 billion, and capital investments of more than $2 billion to strengthen all Victorians' quality of life. The 2012-13 Budget builds on the previous year's achievement through a $1.2 billion investment in asset election commitments. A further $183.3 million is provided to deliver the Government's output election commitments, building on the $5 billion output and revenue initiatives funded prior to this budget."
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h1", 
+            "id": "419d27d0-a393-47e0-a2a9-fd02d29c2e5a"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Better public", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h1", 
+            "id": "d12ed1bc-00d6-4086-9d26-cc58e4cb6573"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "services", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Government, drawing on many of the recommendations of the Independent Review of State Finances, is changing the way public services are planned, governed, commissioned and delivered to ensure Victorians benefit from choice of and access to high quality, lower cost services. Strong government finances are a major pillar of the Government's economic reform agenda. Since coming to office, the Government has implemented savings rising to $2 billion annually by 2015-16. These measures seek to protect and strengthen frontline service delivery whilst moderating growth in the size of government and reducing its share of the economy to levels more consistent with the long-term average. The Government will continue to develop options for reform of services by: \u2022 streamlining non-departmental entities to improve their governance and the services they deliver to Victorians; \u2022 removing barriers to decision-making and efficient operations by service providers, and helping them to account for delivery to Victorians of the services they use most often, such as transport, schools and hospitals; \u2022 wider adoption of best practice in all parts of service delivery, including increasing the use of open tenders for the delivery of results, well-defined services, and greater use of price signals and other market approaches; and \u2022 reducing duplication with Commonwealth responsibilities. The Government's Better Services Implementation Taskforce, comprising experienced executives from the public and private sectors, will oversee a range of improvements to give Victorians better services, without extra strain on taxpayers. Reforms will ensure that the Victorian public service is positioned to provide quality services into the future. In turn this will provide capacity for the Government to invest in infrastructure to support Victoria's growth. If you would like to receive this publication in an accessible format please telephone 9651 0909 or email information@dtf.vic.gov.au. This document is also available in PDF at www.budget.vic.gov.au."
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h1", 
+            "id": "d27e6bca-5737-4776-96a6-2a375bf80ab2"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "2012-13 Victorian Budget Overview www.budget.vic.gov.au", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "d27e6bca-5737-4776-96a6-2a375bf80ab2", 
+            "type": "h3", 
+            "id": "0ee36d99-7ee2-48fb-b644-ffeb5b92576e"
+        }
+    ], 
+    "metadata": [
+        {
+            "content": "2012-04-27", 
+            "name": "publicationdate"
+        }
+    ]
+}

@@ -37,7 +37,7 @@
     <!-- Body -->
     <div id="blue_box">
       <div id="question_container">
-        <form id="form_container" ng-submit="sendQuestion()">
+        <form id="form_container" ng-submit="sendQuestion($root.question)">
           <input type="text" ng-model="$root.question" name="text" placeholder="I want to know about..." id="question_input"/>
           <input type="image"  src="/static/img/SearchButton.png" width="25px" id="question_img"/>
         </form>

@@ -1,0 +1,1041 @@
+{
+    "source_document_id": "", 
+    "media_type_detected": "application/pdf", 
+    "timestamp": "2016-04-03T09:17:04.693Z", 
+    "warnings": [], 
+    "answer_units": [
+        {
+            "direction": "ltr", 
+            "title": "2013-14 V i c to r i a N B u d g e t Budget Overview", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h3", 
+            "id": "8803860e-d07d-4911-b88c-ee4679d302f2"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Building for Growth", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Secretary Department of Treasury and Finance 1 Treasury Place Melbourne, Victoria, 3002 Australia Telephone: +61 3 9651 5111 Facsimile: +61 3 9651 5298 Website: www.budget.vic.gov.au Authorised by the Victorian Government 1 Treasury Place, Melbourne, 3002 Print managed by Finsbury Green Level 9, 124 Exhibition Street, Melbourne, 3000 This publication makes reference to the 2013-14 Budget Paper set which includes: Budget Paper No. 1 - Treasurer's Speech Budget Paper No. 2 - Strategy and Outlook Budget Paper No. 3 - Service Delivery Budget Paper No. 4 - State Capital Program Budget Paper No. 5 - Statement of Finances (incorporating Quarterly Financial Report No. 3) ((c)) Copyright State of Victoria 2013 This book is copyright. No part may be reproduced by any process except in accordance with the provisions of the Copyright Act 1968 . ISSN 1440-6969 Published May 2013 Printed on recycled paper 01 Budget at a glance 02 Budget outlook 04 Strengthening Victoria's economy 05 Building for growth 06 Continuing to link up Melbourne - East West Link 08 Investing in roads 09 Improving public transport 10 Strengthening health care 12 Delivering better education 14 Key projects timeline - a snapshot 16 Boosting our regions 20 Protecting our community 21 Attracting business and investment 22 Delivering for Victorian families 23 Managing cost of living pressures 24 Supporting the arts and multiculturalism"
+                }
+            ], 
+            "parent_id": "", 
+            "type": "h1", 
+            "id": "2b4aacdf-5d9a-4078-ad67-7b51ab4f955b"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Budget at a glance", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "2b4aacdf-5d9a-4078-ad67-7b51ab4f955b", 
+            "type": "h2", 
+            "id": "5793aa5d-547f-41da-a392-1d2e162df4e8"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Growing economy, growing employment, growing surpluses, major new infrastructure. Operating surplus of $225 million in 2013-14.", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Government infrastructure investment program of $6.1 billion in 2013\u201114, including transformational investments in East West Link - Stage 1, the Port of Hastings, road, freight and public transport. Delivering the new Bendigo, Monash Children's and redeveloped Royal Victorian Eye and Ear Hospitals with $197 million in 2013-14 and more than $1 billion in total. Additional $426 million in 2013-14 to Victoria's hospitals and health system - $11.2 billion in total for acute health in 2013\u201114. Allocates $580 million in asset and output funding for the future of Victoria's education system - $11.6 billion in total towards education in 2013\u201114. Gross State Product to grow by 2.25 per cent in 2013\u201114, rising to 2.75 per cent over the medium term. Net debt of 6.4 per cent of GSP in 2013\u201114, falling to 5.4 per cent by the end of the forward estimates. 2013-14 Budget Overview > 1"
+                }
+            ], 
+            "parent_id": "5793aa5d-547f-41da-a392-1d2e162df4e8", 
+            "type": "h3", 
+            "id": "313f44be-20df-4da9-be94-d9b75044735b"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Strong and secure finances", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The 2013\u201114 Budget demonstrates the Coalition Government's commitment to responsible financial management. In 2013\u201114, the Coalition Government will deliver an estimated operating surplus of $225 million. The Coalition Government's commitment to managing the budget to deliver operating surpluses has strengthened Victoria in challenging economic times. It also supports a sustained program of infrastructure construction and continuing high quality public services for Victorians. This fiscally responsible approach allows for investment in infrastructure, while avoiding excessive levels of debt. Over the past decade, the State saw considerable revenue growth, which was outpaced by increases in government expenditure, creating a structural deficit. The sources of revenue that fuelled this growth have now softened. Without the Coalition Government's decisive action, growth in government expenditure and net debt would have become unsustainable. Since coming to office, the Coalition Government has implemented savings and new targeted revenue initiatives totalling approximately $2.5 billion in 2013\u201114. These measures have reduced ongoing expenditure growth, returning it to more sustainable levels, and in line with forecast revenue growth. The Coalition Government has achieved this while ensuring that the quality of Victoria's frontline services is enhanced. Victoria is now one of only two states (along with resource-rich Western Australia) forecasting consistent operating surpluses over the next four years. Net debt is estimated to be 6.4 per cent of GSP at June 2014, and begins to decline on this basis after June 2015. The Coalition Government is on track to meet the medium\u2011term fiscal parameter to reduce general government net debt as a percentage of GSP over the period to 2022. The Coalition Government's medium\u2011term fiscal strategy delivers prudent budget management, while strengthening investment in productivity\u2011boosting infrastructure and high quality public services. The  2013\u201114 Budget is a balanced, responsible budget, which strengthens key service offerings to Victorians, while preserving budget surpluses and modest levels of borrowing."
+                }
+            ], 
+            "parent_id": "5793aa5d-547f-41da-a392-1d2e162df4e8", 
+            "type": "h3", 
+            "id": "8dcc793c-0fb3-4c60-a021-9d5fabd1fd09"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Medium-term fiscal parameters", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "> Infrastructure investment of 1.3 per cent of GSP (calculated as a 5\u2011year rolling average) > Reduced general government net debt as a percentage of GSP over the period to 2022 > Fully funded superannuation liability by 2035 > Net operating surplus of at least $100 million and consistent with the infrastructure and debt parameters"
+                }
+            ], 
+            "parent_id": "5793aa5d-547f-41da-a392-1d2e162df4e8", 
+            "type": "h3", 
+            "id": "fe023bdb-33b7-480d-a125-0e982f481045"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Budget outlook", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Government infrastructure investment 7.00 6.00 2.0 4.00 5.00 1.5 3.00 1.0 2.00 1.00 0.5 0.00 0.0 8.00 $ bi lli on pe r c en t 2.5 Infrastructure target (RHS)Proportion of GSP rolling 5-year average (RHS) Government infrastructure investment (excluding fiscal stimulus) 2006-07 2008-09 2010-11 2012-13 2014-15 2016-17 Source: Department of Treasury and Finance 2 > 2013-14 Budget Overview"
+                }
+            ], 
+            "parent_id": "2b4aacdf-5d9a-4078-ad67-7b51ab4f955b", 
+            "type": "h2", 
+            "id": "4f0bb4cc-e75c-40fc-a3a1-6abdb5f200e9"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Improving our public services", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The community expects and deserves high-quality, responsive government services. Meeting this expectation in an environment of lower revenue growth will require governments to implement smarter and more efficient ways of doing things. The Coalition Government is developing innovative, modern service delivery models - for example, in human services, including disability, housing and youth - and improving how the public sector operates. The public service restructure announced in April 2013 is designed to further sharpen the focus on securing investment and jobs, and provide better services to Victorians. Operating surpluses as a share of total revenue by state (a) (b) 10 5 -5 -10 -15 -20 0 pe r c en t VIC 2012-13 2013-14 2014-15 2015-16 WA NSW TAS SA QLD (24.375/20) x A = answer $ m ill io n % G SP 10 000 0 20 000 30 000 40 000 50 000 60 000 70 000 80 000 20% 0% 5% 10% 15% Net debt Net debt no action Net debt to GSP Net debt no action to GSP 20 12 -1 3 20 14 -1 5 20 13 -1 4 20 15 -1 6 20 16 -1 7 LEFT: (31.592/80,000) x A = answer RIGHT: (31.592/20) x A = answer Net debt with and without government action (a) (b) Fiscal parameters 2013-14 2014-15 2015-16 2016-17 Net result from transactions ($m) 225 399 1 928 2 547 Net debt (% of GSP) 6.4 6.6 6.1 5.4 Government infrastructure investment ($b) 6.1 6.6 4.0 3.5 Source: Department of Treasury and Finance Sources: Victorian State budget papers and other state budget papers and budget update papers Notes: (a) Operating balances from other jurisdictions are based on the previous Australian Accounting Standard AASB 119. The extent to which changes to AASB 119 will impact on the operating balance of each jurisdiction is not publicly available. (b) To enable a like with like comparison, Victorian figures used are the Government fiscal result, which adds an expected return on superannuation assets in excess of AASB 119 discount rate. Source: Department of Treasury and Finance Notes: (a) Expenses assumed to grow at 7.3 per cent a year (this corresponds to the average annual historical growth from 2000-01 to 2010-11) from 2011-12 to 2016-17. (b) Revenues, capital expenditure, finance leases, other investment activities and non-cash income and expenses are assumed to be the same as in the 2013-14 Budget. 2013-14 Budget Overview > 3 General indicators of the Victorian economy 2008-09 2009-10 2010-11 2011-12 0.0 0.5 1.0 1.5 2.0 2.5 106.0 104.8 103.6 102.4 101.2 100.0 Pe rc en ta ge p oi nt In de x 20 08 -0 9 = 10 0 GSP Household consumption Total employment growth Victorian GSP: contributions to growth in 2011-12 (a) Victoria All other jurisdictions (excluding WA) Balancing item (b) Business investment Public demand Dwelling investment Net export goods Net export services TOP: (16.747/2.5) x A = answer BOTTOM (line): (18.757/.459) x A = answer"
+                }
+            ], 
+            "parent_id": "4f0bb4cc-e75c-40fc-a3a1-6abdb5f200e9", 
+            "type": "h3", 
+            "id": "4ff4f63e-f02d-418e-b8e1-0a97b8f37b62"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "A resilient economy", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Victoria's economic outlook is positive. The economy is proving resilient in the face of a strong Australian dollar and global uncertainties, particularly in Europe. Victoria's economy has performed well in difficult times and is well placed to capitalise on emerging opportunities. Improving productivity is the key to growing the standard of living for current and future generations of Victorians, and the Coalition Government is taking action to boost productivity across the state. > The Coalition Government's fiscal strategy allows it to advance major, transformational infrastructure projects, as well as the ongoing road, rail and other infrastructure required to keep pace with population growth - importantly, the Coalition Government's approach is sustainable, and on track to fully fund the infrastructure program without additional borrowing by 2015\u201116. > The Coalition Government is improving the way it delivers public services to provide better government services at lower cost. > The Coalition Government is continuing to build the skills and capabilities of the Victorian workforce with an increased focus on promoting trade skills and competencies that match industry needs and employment opportunities. > The Coalition Government is ensuring Victoria is a competitive and low\u2011cost place to do business - this includes a focus on streamlined, flexible planning and land development approaches, and minimising red tape to allow Victorian businesses to get on with the job."
+                }
+            ], 
+            "parent_id": "4f0bb4cc-e75c-40fc-a3a1-6abdb5f200e9", 
+            "type": "h3", 
+            "id": "ac6f31d6-cf2c-4fa7-a934-a8b73df4de43"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Positive signs for the future", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Growth in real gross state product in 2013\u201114 is expected to be a healthy 2.25 per cent. The continued low interest rate environment is encouraging spending, and household consumption should increase solidly in 2013\u201114. In line with this, Victoria's property market is displaying signs of improvement after slowing in 2011\u201112. Consumer sentiment has strengthened, and there are indications of solid increases in retail sales. Many industries have posted growth in employment in the past year, underscoring the benefits of Victoria's broadly based and adaptable economy. The unemployment rate is expected to ease to 5 per cent over the forward estimates period. In recent years, Victoria's economic performance has compared favourably to all other Australian states, except Western Australia, when comparing growth in gross state product and employment. Further boosting productivity in the 2013\u201114 Budget The 2013\u201114 Budget builds on the Coalition Government's productivity agenda with a raft of initiatives. > The $6-8 billion East West Link (Stage 1) project - a whole new way to move people around Melbourne and link up Victoria, greatly reducing congestion and improving travel times for both families and business. > $515 million for new trains, infrastructure and station upgrades and early works on level crossing removal. > A $110 million plan to expand the Port of Hastings - a game\u2011changing investment in the future of Victorian trade. > $170 million in additional funding for arterial road maintenance and restoration, augmenting VicRoads' base road maintenance budget. > Establishing a $200 million TAFE structural adjustment fund to support innovation and structural reform in Victoria's TAFE institutes. > A $112 million suite of initiatives to drive Victorian business innovation and international engagement in the tourism, international education, health exports, aviation, and screen sectors. > Significant investment in the future of the Macalister Irrigation District through $16 million in support, to be matched by irrigators, for on\u2011farm infrastructure upgrades."
+                }
+            ], 
+            "parent_id": "4f0bb4cc-e75c-40fc-a3a1-6abdb5f200e9", 
+            "type": "h3", 
+            "id": "9724f6e4-0621-48f7-94e4-00a1a3fbb327"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Strengthening Victoria's economy", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Sources: Australian Bureau of Statistics, Department of Treasury and Finance Notes: (a) The contributions to growth of the components of GSP do not always add exactly to the growth in GSP. This can happen as a result of rounding and the lack of additivity of the chain volume estimates prior to the latest complete financial year. (b) The balancing item reflects changes in inventories, total net interstate trade as well as other miscellaneous items such as the balancing item discrepancy and adjustments for balance of payments trade. 4 > 2013-14 Budget Overview"
+                }
+            ], 
+            "parent_id": "2b4aacdf-5d9a-4078-ad67-7b51ab4f955b", 
+            "type": "h2", 
+            "id": "773784b2-8fd8-4c02-9629-ccee189e465b"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Transforming Victoria's economic connections", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "This budget delivers major, transformational projects to secure Victoria's economic future and benefit all Victorians today through better connectivity and liveability. The significant infrastructure investments funded in this budget increase Victoria's capacity for trade and create better linkages across the state, improving productivity and driving future economic growth across Victoria."
+                }
+            ], 
+            "parent_id": "773784b2-8fd8-4c02-9629-ccee189e465b", 
+            "type": "h3", 
+            "id": "4c363b2f-4da4-4687-8183-5dba4a571115"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Improving connectivity for the future", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Stage 1 of East West Link The Coalition Government has allocated funding in the 2013-14 Budget for Stage 1 of the East West Link as the first step towards its longer-term commitment to the project as a whole. The East West Link will ultimately transform the way people move around Melbourne, linking the Eastern Freeway to CityLink, CityLink to the Port of Melbourne, and the Port of Melbourne to the Western Ring Road, alleviating congestion and ensuring travel-time reliability for families and freight. The East West Link will promote Victoria's liveability and productivity. The project will substantially enhance cross\u2011city capacity and reduce reliance on the West Gate Bridge and M1 Corridor. The East West Link will better connect the state to Melbourne Airport, the Port of Melbourne and freight generators and will provide a bypass of Melbourne for regional freight, reducing costs for regional exporters. Stage 1 of the East West Link will connect CityLink at Parkville to the Eastern Freeway at Hoddle Street. The East West Link will be delivered as a public private partnership (PPP), including some private sector financing. As a nation-building piece of major infrastructure, a $1.5 billion funding contribution from the Commonwealth will be required to ensure the timely delivery of this transformational infrastructure project. It is expected that the Eastern Section of the East West Link will create approximately 3 200 jobs during the construction phase. Melbourne Metro Planning and development of the Melbourne Metro Rail Tunnel will be progressed in 2013-14. This project is crucial to meeting increasing demand for train services in Melbourne's growth areas, enabling the creation of four independent rail lines. The project will create the capacity needed for future expansion of Melbourne's rail network, future\u2011proofing the system. $10 million will be spent in 2013\u201114 to progress detailed planning on Melbourne Metro."
+                }
+            ], 
+            "parent_id": "773784b2-8fd8-4c02-9629-ccee189e465b", 
+            "type": "h3", 
+            "id": "265362d5-2498-4a5c-9b08-c3e30bc419f9"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Increasing our trade capacity", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The 2013\u201114 Budget provides $110 million to develop the Port of Hastings. The Port of Hastings development is critical for the future of our growing freight trade, well beyond the next decade, providing a significant expansion to Victoria's container freight capacity. The $110 million initiative in the 2013\u201114 Budget provides for a capital injection in the Port of Hastings Development Authority to progress planning and approvals to develop this critical infrastructure. Planning for the construction of a second Victorian container port with land-side transport connections will meet expected demand for containerised shipping well into the future, providing enhanced certainty for Victorian imports and exports. This initiative complements the Port of Melbourne redevelopment, which is undergoing a $1.6 billion expansion of container and automotive capacity at Webb Dock."
+                }
+            ], 
+            "parent_id": "773784b2-8fd8-4c02-9629-ccee189e465b", 
+            "type": "h3", 
+            "id": "11208fa9-d813-4586-9335-c61dc6df69f0"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Building for growth", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Victorian economic projections (a) 2011-12 Actual 2012-13 Forecast 2013-14 Forecast 2014-15 Forecast 2015-16 Forecast 2016-17 Forecast Real gross state product 2.3 1.50 2.25 2.75 2.75 2.75 Employment 0.8 0.50 1.50 1.75 1.75 1.50 Unemployment rate 5.4 5.75 5.50 5.25 5.00 5.00 Consumer price index(b) 2.3 2.25 2.50 2.50 2.50 2.50 Wage price index (c) 3.5 3.50 3.50 3.50 3.50 3.50 Population 1.6 1.70 1.70 1.70 1.70 1.70 Sources: Australian Bureau of Statistics, Department of Treasury and Finance Notes: (a) Year-average per cent change on previous year, except for the unemployment rate which is a year-average per cent and population which is year\u2011ended per cent change on the previous June quarter. (b) All references to the consumer price index refer to the Melbourne consumer price index. (c) Total hourly rate excluding bonuses. 2013-14 Budget Overview > 5"
+                }
+            ], 
+            "parent_id": "2b4aacdf-5d9a-4078-ad67-7b51ab4f955b", 
+            "type": "h2", 
+            "id": "e4a26ed8-1104-4eb5-ab83-69cbf0a19d5b"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Continuing to link up Melbourne - East West Link", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "2b4aacdf-5d9a-4078-ad67-7b51ab4f955b", 
+            "type": "h2", 
+            "id": "1f065070-ad2a-4cd5-909f-45c08a30500a"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Why East West Link?", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "> Melbourne's cross-city connectivity is constrained. > The only major east-west route across the city, the M1 corridor, is operating at or close to capacity. > Daily queues and congestion where the Eastern Freeway terminates at Hoddle Street. > East-west traffic is forced onto residential streets in the inner north and inner west. > The city's busiest tram routes through the inner north to the CBD are becoming less reliable due to congestion caused by east-west traffic. > Constrained connections to and from the city's major economic gateways and freight destinations (such as Melbourne Airport and the Port of Melbourne) restrict business and freight movements. > Population growth in Melbourne, in particular in the west and north, will continue to place pressure on cross\u2011city routes."
+                }
+            ], 
+            "parent_id": "1f065070-ad2a-4cd5-909f-45c08a30500a", 
+            "type": "h3", 
+            "id": "f8c6df1f-b5c4-488d-a788-608cc8a2fb62"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Investment", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "> Total capital cost of the program of works for the first stage is estimated at between $6-8 billion. > The 2013-14 Budget makes provision for delivery of the first stage, allowing for some private financing and $1.5 billion of Commonwealth funding. > Funding of $294 million has been released over the next 2 years to complete detailed planning, and commence procurement and early works construction. > The project road will be tolled, however tolling revenue will not recover the full cost. Therefore, significant investment is required by the State, Commonwealth and private sector. > The Coalition Government will engage with communities regarding the preferred corridor and the needs and concerns of local communities. Somerville Rd West Gate Fwy Sunshine Rd Ballarat Rd Wright St Forrest St Ballarat Rd D uk e St H am ps hi re R d Ce m et er y Rd Ge elo ng Rd Princ es Hw y Fa irb ai rn R d W es te rn R in g Rd W hi te ha ll St G or do n St Ro sa m on d Rd M ill er s Rd Barkly St South Rd An de rs on R d M ap n o t to s ca le 6 > 2013-14 Budget Overview"
+                }
+            ], 
+            "parent_id": "1f065070-ad2a-4cd5-909f-45c08a30500a", 
+            "type": "h3", 
+            "id": "c4bf8006-aa77-4667-b2db-b5a9b38dfe30"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Delivering on the first stage of East West Link", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "> The Coalition Government is committed to delivering the full East West Link, which is an 18 kilometre freeway-standard road from the Eastern Freeway to the Western Ring Road. > The scale and complexity of the project means it will be delivered in stages. > The first stage of the project is the Eastern Section, a 6 kilometre link from the Eastern Freeway in Clifton Hill to CityLink in Parkville. > The section will be predominantly in tunnel to minimise social, visual, noise and other environmental impacts. > The first stage will also provide for transport and urban amenity improvements along the corridor, including public transport initiatives and initiatives to address congestion on adjoining roads. > Main construction on the first stage is expected to commence in late 2014 with the construction period of approximately 5 years. Flemington Racecourse East ern Fwy H od dl e St Studley Park Rd Heid elbe rg Rd Vi ct or ia R d H ig h St Ly go n St N ic ho ls on S t As co t V al e Rd Ro ya l P de Dynon Rd Lorime r St Ke nsi ngt on Rd Macaulay Rd Footscray Rd Cit y R d Ci ty Li nk Flemington Rd Brunswick Rd Ormond Rd M ount Alexander Rd Racecourse Rd Epsom Rd Westgarth St Holden St Johnston St Victoria Pde Que ens Pd e CBD Eastern Section Western Section Stage 1 - Eastern Section Stage 1 - Eastern Section (tunnel) Eastern Section Western Section Western Section (tunnel) Western Section - additional roadworks 2013-14 Budget Overview > 7 The Coalition Government continues to make significant investments in Victoria's road network. These investments will meet the demands of a growing population and improve the safety and reliability of the State's roads."
+                }
+            ], 
+            "parent_id": "1f065070-ad2a-4cd5-909f-45c08a30500a", 
+            "type": "h3", 
+            "id": "93c32ce9-1760-448d-a7e5-4bded0419817"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Maintaining our road network", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The 2013\u201114 Budget provides over $280 million in additional funding for the restoration, maintenance and upgrade of key sections of Victoria's road network. These projects include: > $90 million for targeted road restoration, focusing first on high priority roads on strategic economic routes. Restoring these roads will improve their safety and reduce 'whole of life' costs involved in maintaining the State's road network into the future. > $80 million for arterial road maintenance, adding to VicRoads' base road maintenance budget. > $32 million to repair fatigue defects on the West Gate Bridge, ensuring the longevity of this important road asset. > $53 million for the upgrade of Cardinia Road, High Street Road, Omeo Highway, implementation of a managed motorway system on the Monash Freeway, and planning for the Kilmore-Wallan Bypass. > $28 million for targeted road upgrades in regional Victoria to address key transport bottlenecks."
+                }
+            ], 
+            "parent_id": "1f065070-ad2a-4cd5-909f-45c08a30500a", 
+            "type": "h3", 
+            "id": "71b08c86-46c2-49fc-a3ab-c6d3790afbe5"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Improving safety and efficiency by removing railway level crossings", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "A $52 million package of early works will progress the removal of railway level crossings at: > Main Road (St Albans). > North Road (Ormond). > Blackburn Road (Blackburn). > Mountain Highway and Scoresby Road (Bayswater). > Further planning and business case development for the Burke Road (Glen Iris) and Murrumbeena Road (Murrumbeena) level crossings. The removal of railway level crossings reduces traffic delays and congestion, improves road network efficiency, and delivers safer conditions for road users, pedestrians and cyclists. The funding announced in this budget builds on $350 million in works announced in the last budget to eliminate level crossings at Springvale Road and Mitcham and Rooks Roads. In addition, the Coalition Government has committed to removing two level crossings on Anderson Road, Sunshine, as part of the Regional Rail Link project. Construction is underway or about to commence on the Springvale, Mitcham and Anderson Road projects. This is in addition to the $17 million provided in the 2011-12 Budget."
+                }
+            ], 
+            "parent_id": "1f065070-ad2a-4cd5-909f-45c08a30500a", 
+            "type": "h3", 
+            "id": "fcf3e019-eefa-4102-90e7-9756d5fc7cc8"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Investing in roads", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Removing railway level crossings PORT PHILLIP Hurstbridge South Morang Upfield City Loop Flem ington Racecourse Werribee Williamstown Sandringham Frankston Cranbourne Sto ny Po int Pakenham Glen Waverley Belgrave Alamein Lilydale Clifton Hill Fo ots cra y Su nsh ine Me lto n Coburg Newport Caulfield Main Road St Albans Ca mb er we ll Ri ng wo od Craigieburn Sunbury MAP NOT Effective 2 Springvale Road Burke Road North Road Murrumbeena Road Scoresby Road Bla ck bu rn Ro ad An de rso n R oa d Mi tch am /R oo ks Ro ad s Mountain Highway 8 > 2013-14 Budget Overview"
+                }
+            ], 
+            "parent_id": "2b4aacdf-5d9a-4078-ad67-7b51ab4f955b", 
+            "type": "h2", 
+            "id": "365095a0-47e3-48c0-b9ee-ddaae3e00b7b"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Expanding rail capacity", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The 2013\u201114 Budget provides $179 million for eight new X'Trapolis trains and associated infrastructure and planning for future train acquisition. This adds to the seven trains funded by the Coalition Government in the 2011\u201112 Budget . This funding delivers stage two of the Coalition Government's commitment to acquire 40 additional commuter trains for Melbourne during its first and second terms. The trains will be fitted out by Ballarat train manufacturer Alstom, securing jobs in the region. The trains are expected to commence running on the network by 2015. The Coalition Government has ordered 40 new V/Line carriages to meet increased services when the Regional Rail Link opens in 2016, and also has on order 50 new trams. These new investments will build network capacity for years to come. Around $300 million in other initiatives funded in the 2013\u201114 Budget to enhance safety and performance on the public transport network include: > $100 million to improve passenger services on the Frankston line, and provide infrastructure to enable X'trapolis trains to be deployed on the Frankston, Werribee and Williamstown lines. > $78 million to build and maintain facilities for Protective Services Officers at railway stations. > $32 million to build and operate a new station at Grovedale and additional car parking at Syndal Station. > A $64 million upgrade to the Ringwood Station precinct on top of the $2 million previously provided. > $25 million for additional train services on the Dandenong rail line to support growing demand."
+                }
+            ], 
+            "parent_id": "365095a0-47e3-48c0-b9ee-ddaae3e00b7b", 
+            "type": "h3", 
+            "id": "efc541a8-d53c-4d9f-9797-6297a41a0fe2"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Safe and modern transport hubs", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The $66 million upgrade to the Ringwood Station precinct will deliver a modern, integrated transport hub for commuters. The project will revamp pedestrian amenities and includes a larger bus interchange, leveraging $500 million in private sector investment at Eastland Shopping Centre, generating 2 000 construction jobs and 2 000 ongoing retail jobs. Funding of $14 million has been provided to the transit interchange precinct in central Frankston to upgrade lighting, shelters and amenities, improving safety and comfort for travellers. Redesigned traffic flows will encourage movements between the interchange and core business precinct. The project forms part of a staged revitalisation of central Frankston, which builds on the $5 million provided in 2011-12 Budget to support the renewal of the Frankston town centre."
+                }
+            ], 
+            "parent_id": "365095a0-47e3-48c0-b9ee-ddaae3e00b7b", 
+            "type": "h3", 
+            "id": "2711a9e7-7275-42f7-9b44-6af3bb9604ff"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Better bus services", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Supporting the increased investment in the train network, this budget provides $25 million to enhance bus services. The initiative will increase the number of bus services in key growth areas, improving transport coordination for commuters. Precincts include St. Albans, Caroline Springs, Wyndham, Bacchus Marsh and Warrnambool."
+                }
+            ], 
+            "parent_id": "365095a0-47e3-48c0-b9ee-ddaae3e00b7b", 
+            "type": "h3", 
+            "id": "e8ab6cfb-e276-44a0-b12d-9566eb1409d8"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Response to the Taxi Industry Inquiry", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Taxi Industry Inquiry was established as an independent body to undertake a review into all aspects of the taxi and hire car industry, and recommend a set of reforms to the Coalition Government. The Taxi Industry Inquiry's final report was tabled in Parliament on 12 December 2012. The report recommends comprehensive structural and regulatory reform of the taxi industry, including a reform to licensing arrangements which would remove the quantitative restriction on taxi licences. Since the release of the final report, the community has been provided with an additional opportunity to provide comment through a public submissions process, which concluded at the end of January. The Coalition Government will consider the submissions received and expects to provide a final response to the Inquiry in the first half of 2013."
+                }
+            ], 
+            "parent_id": "365095a0-47e3-48c0-b9ee-ddaae3e00b7b", 
+            "type": "h3", 
+            "id": "76076cf6-07b6-45a2-a099-918d86070e72"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Improving public transport", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "2013-14 Budget Overview > 9"
+                }
+            ], 
+            "parent_id": "2b4aacdf-5d9a-4078-ad67-7b51ab4f955b", 
+            "type": "h2", 
+            "id": "ff46dee1-3f90-40ee-ad96-c46f49cf59a1"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Building up our health infrastructure", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "High quality, modern hospital assets are crucial to driving service improvements and meeting future needs. Monash Children's Hospital Funded in the 2012\u201113 Budget Update , the new Monash Children's hospital will deliver 230 paediatric beds to service growing populations in south east Melbourne, the Mornington Peninsula and south east Victoria. Royal Victorian Eye and Ear Hospital A complete redevelopment of the iconic Royal Victorian Eye and Ear Hospital will provide a substantial boost to capacity on the existing site in East Melbourne. Bendigo and Box Hill Hospitals and the Victorian Comprehensive Cancer Centre The Coalition Government is also funding major health infrastructure including the new $630 million Bendigo Hospital, the $1 billion Victorian Comprehensive Cancer Centre and the $448 million redevelopment of Box Hill Hospital. In total, the 2013-14 Budget provides an additional $629 million to improve the condition of hospital infrastructure. Other key projects funded in this budget include redevelopment of the Werribee Mercy Hospital mental health facilities, constructing 54 new hospital beds, and expansion of the Northern Hospital inpatient capacity, through 32 additional beds and support areas. The Coalition Government is committing $78 million of this capital investment towards rural and regional areas, ensuring proximate access to high quality health services for all Victorians. Key health projects for rural and regional areas include: > Waurn Ponds Community Hospital - a new 32-bed community hospital in southern Geelong. This hospital will meet service pressures for the growing populations of Geelong and the Surf Coast Shire. The new facility will provide same\u2011day surgery, chemotherapy chairs, renal chairs and capacity for specialist clinics. > Radiotherapy service for south west Victoria in Warrnambool. This will enable residents to receive treatment locally, instead of needing to travel long distances as at present. > Reinstating acute health services at Numurkah Hospital, which was damaged extensively in the March 2012 floods. The Coalition Government will invest $60 million to replace and improve vital medical infrastructure. This will ensure up-to-date medical equipment at both metropolitan and rural health facilities."
+                }
+            ], 
+            "parent_id": "ff46dee1-3f90-40ee-ad96-c46f49cf59a1", 
+            "type": "h3", 
+            "id": "c410c0bc-6588-4698-a9b5-4230e9978ce2"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "High quality, modern health infrastructure", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Coalition Government is funding key hospital infrastructure works across Victoria. Projects already underway include: > Monash Children's Hospital > Victorian Royal Eye and Ear Hospital redevelopment > The new Bendigo Hospital > Victorian Comprehensive Cancer Centre > Box Hill Hospital redevelopment"
+                }
+            ], 
+            "parent_id": "ff46dee1-3f90-40ee-ad96-c46f49cf59a1", 
+            "type": "h3", 
+            "id": "f23d9116-5851-4c11-88bb-d83601ffac47"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Strengthening health care", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Source: Department of Treasury and Finance $ m ill io n 0 2 000 4 000 6 000 8 000 10 000 12 000 14 000 Total budgeted acute health asset spend in that year Total budgeted acute health output spend 2010-11 2011-12 2012-13 2013-14 Total acute health budget 2010-11 to 2013-14 10 > 2013-14 Budget Overview"
+                }
+            ], 
+            "parent_id": "2b4aacdf-5d9a-4078-ad67-7b51ab4f955b", 
+            "type": "h2", 
+            "id": "bd75b66e-a1ac-46e9-893c-4873dd6da792"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "A better health system", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Victoria has long been a leader in driving efficient health services. The Coalition Government's commitment to quality and efficiency will build an affordable health system for the long term. A number of initiatives funded in this budget seek to reform the way Victoria provides its health services. Driving efficiency in the delivery of health services will ensure Victoria is well placed to address future challenges such as an ageing population and greater rates of chronic and complex health conditions. The 2013-14 Budget provides an additional $426 million in 2013-14 and $1.8 billion over the forward estimates to Victoria's hospitals and health system, bringing expenditure on acute health to $11.2 billion in 2013-14. Newly funded initiatives include: > $421 million over four years for a funding pool to drive efficiencies in elective surgery. This follows a successful pilot in the 2012-13 Budget and will encourage the most efficient use of facilities to see more patients treated sooner. > $772 million over four years to treat more patients. This package includes funding to augment critical care capacity in Intensive Care Units and enhance maternity and neonatal care. > $62 million over four years in additional funds to expand culturally appropriate service options for Aboriginal Victorians. The funds will establish a better pathway to mainstream service access for Aboriginal Victorians, while ensuring that mainstream providers are able to respond effectively to their needs. > $22.2 million over four years to provide health care for refugees and asylum seekers settling in Victoria."
+                }
+            ], 
+            "parent_id": "bd75b66e-a1ac-46e9-893c-4873dd6da792", 
+            "type": "h3", 
+            "id": "3487437a-f0bc-4845-9140-f2d91e676a70"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Boosting mental health and drug services", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Mental health and drug service capacity will be boosted with additional funding of $42 million in the 2013\u201114 Budget . Building on existing investment of $1.1 billion for mental health and drug services, the additional funds will secure the ongoing operation of the Community Care Unit at Austin Health, and a range of mental health beds at Monash Health (Dandenong Hospital). The budget also meets a Coalition Government election commitment by allocating $25.2 million over four years to increase capacity through: > 16 new mental health beds across Western Health (Footscray), Eastern Health, Austin Health, and the Latrobe Regional Hospital (Traralgon). > Three five-bed mother-baby units in regional Victoria for women with a mental illness and their infants. > Enhanced mental health and wellbeing services in Bairnsdale, which will coordinate access to mental health, welfare and social services in East Gippsland."
+                }
+            ], 
+            "parent_id": "bd75b66e-a1ac-46e9-893c-4873dd6da792", 
+            "type": "h3", 
+            "id": "3cb76d9a-7449-4111-b01e-08e8e53d14b8"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Training the future health workforce", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Coalition Government is acting now to prevent a projected shortage of qualified health professionals in the future. The 2013-14 Budget strengthens the future health workforce through a $238 million investment over four years in training programs. These initiatives include: > $194 million over four years to support additional clinical training for undergraduate students. > $42 million over four years to support additional intern and new graduate places in medicine, nursing, midwifery and medical radiation. > An additional six training posts for rural general proceduralists, building on current programs to train rural doctors in procedural skills including obstetrics, anaesthetics, emergency care and surgery."
+                }
+            ], 
+            "parent_id": "bd75b66e-a1ac-46e9-893c-4873dd6da792", 
+            "type": "h3", 
+            "id": "187a0fb1-27a7-48cf-8606-158fff4633fa"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Meeting demand in Home and Community Care", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Home and Community Care program supports older and younger people with a disability to remain in their home. Victoria allocates around $665 million annually to this important service, and the 2013\u201114 Budget builds on this investment and provides an additional $34 million a year to maintain current service levels and meet growing demand. 2013-14 Budget Overview > 11 The 2013-14 Budget allocates $580 million in asset and output funding for the future of Victoria's education system, underpinning lifelong learning and development from early childhood to adulthood. In total the Coalition Government will direct almost $11.6 billion towards education from early childhood to adulthood in 2013\u201114. The Coalition Government has set an objective to lift Victoria's education and development outcomes into the global top tier over the next 10 years. Funding provided in the 2013\u201114 Budget supports this goal."
+                }
+            ], 
+            "parent_id": "bd75b66e-a1ac-46e9-893c-4873dd6da792", 
+            "type": "h3", 
+            "id": "69711097-6b79-4ae8-89be-def006c847bd"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Training and developing our workforce", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Victoria's training system provides opportunities for Victorians to develop skills that lead to real and sustainable jobs. It remains the most responsive in Australia to the changing needs of the labour market, driven by strong growth in the non\u2011TAFE sector. The 2013\u201114 Budget builds on recent skills reform, where the Coalition Government added more than $1 billion over four years to the vocational educational and training budget, targeted to areas of greatest public benefit and future jobs growth. This brings the State's annual budget for higher education and skills to around $2.3 billion. As part of this, the Coalition Government introduced a new set of subsidy rates for all training providers to better reflect the relative public value of particular courses. Encouraging training in the highest value courses, while maintaining a market\u2011driven approach, preserves the benefits of a more competitive vocational education and training sector, while ensuring government spending is sustainable and well targeted. As the chart above illustrates, the rebalancing of subsidy rates has resulted in a shift in commencements from courses with less need for government investment (bands D and E) to courses of higher public value (bands A and B). The percentage of enrolments in government-funded vocational education and training (VET) places by unemployed people grew from 17 per cent in 2008 to 24 per cent in 2012, on top of significant growth in total participation. In addition, there were approximately 6 200 Indigenous students and over 40 000 students with a disability undertaking training in 2012, an increase of 11 and 18 per cent respectively from 2011. Training courses that hold little prospect of a job at completion are not only an inefficient use of public money, but are of little benefit to people seeking to enter the workforce. A responsive, innovative and financially sound TAFE sector is central to the success of skills reform, and the Coalition Government is supporting TAFE institutes to compete on a sustainable basis in the modern vocational training system. A $200 million TAFE Structural Adjustment Fund will support TAFE institute initiatives that promote innovation, collaboration, structural reform and business transformation. Other reforms to give TAFEs greater control over their assets and workplace relations and reduce the regulatory burden on institutes will help to secure the future of TAFEs in Victoria."
+                }
+            ], 
+            "parent_id": "bd75b66e-a1ac-46e9-893c-4873dd6da792", 
+            "type": "h3", 
+            "id": "fb4011c2-33f6-4ab9-8911-0685ba1068d5"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Delivering better education", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Impact of refocusing vocational training on commencing enrolments 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% Before Reforms 21% 10% 20% 41% 8% After Reforms 7% 5% 23% 55% 10% (114.862/100) x A = answer Example of subsidy bands A: Apprentices, Building, Trades, Engineering B: Child Care, Aged Care, Nursing, Agriculture, Manufacturing, Foundation skills C: Public Administration, Warehousing, Community Services, Tourism, Arts D: Business, Financial Planning and Insurance, Security Operations E: Sport, Fitness, Low level Retail, Business and Hospitality Represents commencing enrolments in 2012 and as reported at 31 March 2013. 'Before reforms' relates to January-June 2012, 'After reforms' relates to July 2012-March 2013. Sources: Department of Treasury and Finance, Department of Education and Early Childhood Development Percentage of total commencements by band 12 > 2013-14 Budget Overview"
+                }
+            ], 
+            "parent_id": "2b4aacdf-5d9a-4078-ad67-7b51ab4f955b", 
+            "type": "h2", 
+            "id": "fb2bee33-e3cf-4e93-8659-9dac53cedd84"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Improving our schools system", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Coalition Government has developed a comprehensive education agenda to drive school performance to world\u2011class standards. The 2013\u201114 Budget supports this agenda with an allocation of $15.7 million towards performance management of teachers and principals in schools, identification of high-potential teaching graduates and measures to support under\u2011performing schools. This builds on the existing reforms implemented by the Coalition Government in previous budgets, focusing on empowering school leaders and teachers by devolving more decision making to principals and school communities. The Coalition Government has reached an in-principle agreement with principals, teachers and education support staff in Victorian government schools. The proposed new Enterprise Bargaining Agreement will provide government school employees with fair and reasonable pay increases, and help to keep the best Victorian teachers in the state school system by providing attractive employment arrangements. The agreement includes financial incentives for teachers to perform at a high level, while also giving school principals the flexibility to better manage staff and resources."
+                }
+            ], 
+            "parent_id": "fb2bee33-e3cf-4e93-8659-9dac53cedd84", 
+            "type": "h3", 
+            "id": "8b2282d0-6cfa-407d-a71c-6d29a7f09f82"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Assisting children with a disability to learn and achieve", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Coalition Government is ensuring that all Victorian children have the opportunity to maximise their engagement and achievement in learning and development. The Early Childhood Intervention Service provides a family\u2011centred approach to helping children with a disability or developmental delay from birth to school age. The  2013\u201114 Budget delivers a major boost to this program, funding an additional 1 000 Early Childhood Intervention Service places annually. This budget's $31 million in funding over four years adds to existing program funding of $82 million in 2013\u201114. The 2013-14 Budget provides continued investment to support school students with a disability, to maximise their achievements in education and learning. This program provides specialist allied health system support including psychology, speech pathology and social work services to government school students facing barriers to learning and achieving their education and development potential. Additional funding of $38 million will be provided for the Program for Students with Disabilities, building on the Coalition Government's existing funding in 2013-14 of $585 million. The Coalition Government will also invest an additional $13 million for the Students with Disabilities Transport Program, building on existing funding in 2013\u201114 of $57 million."
+                }
+            ], 
+            "parent_id": "fb2bee33-e3cf-4e93-8659-9dac53cedd84", 
+            "type": "h3", 
+            "id": "10b7c9ab-8da9-4816-b33a-e4235a569333"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Upgrading kindergartens and schools", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Lifting our education performance to the highest levels requires quality education facilities. The 2013-14 Budget supports capital upgrades across the early childhood and schools sectors. Grant funding of $7 million will be available to build and upgrade kindergarten and children's services, forming part of the $543 million provided annually by the Coalition Government in support of the early childhood sector, helping Victorian children get a good start in life. The 2013\u201114 Budget provides for total school capital works of $203 million. The funding will provide for five new schools and land acquisitions in growth locations, so that these areas benefit from quality education in the future. This funding builds on the Coalition Government's recent announcement of $52 million for maintenance at more than 200 schools across the state. 2013-14 Budget Overview > 13"
+                }
+            ], 
+            "parent_id": "fb2bee33-e3cf-4e93-8659-9dac53cedd84", 
+            "type": "h3", 
+            "id": "413ce8f4-b901-43dd-8499-476b9661e622"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Key projects timeline - a snapshot", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The M80 Upgrade Regional Rail Link and Rolling Stock Victorian Comprehensive Cancer Centre New Bendigo Hospital Metro Level Crossings (Springvale, Mitcham, Sunshine) Royal Victorian Eye and Ear Hospital East West Link (Stage One) Project Box Hill Hospital Monash Children's Hospital 2011 2012 2013 2014 14 > 2013-14 Budget Overview 2018 20192016 2017 2013-14 Budget Overview > 15 The Coalition Government is committed to improving services and infrastructure in rural and regional Victoria. Supporting this growth, the 2013\u201114 Budget initiatives underpin a prosperous regional economy, and high quality public services in our regions."
+                }
+            ], 
+            "parent_id": "2b4aacdf-5d9a-4078-ad67-7b51ab4f955b", 
+            "type": "h2", 
+            "id": "963b2016-829e-49cb-8772-6287283865ff"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Increasing productivity in our agriculture industry", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Macalister Irrigation District is the largest irrigation district in the south of Victoria, generating significant economic benefits for the state, primarily through dairy farming. Dairy is the state's largest export earner, providing no less than 7 per cent of all dairy products traded globally. Coalition Government funding of $16 million provided in the 2013\u201114 Budget will be matched by contributions from irrigators to modernise on\u2011farm infrastructure, increase productivity, expand regional economic production, and improve the health of the area's waterways and estuaries. This program builds on the recently confirmed $103 million Commonwealth contribution to upgrade Sunraysia's irrigation infrastructure. The 2013-14 Budget provides $4.7 million to protect Victoria's meat, dairy and animal fibre and skins industries against outbreaks of foot\u2011and\u2011mouth disease. The initiative addresses a number of urgent issues raised in the Matthews Report, A review of Australia's preparedness for the threat of foot-and-mouth disease . The Coalition Government will extend funding for financial counselling for primary producers, fishers and small rural businesses suffering financial hardship. The Rural Financial Counselling Service helps rural businesses struggling with the challenges of industry change to adapt."
+                }
+            ], 
+            "parent_id": "963b2016-829e-49cb-8772-6287283865ff", 
+            "type": "h3", 
+            "id": "64377177-626f-4dbf-88b2-74a0a80ddf67"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Improving transport infrastructure in the regions", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Well maintained transport infrastructure is central to the productivity and liveability of Victoria's regions. The  2013\u201114 Budget delivers around $150 million towards boosting transport infrastructure in the regions, including: > $28 million for infrastructure upgrades, principally focusing on roads that present bottlenecks to the growth of productivity in regional Victoria. These projects will increase capacity on the network by better utilising existing infrastructure. > $9 million to build and operate a new train station at Epsom. The development includes a 160 metre platform with shelters, ticketing, public announcements and hearing loops, and parking for 60 cars. Bendigo route services will be changed to make Epsom and Eaglehawk the terminuses for some services, improving public transport access in the northern areas of Bendigo. > $22 million to build and operate a new station at Grovedale, incorporating a single platform with passenger amenities, on-road bus bays, bicycle storage and car parking for 200 cars. The project will upgrade track and signalling to maximise the number of trains that can operate to and from the new station. > $10 million for planning and preparatory work for the Kilmore-Wallan Bypass. > $7 million to complete the sealing of Omeo Highway."
+                }
+            ], 
+            "parent_id": "963b2016-829e-49cb-8772-6287283865ff", 
+            "type": "h3", 
+            "id": "ab41de7a-c676-4853-8467-3b8157e75fa7"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Boosting our regions", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "16 > 2013-14 Budget Overview"
+                }
+            ], 
+            "parent_id": "2b4aacdf-5d9a-4078-ad67-7b51ab4f955b", 
+            "type": "h2", 
+            "id": "385f01c5-eda6-4631-aa7c-df218cbbf3d4"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Better regional hospitals", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Access to high quality health services in rural and regional areas will be improved through the Coalition Government's commitment in this budget to hospital infrastructure. Key health projects include: > A new 32-bed community hospital in Waurn Ponds, meeting the demands of the Geelong and the Surf Coast Shire population. > The new $630 million Bendigo Hospital, one of the largest regional health care projects in Australia. > Radiotherapy services will be developed in Warrnambool to enable residents to receive treatment locally instead of travelling long distance. > The re-establishment of a range of acute health services at Numurkah Hospital which was damaged extensively in the March 2012 floods."
+                }
+            ], 
+            "parent_id": "385f01c5-eda6-4631-aa7c-df218cbbf3d4", 
+            "type": "h3", 
+            "id": "9bc0ba15-823b-49d1-8a64-b5211dcf70d2"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Promoting investment in our natural resources", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Victoria's earth resources sector develops commodities including brown coal, gas, gold, petroleum, mineral sands and base metals. Mining contributes around 2 per cent ($6 billion) to Victoria's GSP and employs over 6 000 people across the state. Further greenfield mineral exploration and project development will invigorate this industry. The 2013\u201114 Budget responds with a $19 million package to attract new exploration, reduce barriers to investment and promote Victoria as an investment destination in the earth resources sector. Clean Coal Victoria will be funded to implement actions from the Strategic Coal Plan. Central to its role is consulting extensively with stakeholders and the community on the development of Victoria's coal resources."
+                }
+            ], 
+            "parent_id": "385f01c5-eda6-4631-aa7c-df218cbbf3d4", 
+            "type": "h3", 
+            "id": "aa8c554e-c345-4c8f-8ce3-b23b58e725ec"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Protecting the environment", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Coalition Government recognises the need to invest in the state's capacity to prepare for and respond to natural disasters and has provided $34 million to enable the continued expansion of the planned burning program. This will reduce the risk of bushfires for communities across regional Victoria. Completing the Government's election commitment to deliver 250 Country Fire Authority (CFA) rural fire stations, $61 million has been provided in this budget to deliver the remaining 142 fire station replacements and upgrades over the next two years. This will enhance the capacity of emergency services infrastructure and assist the CFA respond to emergency events. The budget also provides: > $7 million to remove trees destroyed by previous bushfires to improve the safety for people who access public land. > $9 million to fund high priority works to protect assets along the Victorian coastline, including Port Phillip and Westernport Bays."
+                }
+            ], 
+            "parent_id": "385f01c5-eda6-4631-aa7c-df218cbbf3d4", 
+            "type": "h3", 
+            "id": "492489b3-03c8-42bc-9e80-0a5c998aaab2"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Fairer fire services funding", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Coalition Government will introduce the Fire Services Property Levy as a fairer and more equitable way to fund fire services. From 1 July, the average household's contribution in a Country Fire Authority (CFA) area for fire services is expected to reduce from an average of $262 in 2011-12 (the last full year of the insurance-based levy), to $142 in 2013\u201114."
+                }
+            ], 
+            "parent_id": "385f01c5-eda6-4631-aa7c-df218cbbf3d4", 
+            "type": "h3", 
+            "id": "c1ca57a0-c8d0-42a1-be36-3a16e650b740"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Supporting responsible game management", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Coalition Government recognises the enormous support game hunting provides to local economies in regional Victoria. The activity generates more than $70 million each year and supports jobs in hospitality, the supply of vehicles, boats, firearms and ammunition, plus camping and hunting equipment. Funding of $8.5 million has been provided to establish an independent Game Management Authority. The authority will oversee the management of game species, including the enforcement of game hunting and associated laws, and promote responsible hunting."
+                }
+            ], 
+            "parent_id": "385f01c5-eda6-4631-aa7c-df218cbbf3d4", 
+            "type": "h3", 
+            "id": "dcc1da35-35fb-4813-b853-9c36e2617a7b"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Boosting regional tourism", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "A four\u2011year, $8 million boost to regional tourism will increase the number of visitors to regional Victoria, and raise awareness of Victoria's attractive regional destinations and experiences. 2013-14 Budget Overview > 17"
+                }
+            ], 
+            "parent_id": "385f01c5-eda6-4631-aa7c-df218cbbf3d4", 
+            "type": "h3", 
+            "id": "d5029181-260c-4332-9bfb-e4527f6ea6e0"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Grampians", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "New initiatives include: > Construction contract for 8 new trains at Ballarat, and planning for future train acquisition - valued at $179 million > Remediation of Fiskville and regional training colleges - $17 million Current initiatives include: > Western Highway duplication between Burrumbeet and Beaufort - $50 million > Ballarat Hospital upgrade - $46 million > Western Highway duplication between Beaufort and Buangor - $42 million > Ballarat West Link Road - $36 million"
+                }
+            ], 
+            "parent_id": "385f01c5-eda6-4631-aa7c-df218cbbf3d4", 
+            "type": "h3", 
+            "id": "53cecd17-572d-4a12-92fd-5f32534cc4b4"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Loddon Mallee", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "New initiatives include: > Epsom Eaglehawk rail improvement - $9 million > Closure of Sandhurst residential services - $7.9 million > Bendigo Social Housing project - $4 million Current initiatives include: > Bendigo Hospital redevelopment - $630 million > Additional 45 beds at the Malmsbury Youth Justice Centre - $55 million > Echuca Hospital redevelopment and expansion - $40 million > Charlton Hospital reconstruction - $23 million > Swan Hill Hospital aged care redevelopment - $18 million"
+                }
+            ], 
+            "parent_id": "385f01c5-eda6-4631-aa7c-df218cbbf3d4", 
+            "type": "h3", 
+            "id": "7ce89a31-8b80-45b8-8acd-90337bf4150b"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Barwon South West", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "New initiatives include: > Grovedale Station - $22 million > Waurn Ponds Community Hospital - $50.2 million > Radiotherapy services in south west Victoria - stage 2 - $10 million Current initiatives include: > Launch site of the National Disability Insurance Scheme (Barwon) - over $300 million > Major upgrade of the Geelong Hospital - $93 million > New secondary college at Torquay - $27 million > Third stage of Skilled Stadium redevelopment - $27 million > Princes Highway overtaking lanes west of Colac - $15 million 18 > 2013-14 Budget Overview"
+                }
+            ], 
+            "parent_id": "385f01c5-eda6-4631-aa7c-df218cbbf3d4", 
+            "type": "h3", 
+            "id": "0de43fff-92ee-4428-bf7e-6d98898d2e88"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Boosting our regions", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": ""
+                }
+            ], 
+            "parent_id": "2b4aacdf-5d9a-4078-ad67-7b51ab4f955b", 
+            "type": "h2", 
+            "id": "b409a8ee-aef0-4239-b785-6081d568ada1"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Statewide", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "New initiatives include: > School capital program - $203 million > TAFE Structural Adjustment Fund - $200 million > East West Link (Stage 1) - $6-8 billion > Securing Victoria's health system - hospital services - $1.2 billion > Targeted road restoration - $90 million"
+                }
+            ], 
+            "parent_id": "b409a8ee-aef0-4239-b785-6081d568ada1", 
+            "type": "h3", 
+            "id": "2e79f8ec-b343-45b6-a8a4-ce646fe5c73f"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Gippsland", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "New initiatives include: > Macalister Irrigation District 2030 - $16 million > Sale police station - $15.3 million > Sealing Omeo Highway - $7 million > Clean Coal Victoria extension - $8.3 million > Mine stability - $4.2 million > Bairnsdale Mental Health and Wellbeing Centre - $1 million Current initiatives include: > Support the Latrobe Valley transition as a result of the introduction of the national carbon price - $30 million > First stage of the Warragul Railway Station upgrade - $17 million > Modernisation of Bairnsdale Secondary College - $10 million > Regeneration of Leongatha Secondary College - $10 million"
+                }
+            ], 
+            "parent_id": "b409a8ee-aef0-4239-b785-6081d568ada1", 
+            "type": "h3", 
+            "id": "1ea5625c-8164-46ff-81c3-fce00eb609c0"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Goulburn-Ovens Murray", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "New initiatives include: > Numurkah Hospital - reinstatement of acute services - $18.3 million > Kilmore-Wallan bypass - $10 million > Shepparton Court redevelopment - enhancing court facilities - $2.5 million Current initiatives include: > Redevelopment and expansion of Kilmore and District Hospital - $20 million > Development of a hotel and conference centre in Marysville - $19 million > Regeneration of Wodonga Senior Secondary College - $10 million"
+                }
+            ], 
+            "parent_id": "b409a8ee-aef0-4239-b785-6081d568ada1", 
+            "type": "h3", 
+            "id": "2c318e33-43b8-4ae7-986f-c106fdc7dd01"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "All regions", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "New initiatives include: > Bushfire response - emergency services - $61 million > Planned burning - $34 million > Non-urban train radio renewal - $62 million > Rural GP proceduralists - $3 million > Regional tourism - $8 million > Coastal Environments Program - $9.1 million > Foot and Mouth disease preparedness - $4.7 million > Treating fire\u2011affected trees on public land - $7 million > A new Game Management Authority for Victoria - $8.5 million > Rural Financial Counselling Service - $2.3 million > Transport Solutions - $28 million > Strengthening our earth resources sector - $19 million 2013-14 Budget Overview > 19"
+                }
+            ], 
+            "parent_id": "b409a8ee-aef0-4239-b785-6081d568ada1", 
+            "type": "h3", 
+            "id": "510fec6d-a0ee-4a23-a39f-e6f7a7a7563d"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "A safer Victoria", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Community safety is a key priority for the Coalition Government, with the 2013\u201114 Budget building on the steps already taken to ensure a safe community for all Victorians. In 2013\u201114, the Coalition Government will allocate more than $5.1 billion to support community safety activities, including policing services, corrections and court services. This budget funds a major program of capital works to improve community safety and law enforcement through upgrades to police and emergency services facilities. Key projects include: > $30 million for new and upgraded police stations in Sale and Somerville. > $2.2 million to provide for 24-hour police stations in Mount Waverley and Carrum Downs. > $78 million to construct and maintain station facilities for Protective Services Officers at additional railway stations, continuing the Coalition Government's commitment to additional police and Protective Services Officers. > $28 million to replace mobile road safety cameras with new technology - this will improve safety for all road users. The $61 million in funding provided in this budget to replace or upgrade 142 rural fire stations will complete the Coalition Government's election commitment to improve and upgrade 250 stations. Ensuring quality, up\u2011to\u2011date infrastructure throughout the State will position the Country Fire Authority to provide the best possible response in emergency events."
+                }
+            ], 
+            "parent_id": "b409a8ee-aef0-4239-b785-6081d568ada1", 
+            "type": "h3", 
+            "id": "2d88e163-4bea-46c4-9cdb-a50d83e67f6b"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Additional prison capacity", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Funding of $131 million to strengthen Victoria's corrections system will increase capacity and address demand on prisons. These initiatives will provide an additional 357 prison beds across the male prison system. This funding builds on the existing correctional facilities and programs budget of approximately $700 million annually, and will provide a 7 per cent increase on existing bed capacity across the male prison system. This includes $53 million to fund a new 40\u2011bed unit at Barwon Prison to manage high security prisoners. Other infrastructure upgrades at the Barwon Prison will provide for better management of high\u2011risk inmates. The 2012-13 Budget announced $670 million for funding a new 500\u2011bed medium security men's prision at Ravenhall and for a further 395 beds in expanded existing facilities."
+                }
+            ], 
+            "parent_id": "b409a8ee-aef0-4239-b785-6081d568ada1", 
+            "type": "h3", 
+            "id": "d045e04a-dd52-4eeb-9ea6-f1d04cbba18b"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Upgrading and enhancing the courts", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "As part of the Supporting Courts initiative, $48 million over the next four years will ensure the courts are appropriately resourced to address demand for their services. This builds on the $437 million of base funding provided for administration of the State's judicial system. The 2013-14 Budget also funds upgrades to court facilities and IT infrastructure."
+                }
+            ], 
+            "parent_id": "b409a8ee-aef0-4239-b785-6081d568ada1", 
+            "type": "h3", 
+            "id": "39a5a282-8fa0-4515-8571-7131a6dd1398"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Improving access to justice", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Coalition Government expects that all Victorians have appropriate access to justice and related support services, and the 2013-14 Budget funds an expansion of victim support services. The Victims Helpline operating hours will be extended to include weekends, and additional case managers will be allocated to the Victims Support System through investment of $16 million over four years. The Coalition Government will provide further support for Victoria Legal Aid with additional ongoing funding of approximately $3.4 million per year, to ensure those most in need of legal advice can access these services. This builds on existing state funding of $78 million a year provided to Victoria Legal Aid. The budget initiative funds additional case work and duty lawyer services."
+                }
+            ], 
+            "parent_id": "b409a8ee-aef0-4239-b785-6081d568ada1", 
+            "type": "h3", 
+            "id": "e7fb6b2b-da2f-4992-bc10-89451d76341a"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Protecting our community", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "20 > 2013-14 Budget Overview The Victorian economy is both diverse and flexible, with a highly skilled workforce and strong export performance. This makes it an attractive place for businesses to invest and create employment opportunities."
+                }
+            ], 
+            "parent_id": "2b4aacdf-5d9a-4078-ad67-7b51ab4f955b", 
+            "type": "h2", 
+            "id": "03821a52-1442-49a2-b68a-e905daabba23"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Building employment opportunities", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Commitments in the 2013-14 Budget to construction of transport infrastructure will leverage significant private sector investment and generate many new job opportunities for Victorians. The $1.6 billion expansion of the Port of Melbourne is projected to created an estimated 3 000 jobs; $66 million allocated for a new transport interchange at Ringwood Station is helping to underpin a $500 million expansion of Eastland shopping centre, expected to generate 2 000 construction jobs and 2 000 ongoing retail jobs. Announced in November 2012, the East Werribee Employment Precinct will pave the way for a major new business and employment centre in Melbourne's west. When fully developed, the new suburb will deliver 50 000 high quality jobs across a range of industries and sectors. This budget provides an initial investment of $33 million to upgrade roads and the associated transport infrastructure to accommodate new development and connect the precinct to regional and state transport networks. Other new investment and employment opportunities in this budget include: > An employment start-up program to assist businesses with their recruitment requirements and support young job seekers to enter sustainable employment. > A screen jobs, business and skills package designed to support the screen sector and provide development and employment opportunities for practitioners with demonstrated creative skills. > Boosting the First Home Owner Grant for new homes to $10 000 and bringing forward stamp duty cuts to promote the building of new housing stock across Victoria, supporting jobs and reducing pressure on housing affordability."
+                }
+            ], 
+            "parent_id": "03821a52-1442-49a2-b68a-e905daabba23", 
+            "type": "h3", 
+            "id": "dc9ef6d0-933b-456f-b50c-2ae98af5c4ba"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Boosting the Victorian tourism industry", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Coalition Government recognises the tourism industry is a vital contributor to Victoria's economy. The 2013-14 Budget allocates $16 million over four years to enhance this important industry. Funding of $8 million will implement the China Tourism Strategy , which aims to increase the number of international visitors to Victoria from China. The Coalition Government will also develop targeted industry partnerships and marketing activities to increase the number of international visitors from other countries."
+                }
+            ], 
+            "parent_id": "03821a52-1442-49a2-b68a-e905daabba23", 
+            "type": "h3", 
+            "id": "427ef2a4-b9c5-4050-8a2b-28bc80cbdda0"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Enhancing Victoria's competitiveness", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Coalition Government is committing $18 million to an international education strategy for Victoria. This will deliver a package of initiatives to build on Victoria's globally competitive position as a quality provider of international education in the Asia Pacific region. In addition, the Coalition Government will provide $16 million to increased investment in Victoria, both locally and from outside the State. $16 million will establish the Office of State Development, and enable the new organisation to identify and capture investment opportunities domestically and internationally. An additional $16 million will support collaboration between Victorian public sector agencies and Victorian small businesses. These projects will develop innovative products and services for use in the public sector, and create new business and export opportunities for businesses with high growth potential."
+                }
+            ], 
+            "parent_id": "03821a52-1442-49a2-b68a-e905daabba23", 
+            "type": "h3", 
+            "id": "327292a1-2ae8-4e63-864d-53144ca26ad3"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Planning for better cities", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The 2013\u201114 Budget funds several projects to plan for growth and change, and to cater for expected population growth. By laying the groundwork now, the Coalition Government is building for the future. > $12 million for engineering works at Federation Square and to assess the commercial viability for development east of the current location. Federation Square has become one of Melbourne's iconic locations, and the Government is ensuring it continues to be a place of important social and community value. > $4.1 million to assess the development potential of the 23 hectare E-Gate site in West Melbourne and develop options to expand the Melbourne Convention and Exhibition Centre."
+                }
+            ], 
+            "parent_id": "03821a52-1442-49a2-b68a-e905daabba23", 
+            "type": "h3", 
+            "id": "df8b7cee-b37b-49b3-a2b4-fa5bc05f2d35"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Attracting business and investment", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "2013-14 Budget Overview > 21 Since coming to office, the Coalition Government has put the concerns and needs of families at the core of its decision making, in particular people living with disabilities, vulnerable children, and those at risk of homelessness. Initiatives across the 2013-14 Budget support these families to reach their potential."
+                }
+            ], 
+            "parent_id": "2b4aacdf-5d9a-4078-ad67-7b51ab4f955b", 
+            "type": "h2", 
+            "id": "7d72d086-4963-4311-966c-0a7acef9c27e"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Assisting families living with disabilities", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Coalition Government is undertaking concrete steps to improve the lives of Victorians with a disability. In addition to the Coalition Government's funding commitment of over $300 million to the launch of the National Disability Insurance Scheme, the 2013-14 Budget will direct $266 million to improve services. Key initiatives funded this budget include: > $107 million over four years for additional individual support packages for people living with a disability, including their carers and families. > $62 million to utilise innovative models of accommodation to meet the needs of complex clients. > $7.9 million to improve and personalise the home environments of residents in State care. > $4 million over three years to help people living with a disability to obtain the aids and equipment they need to improve their quality of life and build independent living skills."
+                }
+            ], 
+            "parent_id": "7d72d086-4963-4311-966c-0a7acef9c27e", 
+            "type": "h3", 
+            "id": "7f914c58-a852-487e-9ad2-0493139cc1ba"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Sustaining support for vulnerable children", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The 2013\u201114 Budget builds on the Coalition Government's significant previous investments in protecting Victoria's vulnerable children. The  2012-13 Budget responded to the Protecting Victoria's Vulnerable Children Inquiry with a funded package of initiatives totalling $336 million, which will improve outcomes for vulnerable children and sow the seeds for future reform. The Coalition Government augments this with an additional $152 million over four years in this budget, including: > $18 million to support the provision of the 24\u2011hour child protection emergency response service. > $91 million to address demand for out-of-home care placements, and expand therapeutic foster care to improve the system's capacity to respond to the needs of complex clients. > $21 million to provide effective specialist support to vulnerable students facing barriers to learning. > An additional $3.8 million to protect women and children from family violence, building on the existing funding increase of $16 million over four years announced in September 2012."
+                }
+            ], 
+            "parent_id": "7d72d086-4963-4311-966c-0a7acef9c27e", 
+            "type": "h3", 
+            "id": "aa9728dc-feb1-4e96-8334-b9214b6150d6"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Helping those who are homeless or at risk of homelessness", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The 2013-14 Budget is continuing to provide assistance and support to vulnerable Victorians who are homeless or at risk of homelessness. Initiatives include: > $19 million to continue helping families who are homeless or at risk of homelessness to access affordable and appropriate accommodation. > A $4 million contribution to the construction and implementation of an innovative model of housing support in Bendigo which will help tenants build the skills needed to sustain long\u2011term tenancies independently. > $27 million to provide support services for homeless Victorians as part of the National Partnership Agreement with the Commonwealth Government. > The development of a third youth foyer, delivering on the Government's election commitment to provide on\u2011campus accommodation for students who are homeless or at risk of homelessness and want to study."
+                }
+            ], 
+            "parent_id": "7d72d086-4963-4311-966c-0a7acef9c27e", 
+            "type": "h3", 
+            "id": "f197f3b3-ac23-4d18-aa62-997c2c60c1df"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Delivering for Victorian families", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "22 > 2013-14 Budget Overview Victoria has long been recognised as one of Australia's most liveable states. The Government is protecting this quality of life for present and future generations by reforming the way it supports housing affordability and the costs of essential services."
+                }
+            ], 
+            "parent_id": "2b4aacdf-5d9a-4078-ad67-7b51ab4f955b", 
+            "type": "h2", 
+            "id": "f0e50303-6a09-4019-bf2a-efd7d1edb759"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Targeting housing affordability", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "As part of the 2013\u201114 Budget , the Coalition Government is targeting its support for first home buyers of new homes to improve first home affordability, increase jobs in the housing construction sector and increase the supply of housing to meet the demands of Victoria's growing population. > The First Home Owner Grant for new homes will be increased to $10 000 from 1 July 2013. Targeting the grant to new homes only will better encourage construction, and facilitate new housing supply. Eligible homes will include those built under a home building contract, those built by an owner\u2011builder, those purchased off\u2011the\u2011plan, and those sold for the first time as residential premises. > The 40 per cent First Home Buyer land transfer duty concession will be brought forward by six months, from 1 January 2014 to 1 July 2013. Bringing forward this concession will provide additional assistance to first home buyers in the second half of the 2013 calendar year. The 40 per cent concession will reduce the duty payable on a $400 000 home by around $6 500, increasing to more than $8 000 from 1 September 2014 when the concession will be raised to 50 per cent. > The $7 000 First Home Owner Grant for established homes will conclude from 1 July 2013. This reform is consistent with New South Wales, Queensland and South Australia. Buyers of established first homes will be eligible for the 40 per cent duty concession."
+                }
+            ], 
+            "parent_id": "f0e50303-6a09-4019-bf2a-efd7d1edb759", 
+            "type": "h3", 
+            "id": "23b3ee5c-ef38-4dcb-b97d-d8666186a70e"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Assisting families, concession card holders and senior Victorians", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Concessions are provided by the Coalition Government to assist low income Victorians in paying essential services bills. The Coalition Government is supporting the growth in eligible concession card holders through funding of $55 million over four years in the 2013\u201114 Budget , helping low income households meet the cost of energy and water bills and property rates. The budget also provides $2 million to support senior Victorians in accessing information, tools and programs to help them reduce household costs. This program will assist senior Victorians to stay in their own homes longer."
+                }
+            ], 
+            "parent_id": "f0e50303-6a09-4019-bf2a-efd7d1edb759", 
+            "type": "h3", 
+            "id": "ecfee513-b6b9-46f4-8aa1-e34bfb12b4a6"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Encouraging water reuse", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Investment of $22.5 million in the Office of Living Victoria will deliver Victoria's water cycle reform as articulated by the Living Melbourne, Living Victoria policy. This funding will complement the previously announced $50 million Living Victoria Fund, which was implemented to encourage communities and neighbourhoods to take full advantage of rainwater, stormwater and recycled water in our urban areas."
+                }
+            ], 
+            "parent_id": "f0e50303-6a09-4019-bf2a-efd7d1edb759", 
+            "type": "h3", 
+            "id": "44f874bd-28b6-4025-a5f5-a38040dcb7d8"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "A better waste management approach", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "With Victoria's current waste policy (Towards Zero Waste) set to end in 2014, the Victorian Government has conducted a review of the existing waste policy settings and practices, drawing closely on consultation with industry, government and community. $12 million has been provided in this budget to implement the new Victorian Waste and Resource Recovery Policy. The reinvigorated program will improve the environmental and public health effects from landfills and other waste management facilities on the community, and seek to encourage lower levels of waste in the system, reducing costs."
+                }
+            ], 
+            "parent_id": "f0e50303-6a09-4019-bf2a-efd7d1edb759", 
+            "type": "h3", 
+            "id": "b594b9a3-c519-4c0d-9102-f639065b0640"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Managing cost of living pressures", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "P h o to : P la ce s V ic to ri a, R o b B la ck b u rn 2013-14 Budget Overview > 23"
+                }
+            ], 
+            "parent_id": "2b4aacdf-5d9a-4078-ad67-7b51ab4f955b", 
+            "type": "h2", 
+            "id": "64280688-1200-42b0-82dd-2756d4cc2eaa"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "A vibrant arts scene", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "The Victorian arts and cultural sector fosters vibrant communities and helps build a stronger economy with expanded opportunity. The Coalition Government recognises the importance of the arts sector as a major contributor to Victoria's cultural exports, supporting artists and arts enterprises. The 2013\u201114 Budget provides an additional $29 million to support the arts sector. The Coalition Government will invest $5.3 million to create a new grants program to support independent arts organisations across Victoria, including regional Victoria. The program will help organisations build leadership and be innovative in the ways they engage audiences. The Melbourne International Film Festival is coming into its 62nd year, and is firmly established as one of the world's great film festivals and a highlight of the Melbourne cultural calendar. Extending government support of $5.3 million over the next four years will ensure the festival maintains its place as the Southern Hemisphere's largest and most prestigious film festival. The Arts Centre will receive an additional $4 million to bring world\u2011class cultural and artistic programs to Melbourne, and ensure Melbourne's Arts Centre remains at the forefront of performing arts in Australia. The budget also invests $4.5 million to stage a new statewide National Gallery of Victoria summer program, with an enhanced focus on contemporary artists and children. The program will include blockbuster exhibitions, diverse online activities and the inaugural Melbourne Now exhibition, to showcase local artists. In addition, the 2013\u201114 Budget provides $4 million to refurbish the National Gallery of Victoria International and the Ian Potter Centre. This builds on existing government investments to expand cultural infrastructure in Victoria, including: > The redevelopment of Hamer Hall. > The design of a new Circus Oz facility in Collingwood. > The development of a blueprint for the future of the Southbank Arts Precinct."
+                }
+            ], 
+            "parent_id": "64280688-1200-42b0-82dd-2756d4cc2eaa", 
+            "type": "h3", 
+            "id": "b6afb82c-5e38-4c1b-a364-cf389f697536"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Celebrating Victoria's rich multiculturalism", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "Victoria is stronger for its rich multiculturalism. The Coalition Government is supporting this in the 2013\u201114 Budget through further grant funding for Victoria's peak multicultural organisations. The budget also provides additional funding to the Victorian Multicultural Commission. Collectively, the Coalition Government's multicultural affairs initiatives are improving services for multicultural, newly arrived and culturally and linguistically diverse people and families across Victoria."
+                }
+            ], 
+            "parent_id": "64280688-1200-42b0-82dd-2756d4cc2eaa", 
+            "type": "h3", 
+            "id": "0ee9f895-c2c7-49bf-9ff2-ff0e45d50cbb"
+        }, 
+        {
+            "direction": "ltr", 
+            "title": "Supporting the arts and multiculturalism", 
+            "content": [
+                {
+                    "media_type": "text/plain", 
+                    "text": "24 > 2013-14 Budget Overview If you would like to receive this publication in an accessible format please telephone 9651 0909 or email information@dtf.vic.gov.au This document is also available in PDF and WORD at www.budget.vic.gov.au 2013-14 Victorian Budget Budget Overview www.budget.vic.gov.au"
+                }
+            ], 
+            "parent_id": "2b4aacdf-5d9a-4078-ad67-7b51ab4f955b", 
+            "type": "h2", 
+            "id": "12572f52-a404-4ef6-a529-9a9ca70510ab"
+        }
+    ], 
+    "metadata": [
+        {
+            "content": "2013-05-02", 
+            "name": "publicationdate"
+        }
+    ]
+}
