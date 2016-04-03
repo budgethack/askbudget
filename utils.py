@@ -3,12 +3,10 @@ from elasticsearch import Elasticsearch
 import private
 
 
-def handle_text(text):
+def handle_agg(text=None):
     query = {
         'size': 10,
-        'query': {
-            'match_phrase': {'text': text}
-        },
+        'query': {'match_all': {}},
         'aggs': {
             'by_doc': {
                 'terms': {
@@ -27,11 +25,21 @@ def handle_text(text):
             },
             'main_concepts': {
                 'significant_terms': {
-                    'field': 'concepts.text'
+                    'field': 'concepts.text',
+                    'size': 50
                 }
             }
         }
     }
+
+    if text:
+        query['query'] = {
+            'multi_match': {
+                'fields': ['text^2', 'concepts.text'],
+                'query': text
+            }
+        }
+
     es = Elasticsearch([private.ELASTICSEARCH_HOST])
     result = es.search(body=query, index='budgethack')
 

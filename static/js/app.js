@@ -1,30 +1,29 @@
 var app = angular.module('search', ['angular-jqcloud']);
 
-app.controller('queryListCtrl', ['$scope','$filter', '$http', function($scope, $filter, $http) {
-        $scope.question = '';
-        $scope.top_mentions;
-        $scope.related_things;
-        $scope.main_concepts;
-        $scope.related_things_words = [];
-     
-        $scope.submit = function() {
-            $http.post( 
-                'api/post_question', {
-                  'question': $scope.question
-                }
-            ).then(function successCallback(response) {
-                /* top mentions */
-                $scope.top_mentions = response.data.answer.top_mentions;
-                $scope.related_things = response.data.answer.related_things;
-                $scope.related_spend = response.data.answer.related_spend;
-                $scope.main_concepts = response.data.answer.main_concepts;
+app.controller('queryListCtrl', ['$scope','$filter', '$http', '$location', function($scope, $filter, $http, $location) {
+        $scope.answer;
+        $scope.words = [];
 
-                words = [];
-                angular.forEach($scope.related_things.keywords, function(value, key) {
-                  words.push({"text": value.name, "weight": value.count * 10});
-                });
-                $scope.related_things_words = words;
+        $scope.sendQuestion = function() {
+          console.log($scope.question);
+            $http.post('api/post_question', {
+              'question': $scope.question
+            }).then(function successCallback(response) {
+                $scope.answer = response.data.answer;
             });
         };
 
+        $http.get('/api/get_concepts').then(function successCallback(response) {
+            words = [];
+            angular.forEach(response.data.main_concepts, function(value, key) {
+              words.push({"text": value.text, "weight": value.weight, "handlers": {
+                click: function(clicked) {
+                   $scope.question = clicked.currentTarget.innerText;
+                   $scope.sendQuestion();
+               }}, "link": "#!?question=" + value.text})
+            });
+
+            $scope.words = words;
+        });
+>>>>>>> ca4fc75e3a102f0c993864887963750094bbc9a0
 }]);
