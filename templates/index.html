@@ -15,7 +15,10 @@
         <script src="/static/bower_components/jqcloud2/dist/jqcloud.min.js"></script>
         <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.2/angular.min.js"></script>
         <script src="/static/bower_components/angular-jqcloud/angular-jqcloud.js"></script>
-        
+        <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js">
+    </script>    
+    <script type="text/javascript" src="/static/js/ng-google-chart.js"></script>
+    
         <!-- load local js -->
         <script src="/static/js/app.js"></script>    
 
@@ -52,7 +55,12 @@
     
     <div id="answer_container">
         <img id="answer_icon" src="../static/img/icon_1024.png">
-
+        <!-- Histrogram Start -->
+        <div>
+            <div google-chart chart="chart" style="{{chart.cssStyle}}"/>
+            <pre>{{chart | json}}</pre>
+        </div>
+        <!---->
         <div ng-show="related_spend">
             <h3>TLDR:</h3>
 
@@ -77,9 +85,9 @@
                         <span ng-repeat="keyword in related_things.keywords"><a ng-href="?keyword={{ keyword.name }}">{{ keyword.name }}</a><span ng-show="!$last">, </span>
                       </span>
         </div>
-
+        
+        
     </div>
-
 </div>
 {% endraw %}
 </body>
