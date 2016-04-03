@@ -1,4 +1,3 @@
-static/js/app.js
 from elasticsearch import Elasticsearch
 
 import private
