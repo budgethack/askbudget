@@ -17,6 +17,7 @@
     "jqcloud2": "~2.0.1",
     "jquery": "~2.2.2",
     "angular-jqcloud": "~1.0.2",
-    "angular-route": "1.4.x"
+    "angular-route": "1.4.x",
+    "angular-sanitize": "~1.5.3"
   }
 }
