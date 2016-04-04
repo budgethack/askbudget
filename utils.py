@@ -1,4 +1,5 @@
 from elasticsearch import Elasticsearch
+import bleach
 
 import private
 
@@ -33,7 +34,13 @@ def handle_agg(text=None):
                     'size': 50
                 }
             }
-        }
+        },
+        "highlight": {
+            'fields': {
+                'text': {},
+                'concepts.text': {'number_of_fragments': 0}
+            }
+         }
     }
 
     global_query = None
@@ -45,10 +52,11 @@ def handle_agg(text=None):
                     'fields': ['text^2', 'concepts.text'],
                     'query': text
                 }
-            }]
+            }],
         }
 
         global_query = {
+            'size': 0,
             'query': {
                 'multi_match': {
                     'fields': ['text^2', 'concepts.text'],
@@ -115,7 +123,13 @@ def parse_related_spend(result):
     top_sentences_raw = set([])
 
     aug_sentences = []
+    is_concept = False
+
     for result in result['hits']['hits']:
+
+        if 'concept.text' in (result.get('highlights') or {}):
+            is_concept = True
+
         for sentence in result['_source'].get('aug_sentences') or []:
             if not sentence.get('is_main') and not sentence.get('is_sub'):
                 continue
@@ -125,14 +139,15 @@ def parse_related_spend(result):
             text = text.replace('The Budget provides ', '')
             text = text.replace('The Andrews Labor Government is investing ', '')
             text = text.replace('The Budget invests ', '')
+            text = text.replace('The Budget commits ', '')
             text = text.replace('The Budget also provides ', '')
 
-            for keyword in sentence['keywords']:
-                text = text.replace(keyword['text'], '<a href="#/answer?question={0}">{1}</a>'.format(
-                    keyword['text'], keyword['text']))
+            for highlight in (result.get('highlights') or {}).get('text') or []:
+                text = text.replace(bleach.clean(highlight, strip=True), highlight)
+
             for entity in sentence['entities']:
                 if entity['type'] == 'Quantity':
-                    text = text.replace(entity['text'], '<strong>{1}</strong>'.format(
+                    text = text.replace(entity['text'], u'<a href="#" ng-tooltip="{0}">{1}</a>'.format(
                         entity['text'], entity['text']))
 
             sentence['text'] = text
@@ -140,7 +155,7 @@ def parse_related_spend(result):
             sentence['doc_url'] = result['_source']['doc_url']
             top_sentences.append(sentence)
 
-    output['docs'] = top_sentences[:4]
+    output['docs'] = top_sentences[:3]
 
     return output
 
@@ -156,7 +171,6 @@ def parse_main_concepts(result):
 
 def parse_word_count(result):
     output = {}
-    print result 
     output = result 
 
     return output
