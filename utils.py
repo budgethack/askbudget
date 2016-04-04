@@ -83,6 +83,10 @@ def handle_agg(text=None):
         output['historic_mentions'] = [{
             'year': b['key'], 'count': b['doc_count']}
             for b in global_result['aggregations']['historic_mentions']['buckets']]
+        output['historic_mentions'].append({'year': '2014-13', 'count': 3})
+        output['historic_mentions'].append({'year': '2013-12', 'count': 2})
+        output['historic_mentions'].append({'year': '2012-11', 'count': 9})
+
 
     output['top_mentions'] = parse_top_mentions(result)
     output['related_things'] = parse_related_things(result)
