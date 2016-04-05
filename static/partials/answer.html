@@ -1,4 +1,5 @@
-<div ng-show="answer && answer.related_spend">
+<div ng-show="answer && answer.related_spend && answer.related_spend.docs">
+
   <h3 class="subtitle">The budget says...</h3>
   <hr>
 
@@ -6,12 +7,15 @@
     <li>"<span class="budget-highlight" ng-bind-html="doc.text"></span>" (<a href="{{ doc.doc_url }}">{{ doc.doc_name }}</a>)</li>
   </ul>
   <hr>
-  <div ng-if="answer.top_mentions.docs">It was also mentioned 
+</div>
+
+<div ng-if="answer.top_mentions.docs">
+    It was also mentioned 
     <span ng-repeat="doc in answer.top_mentions.docs"><strong>{{ doc.count}}</strong> 
      {{doc.count != 1 ? 'times' : 'time' }} in <a ng-href="?doc_name={{ doc.name }}">{{ doc.name }}</a>
      <span ng-show="!$last">, </span>
    </span>.
-   </div>
+
   <hr> 
 
 </div>
