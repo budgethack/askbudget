@@ -4,6 +4,16 @@ import bleach
 import private
 
 
+def _sentence_ranker(item):
+    if item.get('is_main'):
+        return 3
+
+    if item.get('is_sub'):
+        return 2
+
+    return 1
+
+
 def handle_agg(text=None):
     query = {
         'size': 10,
@@ -35,9 +45,12 @@ def handle_agg(text=None):
                 }
             }
         },
-        "highlight": {
+        'highlight': {
+            "pre_tags" : ["<mark>"],
+            "post_tags" : ["</mark>"],
             'fields': {
-                'text': {'number_of_fragments': 500},
+                'aug_sentences.text': {},
+                'text': {},
                 'concepts.text': {'number_of_fragments': 0}
             }
          }
@@ -49,8 +62,9 @@ def handle_agg(text=None):
         query['query']['bool'] = {
             'must': [{
                 'multi_match': {
-                    'fields': ['text^2', 'concepts.text'],
-                    'query': text
+                    'fields': ['text^2', 'concepts.text', 'aug_sentences.text^2'],
+                    'query': text,
+                    'operator': 'and'
                 }
             }],
         }
@@ -126,16 +140,19 @@ def parse_related_spend(result):
     aug_sentences = []
     is_concept = False
 
-    for result in result['hits']['hits']:
+    seen_sentences = set([])
 
-        if 'concept.text' in (result.get('highlights') or {}):
+    for result in result['hits']['hits']:
+        if 'concept.text' in (result.get('highlight') or {}):
             is_concept = True
 
         for sentence in result['_source'].get('aug_sentences') or []:
-            if not sentence.get('is_main') and not sentence.get('is_sub'):
+            text = sentence['text']
+            if text in seen_sentences:
                 continue
 
-            text = sentence['text']
+            seen_sentences.add(text)
+
             text = text.replace('The Budget includes: ', '')
             text = text.replace('The Budget provides ', '')
             text = text.replace('The Andrews Labor Government is investing ', '')
@@ -143,20 +160,20 @@ def parse_related_spend(result):
             text = text.replace('The Budget commits ', '')
             text = text.replace('The Budget also provides ', '')
 
-            for highlight in (result.get('highlights') or {}).get('text') or []:
+            for highlight in (result.get('highlight') or {}).get('aug_sentences.text') or []:
                 text = text.replace(bleach.clean(highlight, strip=True), highlight)
 
             for entity in sentence['entities']:
                 if entity['type'] == 'Quantity':
-                    text = text.replace(entity['text'], u'<a href="#" ng-tooltip="{0}">{1}</a>'.format(
-                        entity['text'], entity['text']))
+                    text = text.replace(entity['text'], u'<strong>{0}</strong>'.format(entity['text']))
 
             sentence['text'] = text
             sentence['doc_name'] = result['_source']['doc_name']
             sentence['doc_url'] = result['_source']['doc_url']
             top_sentences.append(sentence)
 
-    output['docs'] = top_sentences[:3]
+    output['docs'] = sorted(top_sentences, key=_sentence_ranker, reverse=True)[:3]
+    output['is_concept'] = is_concept
 
     return output
 
