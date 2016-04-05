@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 from elasticsearch import Elasticsearch
 import bleach
 
@@ -162,6 +164,8 @@ def parse_related_spend(result):
 
             for highlight in (result.get('highlight') or {}).get('aug_sentences.text') or []:
                 text = text.replace(bleach.clean(highlight, strip=True), highlight)
+
+            text = text.replace(u"\uf034", u"<br>&nbsp;&nbsp;&nbsp;&nbsp;*")
 
             for entity in sentence['entities']:
                 if entity['type'] == 'Quantity':
