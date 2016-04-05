@@ -150,10 +150,10 @@ def parse_related_spend(result):
 
         for sentence in result['_source'].get('aug_sentences') or []:
             text = sentence['text']
-            if text in seen_sentences:
+            if text[:30] in seen_sentences:
                 continue
 
-            seen_sentences.add(text)
+            seen_sentences.add(text[:30])
 
             text = text.replace('The Budget includes: ', '')
             text = text.replace('The Budget provides ', '')
